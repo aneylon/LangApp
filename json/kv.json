@@ -1,0 +1,309 @@
+{
+	"name" : {
+		"libName" : "한국어 어휘",
+		"tip" : "Korean Vocabulary"
+	},
+	"characters" : [
+		{
+		"character" : "﻿오",
+		"charTip" : "Five<br>"
+		},{
+		"character" : "이",
+		"charTip" : "Two, tooth<br>"
+		},{
+		"character" : "아이",
+		"charTip" : "Child<br>"
+		},{
+		"character" : "오이",
+		"charTip" : "Cucumber<br>"
+		},{
+		"character" : "나",
+		"charTip" : "I <br>"
+		},{
+		"character" : "너",
+		"charTip" : "You <br>"
+		},{
+		"character" : "나이",
+		"charTip" : "Age <br>"
+		},{
+		"character" : "누나",
+		"charTip" : "Older sister (boys)<br>"
+		},{
+		"character" : "오리",
+		"charTip" : "Duck <br>"
+		},{
+		"character" : "우리",
+		"charTip" : "We, our <br>"
+		},{
+		"character" : "나라",
+		"charTip" : "Country <br>"
+		},{
+		"character" : "나무",
+		"charTip" : "Tree <br>"
+		},{
+		"character" : "이마",
+		"charTip" : "Forehead <br>"
+		},{
+		"character" : "머리",
+		"charTip" : "Head <br>"
+		},{
+		"character" : "미니",
+		"charTip" : "Mini <br>"
+		},{
+		"character" : "미리",
+		"charTip" : "In advance <br>"
+		},{
+		"character" : "너무",
+		"charTip" : "Very, too <br>"
+		},{
+		"character" : "어머니",
+		"charTip" : "Mother <br>"
+		},{
+		"character" : "어머나",
+		"charTip" : "Oh no! My goodness! <br>"
+		},{
+		"character" : "어느 (나라)",
+		"charTip" : "Which (country) <br>"
+		},{
+		"character" : "우유",
+		"charTip" : "Milk <br>"
+		},{
+		"character" : "여우",
+		"charTip" : "Fox <br>"
+		},{
+		"character" : "여자",
+		"charTip" : "Woman <br>"
+		},{
+		"character" : "요리",
+		"charTip" : "Cooking <br>"
+		},{
+		"character" : "유리 ",
+		"charTip" : "Glass <br>"
+		},{
+		"character" : "야구",
+		"charTip" : "Baseball <br>"
+		},{
+		"character" : "의사",
+		"charTip" : "Doctor <br>"
+		},{
+		"character" : "의자",
+		"charTip" : "Chair <br>"
+		},{
+		"character" : "모자",
+		"charTip" : "Hat <br>"
+		},{
+		"character" : "다리",
+		"charTip" : "Leg <br>"
+		},{
+		"character" : "부모",
+		"charTip" : "Parents <br>"
+		},{
+		"character" : "바지",
+		"charTip" : "Pants <br>"
+		},{
+		"character" : "아버지",
+		"charTip" : "Father <br>"
+		},{
+		"character" : "눈",
+		"charTip" : "Eye, Snow <br>"
+		},{
+		"character" : "손",
+		"charTip" : "Hand <br>"
+		},{
+		"character" : "돈",
+		"charTip" : "Money <br>"
+		},{
+		"character" : "물 ",
+		"charTip" : "Water <br>"
+		},{
+		"character" : "술",
+		"charTip" : "Alcohol <br>"
+		},{
+		"character" : "달",
+		"charTip" : "Moon <br>"
+		},{
+		"character" : "별",
+		"charTip" : "Star <br>"
+		},{
+		"character" : "봄",
+		"charTip" : "Spring <br>"
+		},{
+		"character" : "강",
+		"charTip" : "River <br>"
+		},{
+		"character" : "서울",
+		"charTip" : "Seoul <br>"
+		},{
+		"character" : "사랑",
+		"charTip" : "Love <br>"
+		},{
+		"character" : "고야이",
+		"charTip" : "Cat <br>"
+		},{
+		"character" : "강아지",
+		"charTip" : "Puppy <br>"
+		},{
+		"character" : "새",
+		"charTip" : "Bird <br>"
+		},{
+		"character" : "개",
+		"charTip" : "Dog <br>"
+		},{
+		"character" : "네",
+		"charTip" : "Yes <br>"
+		},{
+		"character" : "노래",
+		"charTip" : "Song <br>"
+		},{
+		"character" : "돼지",
+		"charTip" : "Pig <br>"
+		},{
+		"character" : "회사",
+		"charTip" : "Company <br>"
+		},{
+		"character" : "코",
+		"charTip" : "Nose <br>"
+		},{
+		"character" : "휴지",
+		"charTip" : "Tissue <br>"
+		},{
+		"character" : "커피",
+		"charTip" : "Coffee <br>"
+		},{
+		"character" : "스키",
+		"charTip" : "Ski <br>"
+		},{
+		"character" : "토마토",
+		"charTip" : "Tomato <br>"
+		},{
+		"character" : "케이크",
+		"charTip" : "Cake <br>"
+		},{
+		"character" : "카메라",
+		"charTip" : "Camera <br>"
+		},{
+		"character" : "밥",
+		"charTip" : "Steamed Rice <br>"
+		},{
+		"character" : "입",
+		"charTip" : "Mouth <br>"
+		},{
+		"character" : "한국",
+		"charTip" : "Korea <br>"
+		},{
+		"character" : "김치",
+		"charTip" : "Kimchi <br>"
+		},{
+		"character" : "택시",
+		"charTip" : "Taxi <br>"
+		},{
+		"character" : "비행기",
+		"charTip" : "Airplane <br>"
+		},{
+		"character" : "지하철",
+		"charTip" : "Subway <br>"
+		},{
+		"character" : "컴퓨터",
+		"charTip" : "Computer <br>"
+		},{
+		"character" : "인터넷",
+		"charTip" : "Internet <br>"
+		},{
+		"character" : "핸드폰",
+		"charTip" : "Cellphone <br>"
+		},{
+		"character" : "텔레비전",
+		"charTip" : "Television <br>"
+		},{
+		"character" : "미안해요",
+		"charTip" : "I’m sorry <br>"
+		},{
+		"character" : "죄송해요",
+		"charTip" : "I’m sorry <br>"
+		},{
+		"character" : "귀",
+		"charTip" : "Ear <br>"
+		},{
+		"character" : "뒤",
+		"charTip" : "Behind <br>"
+		},{
+		"character" : "사과",
+		"charTip" : "Apple <br>"
+		},{
+		"character" : "과자",
+		"charTip" : "Snack <br>"
+		},{
+		"character" : "아빠",
+		"charTip" : "Daddy <br>"
+		},{
+		"character" : "짜요",
+		"charTip" : "Salty <br>"
+		},{
+		"character" : "토끼",
+		"charTip" : "Rabbit <br>"
+		},{
+		"character" : "비싸요",
+		"charTip" : "Expensive <br>"
+		},{
+		"character" : "나빠요",
+		"charTip" : "Bad <br>"
+		},{
+		"character" : "바빠요",
+		"charTip" : "Busy <br>"
+		},{
+		"character" : "뛰어요",
+		"charTip" : "Run <br>"
+		},{
+		"character" : "예뻐요",
+		"charTip" : "Beautiful <br>"
+		},{
+		"character" : "앞",
+		"charTip" : "Front <br>"
+		},{
+		"character" : "꽃",
+		"charTip" : "Flower <br>"
+		},{
+		"character" : "쌀",
+		"charTip" : "Rice <br>"
+		},{
+		"character" : "떡",
+		"charTip" : "Rice Cake <br>"
+		},{
+		"character" : "짝",
+		"charTip" : "Partner (pair) <br>"
+		},{
+		"character" : "빵",
+		"charTip" : "Bread <br>"
+		},{
+		"character" : "땀",
+		"charTip" : "Sweat <br>"
+		},{
+		"character" : "부엌",
+		"charTip" : "Kitchen <br>"
+		},{
+		"character" : "빨리",
+		"charTip" : "Fast, Quickly <br>"
+		},{
+		"character" : "똑똑해요",
+		"charTip" : "Smart <br>"
+		},{
+		"character" : "좋아해요",
+		"charTip" : "Like it <br>"
+		},{
+		"character" : "싫어해요",
+		"charTip" : "Hate it <br>"
+		},{
+		"character" : "좋다",
+		"charTip" : "Good <br>"
+		},{
+		"character" : "싫다",
+		"charTip" : "Unpleasant <br>"
+		},{
+		"character" : "당신",
+		"charTip" : "You <br>"
+		},{
+		"character" : "수고하셨어요",
+		"charTip" : "Thank you, great work <br>"
+		}
+	]
+}

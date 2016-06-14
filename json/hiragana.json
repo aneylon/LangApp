@@ -1,0 +1,292 @@
+{
+	"name" : {
+			"libName" : "ひらがな",
+			"tip" : "Hiragana"
+		},
+	"characters" : [
+		{
+			"character" : "あ",
+			"charTip" : "A"
+		},
+		{
+			"character" : "い",
+			"charTip" : "I"
+		},
+		{
+			"character" : "う",
+			"charTip" : "U"
+		},
+		{
+			"character" : "え",
+			"charTip" : "E"
+		},
+		{
+			"character" : "お",
+			"charTip" : "O"
+		},
+		{
+			"character" : "か",
+			"charTip" : "KA"
+		},
+		{
+			"character" : "き",
+			"charTip" : "KI"
+		},
+		{
+			"character" : "く",
+			"charTip" : "KU"
+		},
+		{
+			"character" : "け",
+			"charTip" : "KE"
+		},
+		{
+			"character" : "こ",
+			"charTip" : "KO"
+		},
+		{
+			"character" : "さ",
+			"charTip" : "SA"
+		},
+		{
+			"character" : "し",
+			"charTip" : "SHI"
+		},
+		{
+			"character" : "す",
+			"charTip" : "SU"
+		},
+		{
+			"character" : "せ",
+			"charTip" : "SE"
+		},
+		{
+			"character" : "そ",
+			"charTip" : "SO"
+		},
+		{
+			"character" : "た",
+			"charTip" : "TA"
+		},
+		{
+			"character" : "ち",
+			"charTip" : "CHI"
+		},
+		{
+			"character" : "つ",
+			"charTip" : "TSU"
+		},
+		{
+			"character" : "て",
+			"charTip" : "TE"
+		},
+		{
+			"character" : "と",
+			"charTip" : "TO"
+		},
+		{
+			"character" : "な",
+			"charTip" : "NA"
+		},
+		{
+			"character" : "に",
+			"charTip" : "NI"
+		},
+		{
+			"character" : "ぬ",
+			"charTip" : "NU"
+		},
+		{
+			"character" : "ね",
+			"charTip" : "NE"
+		},
+		{
+			"character" : "の",
+			"charTip" : "NO"
+		},
+		{
+			"character" : "は",
+			"charTip" : "HA"
+		},
+		{
+			"character" : "ひ",
+			"charTip" : "HI"
+		},
+		{
+			"character" : "ふ",
+			"charTip" : "FU"
+		},
+		{
+			"character" : "へ",
+			"charTip" : "HE"
+		},
+		{
+			"character" : "ほ",
+			"charTip" : "HO"
+		},
+		{
+			"character" : "ま",
+			"charTip" : "MA"
+		},
+		{
+			"character" : "み",
+			"charTip" : "MI"
+		},
+		{
+			"character" : "む",
+			"charTip" : "MU"
+		},
+		{
+			"character" : "め",
+			"charTip" : "ME"
+		},
+		{
+			"character" : "も",
+			"charTip" : "MO"
+		},
+		{
+			"character" : "や",
+			"charTip" : "YA"
+		},
+		{
+			"character" : "ゆ",
+			"charTip" : "YU"
+		},
+		{
+			"character" : "よ",
+			"charTip" : "YO"
+		},
+		{
+			"character" : "ら",
+			"charTip" : "RA"
+		},
+		{
+			"character" : "り",
+			"charTip" : "RI"
+		},
+		{
+			"character" : "る",
+			"charTip" : "RU"
+		},
+		{
+			"character" : "れ",
+			"charTip" : "RE"
+		},
+		{
+			"character" : "ろ",
+			"charTip" : "RO"
+		},
+		{
+			"character" : "わ",
+			"charTip" : "WA"
+		},
+		{
+			"character" : "を",
+			"charTip" : "WO"
+		},
+		{
+			"character" : "ん",
+			"charTip" : "N"
+		},
+		{
+			"character" : "が",
+			"charTip" : "GA"
+		},
+		{
+			"character" : "ぎ",
+			"charTip" : "GI"
+		},
+		{
+			"character" : "ぐ",
+			"charTip" : "GU"
+		},
+		{
+			"character" : "げ",
+			"charTip" : "GE"
+		},
+		{
+			"character" : "ご",
+			"charTip" : "GO"
+		},
+		{
+			"character" : "ざ",
+			"charTip" : "ZA"
+		},
+		{
+			"character" : "じ",
+			"charTip" : "JI"
+		},
+		{
+			"character" : "ず",
+			"charTip" : "ZU"
+		},
+		{
+			"character" : "ぜ",
+			"charTip" : "ZE"
+		},
+		{
+			"character" : "ぞ",
+			"charTip" : "ZO"
+		},
+		{
+			"character" : "だ",
+			"charTip" : "DA"
+		},
+		{
+			"character" : "ぢ",
+			"charTip" : "DI"
+		},
+		{
+			"character" : "づ",
+			"charTip" : "DZU"
+		},
+		{
+			"character" : "で",
+			"charTip" : "DE"
+		},
+		{
+			"character" : "ど",
+			"charTip" : "DO"
+		},
+		{
+			"character" : "ば",
+			"charTip" : "BA"
+		},
+		{
+			"character" : "び",
+			"charTip" : "BI"
+		},
+		{
+			"character" : "ぶ",
+			"charTip" : "BU"
+		},
+		{
+			"character" : "べ",
+			"charTip" : "BE"
+		},
+		{
+			"character" : "ぼ",
+			"charTip" : "BO"
+		},
+		{
+			"character" : "ぱ",
+			"charTip" : "PA"
+		},
+		{
+			"character" : "ぴ",
+			"charTip" : "PI"
+		},
+		{
+			"character" : "ぷ",
+			"charTip" : "PU"
+		},
+		{
+			"character" : "ぺ",
+			"charTip" : "PE"
+		},
+		{
+			"character" : "ぽ",
+			"charTip" : "PO"
+		}
+	]
+}

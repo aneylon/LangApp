@@ -1,0 +1,540 @@
+{
+	"name" : {
+		"libName" : "中文的詞彙",
+		"tip" : "Chinese Vocabulary"
+	},
+	"characters" : [
+		{
+			"character" : "先生",
+			"charTip" : "Xiānshēng<br>Mr, sir"
+		},
+		{
+			"character" : "小姐",
+			"charTip" : "Xiǎojiě<br>Miss, young lady"
+		},
+		{
+			"character" : "你",
+			"charTip" : "Nǐ<br>You"
+		},
+		{
+			"character" : "我",
+			"charTip" : "Wǒ<br>I, me, myself"
+		},
+		{
+			"character" : "您",
+			"charTip" : "Nín<br>You"
+		},
+		{
+			"character" : "北京",
+			"charTip" : "Běijīng"
+		},
+		{
+			"character" : "紐約",
+			"charTip" : "Niǔyuē<br>New York"
+		},
+		{
+			"character" : "首都",
+			"charTip" : "Shǒudū<br>Capital"
+		},
+		{
+			"character" : "不",
+			"charTip" : "Bù<br>Not-prefix"
+		},
+		{
+			"character" : "也",
+			"charTip" : "Yě<br>Also"
+		},
+		{
+			"character" : "請",
+			"charTip" : "Qǐng<br>Please, ask"
+		},
+		{
+			"character" : "問",
+			"charTip" : "Wèn<br>Ask"
+		},
+		{
+			"character" : "是",
+			"charTip" : "Shì<br>to be, right/correct"
+		},
+		{
+			"character" : "叫",
+			"charTip" : "Jiào<br>Be called, shout"
+		},
+		{
+			"character" : "貴",
+			"charTip" : "Guì<br>Expensive, noble"
+		},
+		{
+			"character" : "姓",
+			"charTip" : "Xìng<br>Name, surname"
+		},
+		{
+			"character" : "什麼",
+			"charTip" : "Shénme<br>What"
+		},
+		{
+			"character" : "名字",
+			"charTip" : "Míngzì<br>Name"
+		},
+		{
+			"character" : "人",
+			"charTip" : "Rén<br>People"
+		},
+		{
+			"character" : "中國",
+			"charTip" : "Zhōngguó<br>China"
+		},
+		{
+			"character" : "美國",
+			"charTip" : "Měiguó<br>America"
+		},
+		{
+			"character" : "學生",
+			"charTip" : "Xuéshēng<br>Student"
+		},
+		{
+			"character" : "老師",
+			"charTip" : "Lǎoshī<br>Teacher"
+		},
+		{
+			"character" : "好",
+			"charTip" : "Hǎo<br>Good"
+		},
+		{
+			"character" : "不錯",
+			"charTip" : "Bùcuò<br>Pretty good, correct, orderly"
+		},
+		{
+			"character" : "嗎",
+			"charTip" : "Ma<br>Mother"
+		},
+		{
+			"character" : "呢",
+			"charTip" : "Ne<br>question particle, cloth"
+		},
+		{
+			"character" : "兩",
+			"charTip" : "Liǎng<br>Two, a couple of"
+		},
+		{
+			"character" : "個",
+			"charTip" : "Gè<br>measure word"
+		},
+		{
+			"character" : "十",
+			"charTip" : "Shí<br>Ten"
+		},
+		{
+			"character" : "二",
+			"charTip" : "Èr<br>Two"
+		},
+		{
+			"character" : "大學",
+			"charTip" : "Dàxué<br>University"
+		},
+		{
+			"character" : "大學生",
+			"charTip" : "Dàxuéshēng<br>University Student"
+		},
+		{
+			"character" : "中學",
+			"charTip" : "Zhōngxué<br>Highschool"
+		},
+		{
+			"character" : "做",
+			"charTip" : "Zuò<br>Do, make"
+		},
+		{
+			"character" : "工作",
+			"charTip" : "Gōngzuò<br>Work"
+		},
+		{
+			"character" : "功課",
+			"charTip" : "Gōngkè<br>Homework"
+		},
+		{
+			"character" : "妹妹",
+			"charTip" : "Mèimei<br>Little sister"
+		},
+		{
+			"character" : "姐姐",
+			"charTip" : "Jiějiě<br>Older Sister"
+		},
+		{
+			"character" : "大姐",
+			"charTip" : "Dàjiě<br>Eldest sister"
+		},
+		{
+			"character" : "二姐",
+			"charTip" : "Èr jiě<br>Second oldest sister"
+		},
+		{
+			"character" : "照片",
+			"charTip" : "Zhàopiàn<br>Photo"
+		},
+		{
+			"character" : "張",
+			"charTip" : "Zhāng<br>stretch, look, open up, spread"
+		},
+		{
+			"character" : "有",
+			"charTip" : "Yǒu<br>Have"
+		},
+		{
+			"character" : "没",
+			"charTip" : "Méi<br>Not"
+		},
+		{
+			"character" : "女",
+			"charTip" : "Nǚ<br>Female"
+		},
+		{
+			"character" : "男",
+			"charTip" : "Nán<br>Male"
+		},
+		{
+			"character" : "兒子",
+			"charTip" : "Érzi<br>Son"
+		},
+		{
+			"character" : "女兒",
+			"charTip" : "Nǚ'ér<br>Daughter"
+		},
+		{
+			"character" : "這",
+			"charTip" : "Zhè<br>This"
+		},
+		{
+			"character" : "那",
+			"charTip" : "Nà<br>That"
+		},
+		{
+			"character" : "的",
+			"charTip" : "De<br>of(possessive)"
+		},
+		{
+			"character" : "和",
+			"charTip" : "Hé<br>And, together"
+		},
+		{
+			"character" : "都",
+			"charTip" : "Dōu<br>All, both, entirely"
+		},
+		{
+			"character" : "家",
+			"charTip" : "Jiā<br>Home"
+		},
+		{
+			"character" : "爸爸",
+			"charTip" : "Bàba<br>Father"
+		},
+		{
+			"character" : "媽媽",
+			"charTip" : "Māmā<br>Mother"
+		},
+		{
+			"character" : "孩子",
+			"charTip" : "Háizi<br>Child"
+		},
+		{
+			"character" : "哥哥",
+			"charTip" : "Gēgē<br>Older brother"
+		},
+		{
+			"character" : "弟弟",
+			"charTip" : "Dìdì<br>Little brother"
+		},
+		{
+			"character" : "大哥",
+			"charTip" : "Dàgē<br>Big brother"
+		},
+		{
+			"character" : "幾",
+			"charTip" : "Jǐ<br>A few"
+		},
+		{
+			"character" : "口",
+			"charTip" : "Kǒu<br>Mouth, measure word"
+		},
+		{
+			"character" : "人",
+			"charTip" : "Rén<br>Person"
+		},
+		{
+			"character" : "誰",
+			"charTip" : "Shuí<br>Who"
+		},
+		{
+			"character" : "英文",
+			"charTip" : "Yīngwén<br>English"
+		},
+		{
+			"character" : "日文",
+			"charTip" : "Rìwén<br>Japanese"
+		},
+		{
+			"character" : "中文",
+			"charTip" : "Zhōngwén<br>Chinese"
+		},
+		{
+			"character" : "他",
+			"charTip" : "Tā<br>He"
+		},
+		{
+			"character" : "她",
+			"charTip" : "Tā<br>She"
+		},
+		{
+			"character" : "律師",
+			"charTip" : "Lǜshī<br>Lawyer"
+		},
+		{
+			"character" : "老師",
+			"charTip" : "Lǎoshī<br>Teacher"
+		},
+		{
+			"character" : "醫生",
+			"charTip" : "Yīshēng<br>Doctor"
+		},
+		{
+			"character" : "英國",
+			"charTip" : "Yīngguó<br>Britain, England"
+		},
+		{
+			"character" : "中國",
+			"charTip" : "Zhōngguó<br>China, Chinese"
+		},
+		{
+			"character" : "美國",
+			"charTip" : "Měiguó<br>United States of America"
+		},
+		{
+			"character" : "日本",
+			"charTip" : "Rìběn<br>Japan, Japanese"
+		},
+		{
+			"character" : "還是",
+			"charTip" : "Háishì<br>Or, still, nevertheless"
+		},
+		{
+			"character" : "還",
+			"charTip" : "Hái<br>Also, still, yet"
+		},
+		{
+			"character" : "可是",
+			"charTip" : "Kěshì<br>But, however"
+		},
+		{
+			"character" : "太...了",
+			"charTip" : "Tài...Le<br>Too much..."
+		},
+		{
+			"character" : "以後",
+			"charTip" : "Yǐhòu<br>After, later"
+		},
+		{
+			"character" : "然後",
+			"charTip" : "Ránhòu<br>Then, next, afterward"
+		},
+		{
+			"character" : "星期",
+			"charTip" : "Xīngqí<br>Week"
+		},
+		{
+			"character" : "學期",
+			"charTip" : "Xuéqí<br>Semester, term"
+		},
+		{
+			"character" : "年",
+			"charTip" : "Nián<br>Year"
+		},
+		{
+			"character" : "今年",
+			"charTip" : "Jīnnián<br>This year"
+		},
+		{
+			"character" : "歲",
+			"charTip" : "Suì<br>Years, age"
+		},
+		{
+			"character" : "怎麼樣",
+			"charTip" : "Zěnme yàng<br>how, how about"
+		},
+		{
+			"character" : "為甚麼",
+			"charTip" : "Wéishènme<br>Why"
+		},
+		{
+			"character" : "為",
+			"charTip" : "Wèi<br>As, for"
+		},
+		{
+			"character" : "因為",
+			"charTip" : "Yīnwèi<br>Because, since, owing to, on account of"
+		},
+		{
+			"character" : "多",
+			"charTip" : "Duō<br>Much, many, multi"
+		},
+		{
+			"character" : "大",
+			"charTip" : "Dà<br>Large"
+		},
+		{
+			"character" : "多少",
+			"charTip" : "Duōshǎo<br>How much, number, amount"
+		},
+		{
+			"character" : "點",
+			"charTip" : "Diǎn<br>Point, dot"
+		},
+		{
+			"character" : "半",
+			"charTip" : "Bàn<br>Half, semi-, partly"
+		},
+		{
+			"character" : "刻",
+			"charTip" : "Kè<br>Engraved, quarter(hour)"
+		},
+		{
+			"character" : "晚上",
+			"charTip" : "Wǎnshàng<br>In the evening, at night"
+		},
+		{
+			"character" : "現在",
+			"charTip" : "Xiànzài<br>"
+		},
+		{
+			"character" : "喜歡",
+			"charTip" : "Xǐhuān<br>Like, love, be fond of"
+		},
+		{
+			"character" : "想",
+			"charTip" : "Xiǎng<br>Want, think, suppose"
+		},
+		{
+			"character" : "要",
+			"charTip" : "Yào<br>Wish, want, desire"
+		},
+		{
+			"character" : "再見",
+			"charTip" : "Zàijiàn<br>Good bye"
+		},
+		{
+			"character" : "見",
+			"charTip" : "Jiàn<br>See, meet, view"
+		},
+		{
+			"character" : "再",
+			"charTip" : "Zài<br>Again, another"
+		},
+		{
+			"character" : "謝謝",
+			"charTip" : "Xièxiè<br>Thanks"
+		},
+		{
+			"character" : "月",
+			"charTip" : "Yuè<br>Month, moon"
+		},
+		{
+			"character" : "號",
+			"charTip" : "Hào<br>Number"
+		},
+		{
+			"character" : "我",
+			"charTip" : "Wǒ<br>Me, myself, I"
+		},
+		{
+			"character" : "我們",
+			"charTip" : "Wǒmen<br>We"
+		},
+		{
+			"character" : "他們",
+			"charTip" : "Tāmen<br>They"
+		},
+		{
+			"character" : "她們",
+			"charTip" : "Tāmen<br>They"
+		},
+		{
+			"character" : "大家",
+			"charTip" : "Dàjiā<br>Everyone"
+		},
+		{
+			"character" : "認識",
+			"charTip" : "Rènshí<br>Understanding, knowledge"
+		},
+		{
+			"character" : "知道",
+			"charTip" : "Zhīdào<br>know, be aware"
+		},
+		{
+			"character" : "事兒",
+			"charTip" : "Shì er<br>thing, business"
+		},
+		{
+			"character" : "天",
+			"charTip" : "Tiān<br>Day, sky, heaven"
+		},
+		{
+			"character" : "日",
+			"charTip" : "Rì<br>Day, date, sun, japan"
+		},
+		{
+			"character" : "生日",
+			"charTip" : "Shēngrì<br>Birthday"
+		},
+		{
+			"character" : "同學",
+			"charTip" : "Tóngxué<br>Classmate, schoolmate"
+		},
+		{
+			"character" : "朋友",
+			"charTip" : "Péngyǒu<br>friend"
+		},
+		{
+			"character" : "學生",
+			"charTip" : "Xuéshēng<br>Student, pupil"
+		},
+		{
+			"character" : "學校",
+			"charTip" : "Xuéxiào<br>School"
+		},
+		{
+			"character" : "今天",
+			"charTip" : "Jīntiān<br>Today, now"
+		},
+		{
+			"character" : "明天",
+			"charTip" : "Míngtiān<br>tomorrow"
+		},
+		{
+			"character" : "今年",
+			"charTip" : "Jīnnián<br>This year"
+		},
+		{
+			"character" : "吃",
+			"charTip" : "Chī<br>Eat, take"
+		},
+		{
+			"character" : "飯",
+			"charTip" : "Fàn<br>Rice, meal, food"
+		},
+		{
+			"character" : "菜",
+			"charTip" : "Cài<br>Vegetables, greens, dish"
+		},
+		{
+			"character" : "晚飯",
+			"charTip" : "Wǎnfàn<br>Dinner, supper"
+		},
+		{
+			"character" : "很",
+			"charTip" : "Hěn<br>Very, quite, extremely"
+		},
+		{
+			"character" : "忙",
+			"charTip" : "Máng<br>busy"
+		}
+	]
+}

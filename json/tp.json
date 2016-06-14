@@ -1,0 +1,376 @@
+{
+    "name": {
+        "libName": "Thai Phrases",
+        "tip": "Thai Phrases"
+    },
+    "characters": [
+        {
+            "character": "﻿ยินดีต้อนรับ",
+            "charTip": "yin dee dtôn ráp<br>Welcome"
+        },
+        {
+            "character": "สวัสดี ",
+            "charTip": "sà-wàt-dee<br>Hello"
+        },
+        {
+            "character": "ฮัลโหล",
+            "charTip": "hanlǒh<br>Hello - on phone"
+        },
+        {
+            "character": "เป็นอย่างไรบ้าง?",
+            "charTip": "bpen yàang rai bâang?<br>How are you?"
+        },
+        {
+            "character": "สบายดีหรื",
+            "charTip": "sà-baai dee rĕu?<br>How are you?"
+        },
+        {
+            "character": "สบายดีคร้บ",
+            "charTip": "sà-baai dee króp - m<br>I'm fine, thanks"
+        },
+        {
+            "character": "สบายดีค่ะ",
+            "charTip": "sà-baai dee kâ - f<br>I'm fine, thanks"
+        },
+        {
+            "character": "คุณชีออะไร?",
+            "charTip": "kun chêu a-rai ?<br>What's your name?"
+        },
+        {
+            "character": "ผมชื่อ ...",
+            "charTip": " pŏm chêu ... - m<br>My name is ..."
+        },
+        {
+            "character": "ดิฉันชื่อ",
+            "charTip": "dì-chăn chêu ... - f<br>My name is ..."
+        },
+        {
+            "character": "คุณมาจากทีไหน?",
+            "charTip": "kun maa jàak tee năi?<br>Where are you from?"
+        },
+        {
+            "character": "ผมมาจาก ...",
+            "charTip": "a pŏm maa jàak ... - m<br>I'm from ... a"
+        },
+        {
+            "character": "ดิฉันมาจาก ...",
+            "charTip": "dì-chăn maa jàak ... - f<br>I'm from ..."
+        },
+        {
+            "character": "ยินดีที่ได้รู้จัก",
+            "charTip": "yin dee têe dâi róo jàk<br>Pleased to meet you"
+        },
+        {
+            "character": "สวัสดีครับ/ค่ะ",
+            "charTip": "sà-wàt-dee kráp/kâ<br>Good morning/evening"
+        },
+        {
+            "character": "ราตรีสวัสดิ์",
+            "charTip": "raa-dtree sà-wàt<br>Good night"
+        },
+        {
+            "character": "ลาก่อนนะ",
+            "charTip": "laa gòn ná<br>Goodbye"
+        },
+        {
+            "character": "ขอให้เดินทางโดยสวัสดิภาพ",
+            "charTip": "kŏr hâi dern taang doi sà-wàt-dì-pâap<br>Bon voyage"
+        },
+        {
+            "character": "เดินทางโดยสวัสดิภาพ",
+            "charTip": "dern taang doi sà-wàt-dì-pâap<br>Bon voyage"
+        },
+        {
+            "character": "เที่ยวให้สนุก",
+            "charTip": "tîeow hâi sà-nùk<br>Have a fun trip"
+        },
+        {
+            "character": "ขอโทษ",
+            "charTip": "kŏr tôht<br>Excuse me/Sorry"
+        },
+        {
+            "character": "ราคาเท่าไหร่",
+            "charTip": "raa-kaa tâo rài?<br>How much is this?"
+        },
+        {
+            "character": "ขอบคุณ",
+            "charTip": "kòp kun<br>Thank you"
+        },
+        {
+            "character": "ขอบคุณมาก",
+            "charTip": "kòp kun mâak<br>Thank you"
+        },
+        {
+            "character": "ไม่เป็นไร",
+            "charTip": "mâi bpen rai<br>You are welcome"
+        },
+        {
+            "character": "ห้องน้ำอยู่ที่ไหน?",
+            "charTip": "hông náam yòo têe năi?<br>Where's the toilet?"
+        },
+        {
+            "character": "อยากเต้นรำไหม",
+            "charTip": "yàak dtên ram măi?<br>Would you like to dance with me?"
+        },
+        {
+            "character": "ผมรักคุณ",
+            "charTip": "pŏm rák kun - m<br>I love you"
+        },
+        {
+            "character": "ฉันรักคุณ",
+            "charTip": "chăn rák kun - f<br>I love you"
+        },
+        {
+            "character": "ผมคิดถึงคุณ",
+            "charTip": "poŏm kít teŏung kun - m<br>I miss you"
+        },
+        {
+            "character": "ฉันคิดถึงเธอ",
+            "charTip": "chaŏn kít teŏung ter - f/inf & m/intimate<br>I miss you"
+        },
+        {
+            "character": "คุณพูดภาษาอังกฤษหรือเปล่า?",
+            "charTip": "kun pôot paa-săa ang-grìt rĕu bplào?<br>Do you speak English?"
+        },
+        {
+            "character": "มีใครพูดภาษาอังกฤษได้บ้าง?",
+            "charTip": "mee krai pôot paa-săa ang-grìt dâi bâang?<br>Does anyone speak English?"
+        },
+        {
+            "character": "คุณพูดภาษาไทยเป็นไหม?",
+            "charTip": "kun pôot paa-săa tai bpen măi?<br>Do you speak Thai?"
+        },
+        {
+            "character": "ฉันพูดไทยไม่เป็น",
+            "charTip": "chăn pôot tai mâi bpen<br>I don't speak Thai"
+        },
+        {
+            "character": "พูดช้าลงหน่อย",
+            "charTip": "pôot cháa long nòi<br>Please speak more slowly"
+        },
+        {
+            "character": "พูดซ้ำอีกทีสิ",
+            "charTip": "pôot sám èek tee sì<br>Please say that again"
+        },
+        {
+            "character": "พูดอีกทีได้ไหม",
+            "charTip": "pôot èek tee dâi măi?<br>Please say that again"
+        },
+        {
+            "character": "ขอโทษฉันไม่เข้าใจ",
+            "charTip": "kŏr tôht chăn mâi kâo jai<br>Sorry, I didn't get that"
+        },
+        {
+            "character": "คุณพูดว่าอะไรนะ?",
+            "charTip": "kun pôot wâa à-rai ná?<br>What did you say?"
+        },
+        {
+            "character": "เขียนลงบนกระดาษได้ไหม?",
+            "charTip": "kĭan long bon grà-dàat dâi măi?<br>Please write it down"
+        },
+        {
+            "character": "ช่วยเขียนลงให้หน่อย้ไหม",
+            "charTip": "chûay kĭan long hâi nòi dâai măi<br>Please write it down"
+        },
+        {
+            "character": "แปลให้ฉันได้ไหม?",
+            "charTip": "bplae hâi chăn dâi măi?<br>Can you translate it for me?"
+        },
+        {
+            "character": "อันนี้แปลว่าอะไร?",
+            "charTip": "an née bplae wâa à-rai?<br>What does this mean?"
+        },
+        {
+            "character": "ภาษาไทย ... พูดว่าอย่างไร",
+            "charTip": "paasăa tai ... pôot wâa yàang-rai<br>How do you say ... in Thai?"
+        },
+        {
+            "character": "คำนั้นออกเสียงว่าอย่างไร?",
+            "charTip": "kam nán òk sĭang wâa yàang rai?<br>How do you pronounce that?"
+        },
+        {
+            "character": "เข้าใจไหม?",
+            "charTip": "khâo jai mái<br>Do you understand?"
+        },
+        {
+            "character": "เข้าใจแล้ว",
+            "charTip": "kâo jai láew<br>I understand"
+        },
+        {
+            "character": "ไม่เข้าใจ",
+            "charTip": "mâi khâo jai<br>I don't understand"
+        },
+        {
+            "character": "ห้องมีปัญหา",
+            "charTip": "hông mee bpan-hăa<br>There's a problem in the room"
+        },
+        {
+            "character": "น้ำร้อนไม่ไหล",
+            "charTip": "náam rón mâi lăi<br>There's no hot water"
+        },
+        {
+            "character": "ท่อรั่ว",
+            "charTip": "tôr rûa<br>The tap/faucet is leaking"
+        },
+        {
+            "character": "ท่อตัน",
+            "charTip": "tôr dtan<br>The drain is blocked"
+        },
+        {
+            "character": "แอร์เสียงดัง",
+            "charTip": "ae sĭang dang<br>The air conditioner is too noisy"
+        },
+        {
+            "character": "เปลี่ยนห้องได้ไหม?",
+            "charTip": "bplìan hông dâi măi?<br>Can I have another room?"
+        },
+        {
+            "character": "ฉันต้องออกจากห้องกี่โมง?",
+            "charTip": "chăn dtông òk jàak hông gèe mohng?<br>When should I vacate the room?"
+        },
+        {
+            "character": "ฉันจะเช็คเอาท์ ",
+            "charTip": "chăn jà chék ao<br>I'd like to check out"
+        },
+        {
+            "character": "ฉันจะเช็คเอาท์วันที่เท่านี้",
+            "charTip": "chăn jà chék ao wan têe tâo née<br>I'd check out on this date"
+        },
+        {
+            "character": "เรียกแท็กซี่ให้หน่อย?",
+            "charTip": "rîak táek-sêe hâi nòi?<br>Could you please call a taxi for me?"
+        },
+        {
+            "character": "ขอดูบิลหน่อย?",
+            "charTip": "kŏr doo bin nòi?<br>May I see the bill please?"
+        },
+        {
+            "character": "ทั้งหมดเท่าไร?",
+            "charTip": "táng mòt tâo-rai?<br>How much is the total bill?"
+        },
+        {
+            "character": "ขอบิลแบบละเอียด?",
+            "charTip": "kŏr bin bàep lá-ìat?<br>Can I have an itemised bill?"
+        },
+        {
+            "character": "ฉันว่าบิลผิดนะ",
+            "charTip": "chăn wâa bin pìt ná<br>I think there's a mistake on this bill"
+        },
+        {
+            "character": "ว่างไปทานอาหารกลางวันไหม?",
+            "charTip": "wâang bpai taan aa-hăan glaang wan măi?<br>Are you free for lunch?"
+        },
+        {
+            "character": "เย็นนี้ว่างไหม?",
+            "charTip": "yen née wâang măi?<br>Are you free this evening?"
+        },
+        {
+            "character": "แนะนำร้านอาหารเที่ยงให้หน่อย?",
+            "charTip": "náe nam ráan aa-hăan tîang hâi nòi?<br>Can you suggest a place for lunch?"
+        },
+        {
+            "character": "แนะนำร้านอาหารเย็นให้หน่อย?",
+            "charTip": "náe nam ráan aa-hăan yen hâi nòi?<br>Can you suggest a place for dinner?"
+        },
+        {
+            "character": "ไปเจอกันที่นั่น",
+            "charTip": "bpai jer gan têe nân<br>I'll meet you there"
+        },
+        {
+            "character": "เดี๋ยวเจอกัน",
+            "charTip": "dĭeow jer gan<br>I'll meet you then"
+        },
+        {
+            "character": "ขอเบอร์โทรศัพท์หน่อย?",
+            "charTip": "kŏr ber toh-rá sàp nòi?<br>Can I have your phone number?"
+        },
+        {
+            "character": "ขอที่อยู่ได้ไหม?",
+            "charTip": "kŏr têe yòo dâi măi?<br>Can I have your address?"
+        },
+        {
+            "character": "นี่เบอร์โทรฉัน",
+            "charTip": "nêe ber toh chăn<br>This is my phone number"
+        },
+        {
+            "character": "นี่ที่อยู่ฉัน",
+            "charTip": "nêe têe yòo chăn<br>This is my address"
+        },
+        {
+            "character": "ร้านอาหารที่ใกล้ที่สุดอยู่ไหน?",
+            "charTip": "ráan aa-hăan têe glâi sùt yòo năi?<br>Is there a restaurant near here?"
+        },
+        {
+            "character": "จองโต๊ะหน่อย",
+            "charTip": "jong dtó nòi<br>I'd like to reserve a table"
+        },
+        {
+            "character": "เราจองไว้แล้ว",
+            "charTip": "rao jong wái láew<br>We have a reservation"
+        },
+        {
+            "character": "มีรายการอาหารเป็นภาษาอังกฤษไหม?",
+            "charTip": "mee raai gaan aa-hăan bpen paa-săa ang-grìt măi<br>Do you have an English menu?"
+        },
+        {
+            "character": "ขอรายการไวน์หน่อย?",
+            "charTip": "kŏr raai gaan wai nòi?<br>Can I see the wine list?"
+        },
+        {
+            "character": "ฉันเป็นมังสวิรัติ",
+            "charTip": "chăn bpen mang-sà-wí-rát<br>I am a vegetarian"
+        },
+        {
+            "character": "ขอให้เจริญอาหาร!",
+            "charTip": "kŏr hâi jà-rern aa-hăan!<br>Bon appetit"
+        },
+        {
+            "character": "ทานให้อร่อย",
+            "charTip": "taan hâi a-ròi<br>Bon appetit"
+        },
+        {
+            "character": "ไชโย!",
+            "charTip": "chai-yoh<br>Cheers/Good health!"
+        },
+        {
+            "character": "ช่วยด้วย!",
+            "charTip": "chûay dûay!<br>Help!"
+        },
+        {
+            "character": "ไฟไหม้!",
+            "charTip": "fai mâi!<br>Fire!"
+        },
+        {
+            "character": "หยุด!",
+            "charTip": "yùt!<br>Stop!"
+        },
+        {
+            "character": "เรียกตำรวจมา!",
+            "charTip": "rîak dtam-rùat maa!<br>Call the police!"
+        },
+        {
+            "character": "สุขสันต์วันคริสต์มาส และสวัสดีปีใหม่",
+            "charTip": "sùk săn wan-krít-mâat láe sà-wàt-dee bpee mài<br>Merry Christmas and Happy New Year"
+        },
+        {
+            "character": "สุขสันต์วันอีสเตอร์",
+            "charTip": "sùk săn wan èet-dtêr<br>Happy Easter"
+        },
+        {
+            "character": "สุขสันต์วันเกิด",
+            "charTip": "sùk san wan gèrt<br>Happy Birthday"
+        },
+        {
+            "character": "โฮเวอร์คราฟท์ของผมเต็มไปด้วยปลาไหล",
+            "charTip": "hoh wer-krâaf kŏng pŏm dtem-bpai-dûay bplaa lăi - m<br>My hovercraft is full of eels"
+        },
+        {
+            "character": "โฮเวอร์คราฟท์ของฉันเต็มไปด้วยปลาไหล",
+            "charTip": "hoh wer-krâaf kŏng chăn dtem-bpai-dûay bplaa lăi - f<br>My hovercraft is full of eels"
+        },
+        {
+            "character": "ภาษาเดียวไม่เคยพอ",
+            "charTip": "paa-săa dieow mâi koie por<br>One language is never enough"
+        }
+    ]
+}

@@ -1,0 +1,1388 @@
+{
+	"name" : {
+		"libName" : "日本語能力試験二級の漢字",
+		"tip." : "JLPT Level 2 Kanji"
+	},
+	"characters" : [
+		{
+			"character" : "ボールを打つ。",
+			"charTip" : "ぼーる　を　うつ。"
+		},
+		{
+			"character" : "釘を打つ。",
+			"charTip" : "くぎ　を　うつ。"
+		},
+		{
+			"character" : "打者。",
+			"charTip" : "だしゃ。"
+		},
+		{
+			"character" : "屋根を打つ雨の音。",
+			"charTip" : "やね　を　うつ　あめ　の　おと。"
+		},
+		{
+			"character" : "打ち合わせ。",
+			"charTip" : "うちあわせ。"
+		},
+		{
+			"character" : "石を投げる。",
+			"charTip" : "いし　を　なげる。"
+		},
+		{
+			"character" : "匙を投げる。",
+			"charTip" : "さじ　を　なげる。"
+		},
+		{
+			"character" : "投手。",
+			"charTip" : "とうしゅ。"
+		},
+		{
+			"character" : "株に投資する。",
+			"charTip" : "かぶ　に　とうし　する。"
+		},
+		{
+			"character" : "新聞に投書する。",
+			"charTip" : "しんぶん　に　とうしょ　する。"
+		},
+		{
+			"character" : "録音ボタンを押す。",
+			"charTip" : "ろくおん　ぼたん　を　おす。"
+		},
+		{
+			"character" : "判を押す。",
+			"charTip" : "はん　を　おす。"
+		},
+		{
+			"character" : "押入れ。",
+			"charTip" : "おしいれ。"
+		},
+		{
+			"character" : "扉を押さえる。",
+			"charTip" : "とびら　を　おさえる。"
+		},
+		{
+			"character" : "押印。",
+			"charTip" : "おういん。"
+		},
+		{
+			"character" : "辞書を引く。",
+			"charTip" : "じしょ　を　ひく。"
+		},
+		{
+			"character" : "文を引用する。",
+			"charTip" : "ぶん　を　いんよう　する。"
+		},
+		{
+			"character" : "引き算。",
+			"charTip" : "ひきざん。"
+		},
+		{
+			"character" : "地球の引力。",
+			"charTip" : "ちきゅう　の　いんりょく。"
+		},
+		{
+			"character" : "引退する。",
+			"charTip" : "いんたい　する。"
+		},
+		{
+			"character" : "海岸で貝を拾う。",
+			"charTip" : "かいがん　で　かい　を　ひろう。"
+		},
+		{
+			"character" : "タクシーを拾う。",
+			"charTip" : "たくしー　を　ひろう。"
+		},
+		{
+			"character" : "拾得物の係。",
+			"charTip" : "しゅうとくぶつ　の　かかり。"
+		},
+		{
+			"character" : "拾万円。",
+			"charTip" : "じゅうまんえん。"
+		},
+		{
+			"character" : "ゴミを捨てる。",
+			"charTip" : "ごみ　を　すてる。"
+		},
+		{
+			"character" : "空き缶を投げ捨てる。",
+			"charTip" : "あきかん　を　なげすてる。"
+		},
+		{
+			"character" : "四捨五入する。",
+			"charTip" : "ししゃごにゅう　する。"
+		},
+		{
+			"character" : "ナプキンを折る。",
+			"charTip" : "なぷきん　を　おる。"
+		},
+		{
+			"character" : "折り紙。",
+			"charTip" : "おりがみ。"
+		},
+		{
+			"character" : "木の枝が折れる。",
+			"charTip" : "き　の　えだ　を　おれる。"
+		},
+		{
+			"character" : "角を右折する。",
+			"charTip" : "かど　を　うせつ　する。"
+		},
+		{
+			"character" : "釘を抜く。",
+			"charTip" : "くぎ　を　ぬく。"
+		},
+		{
+			"character" : "腰を抜かす。",
+			"charTip" : "こし　を　ぬかす。"
+		},
+		{
+			"character" : "手抜かりはない。",
+			"charTip" : "てぬかりはない。"
+		},
+		{
+			"character" : "抜群の成績。",
+			"charTip" : "ばつぐん　の　せいせき。"
+		},
+		{
+			"character" : "布団を掛ける。",
+			"charTip" : "ふとん　を　かける。"
+		},
+		{
+			"character" : "掛け算。",
+			"charTip" : "かけざん。"
+		},
+		{
+			"character" : "絵が掛かっている。",
+			"charTip" : "え　が　かかっている"
+		},
+		{
+			"character" : "手掛かりがない。",
+			"charTip" : "てがかりがない。"
+		},
+		{
+			"character" : "名前を呼ぶ。",
+			"charTip" : "なまえ　を　よぶ。"
+		},
+		{
+			"character" : "教室の外へ呼び出す。",
+			"charTip" : "きょうしつ　の　そと　へ　よびだす。"
+		},
+		{
+			"character" : "呼吸をする。",
+			"charTip" : "そきゅう　を　する。"
+		},
+		{
+			"character" : "点呼する。",
+			"charTip" : "てんこ　する。"
+		},
+		{
+			"character" : "呼気。",
+			"charTip" : "こき。"
+		},
+		{
+			"character" : "息を吸う。",
+			"charTip" : "いき　を　すう。"
+		},
+		{
+			"character" : "スポンジが水を吸う。",
+			"charTip" : "すぽんじ　が　みず　を　すう。"
+		},
+		{
+			"character" : "土が雨水を吸収する。",
+			"charTip" : "つち　が　あめめず　を　きゅうしゅう　する。"
+		},
+		{
+			"character" : "深呼吸する。",
+			"charTip" : "しんこきゅう　する。"
+		},
+		{
+			"character" : "口笛を吹く。",
+			"charTip" : "くちぶえ　を　ふく。"
+		},
+		{
+			"character" : "強い風が吹く。",
+			"charTip" : "つよい　かぜ　が　ふく。"
+		},
+		{
+			"character" : "吹奏楽。",
+			"charTip" : "すいそうがく。"
+		},
+		{
+			"character" : "吹雪。",
+			"charTip" : "ふぶき。"
+		},
+		{
+			"character" : "「火事だ。」と叫ぶ。",
+			"charTip" : "「かじだ。」　と　さけぶ。"
+		},
+		{
+			"character" : "叫び声。",
+			"charTip" : "さけびこえ。"
+		},
+		{
+			"character" : "絶叫する。",
+			"charTip" : "ぜっきょう　する。"
+		},
+		{
+			"character" : "七時に起きる。",
+			"charTip" : "しちじ　に　おきる。"
+		},
+		{
+			"character" : "戦争が起こる。",
+			"charTip" : "せんそう　が　おこる。"
+		},
+		{
+			"character" : "起床する。",
+			"charTip" : "きしょう　する。"
+		},
+		{
+			"character" : "全員起立。",
+			"charTip" : "ぜんいんきりつ。"
+		},
+		{
+			"character" : "起工式。",
+			"charTip" : "きこうしき。"
+		},
+		{
+			"character" : "ベッドに寝る。",
+			"charTip" : "べっど　に　ねる。"
+		},
+		{
+			"character" : "昼寝をする。",
+			"charTip" : "ひるね　を　する。"
+		},
+		{
+			"character" : "子供を寝かす。",
+			"charTip" : "こども　を　ねかす。"
+		},
+		{
+			"character" : "寝室。",
+			"charTip" : "しんしつ。"
+		},
+		{
+			"character" : "寝台車。",
+			"charTip" : "しんだいしゃ。"
+		},
+		{
+			"character" : "赤ん坊が泣く。",
+			"charTip" : "あかんぼう　が　なく。"
+		},
+		{
+			"character" : "泣き声。",
+			"charTip" : "なきごえ。"
+		},
+		{
+			"character" : "妹は泣き虫だ",
+			"charTip" : "いもうと　は　なきむし　だ。"
+		},
+		{
+			"character" : "母の死に号泣する。",
+			"charTip" : "はは　の　し　に　ごきゅう　する。"
+		},
+		{
+			"character" : "笑い話。",
+			"charTip" : "わらいばなし。"
+		},
+		{
+			"character" : "笑い声。",
+			"charTip" : "わらいごえ。"
+		},
+		{
+			"character" : "笑顔が可愛い。",
+			"charTip" : "えがお　が　がわいい。"
+		},
+		{
+			"character" : "顔に笑みが浮かぶ。",
+			"charTip" : "かお　に　えみ　が　うかぶ。"
+		},
+		{
+			"character" : "微笑を浮かべる。",
+			"charTip" : "びしょう　を　うかべる。"
+		},
+		{
+			"character" : "彼はプロ野球の人気チームの四番打者だ。",
+			"charTip" : "かれ　は　ぷろ　やきゅう　の　にんき　ちーむ　の　よんばん　だしゃ　だ。"
+		},
+		{
+			"character" : "高い山では空気が薄いので呼吸が苦しい。",
+			"charTip" : "たかい　やま　では　くうき　が　うすい　ので　こきゅう　が　くるしい。"
+		},
+		{
+			"character" : "先生がいらっしゃったら起立してください。",
+			"charTip" : "せんせい　が　いらっしゃたら　きりつ　してください。"
+		},
+		{
+			"character" : "小数点以下は四捨五入してください。",
+			"charTip" : "しょうすうてんいか　は　ししゃごにゅう　してください。"
+		},
+		{
+			"character" : "寝台車に乗って青森まで行った。",
+			"charTip" : "しんだいしゃ　に　のって　あおもり　まで　いった。"
+		},
+		{
+			"character" : "これはシェークスピアの作品からの引用だ。",
+			"charTip" : "これ　は　しぇーくすぴあ　の　さくひん　から　の　いんよう　だ。"
+		},
+		{
+			"character" : "隣の部屋から笑い声が聞こえた。",
+			"charTip" : "となり　の　へや　から　わらいごえ　が　きこえた。"
+		},
+		{
+			"character" : "彼は高校ではクラスでも抜群の成績だった。",
+			"charTip" : "かれ　は　こうこう　では　くらす　でも　ばつぐん　の　せいせき　だった。"
+		},
+		{
+			"character" : "ケーキの上の蝋燭を吹いて消した。",
+			"charTip" : "けーき　の　うえ　の　ろうそく　を　ふいて　けした。"
+		},
+		{
+			"character" : "自分の考えを新聞に投書した。",
+			"charTip" : "じぶん　の　かんがえ　を　しんぶん　に　とうしょ　した。"
+		},
+		{
+			"character" : "車の窓からタバコを投げ捨てるのは危険です。",
+			"charTip" : "くるま　の　まど　から　たばこ　を　なげすてる　のは　きけん　です。"
+		},
+		{
+			"character" : "用がある時は、このボタンを押してください。",
+			"charTip" : "よう　が　ある　とき　は、　この　ぼたん　を　おしてください。"
+		},
+		{
+			"character" : "道で財布を拾ったので、交番に届けた。",
+			"charTip" : "みち　で　さいふ　を　ひろった　ので、　こうばん　に　とどけた。"
+		},
+		{
+			"character" : "女の子に赤い紙で鶴を折ってあげた。",
+			"charTip" : "おんな　の　こ　に　あかい　かみ　で　つる　を　おってあげた。"
+		},
+		{
+			"character" : "後ろから来た車に抜かれてしまった。",
+			"charTip" : "うしろ　から　きた　くるま　に　ぬかれてしまった。"
+		},
+		{
+			"character" : "犯人を捜す手掛かりが何もない。",
+			"charTip" : "はんにん　を　さがす　てがかり　が　なに　も　ない。"
+		},
+		{
+			"character" : "名前を呼ばれたら返事をしてください。",
+			"charTip" : "なまえ　を　よばれたら　へんじ　を　してください。"
+		},
+		{
+			"character" : "「助けてくれ。」と叫んだ。",
+			"charTip" : "「たすけてくれ。」　と　さけんだ。"
+		},
+		{
+			"character" : "ベッドに寝たまま外の景色が見える。",
+			"charTip" : "べっど　に　ねたまま　そと　の　けしき　が　みえる。"
+		},
+		{
+			"character" : "可哀そうな話を聞いて泣いてしまった。",
+			"charTip" : "かわいそう　な　はなし　を　きいて　ないて　しまった。"
+		},
+		{
+			"character" : "泥棒を追う。",
+			"charTip" : "どろぼう　を　おう。"
+		},
+		{
+			"character" : "料理を追加する。",
+			"charTip" : "りょうり　を　ついか　する。"
+		},
+		{
+			"character" : "猫が鼠を追い掛ける。",
+			"charTip" : "ねこ　が　ねずみ　を　おいかける。"
+		},
+		{
+			"character" : "追放する。",
+			"charTip" : "ついほう　する。"
+		},
+		{
+			"character" : "山を越える。",
+			"charTip" : "やま　を　こえる。"
+		},
+		{
+			"character" : "年越し蕎麦。",
+			"charTip" : "とし　こし　そば。"
+		},
+		{
+			"character" : "前の車を追い越す。",
+			"charTip" : "なまえ　の　くるま　を　おいこす。"
+		},
+		{
+			"character" : "優越感を持つ。",
+			"charTip" : "ゆうえつかん　を　もつ。"
+		},
+		{
+			"character" : "富士山に登る。",
+			"charTip" : "ふじさん　に　のぼる。"
+		},
+		{
+			"character" : "山登り。",
+			"charTip" : "やまのぼり。"
+		},
+		{
+			"character" : "登山道。",
+			"charTip" : "とざんどう。"
+		},
+		{
+			"character" : "映画の登場人物。",
+			"charTip" : "えいが　の　とうじょう　じんぶつ。"
+		},
+		{
+			"character" : "登校する。",
+			"charTip" : "とうこう　する。"
+		},
+		{
+			"character" : "空を飛ぶ。",
+			"charTip" : "そら　を　とぶ。"
+		},
+		{
+			"character" : "紙飛行機を飛ばす。",
+			"charTip" : "かみひこうき　を　とばす。"
+		},
+		{
+			"character" : "大空を飛行する。",
+			"charTip" : "おおぞら　を　ひこう　する。"
+		},
+		{
+			"character" : "この町を去る。",
+			"charTip" : "この　まち　を　さる。"
+		},
+		{
+			"character" : "危険が去る。",
+			"charTip" : "きけん　が　さる。"
+		},
+		{
+			"character" : "去年。",
+			"charTip" : "きょねん。"
+		},
+		{
+			"character" : "過去の出来事。",
+			"charTip" : "かこ　の　できごと。"
+		},
+		{
+			"character" : "逃げ去る。",
+			"charTip" : "にげさる。"
+		},
+		{
+			"character" : "犯人を逃がす。",
+			"charTip" : "はんにん　を　にがす。"
+		},
+		{
+			"character" : "難を逃れる。",
+			"charTip" : "なん　を　のがれる。"
+		},
+		{
+			"character" : "車で逃走する。",
+			"charTip" : "くるま　で　とうそう　する。"
+		},
+		{
+			"character" : "目が回る。",
+			"charTip" : "め　が　まわる。"
+		},
+		{
+			"character" : "独楽を回す。",
+			"charTip" : "こま　を　まわす。"
+		},
+		{
+			"character" : "回り道。",
+			"charTip" : "まわりみち。"
+		},
+		{
+			"character" : "回答する。",
+			"charTip" : "かいとう　する。"
+		},
+		{
+			"character" : "回数券。",
+			"charTip" : "かいすうけん。"
+		},
+		{
+			"character" : "次回。",
+			"charTip" : "じかい。"
+		},
+		{
+			"character" : "刀で刺す。",
+			"charTip" : "かたな　で　さす。"
+		},
+		{
+			"character" : "ナイフが刺さる。",
+			"charTip" : "ないふ　が　ささる。"
+		},
+		{
+			"character" : "刺身。",
+			"charTip" : "さしみ。"
+		},
+		{
+			"character" : "名刺。",
+			"charTip" : "めいし。"
+		},
+		{
+			"character" : "刺激が強い。",
+			"charTip" : "しげき　が　つよい。"
+		},
+		{
+			"character" : "針で突く。",
+			"charTip" : "はり　で　つく。"
+		},
+		{
+			"character" : "杖を突いて歩く。",
+			"charTip" : "つえ　を　ついて　あるく。"
+		},
+		{
+			"character" : "車に衝突する。",
+			"charTip" : "くるま　に　しょうとつ　する。"
+		},
+		{
+			"character" : "突然の出来事。",
+			"charTip" : "とつぜん　の　できごと。"
+		},
+		{
+			"character" : "クラスを取る。",
+			"charTip" : "くらす　を　とる。"
+		},
+		{
+			"character" : "書類を受け取る。",
+			"charTip" : "しょるい　を　うけとる。"
+		},
+		{
+			"character" : "ビザを取得する。",
+			"charTip" : "びざ　を　しゅとく　する。"
+		},
+		{
+			"character" : "取材する。",
+			"charTip" : "しゅざい　する。"
+		},
+		{
+			"character" : "草が伸びる。",
+			"charTip" : "くさ　が　のびる。"
+		},
+		{
+			"character" : "学力を伸ばす。",
+			"charTip" : "がくりょく　を　のばす。"
+		},
+		{
+			"character" : "背伸びをする。",
+			"charTip" : "せのび　を　する。"
+		},
+		{
+			"character" : "伸縮する。",
+			"charTip" : "しんしゅく　する。"
+		},
+		{
+			"character" : "病院に急ぐ。",
+			"charTip" : "びょういん　に　いそぐ。"
+		},
+		{
+			"character" : "急いで学校へ行く。",
+			"charTip" : "いそいで　がっこう　へ　いく。"
+		},
+		{
+			"character" : "急な用事。",
+			"charTip" : "きょう　な　ようじ。"
+		},
+		{
+			"character" : "急病。",
+			"charTip" : "きゅうびょう。"
+		},
+		{
+			"character" : "急行。",
+			"charTip" : "きゅうこう。"
+		},
+		{
+			"character" : "特急。",
+			"charTip" : "とっきゅう。"
+		},
+		{
+			"character" : "椅子に座る。",
+			"charTip" : "いす　に　すわる。"
+		},
+		{
+			"character" : "座布団に座る。",
+			"charTip" : "ざぶとん　に　すわる。"
+		},
+		{
+			"character" : "座席。",
+			"charTip" : "ざせき。"
+		},
+		{
+			"character" : "正座する。",
+			"charTip" : "せいざ　する。"
+		},
+		{
+			"character" : "座談会。",
+			"charTip" : "ざだんかい。"
+		},
+		{
+			"character" : "小石が坂を転がる。",
+			"charTip" : "こいし　が　さか　を　ころがる。"
+		},
+		{
+			"character" : "樽を転がす。",
+			"charTip" : "たる　を　ころがす。"
+		},
+		{
+			"character" : "回転する。",
+			"charTip" : "かいてん　する。"
+		},
+		{
+			"character" : "転勤する。",
+			"charTip" : "てんきん　する。"
+		},
+		{
+			"character" : "運転する。",
+			"charTip" : "うんてん　する。"
+		},
+		{
+			"character" : "木が倒れる。",
+			"charTip" : "き　が　たおれる。"
+		},
+		{
+			"character" : "敵を倒す。",
+			"charTip" : "てき　を　たおす。"
+		},
+		{
+			"character" : "転倒する。",
+			"charTip" : "てんとう　する。"
+		},
+		{
+			"character" : "会社が倒産する。",
+			"charTip" : "かいしゃ　が　とうさん　する。"
+		},
+		{
+			"character" : "倒立する。",
+			"charTip" : "とうりつ　する。"
+		},
+		{
+			"character" : "木の葉が風に舞う。",
+			"charTip" : "き　の　は　が　かぜ　に　まう。"
+		},
+		{
+			"character" : "舞台に出る。",
+			"charTip" : "ぶたい　に　でる。"
+		},
+		{
+			"character" : "病院に見舞いに行く。",
+			"charTip" : "びょういん　に　みまい　に　いく。"
+		},
+		{
+			"character" : "ダンスを踊る。",
+			"charTip" : "だんす　を　おどる。"
+		},
+		{
+			"character" : "盆踊り。",
+			"charTip" : "ぼんおどり。"
+		},
+		{
+			"character" : "階段の踊り場。",
+			"charTip" : "かいだん　の　おどりば。"
+		},
+		{
+			"character" : "日本舞踊。",
+			"charTip" : "にほん　ぶよう。"
+		},
+		{
+			"character" : "北海道へ飛行機に乗って行った。",
+			"charTip" : "ほっかいどう　へ　ひこうき　に　のっていった。"
+		},
+		{
+			"character" : "バスの回数券を買った。",
+			"charTip" : "ばす　の　かいすうけん　を　かった。"
+		},
+		{
+			"character" : "このコーヒは去年の冬に買った。",
+			"charTip" : "この　こーひ　は　きょねん　の　ふゆ　に　かった。"
+		},
+		{
+			"character" : "突然、叫び声が聞こえた。",
+			"charTip" : "とつぜん、　さけびごえ　が　きこえた。"
+		},
+		{
+			"character" : "先月、車の免許を取得した。",
+			"charTip" : "せんげつ、　くるま　の　めんきょ　を　しゅとく　した。"
+		},
+		{
+			"character" : "山田さんは今日急病で会社を休んだ。",
+			"charTip" : "やまださん　は　きょう　きゅうびょう　で　かいしゃ　を　やすんだ。"
+		},
+		{
+			"character" : "父が話している間、畳に正座させられた。",
+			"charTip" : "ちち　が　はなしている　あいだ、　たたみ　に　せいざ　させられた。"
+		},
+		{
+			"character" : "ボールを蹴って子供の前に転がした。",
+			"charTip" : "ぼーる　を　けって　こども　の　まえ　に　ころがした。"
+		},
+		{
+			"character" : "最近、登山は中高年に人気がある。",
+			"charTip" : "さいきん、　とざん　は　ちゅうこうねん　に　にんき　が　ある。"
+		},
+		{
+			"character" : "子供の時から日本舞踊を習っています。",
+			"charTip" : "こども　の　とき　から　にほん　ぶよう　を　ならっています。"
+		},
+		{
+			"character" : "前を歩いている人を追い越した。",
+			"charTip" : "まえ　を　あるいている　ひと　を　おいこした。"
+		},
+		{
+			"character" : "私の家はこの坂を登ったところです。",
+			"charTip" : "わたし　の　いえ　は　この　さか　を　のった　ところ　です。"
+		},
+		{
+			"character" : "鳥のように空を飛びたい。",
+			"charTip" : "とり　の　よう　に　そら　を　とびたい。"
+		},
+		{
+			"character" : "犯人は車で逃げ去った。",
+			"charTip" : "はんにん　は　くるま　で　にげさった。"
+		},
+		{
+			"character" : "その男はナイフで刺されて死んだ。",
+			"charTip" : "その　おとこ　は　ないふ　で　さされて　しんだ。"
+		},
+		{
+			"character" : "どちらか好きなほうをお取りください。",
+			"charTip" : "どちら　か　すきな　ほう　を　おとりください。"
+		},
+		{
+			"character" : "雨が降って、草が一度に伸びた。",
+			"charTip" : "あめ　が　ふって、　くさ　が　いちど　に　のびた。"
+		},
+		{
+			"character" : "時間がないので、急いで食事をした。",
+			"charTip" : "じかん　が　ない　ので、　いそいで　しょくじ　を　した。"
+		},
+		{
+			"character" : "駅で人に押されて転倒した。",
+			"charTip" : "えき　で　ひと　に　おされて　てんとう　した。"
+		},
+		{
+			"character" : "この椅子に座ってください。",
+			"charTip" : "この　いす　に　すわって　ください。"
+		},
+		{
+			"character" : "痛みを感じる。",
+			"charTip" : "いたみ　を　かんじる。"
+		},
+		{
+			"character" : "関心な子供。",
+			"charTip" : "かんしん　な　こども。"
+		},
+		{
+			"character" : "映画に感動する。",
+			"charTip" : "えいが　に　かんどう　する。"
+		},
+		{
+			"character" : "感謝する。",
+			"charTip" : "かんしゃ　する。"
+		},
+		{
+			"character" : "人の情けを知る。",
+			"charTip" : "ひと　の　なさけ　を　しる。"
+		},
+		{
+			"character" : "感情を表す。",
+			"charTip" : "かんじょう　を　あらわす。"
+		},
+		{
+			"character" : "情報を集める。",
+			"charTip" : "じょうほう　を　あつめる。"
+		},
+		{
+			"character" : "同情する。",
+			"charTip" : "どうじょう　する。"
+		},
+		{
+			"character" : "微風が快い。",
+			"charTip" : "そよかぜ　が　こころよい。"
+		},
+		{
+			"character" : "愉快な友達。",
+			"charTip" : "ゆかい　な　ともだち。"
+		},
+		{
+			"character" : "快晴。",
+			"charTip" : "かいせい。"
+		},
+		{
+			"character" : "快適な温度。",
+			"charTip" : "かいてき　な　おんど。"
+		},
+		{
+			"character" : "エンジンは快調だ。",
+			"charTip" : "えんじん　は　かいしょう　だ。"
+		},
+		{
+			"character" : "生活が苦しい。",
+			"charTip" : "せいかつ　が　くるしい。"
+		},
+		{
+			"character" : "苦い薬。",
+			"charTip" : "にがい　くすり。"
+		},
+		{
+			"character" : "苦手。",
+			"charTip" : "にがて。"
+		},
+		{
+			"character" : "苦労する。",
+			"charTip" : "くろう　する。"
+		},
+		{
+			"character" : "苦情受け付け係。",
+			"charTip" : "くじょう　うけつけ　がかり。"
+		},
+		{
+			"character" : "苦心。",
+			"charTip" : "くしん。"
+		},
+		{
+			"character" : "歯が痛む。",
+			"charTip" : "は　が　いたむ。"
+		},
+		{
+			"character" : "胸を痛める。",
+			"charTip" : "むね　を　いためる。"
+		},
+		{
+			"character" : "頭痛。",
+			"charTip" : "ずつう。"
+		},
+		{
+			"character" : "苦痛を感じる。",
+			"charTip" : "くつう　を　かんじる。"
+		},
+		{
+			"character" : "通関する。",
+			"charTip" : "つうかん　する。"
+		},
+		{
+			"character" : "体が弱くて困る。",
+			"charTip" : "からだ　が　よわくて　こまる。"
+		},
+		{
+			"character" : "お金に困る。",
+			"charTip" : "おかね　に　こまる。"
+		},
+		{
+			"character" : "困難を乗り越える。",
+			"charTip" : "こんなん　を　のりこえる。"
+		},
+		{
+			"character" : "貧困家庭。",
+			"charTip" : "ひんこんかてい。"
+		},
+		{
+			"character" : "試合に勝って喜ぶ。",
+			"charTip" : "しあい　に　かって　よろこぶ。"
+		},
+		{
+			"character" : "喜びを感じる。",
+			"charTip" : "よろこび　を　かんじる。"
+		},
+		{
+			"character" : "喜劇。",
+			"charTip" : "きげき。"
+		},
+		{
+			"character" : "喜ばしい出来事。",
+			"charTip" : "よろこばしい　できごと。"
+		},
+		{
+			"character" : "悲しい知らせ。",
+			"charTip" : "かなしい　しらせ。"
+		},
+		{
+			"character" : "父の死を悲しむ。",
+			"charTip" : "ちち　の　し　を　かなしむ。"
+		},
+		{
+			"character" : "悲劇。",
+			"charTip" : "ひげき。"
+		},
+		{
+			"character" : "悲鳴を上げる。",
+			"charTip" : "ひめい　を　あげる。"
+		},
+		{
+			"character" : "病気に悩む。",
+			"charTip" : "びょうき　に　なやむ。"
+		},
+		{
+			"character" : "悩みがある。",
+			"charTip" : "なやみ　が　ある。"
+		},
+		{
+			"character" : "問題の解決に苦悩する。",
+			"charTip" : "もんだい　の　かいけつ　に　くのう　する。"
+		},
+		{
+			"character" : "辛いカレー。",
+			"charTip" : "からい　かれー。"
+		},
+		{
+			"character" : "香辛料を入れる。",
+			"charTip" : "こうしんりょう　を　いれる。"
+		},
+		{
+			"character" : "辛口。",
+			"charTip" : "からくち。"
+		},
+		{
+			"character" : "辛抱する。",
+			"charTip" : "しんぼう　する。"
+		},
+		{
+			"character" : "甘いお菓子。",
+			"charTip" : "あまい　おかし。"
+		},
+		{
+			"character" : "親に甘える。",
+			"charTip" : "おや　に　あまえる。"
+		},
+		{
+			"character" : "子供を甘やかす。",
+			"charTip" : "こども　を　あまやかす。"
+		},
+		{
+			"character" : "甘口。",
+			"charTip" : "あまくち。"
+		},
+		{
+			"character" : "甘味料。",
+			"charTip" : "かんみりょう。"
+		},
+		{
+			"character" : "作品に触らないでください。",
+			"charTip" : "さくひん　に　さわらない　で　ください。"
+		},
+		{
+			"character" : "髪が頬に触れる。",
+			"charTip" : "かみ　が　ほお　に　ふれる。"
+		},
+		{
+			"character" : "感触がいい。",
+			"charTip" : "かんしょく　が　いい。"
+		},
+		{
+			"character" : "柔らかな布団。",
+			"charTip" : "やわらか　な　ふとん。"
+		},
+		{
+			"character" : "体が柔らかい。",
+			"charTip" : "からだ　が　やわらかい。"
+		},
+		{
+			"character" : "柔道。",
+			"charTip" : "じゅうどう。"
+		},
+		{
+			"character" : "柔和な性格の人。",
+			"charTip" : "にゅうわ　な　せいかく　の　ひと。"
+		},
+		{
+			"character" : "硬い石。",
+			"charTip" : "かたい　いし。"
+		},
+		{
+			"character" : "硬い土。",
+			"charTip" : "かたい　つち。"
+		},
+		{
+			"character" : "顔の表情が硬い。",
+			"charTip" : "かお　の　ひょうじょう　が　かたい。"
+		},
+		{
+			"character" : "百円硬貨。",
+			"charTip" : "ひゃく　えん　こうか。"
+		},
+		{
+			"character" : "強硬な意見。",
+			"charTip" : "きょうこう　な　いけん。"
+		},
+		{
+			"character" : "息が荒い。",
+			"charTip" : "いき　が　あらい。"
+		},
+		{
+			"character" : "海が荒れる。",
+			"charTip" : "うみ　が　あれる。"
+		},
+		{
+			"character" : "荒れ地。",
+			"charTip" : "あれち。"
+		},
+		{
+			"character" : "荒天。",
+			"charTip" : "こうてん。"
+		},
+		{
+			"character" : "戦争で荒廃した国土。",
+			"charTip" : "せんそう　で　こうはい　した　こくど。"
+		},
+		{
+			"character" : "体の動きが鈍い。",
+			"charTip" : "からだ　の　うごき　が　にぶい。"
+		},
+		{
+			"character" : "頭の働きが鈍る。",
+			"charTip" : "あたま　の　はたらき　が　にぶる。"
+		},
+		{
+			"character" : "鈍感な人。",
+			"charTip" : "どんかん　な　ひと。"
+		},
+		{
+			"character" : "美しい景色。",
+			"charTip" : "うつくしい　けしき。"
+		},
+		{
+			"character" : "美しい話。",
+			"charTip" : "うつくしい　はなし。"
+		},
+		{
+			"character" : "美人。",
+			"charTip" : "びじん。"
+		},
+		{
+			"character" : "美男美女。",
+			"charTip" : "びなん　びじょ。"
+		},
+		{
+			"character" : "美容院。",
+			"charTip" : "びよういん。"
+		},
+		{
+			"character" : "美術品。",
+			"charTip" : "びじゅつひん。"
+		},
+		{
+			"character" : "汚れた服。",
+			"charTip" : "よごれた　ふく。"
+		},
+		{
+			"character" : "シャツを汚す。",
+			"charTip" : "しゃつ　を　よごす。"
+		},
+		{
+			"character" : "汚い手。",
+			"charTip" : "きたない　て。"
+		},
+		{
+			"character" : "心が汚れる。",
+			"charTip" : "こころ　が　けがれる。"
+		},
+		{
+			"character" : "汚水。",
+			"charTip" : "おすい。"
+		},
+		{
+			"character" : "汚染される。",
+			"charTip" : "おせん　される。"
+		},
+		{
+			"character" : "この布はとても感触がいい。",
+			"charTip" : "この　ぬの　は　とても　かんしょく　が　いい。"
+		},
+		{
+			"character" : "快い春の日差しを浴びている。",
+			"charTip" : "こころよい　はる　の　ひざし　を　あびている。"
+		},
+		{
+			"character" : "何もしないで待っているのは苦痛だ。",
+			"charTip" : "なにも　しないで　まっている　のは　くつう　だ。"
+		},
+		{
+			"character" : "辛い食べ物は胃に悪いそうだ。",
+			"charTip" : "からい　たべもの　は　い　に　わるい　そう　だ。"
+		},
+		{
+			"character" : "男の子は母親に甘えていた。",
+			"charTip" : "おとこのこ　は　ははおや　に　あまえていた。"
+		},
+		{
+			"character" : "五百円硬貨を持っていますか。",
+			"charTip" : "ご　ひゃく　えん　こうか　を　もっていますか。"
+		},
+		{
+			"character" : "台風のため、海が荒れている。",
+			"charTip" : "たいふう　の　ため、　うみ　が　あれている。"
+		},
+		{
+			"character" : "私は数学が苦手だ。",
+			"charTip" : "わたし　は　すうがく　が　にがて　だ。"
+		},
+		{
+			"character" : "美容院で髪を切ってもらった。",
+			"charTip" : "びよういん　で　かみ　を　きってもらった。"
+		},
+		{
+			"character" : "川に汚水を流してはいけない。",
+			"charTip" : "かわ　に　おすい　を　ながして　は　いけない。"
+		},
+		{
+			"character" : "彼は顔に少しも感情を表さない。",
+			"charTip" : "かれ　は　かお　に　すこし　も　かんじょう　を　あらわさない。"
+		},
+		{
+			"character" : "美しいメロデイーが聞こえてきた。",
+			"charTip" : "うつくしい　めろでいー　が　きこえてきた。"
+		},
+		{
+			"character" : "風邪をひいて、喉が痛い。",
+			"charTip" : "かぜ　を　ひいて、のど　が　いたい。"
+		},
+		{
+			"character" : "困った時は、お互いに助け合おう。",
+			"charTip" : "こまった　とき　は、　おたがい　に　たすけあおう。"
+		},
+		{
+			"character" : "玩具を貰って子供は喜んだ。",
+			"charTip" : "おもちゃ　を　もらって　こども　は　よろこん　だ。"
+		},
+		{
+			"character" : "可愛がっていた子犬が死んで悲しい。",
+			"charTip" : "かわいがあって　いた　こいぬ　が　しんで　かなしい。"
+		},
+		{
+			"character" : "誰にも一つぐらい悩みがある。",
+			"charTip" : "だれにも　ひとつ　ぐらい　なやみ　が　ある。"
+		},
+		{
+			"character" : "作品に触ってはいけない。",
+			"charTip" : "さくひん　に　さわって　は　いけない。"
+		},
+		{
+			"character" : "この肉は柔らかくて、美味しい。",
+			"charTip" : "この　にく　は　やわらかくて、　おいしい。"
+		},
+		{
+			"character" : "雨の中を歩いたので、靴が汚れた。",
+			"charTip" : "あめ　の　なか　を　あるいた　ので、くつ　が　よごれた。"
+		},
+		{
+			"character" : "入学を希望する。",
+			"charTip" : "にゅうがく　を　きぼう　する。"
+		},
+		{
+			"character" : "平和を希求する。",
+			"charTip" : "へいわ　を　ききゅう　する。"
+		},
+		{
+			"character" : "ダイヤモンドは希少価値がある。",
+			"charTip" : "だいやもんど　は　きしょうかち　が　ある。"
+		},
+		{
+			"character" : "大きな望みを持つ。",
+			"charTip" : "おおきな　のぞみ　を　もつ。"
+		},
+		{
+			"character" : "失望する。",
+			"charTip" : "しつぼう　する。"
+		},
+		{
+			"character" : "切望する。",
+			"charTip" : "せつぼう　する。"
+		},
+		{
+			"character" : "望遠鏡。",
+			"charTip" : "ぼうえんきょう。"
+		},
+		{
+			"character" : "大望をいだく。",
+			"charTip" : "たいもう　を　いだく。"
+		},
+		{
+			"character" : "スターを夢見る。",
+			"charTip" : "すたー　を　ゆめみる。"
+		},
+		{
+			"character" : "初夢。",
+			"charTip" : "はつゆめ。"
+		},
+		{
+			"character" : "夢物語。",
+			"charTip" : "ゆめものがたり。"
+		},
+		{
+			"character" : "テレビゲームに夢中になる。",
+			"charTip" : "てれびげーむ　に　むちゅう　に　なる。"
+		},
+		{
+			"character" : "悪夢。",
+			"charTip" : "あくむ。"
+		},
+		{
+			"character" : "恋する。",
+			"charTip" : "こい　する。"
+		},
+		{
+			"character" : "恋人。",
+			"charTip" : "こいびと。"
+		},
+		{
+			"character" : "母が恋しい。",
+			"charTip" : "はは　が　こいしい。"
+		},
+		{
+			"character" : "家を恋しがる。",
+			"charTip" : "いえ　を　こいしがる。"
+		},
+		{
+			"character" : "失恋する。",
+			"charTip" : "しつれん　する。"
+		},
+		{
+			"character" : "子供を愛する。",
+			"charTip" : "こども　を　あいする。"
+		},
+		{
+			"character" : "母の愛。",
+			"charTip" : "はは　の　あい。"
+		},
+		{
+			"character" : "愛情。",
+			"charTip" : "あいじょう。"
+		},
+		{
+			"character" : "恋愛小説。",
+			"charTip" : "れんあい　しょうせつ。"
+		},
+		{
+			"character" : "愛読書。",
+			"charTip" : "あいどくしょ。"
+		},
+		{
+			"character" : "愛用のカメラ。",
+			"charTip" : "あいよう　の　かめら。"
+		},
+		{
+			"character" : "世の中の不正を憎む。",
+			"charTip" : "よ　の　なか　の　ふせい　を　にくむ。"
+		},
+		{
+			"character" : "憎しみを持つ。",
+			"charTip" : "にくしみ　を　もつ。"
+		},
+		{
+			"character" : "憎らしい雨。",
+			"charTip" : "にくらしい　あめ。"
+		},
+		{
+			"character" : "犯人を憎悪する。",
+			"charTip" : "はんにん　を　ぞうお　する。"
+		},
+		{
+			"character" : "感想を述べる。",
+			"charTip" : "かんそう　を　のべる。"
+		},
+		{
+			"character" : "予想する。",
+			"charTip" : "よそう　する。"
+		},
+		{
+			"character" : "理想。",
+			"charTip" : "りそう。"
+		},
+		{
+			"character" : "思想。",
+			"charTip" : "しそう。"
+		},
+		{
+			"character" : "空想する。",
+			"charTip" : "くうそう　する。"
+		},
+		{
+			"character" : "愛想がいい。",
+			"charTip" : "あいそ　が　いい。"
+		},
+		{
+			"character" : "仏像。",
+			"charTip" : "ぶつぞう。"
+		},
+		{
+			"character" : "石像。",
+			"charTip" : "せきぞう。"
+		},
+		{
+			"character" : "映像。",
+			"charTip" : "えいぞう。"
+		},
+		{
+			"character" : "座像。",
+			"charTip" : "ざぞう。"
+		},
+		{
+			"character" : "写真を現像する。",
+			"charTip" : "しゃしん　を　げんぞう　する。"
+		},
+		{
+			"character" : "想像する。",
+			"charTip" : "そうぞう　する。"
+		},
+		{
+			"character" : "子供は玩具を欲しがる。",
+			"charTip" : "こども　は　おもちゃ　を　ほしがる。"
+		},
+		{
+			"character" : "欲望。",
+			"charTip" : "よくぼう。"
+		},
+		{
+			"character" : "食欲がある。",
+			"charTip" : "しょくよく　が　ある。"
+		},
+		{
+			"character" : "病人は水を欲している。",
+			"charTip" : "びょうにん　は　みず　を　ほっしている。"
+		},
+		{
+			"character" : "平和を求める。",
+			"charTip" : "へいわ　を　もとめる。"
+		},
+		{
+			"character" : "求人。",
+			"charTip" : "きゅうじん。"
+		},
+		{
+			"character" : "求職。",
+			"charTip" : "きゅうしょく。"
+		},
+		{
+			"character" : "要求する。",
+			"charTip" : "ようきゅう　する。"
+		},
+		{
+			"character" : "追求する。",
+			"charTip" : "ついきゅう　する。"
+		},
+		{
+			"character" : "無事を祈る。",
+			"charTip" : "ぶじ　を　いのる。"
+		},
+		{
+			"character" : "お祈りをする。",
+			"charTip" : "おいのり　を　する。"
+		},
+		{
+			"character" : "合格を祈願する。",
+			"charTip" : "ごうかく　を　きがん　する。"
+		},
+		{
+			"character" : "子の幸せを願う。",
+			"charTip" : "こ　の　しあわせ　を　ねがう。"
+		},
+		{
+			"character" : "願いがかなう。",
+			"charTip" : "ねがい　が　かなう。"
+		},
+		{
+			"character" : "強い願望を持つ。",
+			"charTip" : "つよい　がんぼう　を　もつ。"
+		},
+		{
+			"character" : "入学願書。",
+			"charTip" : "にゅうがくがんしょ。"
+		}
+	]
+}

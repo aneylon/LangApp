@@ -1,0 +1,508 @@
+{
+    "name": {
+        "libName": "Japanese Phrases",
+        "tip": "Japanese Phrases"
+    },
+    "characters": [
+        {
+            "character": "﻿ようこそ",
+            "charTip": "yōkoso<br>Welcome"
+        },
+        {
+            "character": "今日は",
+            "charTip": "こんにちは<br>konnichiwa Hello / Good afternoon"
+        },
+        {
+            "character": "おっす",
+            "charTip": "ossu<br>Hello - used between close male friends"
+        },
+        {
+            "character": "もしもし",
+            "charTip": "moshi moshi<br>Hello - on phone"
+        },
+        {
+            "character": "お元気ですか？",
+            "charTip": "おげんきですか？<br>o genki desu ka How are you?"
+        },
+        {
+            "character": "はい、元気です。あなたは？",
+            "charTip": "はい、げんきです。あなたは？<br>hai, genki desu. anata wa? I'm fine, thanks. And you?"
+        },
+        {
+            "character": "お蔭様で元気です",
+            "charTip": "おかげさまでげんきです<br>o kagesama de genki desu I'm good thanks to you."
+        },
+        {
+            "character": "久しぶり",
+            "charTip": "ひさしぶり<br>hisashiburi Long time no see"
+        },
+        {
+            "character": "お久しぶりですね",
+            "charTip": "おひさしぶりですね<br>o hisashiburi desu ne Long time no see"
+        },
+        {
+            "character": "お名前はなんですか?",
+            "charTip": "<br>おなまえはなんですか？ o-namae wa nan desu ka What's your name?"
+        },
+        {
+            "character": "... だ",
+            "charTip": "... da - inf<br>My name is ..."
+        },
+        {
+            "character": "...です",
+            "charTip": "... desu - frm<br>My name is ... "
+        },
+        {
+            "character": "出身はどこですか？",
+            "charTip": "しゅっしんはどこですか？<br>Shusshin wa doko desu ka? Where are you from?"
+        },
+        {
+            "character": "どちらからですか",
+            "charTip": "Dochira kara desu ka? - frm<br>Where are you from?"
+        },
+        {
+            "character": "（私は）～出身です わたしは～しゅっしんです",
+            "charTip": "((watashi wa) ... shusshin desu)<br>I'm from ... "
+        },
+        {
+            "character": "初めまして",
+            "charTip": "はじめまして<br>hajimemashite Pleased to meet you"
+        },
+        {
+            "character": "初めまして。どうぞ宜しく",
+            "charTip": "はじめまして。どうぞよろしく<br>hajimemashite. dōzo yoroshiku Pleased to meet you - reply"
+        },
+        {
+            "character": "お会いできて嬉しいです",
+            "charTip": "おあいできてうれしいです<br>oaidekite ureshii desu Nice to meet you"
+        },
+        {
+            "character": "お早うございます",
+            "charTip": "おはようございます<br>ohayō gozaimasu Good morning"
+        },
+        {
+            "character": "お早う",
+            "charTip": "おはよう<br>ohayō Good morning"
+        },
+        {
+            "character": "今日は",
+            "charTip": "こんにちは<br>konnichiwa Good afternoon"
+        },
+        {
+            "character": "今晩は",
+            "charTip": "こんばんは<br>konbanwa Good evening"
+        },
+        {
+            "character": "お休みなさい",
+            "charTip": "おやすみなさい<br>oyasumi nasai Good night"
+        },
+        {
+            "character": "お休み",
+            "charTip": "おやすみ<br>oyasumi Good night"
+        },
+        {
+            "character": "左様なら",
+            "charTip": "さようなら<br>sayōnara Goodbye - So long"
+        },
+        {
+            "character": "行って来ます",
+            "charTip": "いってきます<br>ittekimasu 'I'll be back' - you are leaving"
+        },
+        {
+            "character": "行ってらっしゃい",
+            "charTip": "いってらっしゃい<br>itterasshai 'come back soon' - you are staying"
+        },
+        {
+            "character": "行ってらっしゃい",
+            "charTip": "いってらっしゃい <br>itterasshai - Go and come back"
+        },
+        {
+            "character": "じゃ又ね",
+            "charTip": "じゃあまたね<br>jā mata ne see you later"
+        },
+        {
+            "character": "ご幸運を祈ります!",
+            "charTip": "ごこううんをいのります<br>gokoūn o inorimasu - frm Good luck"
+        },
+        {
+            "character": "頑張ってね",
+            "charTip": "がんばってね<br>gambatte ne - inf Good luck / Do your best"
+        },
+        {
+            "character": "良い一日を",
+            "charTip": "よいいちにちを<br>Yoi ichinichi o Have a nice day"
+        },
+        {
+            "character": "よい旅行を",
+            "charTip": "よいりょこうを<br>yoi ryokō o Bon voyage / Have a good journey"
+        },
+        {
+            "character": "御機嫌よう！",
+            "charTip": "ごきげんよう！<br>gokigen yō Goodbye / Good luck"
+        },
+        {
+            "character": "一路平安を祈る",
+            "charTip": "いちろへいあんをいのる<br>ichiroheian o inoru I wish you a smooth road (old fashioned)"
+        },
+        {
+            "character": "済みません",
+            "charTip": "すみません!<br>sumimasen Excuse me"
+        },
+        {
+            "character": "幾等ですか？",
+            "charTip": "いくらですか<br>ikura desu ka? How much is this?"
+        },
+        {
+            "character": "御免なさい！",
+            "charTip": "ごめんなさい!<br>gomen nasai Sorry"
+        },
+        {
+            "character": "どうも",
+            "charTip": "dōmo<br>Thank you"
+        },
+        {
+            "character": "有難う",
+            "charTip": "ありがとう<br>arigatō Thank you"
+        },
+        {
+            "character": "有難う御座います",
+            "charTip": "ありがとうございます<br>arigatō gozaimasu　Thank you"
+        },
+        {
+            "character": "どうもありがとう",
+            "charTip": "dōmo arigatō<br>Thank you"
+        },
+        {
+            "character": "どうもありがとうございます",
+            "charTip": "dōmo arigatō gozaimasu<br>Thank you"
+        },
+        {
+            "character": "どう致しまして",
+            "charTip": "どういたしまして<br>dō itashimashite　You are welcome"
+        },
+        {
+            "character": "便所はどこですか",
+            "charTip": "べんじょわどこですか？<br>benjo wa doko desu ka? Where's the toilet?"
+        },
+        {
+            "character": "トイレはどこですか",
+            "charTip": "toire wa doko desu ka?<br>Where's the toilet?"
+        },
+        {
+            "character": "お手洗いはどこですか おてあらいはどこですか？",
+            "charTip": "otearai wa doko desu ka?<br>Where's the toilet?"
+        },
+        {
+            "character": "この人が全部払います",
+            "charTip": "このひとがぜんぶはらいます<br>konohito ga zembu haraimasu This gentleman/lady will pay for everything"
+        },
+        {
+            "character": "一緒に踊りませんか？",
+            "charTip": "いっしょにおどりませんか？<br>isshoni odorimasenka? Would you like to dance with me?"
+        },
+        {
+            "character": "好きです",
+            "charTip": "すきです<br>suki desu I love you"
+        },
+        {
+            "character": "好きだ",
+            "charTip": "すきだ<br>suki da"
+        },
+        {
+            "character": "好きだよ",
+            "charTip": "すきだよ<br>suki dayo"
+        },
+        {
+            "character": "好きよ",
+            "charTip": "すきよ<br>suki yo f"
+        },
+        {
+            "character": "大好きです",
+            "charTip": "だいすきです<br>daisuki desu"
+        },
+        {
+            "character": "愛してるよ",
+            "charTip": "あいしてるよ<br>aishiteru yo I love you"
+        },
+        {
+            "character": "愛してるわ",
+            "charTip": "あいしてるわ<br>aishiteru wa - f I love you"
+        },
+        {
+            "character": "お大事に",
+            "charTip": "おだいじに<br>odaiji ni Get well soon"
+        },
+        {
+            "character": "分かりますか",
+            "charTip": "わかりますか<br>wakarimasu ka? - frm Do you understand?"
+        },
+        {
+            "character": "分かります",
+            "charTip": "わかります<br>wakarimasu I understand"
+        },
+        {
+            "character": "分かる",
+            "charTip": "わかる<br>wakaru　inf I understand"
+        },
+        {
+            "character": "分かりません",
+            "charTip": "わかりません<br>wakarimasen - frm I don't understand"
+        },
+        {
+            "character": "分からない",
+            "charTip": "わからない<br>wakaranai - inf I don't understand"
+        },
+        {
+            "character": "分かりました",
+            "charTip": "わかりました<br>wakarimashta - frm I understood"
+        },
+        {
+            "character": "ゆっくり話してください",
+            "charTip": "ゆっくりはなしてください<br>yukkuri hanashite kudasai Please speak more slowly"
+        },
+        {
+            "character": "ゆっくり言ってください",
+            "charTip": "ゆっくりいってください<br>yukkuri itte kudasai Please speak more slowly"
+        },
+        {
+            "character": "書いてください",
+            "charTip": "かいてください<br>kaite kudasai Please write it down"
+        },
+        {
+            "character": "書いて、頂けますか",
+            "charTip": "かいて、いただけますか<br>kaite itadakemasu ka Please write it down"
+        },
+        {
+            "character": "もう一度、言ってください",
+            "charTip": "もういちど、いってください<br>mō ichido, itte kudasai Please say that again"
+        },
+        {
+            "character": "日本語を話しますか？",
+            "charTip": "にほんごをはなしますか？<br>Nihongo o hanashimasu ka? Do you speak Japanse?"
+        },
+        {
+            "character": "日本語は話せますか？",
+            "charTip": "にほんごははなせますか？<br>Nihongo wa hanasemasu ka? Can you speak Japanese?"
+        },
+        {
+            "character": "日本語はできますか？",
+            "charTip": "にほんごはできますか？<br>Nihongo wa dekimasu ka? Can you speak Japanese?"
+        },
+        {
+            "character": "はい、話します",
+            "charTip": "はい、はなします<br>Hai, hanashimasu Yes I can"
+        },
+        {
+            "character": "はい、話せます",
+            "charTip": "はい、はなせます<br>Hai, hanasemasu Yes I can"
+        },
+        {
+            "character": "はい、出来ます",
+            "charTip": "はい、できます<br>Hai, dekimasu Yes I can"
+        },
+        {
+            "character": "... は日本語でなんと言いますか。",
+            "charTip": "。。。はにほんごでなんといいますか？<br>... wa nihongo de nanto īmasu ka? How do you say ... in Japanese?"
+        },
+        {
+            "character": "日本語を話せません",
+            "charTip": "にほんごをはなせません<br>Nihongo o hanasemasen I don't speak Japanese"
+        },
+        {
+            "character": "英語は出来ますか？",
+            "charTip": "えいごはできますか？<br>Eigo wa dekimasu ka? Do you speak English?"
+        },
+        {
+            "character": "英語の話せる人はいませんか？",
+            "charTip": "えいごのはなせるひとはいませんか？<br>Eigo no hanaseru hito wa imasen ka Does anyone speak English?"
+        },
+        {
+            "character": "誰か、英語が話せますか？",
+            "charTip": "だれか、えいごがはなせますか？<br>dare ka, eigo ga hanasemasu ka? Can anyone speak English?"
+        },
+        {
+            "character": "済みません。分かりませんでした。",
+            "charTip": "すみません。わかりませんでした。<br>sumimasen. wakarimasen deshita Sorry, I didn't understand that"
+        },
+        {
+            "character": "何て言いましたか？",
+            "charTip": "なんていいましたか？<br>nan te iimashita ka? What did you say?"
+        },
+        {
+            "character": "訳して下さい",
+            "charTip": "やくしてください<br>yakushite kudasai Can you translate it for me?"
+        },
+        {
+            "character": "これはどう言う意味ですか？",
+            "charTip": "これはどういういみですか？<br>kore wa dōiu imi desu ka What does this mean?"
+        },
+        {
+            "character": "これはどんな風に発音しますか？",
+            "charTip": "これはどんなふうにはつおんしますか？<br>kore wa donna fū ni hatsuon shimasu ka How do you pronounce that?"
+        },
+        {
+            "character": "部屋の設備が壊れていて困っています",
+            "charTip": "へやのせつびがこわれていてこまっています<br>heya no setsubi ga kowarete ite komatteimasu In the hotel　There's a problem in the room"
+        },
+        {
+            "character": "お湯がありません",
+            "charTip": "おゆがありません<br>oyu ga arimasen There's no hot water"
+        },
+        {
+            "character": "蛇口が漏れています",
+            "charTip": "じゃぐちがまれています<br>jaguchi ga moreteimasu The tap/faucet is leaking"
+        },
+        {
+            "character": "排水溝が詰まっています",
+            "charTip": "はいすいこうがつまっています<br>haisuikō ga tsumatteimasu The drain is blocked"
+        },
+        {
+            "character": "エアコンがうるさ過ぎます",
+            "charTip": "えあこんがうるさすぎます<br>eakon ga urusasugimasu The air conditioner is too noisy"
+        },
+        {
+            "character": "他の部屋へ移れますか",
+            "charTip": "ほかのへやへうつれますか？<br>hoka no heya e utsuremasu ka? Can I have another room?"
+        },
+        {
+            "character": "いつ、部屋を出なくてはなりませんか",
+            "charTip": "いつ、へやをでなくてはなりませんか？<br>itsu, heya o denakute wa narimasen ka? When should I vacate the room?"
+        },
+        {
+            "character": "チェックアウトしたいのですが",
+            "charTip": "ちぇっくあうとしたいのですが<br>chekkuauto shitai no desu ga I'd like to check out"
+        },
+        {
+            "character": "この日にチェックアウトしたいのですが",
+            "charTip": "このひにちぇっくあうとしたいのですが<br>kono hi ni chekkuauto shitai no desu ga I'd check out on this date"
+        },
+        {
+            "character": "タクシーを呼んで下さい",
+            "charTip": "たくしーをよんでください<br>takusī o yonde kudasi? Could you calla taxi please?"
+        },
+        {
+            "character": "請求書を見せて頂けますか？",
+            "charTip": "せいきゅうしょをみせていただけますか？<br>seikyūsho o misete itadakemasu ka? May I see the bill please?"
+        },
+        {
+            "character": "請求書の合計額は、いくらですか？",
+            "charTip": "せいきゅうしょのごうけいはいくらですか？<br>seikyūsho no gōkei wa ikura desu ka? How much is the total bill?"
+        },
+        {
+            "character": "明細書を見せて頂けますか？",
+            "charTip": "めいさいしょをみせていただけますか？<br>meisaisho o misete itadakemasu ka? Can I have an itemised bill?"
+        },
+        {
+            "character": "この請求書に間違いがあるように思うのですが",
+            "charTip": "このせいきゅうしょにまちがいがあるようにおもうのですが<br>kono seikyūsho ni machigai ga aruyō ni omō no desu ka? I think there's a mistake on this bill"
+        },
+        {
+            "character": "近くにレストランはありますか？",
+            "charTip": "ちかくにれすとらんはありますか？<br>chikaku ni resutoran wa arimasu ka? Eating out　Is there a restaurant near here?"
+        },
+        {
+            "character": "テーブルの予約を取りたいのですが",
+            "charTip": "てーぶるのよやくをとりたいのですが<br>tēburu no yoyaku o toritai no desu ga I'd like to reserve a table"
+        },
+        {
+            "character": "既に予約をとっています",
+            "charTip": "すでによやくをとっています<br>sudeni yoyaku o totte imasu We have a reservation"
+        },
+        {
+            "character": "英語のメ二ューはありますか？",
+            "charTip": "えいごのめにゅはありますか？<br>eigo no menyu wa arimasu ka? Do you have an English menu?"
+        },
+        {
+            "character": "ワインのリストを見せて頂けませんか？",
+            "charTip": "わいんのりすとをみせていただけませんか？<br>wain no risuto o misete itadakemasen ka? Can I see the wine list?"
+        },
+        {
+            "character": "私は菜食主義者です",
+            "charTip": "わたしはさいしょくしゅぎしゃです<br>watashi wa saishokushugisha desu I am a vegetarian"
+        },
+        {
+            "character": "どうぞ召し上がれ",
+            "charTip": "どうぞめしあがれ<br>douzo meshiagare = 'enjoy your meal' - said by the cook/chef Bon appetit(Have a good meal)"
+        },
+        {
+            "character": "頂ます",
+            "charTip": "いただきます<br>itadakimasu said before a meal by those eating it"
+        },
+        {
+            "character": "ご馳走さまでした",
+            "charTip": "ごちそうさまでした<br>gochisōsama deshita said after a meal by those who have eaten it"
+        },
+        {
+            "character": "乾杯",
+            "charTip": "かんぱい<br>kanpai lit. 'dry glass' Cheers/Good health!"
+        },
+        {
+            "character": "ほっといて!",
+            "charTip": "hottoite!<br>Leave me alone!"
+        },
+        {
+            "character": "助けて!",
+            "charTip": "たすけて！<br>tasukete! Help!"
+        },
+        {
+            "character": "火事だ!",
+            "charTip": "かじだ！<br>kaji da! Fire!"
+        },
+        {
+            "character": "警察を呼んでください!",
+            "charTip": "けいさつをよんでください！<br>keisatsu o yonde kudasai! Call the police!"
+        },
+        {
+            "character": "メリークリスマス",
+            "charTip": "merīkurisumasu<br>Merry Christmas"
+        },
+        {
+            "character": "新年おめでとうございます",
+            "charTip": "しんねんおめでとうございます<br>shinnen omedetō gozaimasu Happy New Year New Year greeting - 'Western' style"
+        },
+        {
+            "character": "良いお年を",
+            "charTip": "よいおとしを<br>yoi otoshi o - inf New Year greetings (used before New Year)"
+        },
+        {
+            "character": "良いお年をお迎え下さい",
+            "charTip": "よいおとしをおむかえください<br>yoi otoshi o omukae kudasai) - frm New Year greetings (used at New Year, not before)"
+        },
+        {
+            "character": "明けましておめでとうございます",
+            "charTip": "あけましておめでとうございます<br>akemashite omedetō gozaimasu"
+        },
+        {
+            "character": "旧年中大変お世話になりました",
+            "charTip": "きゅうねんじゅうたいへんおせわになりました<br>kyūnenjū taihen osewa ni narimashita "
+        },
+        {
+            "character": "今年もよろしくお願いします",
+            "charTip": "ことしもよろしくおねがいいたします<br>kotoshi mo yoroshiku onegai itashimasu New Years greeting"
+        },
+        {
+            "character": "復活祭おめでとうございます",
+            "charTip": "ふっかつさいおめでとうございます<br>fukkatsu-sai omedetō gozaimasu Happy Easter"
+        },
+        {
+            "character": "イースターおめでとうございます",
+            "charTip": "いすたーおめでとうございます<br>īsutā omedetō gozaimasu Happy Easter"
+        },
+        {
+            "character": "お誕生日おめでとうございます",
+            "charTip": "おたんじょうびおめでとうございます<br>otanjōbi omedetō gozaimasu Happy Birthday"
+        },
+        {
+            "character": "言語を一つは決して足りない",
+            "charTip": "げんごをひとつわけっしてたりない<br>gengo o hitotsu wa kesshite tarinai One language　is never enough"
+        },
+        {
+            "character": "言語は一つだけでは足りない",
+            "charTip": "げんごひとつだけではたりない<br>gengo hitotsu dake de wa tarinai One language　is never enough"
+        },
+        {
+            "character": "私のホバークラフトは鰻でいっぱいです",
+            "charTip": "わたしのほばーくらふとはうなぎでいっぱいです。<br>Watashi no hobākurafuto wa unagi de ippai desu. My hovercraft is full of eels What!?"
+        }
+    ]
+}

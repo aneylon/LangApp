@@ -1,0 +1,152 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>
+		.languages.
+	</title>
+	<meta charset="UTF-8">
+	<LINK REL="stylesheet" TYPE="TEXT/CSS" HREF="css/style01.css" />
+	<link rel="stylesheet" type="text/css" href="css/languages.css" />
+	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<script src="js/languages.js"></script>
+</head>
+<body>
+	<DIV id="pageWrapper">
+		<DIV id="headerWrapper">
+			<h1>.arlen.neylon.</h1>
+			<h4 id="subTitle">3d artist.programmer.nerd</h4>
+	<!-- Menu Bar Start -->
+			<DIV id="sectionOne">
+				<ul id="wideMenu">
+					<li> <a href="http://www.arlen-neylon.com"> home </a> </li>
+					<li> <a href="mailto:arlen.m.neylon@gmail.com"> contact </a> </li>
+				</ul>
+			</DIV>
+	<!-- Menu Bar End -->
+		</DIV>
+	<div id="bodyWrapper">
+	<div id="languagesWrapper">
+		<div id="titleWrapper">
+			<div id="titleBar">
+				<span>. languages .</span>
+			</div>
+		</div>
+		<div id="languageBodyWrapper">
+			<div id="navWrapper">
+			    <div id="languageChooser">
+				    <ul>
+				    <li><a title="Japanese" id="jMenu"><span>日本語</span></a>
+				        <ul class="hideOnStart" id="japaneseMenu">
+				        <li><a title="Hiragana" id="loadHiragana"><span>ひらがな</span></a></li>
+				        <li><a title="Katakana" id="loadKatakana"><span>カタカナ</span></a></li>
+				        <li><a title="Phrases" id="loadJapanesePhrases"><span>Phrases</span></a></li>
+				        <li><a title="JLPT N5 Vocab" id="loadJLPTN5Vocab"><span>五級の語彙</span></a></li>
+				        <li><a title="JLPT N4 Vocab" id="loadJLPTN4Vocab"><span>四級の語彙</span></a></li>
+				        <li><a title="JLPT N3 Vocab" id="loadJLPTN3Vocab"><span>三級の語彙</span></a></li>
+				        <li><a title="JLPT N2 Vocab" id="loadJLPTN2Vocab"><span>二級の語彙</span></a></li>
+				        <li><a title="JLPT N1 Vocab" id="loadJLPTN1Vocab"><span>一級の語彙</span></a></li>
+				        </ul>
+				    </li>
+				    <li><a title="Chinese" id="cMenu"><span>中文</span></a>
+				        <ul class="hideOnStart" id="chineseMenu">
+				        <!--
+				        <li><a title="Hanzi"><span>漢字</span></a></li>
+				    	-->
+				        <li><a title="Zhuyin Fuhao / Bopomofo" id="loadBopomofo"><span>注音符號<br>ㄅㄆㄇㄈ</span></a></li>
+				        <li><a title="Phrases" id="loadChinesePhrases"><span>Phrases</span></a></li>
+				        <li><a title="Chinese Vocab" id="loadChineseVocab"><span>詞彙</span></a></li>
+				        <li><a title="Chinese Vocab" id="loadHSK1Vocab"><span>HSK1詞彙</span></a></li>
+				        <li><a title="Chinese Vocab" id="loadHSK2Vocab"><span>HSK2詞彙</span></a></li>
+				        <li><a title="Chinese Vocab" id="loadHSK3Vocab"><span>HSK3詞彙</span></a></li>
+				        <li><a title="Chinese Vocab" id="loadHSK4Vocab"><span>HSK4詞彙</span></a></li>
+				        </ul>
+				    </li>
+				    <li><a title="Korean" id="kMenu"><span>한국어</span></a>
+				        <ul class="hideOnStart" id="koreanMenu">
+				        <li><a title="Hangul" id="loadHangul"><span>한글</span></a></li>
+				        <li><a title="Phrases" id="loadKoreanPhrases"><span>Phrases</span></a></li>
+				        <li><a title="Korean Vocab" id="loadKoreanVocab"><span>어휘</span></a></li>
+				        <!--
+				        <li><a title="Hanja"><span>漢字</span></a></li>
+				    	-->
+				        </ul>
+				    </li>
+				    <li><a title="Thai" id="tMenu"><span>ภาษาไทย</span></a>
+				        <ul class="hideOnStart" id="thaiMenu">
+				        <li><a title="Thai Script" id="loadThaiLetters"><span>อักษรไทย</span></a></li>
+				        <li><a title="Phrases" id="loadThaiPhrases"><span>Phrases</span></a></li>
+				        </ul>
+				    </li>
+				    <li><a title="Spanish" id="sMenu"><span>Español</span></a>
+				        <ul class="hideOnStart" id="spanishMenu">
+				        <li><a title="Phrases" id="loadSpanishPhrases"><span>Phrases</span></a></li>
+				        </ul>
+				    </li>
+				    </ul>
+			    </div>
+			</div>
+			<div id="wordsWrapper">
+				<div id="wordsTopBarWrapper">
+					<span id="libTitle">
+						Please choose a library to begin.
+					</span>
+
+				<!--
+					<div id="buttonLeft">
+						<a href=""><span> Next </span></a>
+					</div>
+					<div id="buttonLeft">
+						<a href=""><span> Previous </span></a>
+					</div>
+					<div id="buttonRight">
+						<a href=""><span> Help / About </span></a>
+					</div>
+				-->
+				</div>
+				<div id="wordsContentWrapper">
+					<div id="theWords">
+						<p id="curChar"> A </p>
+						<p id="curCharInfo"> info </p>
+					</div>
+				</div>
+				<div id="wordsBottomBarWrapper">
+					<span id="instructions">If you cannot read the character click it for more information.</span>
+				</div>
+				<div id="wordsBottomBarWrapper">
+					<div id="instructions">
+						<span>How well do you know the character?</span>
+					</div>
+					<div id="menuBar">
+				    <ul>
+				    <li><a id="knowIt">Know</a></li>
+				    <li><a id="notSure">Not Sure</a></li>
+				    <li><a id="dontKnow">Don't Know</a></li>
+				    </ul>
+				    </div> 
+				</div>
+			</div>
+		</div>
+		<div id="about">
+			<p id="aboutText"> . i made this so i could share my flash cards and study guides with other people . </p>
+			<p> . i hope you find it useful . </p>
+		</div>
+	</div>
+	</div>
+
+		<DIV id="footerWrapper">
+			<p>
+			<h6> . most word lists from 
+				<a href="http://www.omniglot.com">omniglot.com</a>
+				 and 
+				<a href="http://www.tanos.co.uk">tanos.co.uk</a>
+				 . </h6>
+			</p>
+			<p>
+			<h6>. all other content copyright arlen neylon two thousand and fourteen .</h6>
+			</p>
+		</DIV>
+
+	</DIV>
+</body>
+</html>

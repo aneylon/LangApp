@@ -1,0 +1,168 @@
+{
+	"name" : {
+			"libName" : "한글",
+			"tip" : "Hangul"
+		},
+	"characters" : [
+		{
+			"character" : "ㄱ",
+			"charTip" : "G"
+		},
+		{
+			"character" : "ㄴ",
+			"charTip" : "N"
+		},
+		{
+			"character" : "ㄷ",
+			"charTip" : "D"
+		},
+		{
+			"character" : "ㄹ",
+			"charTip" : "R / L"
+		},
+		{
+			"character" : "ㅁ",
+			"charTip" : "M"
+		},
+		{
+			"character" : "ㅂ",
+			"charTip" : "B"
+		},
+		{
+			"character" : "ㅅ",
+			"charTip" : "S"
+		},
+		{
+			"character" : "ㅇ",
+			"charTip" : "- / NG"
+		},
+		{
+			"character" : "ㅈ",
+			"charTip" : "J"
+		},
+		{
+			"character" : "ㅊ",
+			"charTip" : "CH"
+		},
+		{
+			"character" : "ㅋ",
+			"charTip" : "K"
+		},
+		{
+			"character" : "ㅌ",
+			"charTip" : "T"
+		},
+		{
+			"character" : "ㅍ",
+			"charTip" : "P"
+		},
+		{
+			"character" : "ㅎ",
+			"charTip" : "H"
+		},
+		{
+			"character" : "ㄲ",
+			"charTip" : "KK"
+		},
+		{
+			"character" : "ㄸ",
+			"charTip" : "TT"
+		},
+		{
+			"character" : "ㅃ",
+			"charTip" : "PP"
+		},
+		{
+			"character" : "ㅆ",
+			"charTip" : "SS"
+		},
+		{
+			"character" : "ㅉ",
+			"charTip" : "JJ"
+		},
+		{
+			"character" : "ㅏ",
+			"charTip" : "A"
+		},
+		{
+			"character" : "ㅓ",
+			"charTip" : "EO"
+		},
+		{
+			"character" : "ㅗ",
+			"charTip" : "O"
+		},
+		{
+			"character" : "ㅜ",
+			"charTip" : "U"
+		},
+		{
+			"character" : "ㅡ",
+			"charTip" : "EU"
+		},
+		{
+			"character" : "ㅣ",
+			"charTip" : "I"
+		},
+		{
+			"character" : "ㅑ",
+			"charTip" : "YA"
+		},
+		{
+			"character" : "ㅕ",
+			"charTip" : "YEO"
+		},
+		{
+			"character" : "ㅛ",
+			"charTip" : "YO"
+		},
+		{
+			"character" : "ㅠ",
+			"charTip" : "YU"
+		},
+		{
+			"character" : "ㅐ",
+			"charTip" : "AE"
+		},
+		{
+			"character" : "ㅒ",
+			"charTip" : "YAE"
+		},
+		{
+			"character" : "ㅔ",
+			"charTip" : "E"
+		},
+		{
+			"character" : "ㅖ",
+			"charTip" : "YE"
+		},
+		{
+			"character" : "ㅢ",
+			"charTip" : "UI"
+		},
+		{
+			"character" : "ㅘ",
+			"charTip" : "WA"
+		},
+		{
+			"character" : "ㅙ",
+			"charTip" : "WAE"
+		},
+		{
+			"character" : "ㅚ",
+			"charTip" : "EO"
+		},
+		{
+			"character" : "ㅝ",
+			"charTip" : "WO"
+		},
+		{
+			"character" : "ㅞ",
+			"charTip" : "WE"
+		},
+		{
+			"character" : "ㅟ",
+			"charTip" : "WI"
+		}
+	]
+}

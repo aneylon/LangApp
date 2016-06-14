@@ -1,0 +1,48 @@
+{
+	"name" : {
+		"libName" : "한국어 어휘",
+		"tip" : "Korean Vocabulary"
+	},
+	"characters" : [
+		{
+			"character" : "오",
+			"charTip" : "Five"
+		},
+		{
+			"character" : "이",
+			"charTip" : "Two, tooth"
+		},
+		{
+			"character" : "아이",
+			"charTip" : "Child"
+		},
+		{
+			"character" : "오이",
+			"charTip" : "Cucumber"
+		},
+		{
+			"character" : "나",
+			"charTip" : "I"
+		},
+		{
+			"character" : "너",
+			"charTip" : "You"
+		},
+		{
+			"character" : "나이",
+			"charTip" : "Age"
+		},
+		{
+			"character" : "누나",
+			"charTip" : "Older sister (boys)"
+		},
+		{
+			"character" : "오리",
+			"charTip" : "Duck"
+		},
+		{
+			"character" : "우리",
+			"charTip" : "We, our"
+		}
+	]
+}

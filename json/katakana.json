@@ -1,0 +1,292 @@
+{
+	"name" : {
+			"libName" : "カタカナ",
+			"tip" : "Katakana"
+		},
+	"characters" : [
+		{
+			"character" : "ア",
+			"charTip" : "A"
+		},
+		{
+			"character" : "イ",
+			"charTip" : "I"
+		},
+		{
+			"character" : "ウ",
+			"charTip" : "U"
+		},
+		{
+			"character" : "エ",
+			"charTip" : "E"
+		},
+		{
+			"character" : "オ",
+			"charTip" : "O"
+		},
+		{
+			"character" : "カ",
+			"charTip" : "KA"
+		},
+		{
+			"character" : "キ",
+			"charTip" : "KI"
+		},
+		{
+			"character" : "ク",
+			"charTip" : "KU"
+		},
+		{
+			"character" : "ケ",
+			"charTip" : "KE"
+		},
+		{
+			"character" : "コ",
+			"charTip" : "KO"
+		},
+		{
+			"character" : "サ",
+			"charTip" : "SA"
+		},
+		{
+			"character" : "シ",
+			"charTip" : "SHI"
+		},
+		{
+			"character" : "ス",
+			"charTip" : "SU"
+		},
+		{
+			"character" : "セ",
+			"charTip" : "SE"
+		},
+		{
+			"character" : "ソ",
+			"charTip" : "SO"
+		},
+		{
+			"character" : "タ",
+			"charTip" : "TA"
+		},
+		{
+			"character" : "チ",
+			"charTip" : "CHI"
+		},
+		{
+			"character" : "ツ",
+			"charTip" : "TSU"
+		},
+		{
+			"character" : "テ",
+			"charTip" : "TE"
+		},
+		{
+			"character" : "ト",
+			"charTip" : "TO"
+		},
+		{
+			"character" : "ナ",
+			"charTip" : "NA"
+		},
+		{
+			"character" : "ニ",
+			"charTip" : "NI"
+		},
+		{
+			"character" : "ヌ",
+			"charTip" : "NU"
+		},
+		{
+			"character" : "ネ",
+			"charTip" : "NE"
+		},
+		{
+			"character" : "ノ",
+			"charTip" : "NO"
+		},
+		{
+			"character" : "ハ",
+			"charTip" : "HA"
+		},
+		{
+			"character" : "ヒ",
+			"charTip" : "HI"
+		},
+		{
+			"character" : "フ",
+			"charTip" : "FU"
+		},
+		{
+			"character" : "ヘ",
+			"charTip" : "HE"
+		},
+		{
+			"character" : "ホ",
+			"charTip" : "HO"
+		},
+		{
+			"character" : "マ",
+			"charTip" : "MA"
+		},
+		{
+			"character" : "ミ",
+			"charTip" : "MI"
+		},
+		{
+			"character" : "ム",
+			"charTip" : "MU"
+		},
+		{
+			"character" : "メ",
+			"charTip" : "ME"
+		},
+		{
+			"character" : "モ",
+			"charTip" : "MO"
+		},
+		{
+			"character" : "ヤ",
+			"charTip" : "YA"
+		},
+		{
+			"character" : "ユ",
+			"charTip" : "YU"
+		},
+		{
+			"character" : "ヨ",
+			"charTip" : "YO"
+		},
+		{
+			"character" : "ラ",
+			"charTip" : "RA"
+		},
+		{
+			"character" : "リ",
+			"charTip" : "RI"
+		},
+		{
+			"character" : "ル",
+			"charTip" : "RU"
+		},
+		{
+			"character" : "レ",
+			"charTip" : "RE"
+		},
+		{
+			"character" : "ロ",
+			"charTip" : "RO"
+		},
+		{
+			"character" : "ワ",
+			"charTip" : "WA"
+		},
+		{
+			"character" : "ヲ",
+			"charTip" : "WO"
+		},
+		{
+			"character" : "ン",
+			"charTip" : "N"
+		},
+		{
+			"character" : "ガ",
+			"charTip" : "GA"
+		},
+		{
+			"character" : "ギ",
+			"charTip" : "GI"
+		},
+		{
+			"character" : "グ",
+			"charTip" : "GU"
+		},
+		{
+			"character" : "ゲ",
+			"charTip" : "GE"
+		},
+		{
+			"character" : "ゴ",
+			"charTip" : "GO"
+		},
+		{
+			"character" : "ザ",
+			"charTip" : "ZA"
+		},
+		{
+			"character" : "ジ",
+			"charTip" : "JI"
+		},
+		{
+			"character" : "ズ",
+			"charTip" : "ZU"
+		},
+		{
+			"character" : "ゼ",
+			"charTip" : "ZE"
+		},
+		{
+			"character" : "ゾ",
+			"charTip" : "ZO"
+		},
+		{
+			"character" : "ダ",
+			"charTip" : "DA"
+		},
+		{
+			"character" : "ヂ",
+			"charTip" : "DI"
+		},
+		{
+			"character" : "ヅ",
+			"charTip" : "DZU"
+		},
+		{
+			"character" : "デ",
+			"charTip" : "DE"
+		},
+		{
+			"character" : "ド",
+			"charTip" : "DO"
+		},
+		{
+			"character" : "バ",
+			"charTip" : "BA"
+		},
+		{
+			"character" : "ビ",
+			"charTip" : "BI"
+		},
+		{
+			"character" : "ブ",
+			"charTip" : "BU"
+		},
+		{
+			"character" : "ベ",
+			"charTip" : "BE"
+		},
+		{
+			"character" : "ボ",
+			"charTip" : "BO"
+		},
+		{
+			"character" : "パ",
+			"charTip" : "PA"
+		},
+		{
+			"character" : "ピ",
+			"charTip" : "PI"
+		},
+		{
+			"character" : "プ",
+			"charTip" : "PU"
+		},
+		{
+			"character" : "ペ",
+			"charTip" : "PE"
+		},
+		{
+			"character" : "ポ",
+			"charTip" : "PO"
+		}
+	]
+}

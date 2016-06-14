@@ -1,0 +1,6072 @@
+{
+	"name" : {
+		"libName" : "漢語水平考試 詞彙 2",
+		"tip" : "HSK Vocab 2"
+	},
+	"characters" : [
+		{
+		"character" : "﻿阿",
+		"charTip" : "ā(āgē)<br>prefix used before kinship terms; (brother)"
+		},{
+		"character" : "阿拉伯語",
+		"charTip" : "ālābóyǔ(ālābówén)<br>Arabic"
+		},{
+		"character" : "阿姨",
+		"charTip" : "āyí<br>auntie; nurse (in a family)"
+		},{
+		"character" : "挨",
+		"charTip" : "āi<br>get close to; be next to; by"
+		},{
+		"character" : "哎",
+		"charTip" : "āi<br>hey"
+		},{
+		"character" : "哎呀",
+		"charTip" : "āiyā<br>oh"
+		},{
+		"character" : "愛好",
+		"charTip" : "àihào<br>love; be fond of; like; interest; hobby"
+		},{
+		"character" : "愛護",
+		"charTip" : "àihù<br>cherish; treasure; take good care of"
+		},{
+		"character" : "愛情",
+		"charTip" : "àiqíng<br>love"
+		},{
+		"character" : "安全",
+		"charTip" : "ānquán<br>safe; secure; safty; security"
+		},{
+		"character" : "安慰",
+		"charTip" : "ānwèi<br>comfort; console; consolation"
+		},{
+		"character" : "安心",
+		"charTip" : "ān xīn<br>be relieved; feel at ease"
+		},{
+		"character" : "按",
+		"charTip" : "àn<br>press; push down; according to"
+		},{
+		"character" : "按時",
+		"charTip" : "ànshí<br>on time; on schedule"
+		},{
+		"character" : "按照",
+		"charTip" : "ànzhào<br>according to; in accordance with"
+		},{
+		"character" : "暗",
+		"charTip" : "àn<br>dark"
+		},{
+		"character" : "岸",
+		"charTip" : "àn<br>bank; shore; coast"
+		},{
+		"character" : "拔",
+		"charTip" : "bá<br>pull; pluck"
+		},{
+		"character" : "白",
+		"charTip" : "bái<br>for nothing"
+		},{
+		"character" : "白菜",
+		"charTip" : "báicài<br>Chinese cabbage"
+		},{
+		"character" : "白天",
+		"charTip" : "báitiān<br>daytime"
+		},{
+		"character" : "敗",
+		"charTip" : "bài<br>fail"
+		},{
+		"character" : "班長",
+		"charTip" : "bānzhǎng<br>class monitor"
+		},{
+		"character" : "板",
+		"charTip" : "bǎn<br>board"
+		},{
+		"character" : "半導體",
+		"charTip" : "bàndǎotǐ<br>semi-conductor"
+		},{
+		"character" : "半拉",
+		"charTip" : "bàn lǎ<br>half"
+		},{
+		"character" : "半夜",
+		"charTip" : "bànyè<br>midnight"
+		},{
+		"character" : "辦公",
+		"charTip" : "bàn gōng<br>work"
+		},{
+		"character" : "辦事",
+		"charTip" : "bàn shì<br>do an errand"
+		},{
+		"character" : "幫",
+		"charTip" : "bāng<br>help"
+		},{
+		"character" : "幫忙",
+		"charTip" : "bāng máng<br>help; do a favor"
+		},{
+		"character" : "榜樣",
+		"charTip" : "bǎngyàng<br>example; model"
+		},{
+		"character" : "傍晚",
+		"charTip" : "bàngwǎn<br>toward evening; at nightfall"
+		},{
+		"character" : "包",
+		"charTip" : "bāo<br>bag"
+		},{
+		"character" : "包",
+		"charTip" : "bāo<br>wrap"
+		},{
+		"character" : "包括",
+		"charTip" : "bāokuò<br>include; consist of; comprise"
+		},{
+		"character" : "包子",
+		"charTip" : "bāozi<br>steamed; stuffed bun"
+		},{
+		"character" : "薄",
+		"charTip" : "báo<br>thin"
+		},{
+		"character" : "保",
+		"charTip" : "bǎo<br>protect"
+		},{
+		"character" : "保持",
+		"charTip" : "bǎochí<br>keep; maintain; preserve"
+		},{
+		"character" : "保存",
+		"charTip" : "bǎocún<br>preserve; keep; conserve"
+		},{
+		"character" : "保護",
+		"charTip" : "bǎohù<br>protect; safeguard; protection"
+		},{
+		"character" : "保留",
+		"charTip" : "bǎoliú<br>reserve; hold back"
+		},{
+		"character" : "保衛",
+		"charTip" : "bǎowèi<br>defend; safeguard"
+		},{
+		"character" : "保證",
+		"charTip" : "bǎozhèng<br>ensure; assure; guarantee; promise"
+		},{
+		"character" : "寶貴",
+		"charTip" : "bǎoguì<br>valuable; precious"
+		},{
+		"character" : "抱歉",
+		"charTip" : "bàoqiàn<br>be sorry; apologize; regret"
+		},{
+		"character" : "報到",
+		"charTip" : "bào dào<br>report for duty; check in; register"
+		},{
+		"character" : "報道",
+		"charTip" : "bàodào(bàodǎo)<br>report; cover; coverage; story"
+		},{
+		"character" : "報告",
+		"charTip" : "bàogào<br>make known; report; speech; lecture"
+		},{
+		"character" : "報名",
+		"charTip" : "bào míng<br>sign up"
+		},{
+		"character" : "報紙",
+		"charTip" : "bàozhǐ<br>newspaper"
+		},{
+		"character" : "背",
+		"charTip" : "bēi<br>back"
+		},{
+		"character" : "碑",
+		"charTip" : "bēi<br>tablet"
+		},{
+		"character" : "悲痛",
+		"charTip" : "bēitòng<br>grieved; sorrowful"
+		},{
+		"character" : "北部",
+		"charTip" : "běibù<br>north"
+		},{
+		"character" : "北方",
+		"charTip" : "běifāng<br>north"
+		},{
+		"character" : "北面",
+		"charTip" : "běimiàn<br>north"
+		},{
+		"character" : "背",
+		"charTip" : "bèi<br>back"
+		},{
+		"character" : "背後",
+		"charTip" : "bèihòu<br>at the back; behind; in the rear"
+		},{
+		"character" : "被子",
+		"charTip" : "bèizi<br>quilt"
+		},{
+		"character" : "本",
+		"charTip" : "běn<br>originally"
+		},{
+		"character" : "本",
+		"charTip" : "běn<br>this"
+		},{
+		"character" : "本來",
+		"charTip" : "běnlái<br>original"
+		},{
+		"character" : "本領",
+		"charTip" : "běnlǐng<br>skill; ability; capability"
+		},{
+		"character" : "本事",
+		"charTip" : "běnshi<br>skill; ability; capability"
+		},{
+		"character" : "本質",
+		"charTip" : "běnzhì<br>essence; nature"
+		},{
+		"character" : "苯",
+		"charTip" : "bèn<br>silly"
+		},{
+		"character" : "逼",
+		"charTip" : "bī<br>force"
+		},{
+		"character" : "鼻子",
+		"charTip" : "bízi<br>nose"
+		},{
+		"character" : "比例",
+		"charTip" : "bǐlì<br>proportion"
+		},{
+		"character" : "比如",
+		"charTip" : "bǐrú<br>for example; for instance"
+		},{
+		"character" : "筆記",
+		"charTip" : "bǐjì<br>notes"
+		},{
+		"character" : "畢業",
+		"charTip" : "bì yè<br>graduate"
+		},{
+		"character" : "閉",
+		"charTip" : "bì<br>close; shut"
+		},{
+		"character" : "必然",
+		"charTip" : "bìrán<br>inevitable; certain"
+		},{
+		"character" : "必要",
+		"charTip" : "bìyào<br>necessary; essential; indispensable"
+		},{
+		"character" : "避",
+		"charTip" : "bì<br>avoid"
+		},{
+		"character" : "避免",
+		"charTip" : "bìmiǎn<br>avoid; avert"
+		},{
+		"character" : "邊…邊…",
+		"charTip" : "biān … biān …<br>as"
+		},{
+		"character" : "編",
+		"charTip" : "biān<br>plait; weave"
+		},{
+		"character" : "扁",
+		"charTip" : "biǎn<br>flat"
+		},{
+		"character" : "便",
+		"charTip" : "biàn<br>then; in that case; even if"
+		},{
+		"character" : "便條",
+		"charTip" : "biàntiáo<br>informal note"
+		},{
+		"character" : "遍",
+		"charTip" : "biàn<br>all over"
+		},{
+		"character" : "標點",
+		"charTip" : "biāodiǎn<br>punctuation"
+		},{
+		"character" : "標準",
+		"charTip" : "biāozhǔn<br>standard; criterion"
+		},{
+		"character" : "表達",
+		"charTip" : "biǎodá<br>express; convey"
+		},{
+		"character" : "表面",
+		"charTip" : "biǎomiàn<br>surface; outside; face; appearance"
+		},{
+		"character" : "表明",
+		"charTip" : "biǎomíng<br>show; evince"
+		},{
+		"character" : "賓館",
+		"charTip" : "bīngguǎn<br>guesthouse; hotel"
+		},{
+		"character" : "兵",
+		"charTip" : "bīng<br>soldier"
+		},{
+		"character" : "冰",
+		"charTip" : "bīng<br>ice"
+		},{
+		"character" : "餅乾",
+		"charTip" : "bǐnggān<br>biscuit; cracker"
+		},{
+		"character" : "病房",
+		"charTip" : "bìngfáng<br>ward; sickroom"
+		},{
+		"character" : "病菌",
+		"charTip" : "bìngjūn<br>pathogenic bacteria"
+		},{
+		"character" : "病人",
+		"charTip" : "bìngrén<br>patient"
+		},{
+		"character" : "並",
+		"charTip" : "bìng<br>simultaneously; equally; and; moreover"
+		},{
+		"character" : "併",
+		"charTip" : "bìng<br>sum; combine"
+		},{
+		"character" : "並且",
+		"charTip" : "bìngqiě<br>and; besides; moreover"
+		},{
+		"character" : "玻璃",
+		"charTip" : "bōli<br>glass"
+		},{
+		"character" : "伯父",
+		"charTip" : "bófù(bóbo)<br>father's elder brother"
+		},{
+		"character" : "伯母",
+		"charTip" : "bómǔ<br>aunt; wife of father's elder brother"
+		},{
+		"character" : "脖子",
+		"charTip" : "bózi<br>neck"
+		},{
+		"character" : "捕",
+		"charTip" : "bǔ<br>catch"
+		},{
+		"character" : "補",
+		"charTip" : "bǔ<br>patch"
+		},{
+		"character" : "補充",
+		"charTip" : "bǔchōng<br>replenish; supplement; complement"
+		},{
+		"character" : "補課",
+		"charTip" : "bǔ kè<br>make up a missed lesson"
+		},{
+		"character" : "補習",
+		"charTip" : "bǔxí<br>take lessons after school"
+		},{
+		"character" : "不必",
+		"charTip" : "búbì<br>need not; not have to"
+		},{
+		"character" : "不大",
+		"charTip" : "búdà<br>not very; not often"
+		},{
+		"character" : "不得不",
+		"charTip" : "bù dé bù<br>have to"
+		},{
+		"character" : "不得了",
+		"charTip" : "bùdéliǎo<br>very; terribly"
+		},{
+		"character" : "不斷",
+		"charTip" : "búduàn<br>unceasing; continuous"
+		},{
+		"character" : "不敢當",
+		"charTip" : "bù gǎndāng<br>you flatter me"
+		},{
+		"character" : "不管",
+		"charTip" : "bùguǎn<br>no matter; regardless of"
+		},{
+		"character" : "不過",
+		"charTip" : "búguò<br>only; though"
+		},{
+		"character" : "不好意思",
+		"charTip" : "bù hǎoyìsi<br>shy; feel embarrassed"
+		},{
+		"character" : "不僅",
+		"charTip" : "bùjǐn<br>not only"
+		},{
+		"character" : "不論",
+		"charTip" : "búlùn<br>whether; regardless of"
+		},{
+		"character" : "不平",
+		"charTip" : "bùpíng<br>indignant; resentful; injustice; unfairness"
+		},{
+		"character" : "不然",
+		"charTip" : "bùrán<br>otherwise"
+		},{
+		"character" : "不少",
+		"charTip" : "bùshǎo<br>quite a few"
+		},{
+		"character" : "不是嗎",
+		"charTip" : "bù shì ma<br>isn't it"
+		},{
+		"character" : "不行",
+		"charTip" : "bùxíng<br>won't do"
+		},{
+		"character" : "不幸",
+		"charTip" : "búxìng<br>misfortune; unfortunate"
+		},{
+		"character" : "不許",
+		"charTip" : "bùxǔ<br>be not allowed; must not"
+		},{
+		"character" : "不要緊",
+		"charTip" : "bù yàojǐn<br>doesn't matter"
+		},{
+		"character" : "不一定",
+		"charTip" : "bù yídìng<br>not sure"
+		},{
+		"character" : "不住",
+		"charTip" : "búzhù<br>continually"
+		},{
+		"character" : "布置",
+		"charTip" : "bùzhì<br>fix up; arrange; decorate"
+		},{
+		"character" : "步",
+		"charTip" : "bù<br>pace"
+		},{
+		"character" : "部",
+		"charTip" : "bù<br>department; measure word for movies"
+		},{
+		"character" : "部隊",
+		"charTip" : "bùduì<br>army; troops; force"
+		},{
+		"character" : "部門",
+		"charTip" : "bùmén<br>branch; department"
+		},{
+		"character" : "部長",
+		"charTip" : "bùzhǎng<br>minister"
+		},{
+		"character" : "猜",
+		"charTip" : "cāi<br>guess"
+		},{
+		"character" : "材料",
+		"charTip" : "cáiliào<br>material"
+		},{
+		"character" : "踩",
+		"charTip" : "cǎi<br>tread; stamp on"
+		},{
+		"character" : "採",
+		"charTip" : "cǎi<br>cull; pick"
+		},{
+		"character" : "採購",
+		"charTip" : "cǎigòu<br>purchase; go shopping"
+		},{
+		"character" : "採取",
+		"charTip" : "cǎiqǔ<br>take; adopt"
+		},{
+		"character" : "採用",
+		"charTip" : "cǎiyòng<br>adopt; use"
+		},{
+		"character" : "彩色",
+		"charTip" : "cǎisè<br>color; multicolor"
+		},{
+		"character" : "餐廳",
+		"charTip" : "cāntīng<br>restaurant; dining room"
+		},{
+		"character" : "藏",
+		"charTip" : "cáng<br>hide"
+		},{
+		"character" : "草地",
+		"charTip" : "cǎodì<br>grassland; lawn; meadow"
+		},{
+		"character" : "草原",
+		"charTip" : "cǎoyuán<br>grasslands; prairie"
+		},{
+		"character" : "廁所",
+		"charTip" : "cèsuǒ<br>W.C.; toilet; lavatory"
+		},{
+		"character" : "冊",
+		"charTip" : "cè<br>tome; book"
+		},{
+		"character" : "測驗",
+		"charTip" : "cèyàn<br>test; examination"
+		},{
+		"character" : "曾",
+		"charTip" : "céng<br>ever; once"
+		},{
+		"character" : "曾經",
+		"charTip" : "céngjīng<br>once"
+		},{
+		"character" : "插",
+		"charTip" : "chā<br>thrust"
+		},{
+		"character" : "叉子",
+		"charTip" : "chāzi<br>fork"
+		},{
+		"character" : "差",
+		"charTip" : "chà<br>bad; poor"
+		},{
+		"character" : "差不多",
+		"charTip" : "chàbuduō<br>almost"
+		},{
+		"character" : "差一點兒",
+		"charTip" : "chāyīdiǎnr<br>almost"
+		},{
+		"character" : "拆",
+		"charTip" : "chāi<br>unweave"
+		},{
+		"character" : "產量",
+		"charTip" : "chǎnliàng<br>output; yield"
+		},{
+		"character" : "產品",
+		"charTip" : "chǎnpǐn<br>product"
+		},{
+		"character" : "產生",
+		"charTip" : "chǎnshēng<br>produce; take place; engender"
+		},{
+		"character" : "嘗",
+		"charTip" : "cháng<br>taste"
+		},{
+		"character" : "長期",
+		"charTip" : "chángqī<br>long period of time; long term"
+		},{
+		"character" : "長途",
+		"charTip" : "chángtú<br>long distance"
+		},{
+		"character" : "超",
+		"charTip" : "chāo<br>exceed"
+		},{
+		"character" : "超過",
+		"charTip" : "chāoguò<br>surpass; exceed"
+		},{
+		"character" : "抄",
+		"charTip" : "chāo<br>copy"
+		},{
+		"character" : "抄寫",
+		"charTip" : "chāoxiě<br>transcribe; copy"
+		},{
+		"character" : "吵",
+		"charTip" : "chǎo<br>quarrel"
+		},{
+		"character" : "車間",
+		"charTip" : "chējiān<br>workshop"
+		},{
+		"character" : "徹底",
+		"charTip" : "chèdǐ<br>thoroughgoing; thorough"
+		},{
+		"character" : "沉默",
+		"charTip" : "chénmò<br>silent"
+		},{
+		"character" : "趁",
+		"charTip" : "chèn<br>avail oneself of"
+		},{
+		"character" : "襯衫",
+		"charTip" : "chènshān<br>shirt"
+		},{
+		"character" : "襯衣",
+		"charTip" : "chènyī<br>underclothes, shirt"
+		},{
+		"character" : "稱",
+		"charTip" : "chēng<br>weigh; call"
+		},{
+		"character" : "稱贊",
+		"charTip" : "chēngzàn<br>praise; acclaim; commend"
+		},{
+		"character" : "成分",
+		"charTip" : "chéngfèn<br>ingredient"
+		},{
+		"character" : "成功",
+		"charTip" : "chénggōng<br>success; successful"
+		},{
+		"character" : "成果",
+		"charTip" : "chéngguǒ<br>gain; achievement; positive result"
+		},{
+		"character" : "成就",
+		"charTip" : "chéngjiù<br>achievement; success"
+		},{
+		"character" : "成立",
+		"charTip" : "chénglì<br>establish; found"
+		},{
+		"character" : "成熟",
+		"charTip" : "chéngshú<br>mature; ripe"
+		},{
+		"character" : "成為",
+		"charTip" : "chéngwéi<br>turn into; become"
+		},{
+		"character" : "成長",
+		"charTip" : "chéngzhǎng<br>grow up"
+		},{
+		"character" : "乘",
+		"charTip" : "chéng<br>ride on"
+		},{
+		"character" : "程度",
+		"charTip" : "chéngdù<br>degree; extent; level"
+		},{
+		"character" : "誠懇",
+		"charTip" : "chéngkěn<br>honest; sincere"
+		},{
+		"character" : "誠實",
+		"charTip" : "chéngshí<br>honest"
+		},{
+		"character" : "承認",
+		"charTip" : "chéngrèn<br>admit; recognize; acknowledge"
+		},{
+		"character" : "吃驚",
+		"charTip" : "chī jīng<br>be startled; be shocked"
+		},{
+		"character" : "尺",
+		"charTip" : "chǐ<br>ruler; 1 chǐ = 0.333 meter"
+		},{
+		"character" : "翅膀",
+		"charTip" : "chìbǎng<br>wing"
+		},{
+		"character" : "充分",
+		"charTip" : "chōngfèn<br>ample; full; abundant"
+		},{
+		"character" : "充滿",
+		"charTip" : "chōngmǎn<br>brimming with; full of"
+		},{
+		"character" : "充足",
+		"charTip" : "chōngzú<br>adequate; abundant sufficient"
+		},{
+		"character" : "衝",
+		"charTip" : "chōng<br>rush"
+		},{
+		"character" : "蟲子",
+		"charTip" : "chóngzi<br>insect; worm"
+		},{
+		"character" : "重",
+		"charTip" : "zhòng<br>heavily"
+		},{
+		"character" : "重疊",
+		"charTip" : "chóngdié<br>overlap"
+		},{
+		"character" : "重複",
+		"charTip" : "chóngfù<br>repeat"
+		},{
+		"character" : "重新",
+		"charTip" : "chóngxīn<br>again"
+		},{
+		"character" : "崇高",
+		"charTip" : "chónggāo<br>lofty; high; sublime"
+		},{
+		"character" : "抽象",
+		"charTip" : "chōuxiàng<br>abstract"
+		},{
+		"character" : "愁",
+		"charTip" : "chóu<br>worry"
+		},{
+		"character" : "臭",
+		"charTip" : "chòu<br>smelly"
+		},{
+		"character" : "初",
+		"charTip" : "chū(chūyī)<br>the first day of the lunar month"
+		},{
+		"character" : "初步",
+		"charTip" : "chūbù<br>initial; preliminary"
+		},{
+		"character" : "初級",
+		"charTip" : "chūjí<br>elementary; primary"
+		},{
+		"character" : "出版",
+		"charTip" : "chūbǎn<br>publish"
+		},{
+		"character" : "出口",
+		"charTip" : "chū kǒu<br>export"
+		},{
+		"character" : "出生",
+		"charTip" : "chūshēng<br>be born"
+		},{
+		"character" : "出席",
+		"charTip" : "chū xí<br>attend; be present"
+		},{
+		"character" : "出院",
+		"charTip" : "chū yuàn<br>be discharged; from hospital"
+		},{
+		"character" : "廚房",
+		"charTip" : "chúfáng<br>kitchen"
+		},{
+		"character" : "除",
+		"charTip" : "chú<br>divide"
+		},{
+		"character" : "處",
+		"charTip" : "chǔ<br>deal with"
+		},{
+		"character" : "處分",
+		"charTip" : "chǔfèn<br>punishment; punish"
+		},{
+		"character" : "處理",
+		"charTip" : "chǔlǐ<br>handle; deal with"
+		},{
+		"character" : "處",
+		"charTip" : "chù<br>department"
+		},{
+		"character" : "傳",
+		"charTip" : "chuán<br>pass; send"
+		},{
+		"character" : "傳播",
+		"charTip" : "chuánbō<br>propagate; spread"
+		},{
+		"character" : "傳統",
+		"charTip" : "chuántǒng<br>tradition"
+		},{
+		"character" : "闖",
+		"charTip" : "chuǎng<br>rush"
+		},{
+		"character" : "創",
+		"charTip" : "chuàng<br>create"
+		},{
+		"character" : "創造",
+		"charTip" : "chuàngzào<br>create; creation"
+		},{
+		"character" : "創作",
+		"charTip" : "chuàngzuò<br>create; write; creative work"
+		},{
+		"character" : "春節",
+		"charTip" : "chūnjié<br>the Spring Festival"
+		},{
+		"character" : "此",
+		"charTip" : "cǐ<br>this"
+		},{
+		"character" : "此外",
+		"charTip" : "cǐwài<br>besides; moreover"
+		},{
+		"character" : "刺",
+		"charTip" : "cì<br>stab"
+		},{
+		"character" : "聰明",
+		"charTip" : "cōngming<br>intelligent; bright; clever"
+		},{
+		"character" : "從不(沒)",
+		"charTip" : "cóng bù (cóng méi)<br>never"
+		},{
+		"character" : "從…出發",
+		"charTip" : "cóng … chūfā<br>set off from"
+		},{
+		"character" : "從此",
+		"charTip" : "cóngcǐ<br>from now on"
+		},{
+		"character" : "從而",
+		"charTip" : "cóng'ér<br>thus; thereby"
+		},{
+		"character" : "從來",
+		"charTip" : "cónglái<br>always; all along"
+		},{
+		"character" : "從事",
+		"charTip" : "cóngshì<br>go in for; be engaged in"
+		},{
+		"character" : "粗",
+		"charTip" : "cū<br>rude; careless; wide; thick"
+		},{
+		"character" : "醋",
+		"charTip" : "cù<br>vinegar"
+		},{
+		"character" : "促進",
+		"charTip" : "cùjìn<br>advance; promote"
+		},{
+		"character" : "催",
+		"charTip" : "cuī<br>press; urge"
+		},{
+		"character" : "存",
+		"charTip" : "cún<br>keep"
+		},{
+		"character" : "存在",
+		"charTip" : "cúnzài<br>exist"
+		},{
+		"character" : "寸",
+		"charTip" : "cùn<br>inch"
+		},{
+		"character" : "措施",
+		"charTip" : "cuòshī<br>measure; step"
+		},{
+		"character" : "搭",
+		"charTip" : "dā<br>put up; build"
+		},{
+		"character" : "答應",
+		"charTip" : "dāying<br>respond; answer; reply"
+		},{
+		"character" : "答",
+		"charTip" : "dá<br>answer; reply; return; reciprocate"
+		},{
+		"character" : "答案",
+		"charTip" : "dá'àn<br>answer; solution; key"
+		},{
+		"character" : "答卷",
+		"charTip" : "dájuàn<br>answer sheet"
+		},{
+		"character" : "達到",
+		"charTip" : "dá dào<br>achieve; attain; reach"
+		},{
+		"character" : "打扮",
+		"charTip" : "dǎban<br>deck out; dress up"
+		},{
+		"character" : "打倒",
+		"charTip" : "dǎ dǎo<br>beat down"
+		},{
+		"character" : "打擾",
+		"charTip" : "dǎrǎo<br>disturb"
+		},{
+		"character" : "打聽",
+		"charTip" : "dǎting<br>ask about; inquire about"
+		},{
+		"character" : "打針",
+		"charTip" : "dǎ zhēn<br>inject"
+		},{
+		"character" : "大膽",
+		"charTip" : "dàdǎn<br>daring; bold"
+		},{
+		"character" : "大多數",
+		"charTip" : "dàduōshù<br>most of"
+		},{
+		"character" : "大會",
+		"charTip" : "dàhuì<br>plenary session; mass meeting"
+		},{
+		"character" : "大伙兒",
+		"charTip" : "dàhuǒr<br>everybody"
+		},{
+		"character" : "大街",
+		"charTip" : "dàjiē<br>main street"
+		},{
+		"character" : "大量",
+		"charTip" : "dàliàng<br>a large number"
+		},{
+		"character" : "大陸",
+		"charTip" : "dàlù<br>continent; mainland"
+		},{
+		"character" : "大米",
+		"charTip" : "dàmǐ<br>rice"
+		},{
+		"character" : "大批",
+		"charTip" : "dàpī<br>numbers of"
+		},{
+		"character" : "大人",
+		"charTip" : "dàren<br>adult"
+		},{
+		"character" : "大使館",
+		"charTip" : "dàshǐguǎn<br>embassy"
+		},{
+		"character" : "大小",
+		"charTip" : "dàxiǎo<br>size"
+		},{
+		"character" : "大型",
+		"charTip" : "dàxíng<br>large-scale; large"
+		},{
+		"character" : "大衣",
+		"charTip" : "dàyī<br>overcoat; topcoat"
+		},{
+		"character" : "大約",
+		"charTip" : "dàyuē<br>approximate; about"
+		},{
+		"character" : "呆",
+		"charTip" : "dāi<br>dull; slow-witted"
+		},{
+		"character" : "呆",
+		"charTip" : "dāi<br>stay"
+		},{
+		"character" : "代",
+		"charTip" : "dài<br>generation"
+		},{
+		"character" : "代替",
+		"charTip" : "dàitì<br>replace; substitute for"
+		},{
+		"character" : "袋",
+		"charTip" : "dài<br>sack; bag; pocket"
+		},{
+		"character" : "待",
+		"charTip" : "dài<br>wait; await"
+		},{
+		"character" : "擔任",
+		"charTip" : "dānrèn<br>assume the office of; hold the post of"
+		},{
+		"character" : "擔心",
+		"charTip" : "dān xīn<br>worry; feel anxious"
+		},{
+		"character" : "單",
+		"charTip" : "dān<br>only; alone"
+		},{
+		"character" : "單",
+		"charTip" : "dàn<br>alone"
+		},{
+		"character" : "單詞",
+		"charTip" : "dāncí<br>word"
+		},{
+		"character" : "單調",
+		"charTip" : "dāndiào<br>monotonous; dull"
+		},{
+		"character" : "單位",
+		"charTip" : "dānwèi<br>unit"
+		},{
+		"character" : "但",
+		"charTip" : "dàn<br>but"
+		},{
+		"character" : "淡",
+		"charTip" : "dàn<br>thin"
+		},{
+		"character" : "蛋",
+		"charTip" : "dàn<br>egg"
+		},{
+		"character" : "蛋糕",
+		"charTip" : "dàngāo<br>cake"
+		},{
+		"character" : "當…的時候",
+		"charTip" : "dāng … deshíhòu<br>when"
+		},{
+		"character" : "當地",
+		"charTip" : "dāngdì<br>local"
+		},{
+		"character" : "當年",
+		"charTip" : "dāngnián<br>in those years"
+		},{
+		"character" : "當前",
+		"charTip" : "dāngqián<br>present; current"
+		},{
+		"character" : "當時",
+		"charTip" : "dāngshí<br>at that time"
+		},{
+		"character" : "擋",
+		"charTip" : "dǎng<br>block"
+		},{
+		"character" : "黨",
+		"charTip" : "dǎng<br>party"
+		},{
+		"character" : "黨員",
+		"charTip" : "dǎngyuán<br>party member"
+		},{
+		"character" : "當",
+		"charTip" : "dàng<br>regard as"
+		},{
+		"character" : "當作",
+		"charTip" : "dàngzuò<br>treat as; regard as; look upon as"
+		},{
+		"character" : "刀子",
+		"charTip" : "dāozi<br>knife; sword"
+		},{
+		"character" : "島",
+		"charTip" : "dǎo<br>island"
+		},{
+		"character" : "到處",
+		"charTip" : "dàochù<br>at all places; everywhere"
+		},{
+		"character" : "到達",
+		"charTip" : "dàodá<br>arrive; reach; get to"
+		},{
+		"character" : "到底",
+		"charTip" : "dào dǐ<br>to the end; to the finish"
+		},{
+		"character" : "到底",
+		"charTip" : "dàodǐ<br>ever; indeed"
+		},{
+		"character" : "倒",
+		"charTip" : "dào<br>pour"
+		},{
+		"character" : "倒是",
+		"charTip" : "dào(shi)<br>on the contrary"
+		},{
+		"character" : "道",
+		"charTip" : "dào<br>say"
+		},{
+		"character" : "道",
+		"charTip" : "dào<br>street; road"
+		},{
+		"character" : "道德",
+		"charTip" : "dàodé<br>morals; ethics"
+		},{
+		"character" : "道路",
+		"charTip" : "dàolù<br>road; way; path"
+		},{
+		"character" : "道歉",
+		"charTip" : "dào qiàn<br>apologize"
+		},{
+		"character" : "德語(德文)",
+		"charTip" : "déyǔ(déwén)<br>German"
+		},{
+		"character" : "…的話",
+		"charTip" : "… dehuà<br>if"
+		},{
+		"character" : "登",
+		"charTip" : "dēng<br>register"
+		},{
+		"character" : "登記",
+		"charTip" : "dēngjì<br>register; check in"
+		},{
+		"character" : "等",
+		"charTip" : "děng<br>grade"
+		},{
+		"character" : "等待",
+		"charTip" : "děngdài<br>wait; await"
+		},{
+		"character" : "等於",
+		"charTip" : "děngyú<br>equal to; equivalent; amount to"
+		},{
+		"character" : "滴",
+		"charTip" : "dī<br>drop"
+		},{
+		"character" : "敵人",
+		"charTip" : "dírén<br>enemy; foe"
+		},{
+		"character" : "的確",
+		"charTip" : "díquè<br>indeed; really"
+		},{
+		"character" : "底下",
+		"charTip" : "dǐxia<br>below; under"
+		},{
+		"character" : "地帶",
+		"charTip" : "dìdài<br>district; region; zone"
+		},{
+		"character" : "地點",
+		"charTip" : "dìdiǎn<br>place; site; locale"
+		},{
+		"character" : "地方",
+		"charTip" : "dìfāng<br>locality"
+		},{
+		"character" : "地面",
+		"charTip" : "dìmiàn<br>ground"
+		},{
+		"character" : "地球",
+		"charTip" : "dìqiú<br>earth"
+		},{
+		"character" : "地區",
+		"charTip" : "dìqū<br>area; region; district"
+		},{
+		"character" : "地圖",
+		"charTip" : "dìtú<br>map"
+		},{
+		"character" : "地位",
+		"charTip" : "dìwèi<br>position; status"
+		},{
+		"character" : "地下",
+		"charTip" : "dìxià<br>underground"
+		},{
+		"character" : "地址",
+		"charTip" : "dìzhǐ<br>address"
+		},{
+		"character" : "遞",
+		"charTip" : "dì<br>pass"
+		},{
+		"character" : "電報",
+		"charTip" : "diǎnbào<br>cable; telegram"
+		},{
+		"character" : "電冰箱",
+		"charTip" : "diànbīngxiāng(bīngxiāng)<br>refrigerator"
+		},{
+		"character" : "電風扇",
+		"charTip" : "diànfēngshàn(diànshàn)<br>electric fan"
+		},{
+		"character" : "電視臺",
+		"charTip" : "diànshìtái<br>TV station"
+		},{
+		"character" : "電臺",
+		"charTip" : "diàntái<br>transceiver; broadcasting station"
+		},{
+		"character" : "電梯",
+		"charTip" : "diàntī<br>elevator; lift; escalator"
+		},{
+		"character" : "電影院",
+		"charTip" : "diànyǐngyuàn<br>cinema"
+		},{
+		"character" : "店",
+		"charTip" : "diàn<br>shop; store"
+		},{
+		"character" : "吊",
+		"charTip" : "diào<br>hang"
+		},{
+		"character" : "釣",
+		"charTip" : "diào<br>fish"
+		},{
+		"character" : "調",
+		"charTip" : "diào<br>shift; transfer"
+		},{
+		"character" : "調查",
+		"charTip" : "diàochá<br>investigate; survey; investigation"
+		},{
+		"character" : "跌",
+		"charTip" : "diē<br>fall down"
+		},{
+		"character" : "頂",
+		"charTip" : "dǐng<br>top"
+		},{
+		"character" : "頂",
+		"charTip" : "dǐng<br>carry on the head"
+		},{
+		"character" : "定",
+		"charTip" : "dìng<br>decide; set"
+		},{
+		"character" : "訂",
+		"charTip" : "dìng<br>draw up; conclude; order"
+		},{
+		"character" : "東北",
+		"charTip" : "dōngběi<br>northeast"
+		},{
+		"character" : "東部",
+		"charTip" : "dōngbù<br>east"
+		},{
+		"character" : "東方",
+		"charTip" : "dōngfāng<br>the East"
+		},{
+		"character" : "東面",
+		"charTip" : "dōngmiàn<br>east"
+		},{
+		"character" : "東南",
+		"charTip" : "dōngnán<br>southeast"
+		},{
+		"character" : "懂得",
+		"charTip" : "dǒngde<br>know; grasp; understand"
+		},{
+		"character" : "動人",
+		"charTip" : "dòngrén<br>moving; touching"
+		},{
+		"character" : "動身",
+		"charTip" : "dòng shēn<br>leave; go on a journey"
+		},{
+		"character" : "動手",
+		"charTip" : "dòng shǒu<br>begin on"
+		},{
+		"character" : "動物園",
+		"charTip" : "dòngwùyuán<br>zoo"
+		},{
+		"character" : "動員",
+		"charTip" : "dòngyuán<br>arouse; mobilize"
+		},{
+		"character" : "動作",
+		"charTip" : "dòngzuò<br>motion; movement"
+		},{
+		"character" : "凍",
+		"charTip" : "dòng<br>freeze"
+		},{
+		"character" : "洞",
+		"charTip" : "dòng<br>hole; cave"
+		},{
+		"character" : "鬥爭",
+		"charTip" : "dòuzhēng<br>fight; struggle; combat"
+		},{
+		"character" : "豆腐",
+		"charTip" : "dòufu<br>bean curd"
+		},{
+		"character" : "逗",
+		"charTip" : "dòu<br>tease; provoke"
+		},{
+		"character" : "獨立",
+		"charTip" : "dúlì<br>stand alone; independence"
+		},{
+		"character" : "讀書",
+		"charTip" : "dú shū<br>read; study"
+		},{
+		"character" : "讀者",
+		"charTip" : "dúzhě<br>reader"
+		},{
+		"character" : "堵",
+		"charTip" : "dǔ<br>block"
+		},{
+		"character" : "肚子",
+		"charTip" : "dùzi<br>belly; abdomen"
+		},{
+		"character" : "度",
+		"charTip" : "dù<br>degree; measure word for temperature"
+		},{
+		"character" : "度過",
+		"charTip" : "dùguò<br>spend"
+		},{
+		"character" : "渡",
+		"charTip" : "dù<br>cross; tide over; ferry"
+		},{
+		"character" : "端",
+		"charTip" : "duān<br>carry"
+		},{
+		"character" : "短期",
+		"charTip" : "duǎnqī<br>short-term"
+		},{
+		"character" : "斷",
+		"charTip" : "duàn<br>sever"
+		},{
+		"character" : "堆",
+		"charTip" : "duī<br>heap"
+		},{
+		"character" : "隊",
+		"charTip" : "duì<br>team"
+		},{
+		"character" : "隊長",
+		"charTip" : "duìzhǎng<br>team leader; captain"
+		},{
+		"character" : "隊伍",
+		"charTip" : "duìwu<br>troops; ranks"
+		},{
+		"character" : "對",
+		"charTip" : "duì<br>couple; pair"
+		},{
+		"character" : "對比",
+		"charTip" : "duìbǐ<br>compare; contrast; comparison"
+		},{
+		"character" : "對待",
+		"charTip" : "duìdài<br>treat; approach"
+		},{
+		"character" : "對方",
+		"charTip" : "duìfāng<br>the other side"
+		},{
+		"character" : "對付",
+		"charTip" : "duìfu<br>deal with"
+		},{
+		"character" : "對話",
+		"charTip" : "duìhuà<br>have a dialogue; dialogue"
+		},{
+		"character" : "對面",
+		"charTip" : "duìmiàn<br>opposite"
+		},{
+		"character" : "對象",
+		"charTip" : "duìxiàng<br>object; target; boyfriend or girlfriend"
+		},{
+		"character" : "對於",
+		"charTip" : "duìyú<br>for; about"
+		},{
+		"character" : "噸",
+		"charTip" : "dūn<br>ton"
+		},{
+		"character" : "蹲",
+		"charTip" : "dūn<br>squat"
+		},{
+		"character" : "多數",
+		"charTip" : "duōshù<br>most; majority"
+		},{
+		"character" : "奪",
+		"charTip" : "duó<br>seize"
+		},{
+		"character" : "躲",
+		"charTip" : "duǒ<br>hide; avoid"
+		},{
+		"character" : "朵",
+		"charTip" : "duǒ<br>measure word for flower or cloud"
+		},{
+		"character" : "鵝",
+		"charTip" : "é<br>goose"
+		},{
+		"character" : "而",
+		"charTip" : "ér<br>but; yet; while"
+		},{
+		"character" : "兒童",
+		"charTip" : "értóng<br>children"
+		},{
+		"character" : "耳朵",
+		"charTip" : "ěrduo<br>ear"
+		},{
+		"character" : "發表",
+		"charTip" : "fābiǎo<br>publish; issue"
+		},{
+		"character" : "發出",
+		"charTip" : "fāchū<br>send out; give out"
+		},{
+		"character" : "發達",
+		"charTip" : "fādá<br>developed; flourishing"
+		},{
+		"character" : "發動",
+		"charTip" : "fādòng<br>start; launch; arouse"
+		},{
+		"character" : "發抖",
+		"charTip" : "fādǒu<br>tremble"
+		},{
+		"character" : "發揮",
+		"charTip" : "fāhuī<br>bring into play; give play to"
+		},{
+		"character" : "發明",
+		"charTip" : "fāmíng<br>invent; invention"
+		},{
+		"character" : "發言",
+		"charTip" : "fā yán<br>speak; make a speech"
+		},{
+		"character" : "發揚",
+		"charTip" : "fāyáng<br>develop; carry on"
+		},{
+		"character" : "法郎",
+		"charTip" : "fǎláng<br>Franc"
+		},{
+		"character" : "法律",
+		"charTip" : "fǎlǜ<br>law; statute"
+		},{
+		"character" : "繁榮",
+		"charTip" : "fánróng<br>flourishing; prosperous; prosperity"
+		},{
+		"character" : "凡",
+		"charTip" : "fán<br>any; all"
+		},{
+		"character" : "反動",
+		"charTip" : "fǎndòng<br>reactionary"
+		},{
+		"character" : "反復",
+		"charTip" : "fǎnfù<br>repeatedly; again and again"
+		},{
+		"character" : "反抗",
+		"charTip" : "fǎnkàng<br>resist; revolt"
+		},{
+		"character" : "反應",
+		"charTip" : "fǎnyìng<br>react; respond; reaction; response"
+		},{
+		"character" : "反映",
+		"charTip" : "fǎnyìng<br>reflect; report; reflection"
+		},{
+		"character" : "反正",
+		"charTip" : "fǎnzhèng<br>anyway; in any case"
+		},{
+		"character" : "範圍",
+		"charTip" : "fànwéi<br>scope; limits; range"
+		},{
+		"character" : "犯",
+		"charTip" : "fàn<br>violate; offend; attack"
+		},{
+		"character" : "方",
+		"charTip" : "fāng<br>square"
+		},{
+		"character" : "方案",
+		"charTip" : "fāng'àn<br>scheme; plan; program"
+		},{
+		"character" : "方式",
+		"charTip" : "fāngshì<br>way; fashion; pattern"
+		},{
+		"character" : "方針",
+		"charTip" : "fāngzhēn<br>policy; principle"
+		},{
+		"character" : "房子",
+		"charTip" : "fàngzi<br>building; house; room"
+		},{
+		"character" : "防",
+		"charTip" : "fáng<br>prevent"
+		},{
+		"character" : "防止",
+		"charTip" : "fángzhǐ<br>prevent; avoid; guard against"
+		},{
+		"character" : "仿佛",
+		"charTip" : "fǎngfú<br>seem; as if"
+		},{
+		"character" : "紡織",
+		"charTip" : "fǎngzhī<br>spinning and weaving; textile"
+		},{
+		"character" : "放大",
+		"charTip" : "fàngdà<br>enlarge; amplify"
+		},{
+		"character" : "放棄",
+		"charTip" : "fàngqì<br>abandon; give up; renounce"
+		},{
+		"character" : "放心",
+		"charTip" : "fàng xīn<br>set one's mind at rest; rest assured"
+		},{
+		"character" : "非…不可",
+		"charTip" : "fēi … bùkě<br>must"
+		},{
+		"character" : "肥",
+		"charTip" : "féi<br>fat"
+		},{
+		"character" : "肺",
+		"charTip" : "fèi<br>lung"
+		},{
+		"character" : "費",
+		"charTip" : "fèi<br>fare; expense; money"
+		},{
+		"character" : "費",
+		"charTip" : "fèi<br>cost; spend; expend"
+		},{
+		"character" : "費用",
+		"charTip" : "fèiyòng<br>expenses; drill"
+		},{
+		"character" : "吩咐(分付)",
+		"charTip" : "fēnfù<br>instruct; tell"
+		},{
+		"character" : "分別",
+		"charTip" : "fēnbié<br>separate; distinguish; respectively"
+		},{
+		"character" : "分配",
+		"charTip" : "fēnpèi<br>assign; allocate"
+		},{
+		"character" : "分析",
+		"charTip" : "fēnxī<br>analyze"
+		},{
+		"character" : "紛紛",
+		"charTip" : "fēnfēn<br>one after another"
+		},{
+		"character" : "粉筆",
+		"charTip" : "fěnbǐ<br>chalk"
+		},{
+		"character" : "奮鬥",
+		"charTip" : "fèndòu<br>fight; struggle; strive"
+		},{
+		"character" : "份",
+		"charTip" : "fèn<br>part"
+		},{
+		"character" : "憤怒",
+		"charTip" : "fènnù<br>indignant; anger"
+		},{
+		"character" : "封建",
+		"charTip" : "fēngjiàn<br>feudalism"
+		},{
+		"character" : "風景",
+		"charTip" : "fēngjǐng<br>scenery; landscape"
+		},{
+		"character" : "風力",
+		"charTip" : "fēnglì<br>wind-force; wind power"
+		},{
+		"character" : "風俗",
+		"charTip" : "fēngsú<br>custom"
+		},{
+		"character" : "逢",
+		"charTip" : "féng<br>meet; come upon"
+		},{
+		"character" : "否定",
+		"charTip" : "fǒudìng<br>negate; deny"
+		},{
+		"character" : "否則",
+		"charTip" : "fǒuzé<br>otherwise"
+		},{
+		"character" : "扶",
+		"charTip" : "fú<br>support with the hand"
+		},{
+		"character" : "幅",
+		"charTip" : "fú<br>measure word for pictures, paintings, etc."
+		},{
+		"character" : "符合",
+		"charTip" : "fúhé<br>accord with; conform to"
+		},{
+		"character" : "服從",
+		"charTip" : "fúcóng<br>obey; submit"
+		},{
+		"character" : "浮",
+		"charTip" : "fú<br>float"
+		},{
+		"character" : "副",
+		"charTip" : "fù<br>pair; set"
+		},{
+		"character" : "副",
+		"charTip" : "fù<br>deputy; vice-"
+		},{
+		"character" : "副食",
+		"charTip" : "fùshí<br>non-staple food"
+		},{
+		"character" : "復述",
+		"charTip" : "fùshù<br>repeat"
+		},{
+		"character" : "複印",
+		"charTip" : "fùyìn<br>duplicate; copy"
+		},{
+		"character" : "付",
+		"charTip" : "fù<br>pay"
+		},{
+		"character" : "富",
+		"charTip" : "fù<br>rich"
+		},{
+		"character" : "婦女",
+		"charTip" : "fùnǚ<br>woman"
+		},{
+		"character" : "該",
+		"charTip" : "gāi<br>this; that"
+		},{
+		"character" : "改革",
+		"charTip" : "gǎigé<br>reform"
+		},{
+		"character" : "改進",
+		"charTip" : "gǎijìn<br>improve; make better; improvement"
+		},{
+		"character" : "改善",
+		"charTip" : "gǎishàn<br>improve"
+		},{
+		"character" : "改造",
+		"charTip" : "gǎizào<br>transform; show"
+		},{
+		"character" : "改正",
+		"charTip" : "gǎizhèng<br>correct; amend"
+		},{
+		"character" : "概括",
+		"charTip" : "gàikuò<br>summarize; generalize; summary"
+		},{
+		"character" : "概念",
+		"charTip" : "gàiniàn<br>concept; idea; conception"
+		},{
+		"character" : "蓋",
+		"charTip" : "gài<br>cover"
+		},{
+		"character" : "乾",
+		"charTip" : "gān<br>dry"
+		},{
+		"character" : "乾杯",
+		"charTip" : "gān bēi<br>drink a toast; cheer; bottom up"
+		},{
+		"character" : "乾脆",
+		"charTip" : "gāncuì<br>clear-cut; simple; just"
+		},{
+		"character" : "乾燥",
+		"charTip" : "gānzào<br>dry; arid"
+		},{
+		"character" : "杆",
+		"charTip" : "gān<br>pole; bar"
+		},{
+		"character" : "肝",
+		"charTip" : "gān<br>liver"
+		},{
+		"character" : "趕",
+		"charTip" : "gǎn<br>drive away; chase"
+		},{
+		"character" : "趕緊",
+		"charTip" : "gǎnjǐn<br>lose no time; at once"
+		},{
+		"character" : "趕快",
+		"charTip" : "gǎnkuài<br>at once; quickly"
+		},{
+		"character" : "感動",
+		"charTip" : "gǎndòng<br>be moved"
+		},{
+		"character" : "感激",
+		"charTip" : "gǎnjī<br>feel grateful; be thankful"
+		},{
+		"character" : "感覺",
+		"charTip" : "gǎnjué<br>feel; feeling"
+		},{
+		"character" : "感情",
+		"charTip" : "gǎnqíng<br>emotion; feeling"
+		},{
+		"character" : "感想",
+		"charTip" : "gǎnxiǎng<br>impressions; reflections"
+		},{
+		"character" : "感興趣",
+		"charTip" : "gǎn xìngqù<br>be interested in"
+		},{
+		"character" : "幹活兒",
+		"charTip" : "gàn huór<br>do sth."
+		},{
+		"character" : "幹嗎",
+		"charTip" : "gàn má<br>what? yes?"
+		},{
+		"character" : "剛剛",
+		"charTip" : "gānggāng<br>just now"
+		},{
+		"character" : "鋼",
+		"charTip" : "gāng<br>steel"
+		},{
+		"character" : "港",
+		"charTip" : "gǎng<br>port; harbor"
+		},{
+		"character" : "高大",
+		"charTip" : "gāodà<br>tall and big; tall"
+		},{
+		"character" : "高度",
+		"charTip" : "gāodù<br>altitude; height; high degree; high"
+		},{
+		"character" : "高原",
+		"charTip" : "gāoyuán<br>plateau; highland"
+		},{
+		"character" : "告",
+		"charTip" : "gào<br>tell"
+		},{
+		"character" : "告別",
+		"charTip" : "gàobié<br>leave; part from; say good-bye to"
+		},{
+		"character" : "擱",
+		"charTip" : "gē<br>lay; put"
+		},{
+		"character" : "胳膊",
+		"charTip" : "gēbo(gēbei)<br>arm"
+		},{
+		"character" : "割",
+		"charTip" : "gē<br>cut"
+		},{
+		"character" : "革命",
+		"charTip" : "gémìng<br>rise in revolt to seize power; revolution"
+		},{
+		"character" : "隔",
+		"charTip" : "gé<br>separate"
+		},{
+		"character" : "隔壁",
+		"charTip" : "gébì<br>next door"
+		},{
+		"character" : "個別",
+		"charTip" : "gèbié<br>exceptional"
+		},{
+		"character" : "個人",
+		"charTip" : "gèrén<br>individual"
+		},{
+		"character" : "個體",
+		"charTip" : "gètǐ<br>individual"
+		},{
+		"character" : "個子",
+		"charTip" : "gèzi<br>height; stature; build"
+		},{
+		"character" : "根本",
+		"charTip" : "gēnběn<br>root; essence; basic; fundamental"
+		},{
+		"character" : "根據",
+		"charTip" : "gēnjù<br>base on; according to; basis; grounds"
+		},{
+		"character" : "跟前",
+		"charTip" : "gēnqián<br>in front of; near; close to"
+		},{
+		"character" : "更加",
+		"charTip" : "gèngjiā<br>much more"
+		},{
+		"character" : "工程",
+		"charTip" : "gōngchéng<br>engineering; project"
+		},{
+		"character" : "工程師",
+		"charTip" : "gōngchéngshī<br>engineer"
+		},{
+		"character" : "工夫",
+		"charTip" : "gōngfu<br>work; labor; effect"
+		},{
+		"character" : "工會",
+		"charTip" : "gōnghuì<br>trade union; labor union"
+		},{
+		"character" : "工具",
+		"charTip" : "gōngjù<br>tool"
+		},{
+		"character" : "工藝品",
+		"charTip" : "gōngyìpǐn<br>handicraft"
+		},{
+		"character" : "工資",
+		"charTip" : "gōngzī<br>wages; pay; salary"
+		},{
+		"character" : "功夫",
+		"charTip" : "gōngfu<br>time; skill; art; workmanship"
+		},{
+		"character" : "供",
+		"charTip" : "gōng<br>supply"
+		},{
+		"character" : "供給",
+		"charTip" : "gōngjǐ<br>provide; furnish"
+		},{
+		"character" : "公費",
+		"charTip" : "gōngfèi<br>at public (state) expense"
+		},{
+		"character" : "公共",
+		"charTip" : "gōnggòng<br>common; public"
+		},{
+		"character" : "公開",
+		"charTip" : "gōngkāi<br>in public; overt; open; make public"
+		},{
+		"character" : "公路",
+		"charTip" : "gōnglù<br>highway; freeway"
+		},{
+		"character" : "公司",
+		"charTip" : "gōngsī<br>corporation; company"
+		},{
+		"character" : "公用電話",
+		"charTip" : "gōngyòng diànhuà<br>public phone"
+		},{
+		"character" : "公元",
+		"charTip" : "gōngyuán<br>the Christian era"
+		},{
+		"character" : "鞏固",
+		"charTip" : "gǒnggù<br>strong; solidify; consolidate; strengthen"
+		},{
+		"character" : "貢獻",
+		"charTip" : "gòngxiàn<br>contribute; dedicate; contribution"
+		},{
+		"character" : "共",
+		"charTip" : "gòng<br>altogether"
+		},{
+		"character" : "共產黨",
+		"charTip" : "gòngchǎndǎng<br>the Communist Party"
+		},{
+		"character" : "共同",
+		"charTip" : "gòngtóng<br>together; common"
+		},{
+		"character" : "狗",
+		"charTip" : "gǒu<br>dog"
+		},{
+		"character" : "構成",
+		"charTip" : "gòuchéng<br>compose; constitute"
+		},{
+		"character" : "構造",
+		"charTip" : "gòuzào<br>structure; construction"
+		},{
+		"character" : "估計",
+		"charTip" : "gūjì<br>appraise; estimate"
+		},{
+		"character" : "姑姑",
+		"charTip" : "gūgu<br>father's sister"
+		},{
+		"character" : "骨頭",
+		"charTip" : "gǔtou<br>drum"
+		},{
+		"character" : "鼓",
+		"charTip" : "gǔ<br>encourage; urge; encouragement"
+		},{
+		"character" : "鼓勵",
+		"charTip" : "gǔlì<br>inspire; hearten; inspiration"
+		},{
+		"character" : "鼓舞",
+		"charTip" : "gǔwǔ<br>applaud"
+		},{
+		"character" : "鼓掌",
+		"charTip" : "gǔ zhǎng<br>to applaud"
+		},{
+		"character" : "古",
+		"charTip" : "gǔ<br>ancient times"
+		},{
+		"character" : "古代",
+		"charTip" : "gǔdài<br>historic site"
+		},{
+		"character" : "古跡",
+		"charTip" : "gǔjì<br>ancient"
+		},{
+		"character" : "古老",
+		"charTip" : "gǔlǎo<br>bone"
+		},{
+		"character" : "故鄉",
+		"charTip" : "gùxiāng<br>hometown"
+		},{
+		"character" : "故意",
+		"charTip" : "gùyì<br>intentional"
+		},{
+		"character" : "顧",
+		"charTip" : "gù<br>attend to; look at"
+		},{
+		"character" : "顧客",
+		"charTip" : "gùkè<br>shopper; customer; client"
+		},{
+		"character" : "掛號",
+		"charTip" : "guà hào<br>register"
+		},{
+		"character" : "拐",
+		"charTip" : "guǎi<br>turn to"
+		},{
+		"character" : "怪",
+		"charTip" : "guài<br>strange"
+		},{
+		"character" : "關鍵",
+		"charTip" : "guānjiàn<br>crux; key; hinge"
+		},{
+		"character" : "關於",
+		"charTip" : "guānyú<br>about; on; concerning"
+		},{
+		"character" : "關照",
+		"charTip" : "guānzhào<br>look after; keep an eye on"
+		},{
+		"character" : "關",
+		"charTip" : "guān<br>official"
+		},{
+		"character" : "觀察",
+		"charTip" : "guānchá<br>survey; observe; watch"
+		},{
+		"character" : "觀點",
+		"charTip" : "guāndiǎn<br>viewpoint; standpoint"
+		},{
+		"character" : "觀眾",
+		"charTip" : "guānzhòng<br>audience; spectator; viewer"
+		},{
+		"character" : "管",
+		"charTip" : "guǎn<br>manage"
+		},{
+		"character" : "管理",
+		"charTip" : "guǎnlǐ<br>manage"
+		},{
+		"character" : "冠軍",
+		"charTip" : "guànjūn<br>champion"
+		},{
+		"character" : "罐頭",
+		"charTip" : "guàntou<br>can; tin"
+		},{
+		"character" : "貫徹",
+		"charTip" : "guànchè<br>carry out; implement"
+		},{
+		"character" : "光",
+		"charTip" : "guāng<br>light, ray"
+		},{
+		"character" : "光",
+		"charTip" : "guāng<br>nothing left"
+		},{
+		"character" : "光",
+		"charTip" : "guāng<br>only; merely"
+		},{
+		"character" : "光輝",
+		"charTip" : "guānghuī<br>radiance; brilliance; brilliant; glorious"
+		},{
+		"character" : "光明",
+		"charTip" : "guāngmíng<br>light; bright"
+		},{
+		"character" : "光榮",
+		"charTip" : "guāngróng<br>glory; honor"
+		},{
+		"character" : "光線",
+		"charTip" : "guāngxiàn<br>light; ray"
+		},{
+		"character" : "廣場",
+		"charTip" : "guǎngchǎng<br>public square; square"
+		},{
+		"character" : "廣大",
+		"charTip" : "guǎngdà<br>extensive; vast; wide"
+		},{
+		"character" : "廣泛",
+		"charTip" : "guǎngfàn<br>extensive; wide; ranging; widespread"
+		},{
+		"character" : "廣告",
+		"charTip" : "guǎnggào<br>advertisement"
+		},{
+		"character" : "廣闊",
+		"charTip" : "guǎngkuò<br>vast; wide"
+		},{
+		"character" : "逛",
+		"charTip" : "guàng<br>stroll"
+		},{
+		"character" : "規定",
+		"charTip" : "guīdìng<br>provide; stipulate; provision, rule"
+		},{
+		"character" : "規律",
+		"charTip" : "guīlǜ<br>law; regular pattern"
+		},{
+		"character" : "規模",
+		"charTip" : "guīmó<br>scale; size"
+		},{
+		"character" : "鬼",
+		"charTip" : "guǐ<br>ghost"
+		},{
+		"character" : "跪",
+		"charTip" : "guì<br>kneel"
+		},{
+		"character" : "滾",
+		"charTip" : "gǔn<br>roll"
+		},{
+		"character" : "鍋",
+		"charTip" : "guō<br>pan"
+		},{
+		"character" : "國際",
+		"charTip" : "guójì<br>international"
+		},{
+		"character" : "國民黨",
+		"charTip" : "guómíndǎng<br>the Nationalist Party; the Kuomintang (KMT)"
+		},{
+		"character" : "國王",
+		"charTip" : "guówáng<br>king"
+		},{
+		"character" : "果然",
+		"charTip" : "guǒrán<br>as expected; really sure enough"
+		},{
+		"character" : "過程",
+		"charTip" : "guòchéng<br>course; process"
+		},{
+		"character" : "過年",
+		"charTip" : "guò nián<br>celebrate the new year"
+		},{
+		"character" : "海關",
+		"charTip" : "hǎiguān<br>customs"
+		},{
+		"character" : "海洋",
+		"charTip" : "hǎiyáng<br>sea; ocean"
+		},{
+		"character" : "害",
+		"charTip" : "hài<br>harm"
+		},{
+		"character" : "害處",
+		"charTip" : "hàichu<br>harm"
+		},{
+		"character" : "害怕",
+		"charTip" : "hàipà<br>be afraid of; fear"
+		},{
+		"character" : "含",
+		"charTip" : "hán<br>keep in the mouth; contain"
+		},{
+		"character" : "寒冷",
+		"charTip" : "hánlěng<br>frigid; cold"
+		},{
+		"character" : "汗",
+		"charTip" : "hàn<br>sweat"
+		},{
+		"character" : "行",
+		"charTip" : "háng<br>row"
+		},{
+		"character" : "航空",
+		"charTip" : "hángkōng<br>aviation"
+		},{
+		"character" : "毫不",
+		"charTip" : "háo bù<br>not a bit"
+		},{
+		"character" : "毫無",
+		"charTip" : "háo wú<br>have no (sth.)"
+		},{
+		"character" : "好好兒",
+		"charTip" : "hǎohāor<br>in a proper way; to one's heart's content"
+		},{
+		"character" : "好久",
+		"charTip" : "hǎojiǔ<br>a long time"
+		},{
+		"character" : "好容易",
+		"charTip" : "hǎoróngyì<br>have a hard time"
+		},{
+		"character" : "好聽",
+		"charTip" : "hǎotīng<br>pleasant to hear"
+		},{
+		"character" : "好玩兒",
+		"charTip" : "hǎowánr<br>interesting; amusing"
+		},{
+		"character" : "好些",
+		"charTip" : "hǎoxiē<br>quite a lot; a great deal of"
+		},{
+		"character" : "號碼",
+		"charTip" : "hàomǎ<br>number"
+		},{
+		"character" : "號召",
+		"charTip" : "hàozhào<br>summon; call up; appeal; call"
+		},{
+		"character" : "好",
+		"charTip" : "hào<br>like; be fond of"
+		},{
+		"character" : "和平",
+		"charTip" : "hépíng<br>peace"
+		},{
+		"character" : "合",
+		"charTip" : "hé<br>close; shut; join; combine"
+		},{
+		"character" : "合理",
+		"charTip" : "hélǐ<br>reasonable; rational"
+		},{
+		"character" : "合同",
+		"charTip" : "hétong<br>contract"
+		},{
+		"character" : "合作",
+		"charTip" : "hézuò<br>cooperate; work together"
+		},{
+		"character" : "盒",
+		"charTip" : "hé<br>box"
+		},{
+		"character" : "嘿",
+		"charTip" : "hēi<br>ha"
+		},{
+		"character" : "黑暗",
+		"charTip" : "hēi'àn<br>dark"
+		},{
+		"character" : "恨",
+		"charTip" : "hèn<br>hate"
+		},{
+		"character" : "哼",
+		"charTip" : "hēng<br>hum; croon; huh"
+		},{
+		"character" : "紅茶",
+		"charTip" : "hóngchá<br>black tea"
+		},{
+		"character" : "紅旗",
+		"charTip" : "hóngqí<br>red flag; red banner"
+		},{
+		"character" : "猴子",
+		"charTip" : "hóuzi<br>monkey"
+		},{
+		"character" : "厚",
+		"charTip" : "hòu<br>thick"
+		},{
+		"character" : "後悔",
+		"charTip" : "hòuhuǐ<br>regret; repent"
+		},{
+		"character" : "後來",
+		"charTip" : "hòulái<br>afterwards; after"
+		},{
+		"character" : "後面",
+		"charTip" : "hòumian<br>behind"
+		},{
+		"character" : "後年",
+		"charTip" : "hòunián<br>the year after next"
+		},{
+		"character" : "後天",
+		"charTip" : "hòutiān<br>the day after tomorrow"
+		},{
+		"character" : "呼",
+		"charTip" : "hū<br>call"
+		},{
+		"character" : "呼吸",
+		"charTip" : "hūxī<br>breath; respire"
+		},{
+		"character" : "壺",
+		"charTip" : "hú<br>pot"
+		},{
+		"character" : "胡亂",
+		"charTip" : "húluàn<br>aimlessly"
+		},{
+		"character" : "鬍子",
+		"charTip" : "húzi<br>beard; moustache"
+		},{
+		"character" : "糊塗",
+		"charTip" : "hútu<br>muddled; confused; bewildered"
+		},{
+		"character" : "護士",
+		"charTip" : "hùshi<br>nurse"
+		},{
+		"character" : "護照",
+		"charTip" : "hùzhào<br>passport"
+		},{
+		"character" : "戶",
+		"charTip" : "hù<br>door; family"
+		},{
+		"character" : "花園",
+		"charTip" : "huāyuán<br>garden"
+		},{
+		"character" : "划",
+		"charTip" : "huá<br>scull"
+		},{
+		"character" : "滑",
+		"charTip" : "huá<br>slippery; smooth"
+		},{
+		"character" : "滑冰",
+		"charTip" : "huá bīng<br>skating"
+		},{
+		"character" : "畫報",
+		"charTip" : "huàbào<br>pictorial"
+		},{
+		"character" : "劃",
+		"charTip" : "huà<br>delimit"
+		},{
+		"character" : "化(標準化)",
+		"charTip" : "huà(biāozhǔnhuà)<br>-ize; -ify"
+		},{
+		"character" : "壞處",
+		"charTip" : "huàichu<br>harm; disadvantage"
+		},{
+		"character" : "歡送",
+		"charTip" : "huānsòng<br>see off; send off"
+		},{
+		"character" : "環",
+		"charTip" : "huán<br>ring"
+		},{
+		"character" : "環境",
+		"charTip" : "huánjìng<br>environment; surroundings"
+		},{
+		"character" : "慌",
+		"charTip" : "huāng<br>nervous; scared; flurry; fluster"
+		},{
+		"character" : "黃瓜",
+		"charTip" : "huángguā<br>cucumber"
+		},{
+		"character" : "黃油",
+		"charTip" : "huángyóu<br>butter"
+		},{
+		"character" : "皇帝",
+		"charTip" : "huángdì<br>emperor"
+		},{
+		"character" : "灰",
+		"charTip" : "huī<br>gray"
+		},{
+		"character" : "揮",
+		"charTip" : "huī<br>wave; brandish"
+		},{
+		"character" : "恢復",
+		"charTip" : "huīfù<br>resume; renew; recover; restore"
+		},{
+		"character" : "回頭",
+		"charTip" : "huítóu<br>turn round"
+		},{
+		"character" : "回信",
+		"charTip" : "huí xìn<br>write back"
+		},{
+		"character" : "回憶",
+		"charTip" : "huíyì<br>recollect; recall"
+		},{
+		"character" : "會場",
+		"charTip" : "huìchǎng<br>meeting-place; conference"
+		},{
+		"character" : "會見",
+		"charTip" : "huìjiàn<br>interview; meet"
+		},{
+		"character" : "會客",
+		"charTip" : "huì kè<br>receive a visitor"
+		},{
+		"character" : "會談",
+		"charTip" : "huìtán<br>talks"
+		},{
+		"character" : "會議",
+		"charTip" : "huìyì<br>meeting; conference"
+		},{
+		"character" : "昏迷",
+		"charTip" : "hūnmí<br>stupor; coma; unconsciousness"
+		},{
+		"character" : "婚姻",
+		"charTip" : "hūnyīn<br>marriage"
+		},{
+		"character" : "混",
+		"charTip" : "hùn<br>mix; muddle along"
+		},{
+		"character" : "活潑",
+		"charTip" : "huópo<br>vivacious; vivid; lively"
+		},{
+		"character" : "活躍",
+		"charTip" : "hóuyuè<br>active; brisk; enliven; animate; invigorate"
+		},{
+		"character" : "或是",
+		"charTip" : "huǒshí<br>meals"
+		},{
+		"character" : "火",
+		"charTip" : "huǒ<br>fire"
+		},{
+		"character" : "火柴",
+		"charTip" : "huǒchái<br>match"
+		},{
+		"character" : "獲得",
+		"charTip" : "huòdé<br>gain; obtain; acquire; win; achieve"
+		},{
+		"character" : "或是",
+		"charTip" : "huò<br>or"
+		},{
+		"character" : "貨",
+		"charTip" : "huò<br>goods"
+		},{
+		"character" : "幾乎",
+		"charTip" : "jīhū<br>almost"
+		},{
+		"character" : "機床",
+		"charTip" : "jīchuáng<br>machine tool"
+		},{
+		"character" : "機關",
+		"charTip" : "jīguān<br>mechanism; office"
+		},{
+		"character" : "機械",
+		"charTip" : "jīxiè<br>machinery; machine"
+		},{
+		"character" : "積極",
+		"charTip" : "jījí<br>positive; active"
+		},{
+		"character" : "積極性",
+		"charTip" : "jījíxìng<br>zeal; activeness"
+		},{
+		"character" : "積累",
+		"charTip" : "jīlěi<br>accumulate"
+		},{
+		"character" : "激動",
+		"charTip" : "jīdòng<br>excited; exciting; excite; stir; agitate"
+		},{
+		"character" : "激烈",
+		"charTip" : "jīliè<br>intense; fierce"
+		},{
+		"character" : "極",
+		"charTip" : "jí<br>extremely; highly"
+		},{
+		"character" : "極其",
+		"charTip" : "jíqí<br>most; extremely; exceedingly"
+		},{
+		"character" : "集",
+		"charTip" : "jí<br>market; volume"
+		},{
+		"character" : "集體",
+		"charTip" : "jítǐ<br>collective"
+		},{
+		"character" : "集中",
+		"charTip" : "jízhōng<br>focus; concentrate; amass; centralized"
+		},{
+		"character" : "及",
+		"charTip" : "jí<br>and"
+		},{
+		"character" : "及格",
+		"charTip" : "jí gé<br>pass the exam"
+		},{
+		"character" : "及時",
+		"charTip" : "jíshí<br>timely; in time"
+		},{
+		"character" : "急忙",
+		"charTip" : "jímáng<br>in haste; in a hurry"
+		},{
+		"character" : "即",
+		"charTip" : "jí<br>i.e.; mean; namely"
+		},{
+		"character" : "級",
+		"charTip" : "jí<br>grade"
+		},{
+		"character" : "技術員",
+		"charTip" : "jìshùyuán<br>technician"
+		},{
+		"character" : "季節",
+		"charTip" : "jìjié<br>season"
+		},{
+		"character" : "計算",
+		"charTip" : "jìsuàn<br>count; computer; calculate"
+		},{
+		"character" : "記得",
+		"charTip" : "jìde<br>remember"
+		},{
+		"character" : "記錄",
+		"charTip" : "jìlù<br>take notes; record"
+		},{
+		"character" : "記憶",
+		"charTip" : "jìyì<br>remember; memory"
+		},{
+		"character" : "記者",
+		"charTip" : "jìzhě<br>reporter; correspondent; newsman"
+		},{
+		"character" : "既",
+		"charTip" : "jì<br>though; not only"
+		},{
+		"character" : "既…也…",
+		"charTip" : "jì … yě …<br>both … and …; as well as"
+		},{
+		"character" : "既…又…",
+		"charTip" : "jì … yòu …<br>as well as"
+		},{
+		"character" : "既然",
+		"charTip" : "jìrán<br>since; as; now that"
+		},{
+		"character" : "紀律",
+		"charTip" : "jìlǜ<br>rule; discipline"
+		},{
+		"character" : "紀念",
+		"charTip" : "jìniàn<br>commemorate; commemoration"
+		},{
+		"character" : "夾",
+		"charTip" : "jiā<br>clip; nip"
+		},{
+		"character" : "家伙",
+		"charTip" : "jiāhuo<br>fellow; guy"
+		},{
+		"character" : "家具",
+		"charTip" : "jiājù<br>furniture"
+		},{
+		"character" : "家鄉",
+		"charTip" : "jiāxiāng<br>hometown; native place"
+		},{
+		"character" : "加工",
+		"charTip" : "jiā gōng<br>process; machining; working"
+		},{
+		"character" : "加強",
+		"charTip" : "jiāqiáng<br>strengthen; enhance; reinforce"
+		},{
+		"character" : "加以",
+		"charTip" : "jiāyǐ<br>(used to invert the sentence); moreover; plus"
+		},{
+		"character" : "假",
+		"charTip" : "jiǎ<br>sham; fake"
+		},{
+		"character" : "價格",
+		"charTip" : "jiàgé<br>price"
+		},{
+		"character" : "價值",
+		"charTip" : "jiàzhí<br>worth; value"
+		},{
+		"character" : "架",
+		"charTip" : "jià<br>measure word for planes, etc."
+		},{
+		"character" : "假條",
+		"charTip" : "jiàtiáo<br>application for leave"
+		},{
+		"character" : "堅定",
+		"charTip" : "jiāngdìng<br>firm; steadfast; staunch; strengthen"
+		},{
+		"character" : "堅決",
+		"charTip" : "jiānjué<br>resolute; determinate"
+		},{
+		"character" : "堅強",
+		"charTip" : "jiānqiáng<br>strong; firm; tough"
+		},{
+		"character" : "尖",
+		"charTip" : "jiān<br>pointed; sharp; acute"
+		},{
+		"character" : "尖銳",
+		"charTip" : "jiānruì<br>sharp-point; keen"
+		},{
+		"character" : "肩",
+		"charTip" : "jiān<br>shoulder"
+		},{
+		"character" : "艱巨",
+		"charTip" : "jiānjù<br>arduous; hard; formidable"
+		},{
+		"character" : "艱苦",
+		"charTip" : "jiānkǔ<br>difficult; hard; tough"
+		},{
+		"character" : "揀",
+		"charTip" : "jiǎn<br>cull"
+		},{
+		"character" : "撿",
+		"charTip" : "jiǎn<br>pick up"
+		},{
+		"character" : "剪",
+		"charTip" : "jiǎn<br>snip"
+		},{
+		"character" : "減",
+		"charTip" : "jiǎn<br>reduce"
+		},{
+		"character" : "減輕",
+		"charTip" : "jiǎnqīng<br>lighten; ease"
+		},{
+		"character" : "減少",
+		"charTip" : "jiǎnshǎo<br>reduce; decrease"
+		},{
+		"character" : "箭",
+		"charTip" : "jiàn<br>arrow"
+		},{
+		"character" : "漸漸",
+		"charTip" : "jiànjiàn<br>gradually; by degrees"
+		},{
+		"character" : "建",
+		"charTip" : "jiàn<br>build"
+		},{
+		"character" : "建立",
+		"charTip" : "jiànlì<br>build; establish"
+		},{
+		"character" : "建議",
+		"charTip" : "jiànyì<br>propose; suggest; proposition; suggestion"
+		},{
+		"character" : "建築",
+		"charTip" : "jiànzhù<br>build; construct; architecture; building"
+		},{
+		"character" : "將",
+		"charTip" : "jiāng<br>with; by"
+		},{
+		"character" : "將",
+		"charTip" : "jiāng<br>will"
+		},{
+		"character" : "將要",
+		"charTip" : "jiāngyào<br>be going to; will; shall"
+		},{
+		"character" : "獎",
+		"charTip" : "jiǎng<br>reward"
+		},{
+		"character" : "獎學金",
+		"charTip" : "jiǎngxuéjīn<br>scholarship"
+		},{
+		"character" : "講話",
+		"charTip" : "jiǎng huà<br>speak; talk"
+		},{
+		"character" : "講座",
+		"charTip" : "jiǎngzuò<br>lecture"
+		},{
+		"character" : "醬油",
+		"charTip" : "jiàngyóu<br>soy sauce"
+		},{
+		"character" : "降",
+		"charTip" : "jiàng<br>fall; drop; lower; land"
+		},{
+		"character" : "降低",
+		"charTip" : "jiàngdī<br>reduce; cut down; drop; lower"
+		},{
+		"character" : "交換",
+		"charTip" : "jiāohuàn<br>exchange"
+		},{
+		"character" : "交際",
+		"charTip" : "jiāojì<br>socialize; social intercourse"
+		},{
+		"character" : "交流",
+		"charTip" : "jiāoliú<br>interchange; exchange"
+		},{
+		"character" : "交通",
+		"charTip" : "jiāotōng<br>traffic; transportation"
+		},{
+		"character" : "郊區",
+		"charTip" : "jiāoqū<br>suburbs"
+		},{
+		"character" : "驕傲",
+		"charTip" : "jiāo'ào<br>arrogant; conceited"
+		},{
+		"character" : "角",
+		"charTip" : "jiǎo<br>angle; horn"
+		},{
+		"character" : "教材",
+		"charTip" : "jiàocái<br>teaching materials"
+		},{
+		"character" : "教師",
+		"charTip" : "jiàoshī<br>teacher"
+		},{
+		"character" : "教授",
+		"charTip" : "jiàoshòu<br>professor"
+		},{
+		"character" : "教學",
+		"charTip" : "jiàoxué<br>teaching; education"
+		},{
+		"character" : "教訓",
+		"charTip" : "jiàoxun<br>teach sb. a lesson; lesson"
+		},{
+		"character" : "教員",
+		"charTip" : "jiāoyuán<br>teacher; instructor"
+		},{
+		"character" : "較",
+		"charTip" : "jiào<br>than; rather; quite"
+		},{
+		"character" : "叫做",
+		"charTip" : "jiàozuò<br>be called; named"
+		},{
+		"character" : "接觸",
+		"charTip" : "jiēchù<br>contact"
+		},{
+		"character" : "接待",
+		"charTip" : "jiēdài<br>receive"
+		},{
+		"character" : "接到",
+		"charTip" : "jiē dào<br>receive"
+		},{
+		"character" : "接見",
+		"charTip" : "jiējiàn<br>receive"
+		},{
+		"character" : "接近",
+		"charTip" : "jiējìn<br>be close to; near"
+		},{
+		"character" : "接受",
+		"charTip" : "jiēshòu<br>accept"
+		},{
+		"character" : "街道",
+		"charTip" : "jiēdào<br>street"
+		},{
+		"character" : "階段",
+		"charTip" : "jiēduàn<br>stage; phase"
+		},{
+		"character" : "階級",
+		"charTip" : "jiējí<br>class"
+		},{
+		"character" : "結實",
+		"charTip" : "jiēshi<br>solid; sturdy"
+		},{
+		"character" : "節省",
+		"charTip" : "jiéshěng<br>economize; save"
+		},{
+		"character" : "節約",
+		"charTip" : "jiéyuē<br>economize"
+		},{
+		"character" : "結構",
+		"charTip" : "jiégòu<br>structure; composition"
+		},{
+		"character" : "結合",
+		"charTip" : "jiéhé<br>combine; unite; integrate; link"
+		},{
+		"character" : "結婚",
+		"charTip" : "jié hūn<br>marry"
+		},{
+		"character" : "結論",
+		"charTip" : "jiélùn<br>conclusion"
+		},{
+		"character" : "解",
+		"charTip" : "jiě<br>uncoil; unbind"
+		},{
+		"character" : "解答",
+		"charTip" : "jiědá<br>answer; explain"
+		},{
+		"character" : "解放",
+		"charTip" : "jiěfàng<br>liberate; liberation"
+		},{
+		"character" : "解釋",
+		"charTip" : "jiěshì<br>explain; expound; interpret; explanation"
+		},{
+		"character" : "屆",
+		"charTip" : "jiè<br>session"
+		},{
+		"character" : "金",
+		"charTip" : "jīn<br>gold"
+		},{
+		"character" : "金屬",
+		"charTip" : "jīnshǔ<br>metal"
+		},{
+		"character" : "今後",
+		"charTip" : "jīnhòu<br>from now on"
+		},{
+		"character" : "僅",
+		"charTip" : "jǐn<br>only"
+		},{
+		"character" : "僅僅",
+		"charTip" : "jǐnjǐn<br>only; merely; barely"
+		},{
+		"character" : "儘",
+		"charTip" : "jǐn<br>give priority; no more than"
+		},{
+		"character" : "儘管",
+		"charTip" : "jǐnguǎn<br>feel free to; though; even though; despite"
+		},{
+		"character" : "盡量",
+		"charTip" : "jìnliàng<br>as possible as; to the full"
+		},{
+		"character" : "進步",
+		"charTip" : "jìnbù<br>advance; progress; improve; progressive"
+		},{
+		"character" : "進攻",
+		"charTip" : "jìnggōng<br>attack; assault; offend"
+		},{
+		"character" : "進化",
+		"charTip" : "jìnhuà<br>evolve"
+		},{
+		"character" : "進口",
+		"charTip" : "jìn kǒu<br>import; entrance"
+		},{
+		"character" : "進入",
+		"charTip" : "jìnrù<br>enter; get into"
+		},{
+		"character" : "進修",
+		"charTip" : "jìnxiū<br>carry on advanced studies"
+		},{
+		"character" : "進一步",
+		"charTip" : "jìn yí bù<br>further"
+		},{
+		"character" : "禁止",
+		"charTip" : "jìnzhǐ<br>prohibit; ban; forbid"
+		},{
+		"character" : "近來",
+		"charTip" : "jìnlái<br>recently; lately"
+		},{
+		"character" : "盡",
+		"charTip" : "jìn<br>try one's best"
+		},{
+		"character" : "勁",
+		"charTip" : "jìn<br>power"
+		},{
+		"character" : "京劇(京戲)",
+		"charTip" : "jīngjù(jīngxì)<br>Beijing Opera"
+		},{
+		"character" : "精力",
+		"charTip" : "jīnglì<br>energy; vigor"
+		},{
+		"character" : "經",
+		"charTip" : "jīng<br>pass"
+		},{
+		"character" : "經理",
+		"charTip" : "jīnglǐ<br>manager; director"
+		},{
+		"character" : "經歷",
+		"charTip" : "jīnglì<br>undergo; experience"
+		},{
+		"character" : "井",
+		"charTip" : "jǐng<br>wells"
+		},{
+		"character" : "警察",
+		"charTip" : "jǐngchá<br>police; policeman"
+		},{
+		"character" : "靜",
+		"charTip" : "jìng<br>quiet; silent"
+		},{
+		"character" : "敬愛",
+		"charTip" : "jìng'ài<br>respect"
+		},{
+		"character" : "敬禮",
+		"charTip" : "jìng lǐ<br>salute"
+		},{
+		"character" : "鏡子",
+		"charTip" : "jìngzi<br>mirror"
+		},{
+		"character" : "競賽",
+		"charTip" : "jìngsài<br>contest; competition; race"
+		},{
+		"character" : "究竟",
+		"charTip" : "jiūjìng<br>actually; exactly; after all"
+		},{
+		"character" : "糾正",
+		"charTip" : "jiūzhèng<br>correct; put right"
+		},{
+		"character" : "救",
+		"charTip" : "jiù<br>save"
+		},{
+		"character" : "就",
+		"charTip" : "jiù<br>with regard to; concerning; on"
+		},{
+		"character" : "就是",
+		"charTip" : "jiùshì<br>exactly; even if"
+		},{
+		"character" : "局長",
+		"charTip" : "júzhǎng<br>director of a bureau"
+		},{
+		"character" : "舉行",
+		"charTip" : "jǔxíng<br>hold"
+		},{
+		"character" : "拒絕",
+		"charTip" : "jùjué<br>refuse"
+		},{
+		"character" : "據說",
+		"charTip" : "jùshuō<br>it is said"
+		},{
+		"character" : "巨大",
+		"charTip" : "jùdà<br>huge; enormous"
+		},{
+		"character" : "具備",
+		"charTip" : "jùbèi<br>possess; have; be provided with"
+		},{
+		"character" : "具體",
+		"charTip" : "jùtǐ<br>concrete; specific; particular"
+		},{
+		"character" : "具有",
+		"charTip" : "jùyǒu<br>possess; have; be provided with"
+		},{
+		"character" : "距離",
+		"charTip" : "jùlí<br>distance"
+		},{
+		"character" : "距離",
+		"charTip" : "jùlí<br>away from"
+		},{
+		"character" : "俱樂部",
+		"charTip" : "jùlèbù<br>club"
+		},{
+		"character" : "劇場",
+		"charTip" : "jùchǎng<br>theatre"
+		},{
+		"character" : "捲",
+		"charTip" : "juǎn<br>roll; coil"
+		},{
+		"character" : "覺悟",
+		"charTip" : "juéwù<br>consciousness; awareness"
+		},{
+		"character" : "決",
+		"charTip" : "jué<br>definitely"
+		},{
+		"character" : "決心",
+		"charTip" : "juéxīn<br>be determined; determination"
+		},{
+		"character" : "絕對",
+		"charTip" : "juéduì<br>absolute"
+		},{
+		"character" : "軍",
+		"charTip" : "jūn<br>army"
+		},{
+		"character" : "軍隊",
+		"charTip" : "jūnduì<br>army"
+		},{
+		"character" : "軍事",
+		"charTip" : "jūnshì<br>military affairs"
+		},{
+		"character" : "開放",
+		"charTip" : "kāifàng<br>open"
+		},{
+		"character" : "開會",
+		"charTip" : "kāi huì<br>hold a meeting"
+		},{
+		"character" : "開課",
+		"charTip" : "kāi kè<br>start of school"
+		},{
+		"character" : "開明",
+		"charTip" : "kāimíng<br>enlightened"
+		},{
+		"character" : "開辟",
+		"charTip" : "kāipì<br>open up; start"
+		},{
+		"character" : "開演",
+		"charTip" : "kāiyǎn<br>begin; start a show"
+		},{
+		"character" : "開展",
+		"charTip" : "kāizhǎn<br>carry out; develop; launch"
+		},{
+		"character" : "砍",
+		"charTip" : "kǎn<br>chop; cut"
+		},{
+		"character" : "看不起",
+		"charTip" : "kàn bu qǐ<br>look down upon"
+		},{
+		"character" : "看法",
+		"charTip" : "kànfǎ<br>view"
+		},{
+		"character" : "看來",
+		"charTip" : "kànlái<br>it seems"
+		},{
+		"character" : "看樣子",
+		"charTip" : "kàn yàngzi<br>look like; seem like"
+		},{
+		"character" : "扛",
+		"charTip" : "káng<br>carry on the shoulder"
+		},{
+		"character" : "考",
+		"charTip" : "kǎo<br>test"
+		},{
+		"character" : "考慮",
+		"charTip" : "kǎolǜ<br>think over; consider"
+		},{
+		"character" : "烤",
+		"charTip" : "kǎo<br>bake"
+		},{
+		"character" : "靠",
+		"charTip" : "kào<br>lean; by"
+		},{
+		"character" : "顆",
+		"charTip" : "kē<br>grain"
+		},{
+		"character" : "科",
+		"charTip" : "kē<br>division"
+		},{
+		"character" : "科學家",
+		"charTip" : "kēxuéjiā<br>scientist"
+		},{
+		"character" : "科學院",
+		"charTip" : "kēxuéyuàn<br>academy of science"
+		},{
+		"character" : "科研",
+		"charTip" : "kēyán<br>scientific research"
+		},{
+		"character" : "科長",
+		"charTip" : "kēzhǎng<br>section chief"
+		},{
+		"character" : "可",
+		"charTip" : "kě<br>(used for emphasis in a sentence); but; yet"
+		},{
+		"character" : "可愛",
+		"charTip" : "kě'ài<br>cute; lovely"
+		},{
+		"character" : "可靠",
+		"charTip" : "kěkào<br>reliable; dependable"
+		},{
+		"character" : "可憐",
+		"charTip" : "kělián<br>pitiful; poor; pity"
+		},{
+		"character" : "可怕",
+		"charTip" : "kěpà<br>fearful; terrible; frightful"
+		},{
+		"character" : "可以",
+		"charTip" : "kěyǐ<br>can; may"
+		},{
+		"character" : "克服",
+		"charTip" : "kèfú<br>overcome; conquer"
+		},{
+		"character" : "刻",
+		"charTip" : "kè<br>chisel; carve"
+		},{
+		"character" : "刻苦",
+		"charTip" : "kèkǔ<br>assiduous; hardworking"
+		},{
+		"character" : "客人",
+		"charTip" : "kèren<br>visitor; guest"
+		},{
+		"character" : "課程",
+		"charTip" : "kèchéng<br>course"
+		},{
+		"character" : "肯",
+		"charTip" : "kěn<br>be willing to; will; agree"
+		},{
+		"character" : "肯定",
+		"charTip" : "kěndìng<br>affirm; approve; positive; affirmative"
+		},{
+		"character" : "空",
+		"charTip" : "kōng<br>empty"
+		},{
+		"character" : "空間",
+		"charTip" : "kōngjiān<br>space"
+		},{
+		"character" : "空前",
+		"charTip" : "kòngqián<br>unprecedented"
+		},{
+		"character" : "空中",
+		"charTip" : "kōngzhōng<br>in the air; in the sky"
+		},{
+		"character" : "孔",
+		"charTip" : "kǒng<br>hole; aperture"
+		},{
+		"character" : "恐怕",
+		"charTip" : "kǒngpà<br>be afraid"
+		},{
+		"character" : "空兒",
+		"charTip" : "kòngr<br>free time"
+		},{
+		"character" : "控制",
+		"charTip" : "kòngzhì<br>control; dominate; command"
+		},{
+		"character" : "口袋",
+		"charTip" : "kǒudai<br>pocket"
+		},{
+		"character" : "口號",
+		"charTip" : "kǒuhào<br>slogan"
+		},{
+		"character" : "扣",
+		"charTip" : "kòu<br>upside down; buckle; button"
+		},{
+		"character" : "褲子",
+		"charTip" : "kùzi<br>trousers; pants"
+		},{
+		"character" : "跨",
+		"charTip" : "kuà<br>stride"
+		},{
+		"character" : "筷子",
+		"charTip" : "kuàizi<br>chopsticks"
+		},{
+		"character" : "快樂",
+		"charTip" : "kuàilè<br>happy; joyful"
+		},{
+		"character" : "寬",
+		"charTip" : "kuān<br>wide"
+		},{
+		"character" : "款",
+		"charTip" : "kuǎn<br>money"
+		},{
+		"character" : "礦",
+		"charTip" : "kuàng<br>mine"
+		},{
+		"character" : "捆",
+		"charTip" : "kǔn<br>tie; bind; bundle up"
+		},{
+		"character" : "睏/困",
+		"charTip" : "kùn<br>(睏) sleepy; (困) constrained; besiege; constrain"
+		},{
+		"character" : "擴大",
+		"charTip" : "kuòdà<br>enlarge; expand; extend"
+		},{
+		"character" : "垃圾",
+		"charTip" : "lājī<br>garbage; rubbish"
+		},{
+		"character" : "來",
+		"charTip" : "lái<br>about; more or less"
+		},{
+		"character" : "來",
+		"charTip" : "lái<br>ever since"
+		},{
+		"character" : "來不及",
+		"charTip" : "lái bu jí<br>there's not enough time"
+		},{
+		"character" : "來得及",
+		"charTip" : "lái de jí<br>there's still time"
+		},{
+		"character" : "來信",
+		"charTip" : "láixìn<br>send a letter; incoming letter"
+		},{
+		"character" : "來自",
+		"charTip" : "láizì<br>come from"
+		},{
+		"character" : "攔",
+		"charTip" : "lán<br>block"
+		},{
+		"character" : "懶",
+		"charTip" : "lǎn<br>lazy"
+		},{
+		"character" : "爛",
+		"charTip" : "làn<br>rot; rotten"
+		},{
+		"character" : "狼",
+		"charTip" : "láng<br>wolf"
+		},{
+		"character" : "朗讀",
+		"charTip" : "lǎngdū<br>read aloud"
+		},{
+		"character" : "浪",
+		"charTip" : "làng<br>wave"
+		},{
+		"character" : "浪費",
+		"charTip" : "làngfèi<br>waste"
+		},{
+		"character" : "撈",
+		"charTip" : "lāo<br>drag for; dredge for"
+		},{
+		"character" : "老百姓",
+		"charTip" : "lǎobǎixìng<br>common people"
+		},{
+		"character" : "老闆",
+		"charTip" : "lǎobǎn<br>boss; shopkeeper"
+		},{
+		"character" : "老大媽(大媽)",
+		"charTip" : "lǎodàmā(dàmā)<br>granny; aunt"
+		},{
+		"character" : "老大娘(大娘)",
+		"charTip" : "lǎodànniáng(dàniáng)<br>aunt; old lady"
+		},{
+		"character" : "老大爺(大爺)",
+		"charTip" : "lǎodàye<br>uncle; grandpa"
+		},{
+		"character" : "老虎",
+		"charTip" : "lǎohǔ<br>tiger"
+		},{
+		"character" : "老人",
+		"charTip" : "lǎorén<br>the aged"
+		},{
+		"character" : "老(是)",
+		"charTip" : "lǎo(shi)<br>always"
+		},{
+		"character" : "老實",
+		"charTip" : "lǎoshi<br>frank; honest"
+		},{
+		"character" : "老太太",
+		"charTip" : "lǎotàitai<br>old woman"
+		},{
+		"character" : "老頭兒",
+		"charTip" : "lǎotóur<br>old man"
+		},{
+		"character" : "樂觀",
+		"charTip" : "lèguān<br>optimistic; hopeful"
+		},{
+		"character" : "雷",
+		"charTip" : "léi<br>thunder"
+		},{
+		"character" : "類",
+		"charTip" : "lèi<br>kind; sort"
+		},{
+		"character" : "釐米",
+		"charTip" : "límǐ<br>centimeter"
+		},{
+		"character" : "梨",
+		"charTip" : "lí<br>pear"
+		},{
+		"character" : "離婚",
+		"charTip" : "lí hūn<br>divorce"
+		},{
+		"character" : "理髮",
+		"charTip" : "lǐ fà<br>haircut; hairdressing"
+		},{
+		"character" : "理解",
+		"charTip" : "lǐjiě<br>understand; comprehend; understanding"
+		},{
+		"character" : "理論",
+		"charTip" : "lǐlùn<br>theory"
+		},{
+		"character" : "理想",
+		"charTip" : "lǐxiǎng<br>ideal"
+		},{
+		"character" : "理由",
+		"charTip" : "lǐyóu<br>reason"
+		},{
+		"character" : "裡面",
+		"charTip" : "lǐmiàn<br>inside; interior"
+		},{
+		"character" : "禮拜天(禮拜日)",
+		"charTip" : "lǐbàitiān(lǐbàirì)<br>Sunday"
+		},{
+		"character" : "禮貌",
+		"charTip" : "lǐmào<br>courtesy; politeness"
+		},{
+		"character" : "禮堂",
+		"charTip" : "lǐtáng<br>assembly hall; auditorium"
+		},{
+		"character" : "厲害",
+		"charTip" : "lìhai<br>strict; severe"
+		},{
+		"character" : "利益",
+		"charTip" : "lìyì<br>benefit"
+		},{
+		"character" : "例",
+		"charTip" : "lì<br>example"
+		},{
+		"character" : "例子",
+		"charTip" : "lìzi<br>example; case; instance"
+		},{
+		"character" : "立",
+		"charTip" : "lì<br>stand"
+		},{
+		"character" : "立場",
+		"charTip" : "lìchǎng<br>position; stand; standpoint"
+		},{
+		"character" : "立方",
+		"charTip" : "lìfāng<br>cube"
+		},{
+		"character" : "立即",
+		"charTip" : "lìjí<br>immediately; at once"
+		},{
+		"character" : "粒",
+		"charTip" : "lì<br>grain"
+		},{
+		"character" : "力",
+		"charTip" : "lì<br>force; power"
+		},{
+		"character" : "力量",
+		"charTip" : "lìliang<br>power; force"
+		},{
+		"character" : "力氣",
+		"charTip" : "lìqi<br>strength"
+		},{
+		"character" : "力所能及",
+		"charTip" : "lì suǒ néng jí<br>in one's power"
+		},{
+		"character" : "聯合",
+		"charTip" : "liánhé<br>federate; unite"
+		},{
+		"character" : "聯歡",
+		"charTip" : "liánhuān<br>have a get-together"
+		},{
+		"character" : "連",
+		"charTip" : "lián<br>link; join; one after another"
+		},{
+		"character" : "連忙",
+		"charTip" : "liánmáng<br>promptly; at once"
+		},{
+		"character" : "連續",
+		"charTip" : "liánxù<br>continually; in succession"
+		},{
+		"character" : "戀愛",
+		"charTip" : "liàn'ài<br>be in love; love"
+		},{
+		"character" : "練",
+		"charTip" : "liàn<br>exercise"
+		},{
+		"character" : "糧食",
+		"charTip" : "liángshi<br>grain; food"
+		},{
+		"character" : "涼",
+		"charTip" : "liáng<br>cool"
+		},{
+		"character" : "量",
+		"charTip" : "liáng<br>measure"
+		},{
+		"character" : "良好",
+		"charTip" : "liánghǎo<br>good"
+		},{
+		"character" : "兩",
+		"charTip" : "liǎng<br>1 liǎng = 50 grams"
+		},{
+		"character" : "聊",
+		"charTip" : "liáo<br>chat"
+		},{
+		"character" : "聊天兒",
+		"charTip" : "liáo tiānr<br>chat"
+		},{
+		"character" : "了不起",
+		"charTip" : "liǎobuqǐ<br>great; extraordinary"
+		},{
+		"character" : "列",
+		"charTip" : "liè<br>list; line"
+		},{
+		"character" : "臨",
+		"charTip" : "lín<br>face; overlook"
+		},{
+		"character" : "臨時",
+		"charTip" : "línshí<br>temporary"
+		},{
+		"character" : "鄰居",
+		"charTip" : "línjū<br>neighborhood"
+		},{
+		"character" : "零錢",
+		"charTip" : "língqián<br>small change"
+		},{
+		"character" : "鈴",
+		"charTip" : "líng<br>bell"
+		},{
+		"character" : "靈活",
+		"charTip" : "línghuó<br>flexible; agile"
+		},{
+		"character" : "領",
+		"charTip" : "lǐng<br>lead; direct"
+		},{
+		"character" : "領袖",
+		"charTip" : "lǐngxiù<br>leader"
+		},{
+		"character" : "另",
+		"charTip" : "lìng<br>other"
+		},{
+		"character" : "另外",
+		"charTip" : "lìngwài<br>moreover; besides"
+		},{
+		"character" : "流利",
+		"charTip" : "liúlì<br>fluent; smooth"
+		},{
+		"character" : "龍",
+		"charTip" : "lóng<br>dragon"
+		},{
+		"character" : "樓梯",
+		"charTip" : "lóutī<br>stairs; staircase"
+		},{
+		"character" : "漏",
+		"charTip" : "lòu<br>leak"
+		},{
+		"character" : "露",
+		"charTip" : "lòu<br>reveal; show"
+		},{
+		"character" : "路上",
+		"charTip" : "lùshang<br>on the road"
+		},{
+		"character" : "路線",
+		"charTip" : "lùxiàn<br>line; route"
+		},{
+		"character" : "錄",
+		"charTip" : "lù<br>record"
+		},{
+		"character" : "錄像",
+		"charTip" : "lù xiàng<br>video recording"
+		},{
+		"character" : "錄音機",
+		"charTip" : "lùyīnjī<br>sound-recorder"
+		},{
+		"character" : "陸續",
+		"charTip" : "lùxù<br>one after another; in succession"
+		},{
+		"character" : "旅館",
+		"charTip" : "lǚguǎn<br>hotel; inn"
+		},{
+		"character" : "旅客",
+		"charTip" : "lǚkè<br>traveler; passenger; hotel guest"
+		},{
+		"character" : "旅途",
+		"charTip" : "lǚtú<br>journey; trip"
+		},{
+		"character" : "略",
+		"charTip" : "lüè<br>omit"
+		},{
+		"character" : "輪船",
+		"charTip" : "lúnchuán<br>steamship; ship"
+		},{
+		"character" : "論文",
+		"charTip" : "lùnwén<br>treatise; paper; thesis"
+		},{
+		"character" : "蘿卜",
+		"charTip" : "luóbo<br>radish; turnip"
+		},{
+		"character" : "落",
+		"charTip" : "luò<br>fall"
+		},{
+		"character" : "落後",
+		"charTip" : "luòhòu<br>backward; fall behind"
+		},{
+		"character" : "碼頭",
+		"charTip" : "mǎtou<br>dock; wharf"
+		},{
+		"character" : "馬虎",
+		"charTip" : "mǎhu<br>casual; careless"
+		},{
+		"character" : "馬克",
+		"charTip" : "mǎkè<br>mark (German or Finnish monetary unit)"
+		},{
+		"character" : "馬路",
+		"charTip" : "mǎlù<br>street"
+		},{
+		"character" : "罵",
+		"charTip" : "mà<br>curse"
+		},{
+		"character" : "埋",
+		"charTip" : "mái<br>bury"
+		},{
+		"character" : "買賣",
+		"charTip" : "mǎimai<br>buying and selling; business"
+		},{
+		"character" : "邁",
+		"charTip" : "mài<br>step; stride"
+		},{
+		"character" : "饅頭",
+		"charTip" : "mántou<br>steamed bun"
+		},{
+		"character" : "滿足",
+		"charTip" : "mǎnzú<br>satisfied; contented"
+		},{
+		"character" : "貓",
+		"charTip" : "māo<br>cat"
+		},{
+		"character" : "毛",
+		"charTip" : "máo<br>hair"
+		},{
+		"character" : "毛病",
+		"charTip" : "máobìng<br>trouble; breakdown; shortcoming"
+		},{
+		"character" : "毛巾",
+		"charTip" : "máojīn<br>towel"
+		},{
+		"character" : "毛衣",
+		"charTip" : "máoyī<br>sweater"
+		},{
+		"character" : "矛盾",
+		"charTip" : "máodùn<br>contradiction; contradictory"
+		},{
+		"character" : "冒",
+		"charTip" : "mào<br>emit; give off; send out"
+		},{
+		"character" : "貿易",
+		"charTip" : "màoyì<br>trade"
+		},{
+		"character" : "煤",
+		"charTip" : "méi<br>coal"
+		},{
+		"character" : "煤氣",
+		"charTip" : "méiqì<br>coal gas"
+		},{
+		"character" : "沒錯",
+		"charTip" : "méi cuò<br>quite sure"
+		},{
+		"character" : "沒什麼",
+		"charTip" : "méi shénme<br>it doesn't matter"
+		},{
+		"character" : "沒事兒",
+		"charTip" : "méi shìr<br>it doesn't matter"
+		},{
+		"character" : "沒用",
+		"charTip" : "méi yòng<br>no use"
+		},{
+		"character" : "每",
+		"charTip" : "měi<br>each; per"
+		},{
+		"character" : "美",
+		"charTip" : "měi<br>beautiful"
+		},{
+		"character" : "美好",
+		"charTip" : "měihǎo<br>fine; happy; glorious"
+		},{
+		"character" : "美麗",
+		"charTip" : "měilì<br>beautiful"
+		},{
+		"character" : "美術",
+		"charTip" : "měishù<br>the fine arts; art"
+		},{
+		"character" : "美元",
+		"charTip" : "měiyuán<br>U.S. dollar"
+		},{
+		"character" : "夢",
+		"charTip" : "mèng<br>dream"
+		},{
+		"character" : "米",
+		"charTip" : "mǐ<br>rice"
+		},{
+		"character" : "秘密",
+		"charTip" : "mìmì<br>confidential; secret"
+		},{
+		"character" : "蜜蜂",
+		"charTip" : "mìfēng<br>bee; honeybee"
+		},{
+		"character" : "密",
+		"charTip" : "mì<br>thick"
+		},{
+		"character" : "密切",
+		"charTip" : "mìqiè<br>intimate; close; carefully; be close"
+		},{
+		"character" : "棉花",
+		"charTip" : "miánhua<br>cotton"
+		},{
+		"character" : "棉衣",
+		"charTip" : "miányī<br>cotton-padded clothes"
+		},{
+		"character" : "麵",
+		"charTip" : "miàn<br>side; surface"
+		},{
+		"character" : "面",
+		"charTip" : "miàn<br>measure word for flags"
+		},{
+		"character" : "面積",
+		"charTip" : "miànjī<br>area"
+		},{
+		"character" : "面貌",
+		"charTip" : "miànmào<br>face; appearance; visage"
+		},{
+		"character" : "面前",
+		"charTip" : "miànqián<br>in front of; in face of; before"
+		},{
+		"character" : "描寫",
+		"charTip" : "miáoxiě<br>portray; depict; describe"
+		},{
+		"character" : "秒",
+		"charTip" : "miǎo<br>second"
+		},{
+		"character" : "廟",
+		"charTip" : "miào<br>temple"
+		},{
+		"character" : "妙",
+		"charTip" : "miào<br>wonderful"
+		},{
+		"character" : "滅",
+		"charTip" : "miè<br>go out; put out"
+		},{
+		"character" : "民主",
+		"charTip" : "mínzhǔ<br>democracy; democratic"
+		},{
+		"character" : "明亮",
+		"charTip" : "míngliàng<br>light; bright"
+		},{
+		"character" : "明確",
+		"charTip" : "míngquè<br>clarify; clear; clear-cut"
+		},{
+		"character" : "明顯",
+		"charTip" : "míngxiǎn<br>clear; obvious; apparent"
+		},{
+		"character" : "名",
+		"charTip" : "míng<br>name; (measure word for people)"
+		},{
+		"character" : "名勝",
+		"charTip" : "míngshèng<br>famous place; scenic spot"
+		},{
+		"character" : "命令",
+		"charTip" : "mìnglìng<br>command; order"
+		},{
+		"character" : "命運",
+		"charTip" : "mìngyùn<br>fate; destiny"
+		},{
+		"character" : "模",
+		"charTip" : "mō<br>touch; feel"
+		},{
+		"character" : "模仿",
+		"charTip" : "mófǎng<br>copy; imitate"
+		},{
+		"character" : "磨",
+		"charTip" : "mó<br>wear; rub; grind"
+		},{
+		"character" : "墨水",
+		"charTip" : "mòshuǐr<br>ink"
+		},{
+		"character" : "某",
+		"charTip" : "mǒu<br>certain; some"
+		},{
+		"character" : "模樣",
+		"charTip" : "múyàng<br>appearance; look"
+		},{
+		"character" : "畝",
+		"charTip" : "mǔ<br>1 mǔ = 0.0667 hectare"
+		},{
+		"character" : "母",
+		"charTip" : "mǔ<br>mother; female; motherly"
+		},{
+		"character" : "木",
+		"charTip" : "mù<br>wood"
+		},{
+		"character" : "木頭",
+		"charTip" : "mùtou<br>wood; timber"
+		},{
+		"character" : "目標",
+		"charTip" : "mùbiāo<br>objective; target"
+		},{
+		"character" : "目的",
+		"charTip" : "mùdì<br>aim; purpose"
+		},{
+		"character" : "哪個",
+		"charTip" : "nǎge<br>which"
+		},{
+		"character" : "哪怕",
+		"charTip" : "nǎpà<br>even if"
+		},{
+		"character" : "哪些",
+		"charTip" : "nǎxiē<br>which"
+		},{
+		"character" : "那邊",
+		"charTip" : "nàbiān<br>there"
+		},{
+		"character" : "奶奶",
+		"charTip" : "nǎinai<br>grandma"
+		},{
+		"character" : "耐心",
+		"charTip" : "nàixīn<br>patient; patience"
+		},{
+		"character" : "耐用",
+		"charTip" : "nàiyòng<br>durable"
+		},{
+		"character" : "南部",
+		"charTip" : "nánbù<br>south"
+		},{
+		"character" : "南方",
+		"charTip" : "nánfāng<br>south"
+		},{
+		"character" : "南面",
+		"charTip" : "nánmiàn<br>south"
+		},{
+		"character" : "男人",
+		"charTip" : "nánrén<br>man; male"
+		},{
+		"character" : "難道",
+		"charTip" : "nándào<br>could it be said that …"
+		},{
+		"character" : "難過",
+		"charTip" : "nánguò<br>feel bad; feel sorry; sad"
+		},{
+		"character" : "難看",
+		"charTip" : "nánkàn<br>unsightly; ugly"
+		},{
+		"character" : "難受",
+		"charTip" : "nánshòu<br>feel unwell; suffer pain"
+		},{
+		"character" : "腦袋",
+		"charTip" : "nǎodai<br>head"
+		},{
+		"character" : "腦子",
+		"charTip" : "nǎozi<br>brain"
+		},{
+		"character" : "鬧",
+		"charTip" : "nào<br>stir up trouble"
+		},{
+		"character" : "內部",
+		"charTip" : "nèibù<br>internal; inside"
+		},{
+		"character" : "能幹",
+		"charTip" : "nénggàn<br>able; capable; competent"
+		},{
+		"character" : "能力",
+		"charTip" : "nénglì<br>capability; ability; capacity"
+		},{
+		"character" : "能源",
+		"charTip" : "néngyuán<br>energy resources"
+		},{
+		"character" : "泥",
+		"charTip" : "ní<br>mud"
+		},{
+		"character" : "年代",
+		"charTip" : "niándài<br>time; years; age"
+		},{
+		"character" : "年齡",
+		"charTip" : "niánlíng<br>age"
+		},{
+		"character" : "年青",
+		"charTip" : "niánqīng<br>young"
+		},{
+		"character" : "鳥",
+		"charTip" : "niǎo<br>bird"
+		},{
+		"character" : "扭",
+		"charTip" : "niǔ<br>tweak"
+		},{
+		"character" : "濃",
+		"charTip" : "nóng<br>dense; thick"
+		},{
+		"character" : "弄",
+		"charTip" : "nòng<br>deal with"
+		},{
+		"character" : "女人",
+		"charTip" : "nǚrén<br>woman"
+		},{
+		"character" : "女士",
+		"charTip" : "nǚshì<br>lady; madam"
+		},{
+		"character" : "暖",
+		"charTip" : "nuǎn<br>warm"
+		},{
+		"character" : "暖氣",
+		"charTip" : "nuǎnqì<br>central heating"
+		},{
+		"character" : "怕",
+		"charTip" : "pà<br>afraid"
+		},{
+		"character" : "排",
+		"charTip" : "pái<br>platoon; row; line"
+		},{
+		"character" : "排",
+		"charTip" : "pái<br>discharge; exclude"
+		},{
+		"character" : "牌",
+		"charTip" : "pái<br>tablet; board"
+		},{
+		"character" : "盤",
+		"charTip" : "pán<br>plate; dish"
+		},{
+		"character" : "盤子",
+		"charTip" : "pánzi<br>tray; plate; dish"
+		},{
+		"character" : "盼望",
+		"charTip" : "pànwàng<br>hope for; look forward to"
+		},{
+		"character" : "判斷",
+		"charTip" : "pànduàn<br>judge; decide; judgement"
+		},{
+		"character" : "旁",
+		"charTip" : "páng<br>near; beside"
+		},{
+		"character" : "胖",
+		"charTip" : "pàng<br>fat"
+		},{
+		"character" : "炮",
+		"charTip" : "pào<br>big gun; canon"
+		},{
+		"character" : "賠",
+		"charTip" : "péi<br>compensate; pay for"
+		},{
+		"character" : "陪",
+		"charTip" : "péi<br>accompany"
+		},{
+		"character" : "配合",
+		"charTip" : "pèihé<br>coordinate; cooperation; concert"
+		},{
+		"character" : "噴",
+		"charTip" : "pēn<br>spray; gush"
+		},{
+		"character" : "盆",
+		"charTip" : "pén<br>basin; tub; pot"
+		},{
+		"character" : "捧",
+		"charTip" : "pěng<br>hold or carry in both hands"
+		},{
+		"character" : "碰見",
+		"charTip" : "pèng jiàn<br>meet unexpectedly; run into"
+		},{
+		"character" : "批",
+		"charTip" : "pī<br>batch"
+		},{
+		"character" : "批判",
+		"charTip" : "pīpàn<br>criticize"
+		},{
+		"character" : "批准",
+		"charTip" : "pīzhǔn<br>ratify; approve"
+		},{
+		"character" : "披",
+		"charTip" : "pī<br>drape over one's shoulder"
+		},{
+		"character" : "脾氣",
+		"charTip" : "píqi<br>temperament; temper"
+		},{
+		"character" : "疲勞",
+		"charTip" : "píláo<br>exhausted; tired"
+		},{
+		"character" : "皮",
+		"charTip" : "pí<br>skin; peel; tegument"
+		},{
+		"character" : "皮膚",
+		"charTip" : "pífū<br>skin"
+		},{
+		"character" : "匹",
+		"charTip" : "pǐ<br>measure word for cloth"
+		},{
+		"character" : "偏",
+		"charTip" : "piān<br>inclined to one side"
+		},{
+		"character" : "片面",
+		"charTip" : "piànmiàn<br>unilateral; one-sided"
+		},{
+		"character" : "騙",
+		"charTip" : "piàn<br>cheat"
+		},{
+		"character" : "飄",
+		"charTip" : "piāo<br>float"
+		},{
+		"character" : "拼命",
+		"charTip" : "pīn mìng<br>risk one's life; defy death"
+		},{
+		"character" : "品種",
+		"charTip" : "pǐnzhǒng<br>breed; variety"
+		},{
+		"character" : "乒乓球",
+		"charTip" : "pīngpāngqiú<br>table tennis"
+		},{
+		"character" : "平",
+		"charTip" : "píng<br>flat"
+		},{
+		"character" : "平安",
+		"charTip" : "píng'ān<br>safe and sound"
+		},{
+		"character" : "平常",
+		"charTip" : "píngcháng<br>generally; usually; ordinary; common"
+		},{
+		"character" : "平等",
+		"charTip" : "píngděng<br>equal; equality"
+		},{
+		"character" : "平方",
+		"charTip" : "píngfāng<br>square"
+		},{
+		"character" : "平靜",
+		"charTip" : "píngjìng<br>calm; quiet; tranquil"
+		},{
+		"character" : "平均",
+		"charTip" : "píngjūn<br>share out equally; mean; average"
+		},{
+		"character" : "平時",
+		"charTip" : "píngshí<br>at ordinary times; in normal times"
+		},{
+		"character" : "平原",
+		"charTip" : "píngyuán<br>plain"
+		},{
+		"character" : "瓶子",
+		"charTip" : "píngzi<br>bottle"
+		},{
+		"character" : "坡",
+		"charTip" : "pō<br>slope"
+		},{
+		"character" : "破壞",
+		"charTip" : "pòhuài<br>destroy; week"
+		},{
+		"character" : "迫切",
+		"charTip" : "pòqiè<br>pressing; urgent"
+		},{
+		"character" : "撲",
+		"charTip" : "pū<br>throw oneself on; pounce on"
+		},{
+		"character" : "鋪",
+		"charTip" : "pū<br>lay"
+		},{
+		"character" : "樸素",
+		"charTip" : "pǔsù<br>simple; plain"
+		},{
+		"character" : "普遍",
+		"charTip" : "pǔbiàn<br>universal; general; widespread"
+		},{
+		"character" : "普通",
+		"charTip" : "pǔtōng<br>ordinary; common; average"
+		},{
+		"character" : "期",
+		"charTip" : "qī<br>period; phase"
+		},{
+		"character" : "期間",
+		"charTip" : "qījiān<br>time; period"
+		},{
+		"character" : "欺騙",
+		"charTip" : "qīpiàn<br>deceive; cheat; dupe"
+		},{
+		"character" : "妻子",
+		"charTip" : "qīzi<br>wife"
+		},{
+		"character" : "其次",
+		"charTip" : "qícì<br>next; secondary"
+		},{
+		"character" : "其他",
+		"charTip" : "qítā<br>other (people)"
+		},{
+		"character" : "其它",
+		"charTip" : "qítā<br>other (things)"
+		},{
+		"character" : "其餘",
+		"charTip" : "qíyú<br>the others; the rest; the remainder"
+		},{
+		"character" : "其中",
+		"charTip" : "qízhōng<br>among"
+		},{
+		"character" : "奇怪",
+		"charTip" : "qíguài<br>strange; surprising"
+		},{
+		"character" : "齊",
+		"charTip" : "qí<br>gather; neat; uniform"
+		},{
+		"character" : "旗子",
+		"charTip" : "qízi<br>banner; flag"
+		},{
+		"character" : "企圖",
+		"charTip" : "qǐtú<br>try; attempt"
+		},{
+		"character" : "企業",
+		"charTip" : "qǐyè<br>enterprise; business"
+		},{
+		"character" : "啟發",
+		"charTip" : "qǐfā<br>arouse; inspire; enlighten; illumination"
+		},{
+		"character" : "氣",
+		"charTip" : "qì<br>get angry"
+		},{
+		"character" : "氣候",
+		"charTip" : "qìhòu<br>climate"
+		},{
+		"character" : "氣溫",
+		"charTip" : "qìwēn<br>air temperature"
+		},{
+		"character" : "氣象",
+		"charTip" : "qìxiàng<br>meteorology"
+		},{
+		"character" : "汽油",
+		"charTip" : "qìyóu<br>gasoline; gas"
+		},{
+		"character" : "牽",
+		"charTip" : "qiān<br>lead; pull"
+		},{
+		"character" : "千萬",
+		"charTip" : "qiānwàn<br>must; be sure to"
+		},{
+		"character" : "簽訂",
+		"charTip" : "qiāndìng<br>conclude and sign"
+		},{
+		"character" : "前進",
+		"charTip" : "qiánjìn<br>go forward"
+		},{
+		"character" : "前面",
+		"charTip" : "qiánmian<br>ahead; in front"
+		},{
+		"character" : "前年",
+		"charTip" : "qiánnián<br>the year before yesteryear"
+		},{
+		"character" : "前天",
+		"charTip" : "qiántiān<br>the day before yesterday"
+		},{
+		"character" : "前途",
+		"charTip" : "qiántú<br>prospect; future"
+		},{
+		"character" : "欠",
+		"charTip" : "qiàn<br>owe"
+		},{
+		"character" : "槍",
+		"charTip" : "qiāng<br>gun; spear"
+		},{
+		"character" : "強",
+		"charTip" : "qiáng<br>powerful; strong"
+		},{
+		"character" : "強大",
+		"charTip" : "qiángdà<br>big and powerful; formidable"
+		},{
+		"character" : "強盜",
+		"charTip" : "qiángdào<br>robber; bandit"
+		},{
+		"character" : "強調",
+		"charTip" : "qiángdiào<br>underline; emphasize; stress"
+		},{
+		"character" : "強度",
+		"charTip" : "qiángdù<br>intensity"
+		},{
+		"character" : "強烈",
+		"charTip" : "qiángliè<br>intense; strong; violent"
+		},{
+		"character" : "搶",
+		"charTip" : "qiǎng<br>snatch; grab"
+		},{
+		"character" : "敲",
+		"charTip" : "qiāo<br>knock"
+		},{
+		"character" : "悄悄",
+		"charTip" : "qiāoqiāo<br>quietly; on the quiet"
+		},{
+		"character" : "橋梁",
+		"charTip" : "qiáoliáng<br>bridge"
+		},{
+		"character" : "瞧",
+		"charTip" : "qiáo<br>look; see"
+		},{
+		"character" : "巧",
+		"charTip" : "qiǎo<br>skillful"
+		},{
+		"character" : "巧妙",
+		"charTip" : "qiǎomiào<br>clever; ingenious"
+		},{
+		"character" : "切",
+		"charTip" : "qiē<br>chop; cut"
+		},{
+		"character" : "且",
+		"charTip" : "qiě<br>just; for the time being; but also"
+		},{
+		"character" : "侵略",
+		"charTip" : "qīnlüè<br>aggress"
+		},{
+		"character" : "親愛",
+		"charTip" : "qīn'ài<br>dear; beloved"
+		},{
+		"character" : "親戚",
+		"charTip" : "qīnqi<br>relative"
+		},{
+		"character" : "親切",
+		"charTip" : "qīnqiè<br>cordial; kind"
+		},{
+		"character" : "親自",
+		"charTip" : "qīnzì<br>personally"
+		},{
+		"character" : "青",
+		"charTip" : "qīng<br>blue; green"
+		},{
+		"character" : "輕鬆",
+		"charTip" : "qīngsōng<br>relaxed"
+		},{
+		"character" : "清",
+		"charTip" : "qīng<br>unmixed; clear; clear up"
+		},{
+		"character" : "情景",
+		"charTip" : "qíngjǐng<br>scene; sight"
+		},{
+		"character" : "情形",
+		"charTip" : "qíngxīng<br>circumstance; condition; situation"
+		},{
+		"character" : "情緒",
+		"charTip" : "qíngxù<br>morale; feeling; mood"
+		},{
+		"character" : "請客",
+		"charTip" : "qǐng kè<br>invite to dinner; give a dinner party"
+		},{
+		"character" : "請求",
+		"charTip" : "qǐngqiú<br>request; ask"
+		},{
+		"character" : "慶祝",
+		"charTip" : "qìngzhù<br>celebrate"
+		},{
+		"character" : "窮",
+		"charTip" : "qióng<br>poor"
+		},{
+		"character" : "球場",
+		"charTip" : "qiúchǎng<br>playground; play field"
+		},{
+		"character" : "求",
+		"charTip" : "qiú<br>beg; ask for"
+		},{
+		"character" : "區",
+		"charTip" : "qū<br>region; district"
+		},{
+		"character" : "區別",
+		"charTip" : "qūbié<br>difference; distinguish; differ"
+		},{
+		"character" : "渠",
+		"charTip" : "qú<br>watercourse; trench"
+		},{
+		"character" : "取",
+		"charTip" : "qǔ<br>get; take"
+		},{
+		"character" : "取消",
+		"charTip" : "qǔxiāo<br>cancel; abolish; call off"
+		},{
+		"character" : "圈",
+		"charTip" : "quān<br>circle"
+		},{
+		"character" : "全面",
+		"charTip" : "quánmiàn<br>overall; all-round; comprehensive"
+		},{
+		"character" : "勸",
+		"charTip" : "quàn<br>persuade"
+		},{
+		"character" : "缺",
+		"charTip" : "quē<br>lack of"
+		},{
+		"character" : "缺點",
+		"charTip" : "quēdiǎn<br>shortcoming; defect; weakness"
+		},{
+		"character" : "缺乏",
+		"charTip" : "quēfá<br>be short of; lack"
+		},{
+		"character" : "缺少",
+		"charTip" : "quēshǎo<br>lack; be short of"
+		},{
+		"character" : "卻",
+		"charTip" : "què<br>but; yet"
+		},{
+		"character" : "確定",
+		"charTip" : "quèdìng<br>make certain; make sure; define; determine"
+		},{
+		"character" : "裙子",
+		"charTip" : "qúnzi<br>skirt"
+		},{
+		"character" : "群",
+		"charTip" : "qún<br>group"
+		},{
+		"character" : "群眾",
+		"charTip" : "qúnzhòng<br>the masses"
+		},{
+		"character" : "然而",
+		"charTip" : "ránr<br>but; however"
+		},{
+		"character" : "燃燒",
+		"charTip" : "ránshāo<br>burn; kindle"
+		},{
+		"character" : "染",
+		"charTip" : "rǎn<br>dye"
+		},{
+		"character" : "嚷",
+		"charTip" : "rǎng<br>shout"
+		},{
+		"character" : "繞",
+		"charTip" : "rào<br>reel; roll"
+		},{
+		"character" : "惹",
+		"charTip" : "rě<br>cause; provoke"
+		},{
+		"character" : "熱愛",
+		"charTip" : "rè'ài<br>ardently love; have deep love"
+		},{
+		"character" : "熱烈",
+		"charTip" : "rèliè<br>warm; ardent; enthusiastic"
+		},{
+		"character" : "熱鬧",
+		"charTip" : "rènao<br>lively; busy; liven up; enliven"
+		},{
+		"character" : "熱水瓶(暖水瓶)",
+		"charTip" : "rèshuǐpíng(nuǎnshuǐpíng)<br>thermos"
+		},{
+		"character" : "熱心",
+		"charTip" : "rèxīn<br>enthusiastic; ardent"
+		},{
+		"character" : "人才(人材)",
+		"charTip" : "réncái<br>talent"
+		},{
+		"character" : "人工",
+		"charTip" : "réngōng<br>man-made; artificial"
+		},{
+		"character" : "人家",
+		"charTip" : "rénjiā<br>others"
+		},{
+		"character" : "人口",
+		"charTip" : "rénkǒu<br>population"
+		},{
+		"character" : "人類",
+		"charTip" : "rénlèi<br>mankind; humanity"
+		},{
+		"character" : "人民幣",
+		"charTip" : "rénmínbì<br>the name of China's currency"
+		},{
+		"character" : "人物",
+		"charTip" : "rénwù<br>figure; personage"
+		},{
+		"character" : "人員",
+		"charTip" : "rényuán<br>personnel; staff"
+		},{
+		"character" : "人造",
+		"charTip" : "rénzào<br>man-made; artificial"
+		},{
+		"character" : "忍",
+		"charTip" : "rěn<br>bear; suffer"
+		},{
+		"character" : "任務",
+		"charTip" : "rènwu<br>mission; task; job"
+		},{
+		"character" : "認",
+		"charTip" : "rèn<br>admit; recognize"
+		},{
+		"character" : "認得",
+		"charTip" : "rènde<br>recognize; know"
+		},{
+		"character" : "扔",
+		"charTip" : "rēng<br>throw"
+		},{
+		"character" : "仍",
+		"charTip" : "réng<br>still"
+		},{
+		"character" : "仍然",
+		"charTip" : "réngrán<br>still; yet"
+		},{
+		"character" : "日常",
+		"charTip" : "rìcháng<br>day-to-day; everyday; daily"
+		},{
+		"character" : "日程",
+		"charTip" : "rìchéng<br>schedule"
+		},{
+		"character" : "日記",
+		"charTip" : "rìjì<br>diary"
+		},{
+		"character" : "日期",
+		"charTip" : "rìqī<br>date"
+		},{
+		"character" : "日用品",
+		"charTip" : "rìyòngpǐn<br>daily necessaries"
+		},{
+		"character" : "日元",
+		"charTip" : "rìyuán<br>Japanese yen"
+		},{
+		"character" : "如",
+		"charTip" : "rú<br>according to"
+		},{
+		"character" : "如",
+		"charTip" : "rú<br>if"
+		},{
+		"character" : "如果",
+		"charTip" : "rúguǒ<br>if; in case; in the event of"
+		},{
+		"character" : "如何",
+		"charTip" : "rúhé<br>how; what"
+		},{
+		"character" : "如今",
+		"charTip" : "rújīn<br>nowadays; now"
+		},{
+		"character" : "入",
+		"charTip" : "rù<br>go into"
+		},{
+		"character" : "軟",
+		"charTip" : "ruǎn<br>soft"
+		},{
+		"character" : "弱",
+		"charTip" : "ruò<br>weak"
+		},{
+		"character" : "撒",
+		"charTip" : "sā<br>cast; let go"
+		},{
+		"character" : "灑",
+		"charTip" : "sǎ<br>sprinkle"
+		},{
+		"character" : "賽",
+		"charTip" : "sài<br>contest; compete"
+		},{
+		"character" : "傘",
+		"charTip" : "sǎn<br>umbrella"
+		},{
+		"character" : "嗓子",
+		"charTip" : "sǎngzi<br>throat; larynx; voice"
+		},{
+		"character" : "掃",
+		"charTip" : "sǎo<br>sweep; whisk"
+		},{
+		"character" : "嫂子",
+		"charTip" : "sǎozi<br>sister-in-law"
+		},{
+		"character" : "色",
+		"charTip" : "sè<br>color"
+		},{
+		"character" : "森林",
+		"charTip" : "sēnlín<br>forest"
+		},{
+		"character" : "殺",
+		"charTip" : "shā<br>kill"
+		},{
+		"character" : "沙發",
+		"charTip" : "shāfā<br>sofa"
+		},{
+		"character" : "沙漠",
+		"charTip" : "shāmò<br>desert"
+		},{
+		"character" : "沙子",
+		"charTip" : "shāzi<br>sand; grit"
+		},{
+		"character" : "傻",
+		"charTip" : "shǎ<br>foolish"
+		},{
+		"character" : "曬",
+		"charTip" : "shài<br>shine upon; dry in the sun"
+		},{
+		"character" : "山脈",
+		"charTip" : "shānmài<br>mountain range"
+		},{
+		"character" : "山區",
+		"charTip" : "shānqū<br>a mountainous area"
+		},{
+		"character" : "閃",
+		"charTip" : "shǎn<br>flash"
+		},{
+		"character" : "善於",
+		"charTip" : "shànyú<br>be good at; be adept in"
+		},{
+		"character" : "傷",
+		"charTip" : "shāng<br>hurt; wound"
+		},{
+		"character" : "傷心",
+		"charTip" : "shāng xīn<br>sad; grievous; brokenhearted"
+		},{
+		"character" : "商場",
+		"charTip" : "shāngchǎng<br>market; bazaar"
+		},{
+		"character" : "商量",
+		"charTip" : "shāngliang<br>consult; discuss; talk over"
+		},{
+		"character" : "商品",
+		"charTip" : "shāngpǐn<br>commodity; goods"
+		},{
+		"character" : "商業",
+		"charTip" : "shāngyè<br>commerce; trade business"
+		},{
+		"character" : "上班",
+		"charTip" : "shàng bān<br>go to work; be on duty"
+		},{
+		"character" : "上當",
+		"charTip" : "shàng dàng<br>be fooled; be taken in"
+		},{
+		"character" : "上級",
+		"charTip" : "shàngjí<br>higher level; higher authority"
+		},{
+		"character" : "上面",
+		"charTip" : "shàngmian<br>above; over; on the surface of"
+		},{
+		"character" : "上衣",
+		"charTip" : "shàngyī<br>coat; upper outer garment"
+		},{
+		"character" : "稍",
+		"charTip" : "shāo<br>a little"
+		},{
+		"character" : "稍微",
+		"charTip" : "shāowēi<br>a little; a bit; slightly"
+		},{
+		"character" : "燒",
+		"charTip" : "shāo<br>burn"
+		},{
+		"character" : "勺子",
+		"charTip" : "sháozi<br>scoop; spoon"
+		},{
+		"character" : "少數",
+		"charTip" : "shǎoshù<br>minority; few"
+		},{
+		"character" : "少年",
+		"charTip" : "shàonián<br>early youth; juvenile"
+		},{
+		"character" : "蛇",
+		"charTip" : "shé<br>snake"
+		},{
+		"character" : "舌頭",
+		"charTip" : "shétou<br>tongue"
+		},{
+		"character" : "射",
+		"charTip" : "shè<br>shot"
+		},{
+		"character" : "設備",
+		"charTip" : "shèbèi<br>equipment; facilities"
+		},{
+		"character" : "設計",
+		"charTip" : "shèjì<br>design; plan"
+		},{
+		"character" : "伸",
+		"charTip" : "shēn<br>stretch"
+		},{
+		"character" : "身",
+		"charTip" : "shēn<br>body; measure word for clothes"
+		},{
+		"character" : "深",
+		"charTip" : "shēn<br>deep; solid"
+		},{
+		"character" : "身邊",
+		"charTip" : "shēnbiān<br>with one; at one's side"
+		},{
+		"character" : "深刻",
+		"charTip" : "shēnkè<br>deep; profound"
+		},{
+		"character" : "深入",
+		"charTip" : "shēnrù<br>penetrate into; go deep into"
+		},{
+		"character" : "什麼的",
+		"charTip" : "shénmede<br>and so on"
+		},{
+		"character" : "神",
+		"charTip" : "shén<br>god; deity"
+		},{
+		"character" : "神經",
+		"charTip" : "shénjīng<br>nerve"
+		},{
+		"character" : "生",
+		"charTip" : "shēng<br>give birth to; bear; get"
+		},{
+		"character" : "生",
+		"charTip" : "shēng<br>raw; uncooked; unripe"
+		},{
+		"character" : "生動",
+		"charTip" : "shēngdòng<br>vivid; lively"
+		},{
+		"character" : "生命",
+		"charTip" : "shēngmìng<br>life"
+		},{
+		"character" : "生氣",
+		"charTip" : "shēng qì<br>get angry; take offence"
+		},{
+		"character" : "生物",
+		"charTip" : "shēngwù<br>living thing; organism"
+		},{
+		"character" : "生意",
+		"charTip" : "shēngyi<br>business; trade"
+		},{
+		"character" : "生長",
+		"charTip" : "shēngzhǎng<br>grow; grow up"
+		},{
+		"character" : "升",
+		"charTip" : "shēng<br>rise up"
+		},{
+		"character" : "繩子",
+		"charTip" : "shéngzi<br>string; rope"
+		},{
+		"character" : "省",
+		"charTip" : "shěng<br>save"
+		},{
+		"character" : "勝",
+		"charTip" : "shèng<br>win"
+		},{
+		"character" : "失敗",
+		"charTip" : "shībài<br>be defeated; lose"
+		},{
+		"character" : "失去",
+		"charTip" : "shīqù<br>lose"
+		},{
+		"character" : "失望",
+		"charTip" : "shīwàng<br>lose hope; disappointed"
+		},{
+		"character" : "失業",
+		"charTip" : "shī yè<br>lose one's job; unemployment"
+		},{
+		"character" : "獅子",
+		"charTip" : "shīzi<br>lion"
+		},{
+		"character" : "施工",
+		"charTip" : "shī gōng<br>construct; build; construction"
+		},{
+		"character" : "濕",
+		"charTip" : "shī<br>wet"
+		},{
+		"character" : "詩",
+		"charTip" : "shī<br>poem"
+		},{
+		"character" : "石頭",
+		"charTip" : "shítou<br>stone"
+		},{
+		"character" : "石油",
+		"charTip" : "shíyóu<br>petroleum"
+		},{
+		"character" : "拾",
+		"charTip" : "shí<br>pick up"
+		},{
+		"character" : "時代",
+		"charTip" : "shídài<br>times; age; era; epoch"
+		},{
+		"character" : "時刻",
+		"charTip" : "shíkè<br>moment"
+		},{
+		"character" : "時期",
+		"charTip" : "shíqī<br>period"
+		},{
+		"character" : "食品",
+		"charTip" : "shípǐn<br>foodstuff; food"
+		},{
+		"character" : "食物",
+		"charTip" : "shíwù<br>food"
+		},{
+		"character" : "實際",
+		"charTip" : "shíjì<br>reality; practice; actual"
+		},{
+		"character" : "實事求是",
+		"charTip" : "shí shì qiú shì<br>be practical and realistic"
+		},{
+		"character" : "實行",
+		"charTip" : "shíxíng<br>put into practice; carry out"
+		},{
+		"character" : "實驗",
+		"charTip" : "shíyàn<br>experiment; test"
+		},{
+		"character" : "實用",
+		"charTip" : "shíyòng<br>practical; pragmatic"
+		},{
+		"character" : "實在",
+		"charTip" : "shízài<br>true; real; honest"
+		},{
+		"character" : "使",
+		"charTip" : "shǐ<br>use; employ"
+		},{
+		"character" : "始終",
+		"charTip" : "shǐzhōng<br>from beginning to end"
+		},{
+		"character" : "世紀",
+		"charTip" : "shìjì<br>century"
+		},{
+		"character" : "事件",
+		"charTip" : "shìjiàn<br>incident; event"
+		},{
+		"character" : "事實",
+		"charTip" : "shìshí<br>fact"
+		},{
+		"character" : "事物",
+		"charTip" : "shìwù<br>thing; object"
+		},{
+		"character" : "事先",
+		"charTip" : "shìxiān<br>in advance; beforehand"
+		},{
+		"character" : "事業",
+		"charTip" : "shìyè<br>cause; undertaking"
+		},{
+		"character" : "適當",
+		"charTip" : "shìdàng<br>suitable; proper"
+		},{
+		"character" : "適合",
+		"charTip" : "shìhé<br>suit; fit"
+		},{
+		"character" : "適應",
+		"charTip" : "shìyìng<br>adapt; fit"
+		},{
+		"character" : "適用",
+		"charTip" : "shìyòng<br>applicable; suitable"
+		},{
+		"character" : "市場",
+		"charTip" : "shìchǎng<br>market"
+		},{
+		"character" : "室",
+		"charTip" : "shì<br>room"
+		},{
+		"character" : "試卷",
+		"charTip" : "shìjuàn<br>examination paper"
+		},{
+		"character" : "試驗",
+		"charTip" : "shìyàn<br>test; experiment"
+		},{
+		"character" : "收穫",
+		"charTip" : "shōuhuò<br>gain; harvest"
+		},{
+		"character" : "收入",
+		"charTip" : "shōurù<br>take in; include; income; earning"
+		},{
+		"character" : "收音機",
+		"charTip" : "shōuyīnjī<br>radio (receiver)"
+		},{
+		"character" : "手段",
+		"charTip" : "shǒuduàn<br>means; measure; method"
+		},{
+		"character" : "手工",
+		"charTip" : "shǒugōng<br>handwork; handicraft"
+		},{
+		"character" : "手絹",
+		"charTip" : "shǒujuàn(shǒupà)<br>handkerchief"
+		},{
+		"character" : "手術",
+		"charTip" : "shǒushù<br>operation; surgical operation"
+		},{
+		"character" : "手套",
+		"charTip" : "shǒutào<br>glove"
+		},{
+		"character" : "手續",
+		"charTip" : "shǒuxù<br>procedure"
+		},{
+		"character" : "手指",
+		"charTip" : "shǒuzhǐ<br>finger"
+		},{
+		"character" : "首",
+		"charTip" : "shǒu<br>head; first; leader; measure word for songs"
+		},{
+		"character" : "首先",
+		"charTip" : "shǒuxiān<br>first; above all; first of all"
+		},{
+		"character" : "受",
+		"charTip" : "shòu<br>accept"
+		},{
+		"character" : "瘦",
+		"charTip" : "shòu<br>thin"
+		},{
+		"character" : "蔬菜",
+		"charTip" : "shūcài<br>vegetable; greens"
+		},{
+		"character" : "叔叔",
+		"charTip" : "shūshu<br>father's younger brother; uncle"
+		},{
+		"character" : "舒適",
+		"charTip" : "shūshì<br>comfortable; cozy; snug"
+		},{
+		"character" : "書包",
+		"charTip" : "shūbāo<br>schoolbag"
+		},{
+		"character" : "書店",
+		"charTip" : "shūdiàn<br>bookshop; bookstore"
+		},{
+		"character" : "書記",
+		"charTip" : "shūjì<br>secretary"
+		},{
+		"character" : "書架",
+		"charTip" : "shūjià<br>bookshelf"
+		},{
+		"character" : "熟練",
+		"charTip" : "shúliàn<br>skilled; practiced; proficient"
+		},{
+		"character" : "熟悉",
+		"charTip" : "shúxī<br>be familiar with; know well"
+		},{
+		"character" : "暑假",
+		"charTip" : "shǔjià<br>summer vacation"
+		},{
+		"character" : "屬於",
+		"charTip" : "shǔyú<br>belong to; be a part of"
+		},{
+		"character" : "樹林",
+		"charTip" : "shùlín<br>woods; grove"
+		},{
+		"character" : "數",
+		"charTip" : "shù<br>number"
+		},{
+		"character" : "數量",
+		"charTip" : "shùliàng<br>quantity; amount"
+		},{
+		"character" : "數字",
+		"charTip" : "shùzì<br>figure; digit"
+		},{
+		"character" : "刷",
+		"charTip" : "shuā<br>brush"
+		},{
+		"character" : "摔",
+		"charTip" : "shuāi<br>fall; tumble"
+		},{
+		"character" : "甩",
+		"charTip" : "shuǎi<br>move back and forth; throw"
+		},{
+		"character" : "率領",
+		"charTip" : "shuàilǐng<br>lead; head; command"
+		},{
+		"character" : "雙方",
+		"charTip" : "shuāngfāng<br>both sides; the two parties"
+		},{
+		"character" : "水稻",
+		"charTip" : "shuǐdào<br>rice; paddy"
+		},{
+		"character" : "水泥",
+		"charTip" : "shuǐní<br>cement"
+		},{
+		"character" : "順",
+		"charTip" : "shùn<br>along"
+		},{
+		"character" : "順便",
+		"charTip" : "shùnbiàn<br>conveniently; in passing"
+		},{
+		"character" : "順利",
+		"charTip" : "shùnlì<br>go smoothly; successful"
+		},{
+		"character" : "撕",
+		"charTip" : "sī<br>tear up"
+		},{
+		"character" : "思想",
+		"charTip" : "sīxiǎng<br>thought; thinking; idea; ideology"
+		},{
+		"character" : "私",
+		"charTip" : "sī<br>private"
+		},{
+		"character" : "私人",
+		"charTip" : "sīrén<br>private; personal; one's own man;"
+		},{
+		"character" : "司機",
+		"charTip" : "sījī<br>driver"
+		},{
+		"character" : "絲",
+		"charTip" : "sī<br>silk"
+		},{
+		"character" : "似乎",
+		"charTip" : "sìhū<br>it seems; as if; seemingly"
+		},{
+		"character" : "鬆",
+		"charTip" : "sōng<br>loose; loosen"
+		},{
+		"character" : "送行",
+		"charTip" : "sòngxíng<br>see sb. off; give a send-off party"
+		},{
+		"character" : "速度",
+		"charTip" : "sùdù<br>speed"
+		},{
+		"character" : "塑料",
+		"charTip" : "sùliào<br>plastics"
+		},{
+		"character" : "算了",
+		"charTip" : "suàn le<br>forget it"
+		},{
+		"character" : "隨",
+		"charTip" : "suí<br>with; follow"
+		},{
+		"character" : "隨便",
+		"charTip" : "suíbiàn<br>informal; random"
+		},{
+		"character" : "隨時",
+		"charTip" : "suíshí<br>at any time; at all time"
+		},{
+		"character" : "碎",
+		"charTip" : "suì<br>broken"
+		},{
+		"character" : "損失",
+		"charTip" : "sǔnshī<br>lose; damage; loss"
+		},{
+		"character" : "縮",
+		"charTip" : "suō<br>contract; shrink; draw back"
+		},{
+		"character" : "所",
+		"charTip" : "suǒ<br>place; measure word for buildings"
+		},{
+		"character" : "所",
+		"charTip" : "suǒ<br>used in a passive voice sentence"
+		},{
+		"character" : "所謂",
+		"charTip" : "suǒwèi<br>so called"
+		},{
+		"character" : "塔",
+		"charTip" : "tǎ<br>tower"
+		},{
+		"character" : "臺/檯",
+		"charTip" : "tái<br>(臺) platform; measure word for theatrical plays; (檯) table; desk"
+		},{
+		"character" : "太太",
+		"charTip" : "tàitai<br>wife; Madame; Lady; Mrs."
+		},{
+		"character" : "談話",
+		"charTip" : "tán huà<br>conversation; talk"
+		},{
+		"character" : "談判",
+		"charTip" : "tánpàn<br>negotiate"
+		},{
+		"character" : "彈",
+		"charTip" : "tán<br>flip; shoot; pluck"
+		},{
+		"character" : "毯子",
+		"charTip" : "tǎnzi<br>blanket"
+		},{
+		"character" : "探",
+		"charTip" : "tàn<br>explore"
+		},{
+		"character" : "趟",
+		"charTip" : "tàng<br>measure word for times"
+		},{
+		"character" : "燙",
+		"charTip" : "tàng<br>scald; burn; iron; perm"
+		},{
+		"character" : "掏",
+		"charTip" : "tāo<br>draw out; pull out"
+		},{
+		"character" : "逃",
+		"charTip" : "táo<br>escape"
+		},{
+		"character" : "討厭",
+		"charTip" : "tǎoyàn<br>disagreeable; disgusting; hate"
+		},{
+		"character" : "套",
+		"charTip" : "tào<br>cover with; measure word for sets of things"
+		},{
+		"character" : "特此",
+		"charTip" : "tècǐ<br>here by"
+		},{
+		"character" : "特點",
+		"charTip" : "tèdiǎn<br>characteristic"
+		},{
+		"character" : "特殊",
+		"charTip" : "tèshū<br>special; peculiar; exceptional"
+		},{
+		"character" : "提倡",
+		"charTip" : "tíchàng<br>advocate; promote"
+		},{
+		"character" : "提供",
+		"charTip" : "tígōng<br>provide; supply; furnish; offer"
+		},{
+		"character" : "提前",
+		"charTip" : "tíqián<br>ahead of time; advance"
+		},{
+		"character" : "題",
+		"charTip" : "tí<br>topic; problem; title"
+		},{
+		"character" : "題目",
+		"charTip" : "tímù<br>title; subject"
+		},{
+		"character" : "體會",
+		"charTip" : "tǐhuì<br>realize; know through experience; experience"
+		},{
+		"character" : "體積",
+		"charTip" : "tǐjī<br>volume"
+		},{
+		"character" : "體系",
+		"charTip" : "tǐxì<br>system; setup"
+		},{
+		"character" : "體育場",
+		"charTip" : "tǐyùchǎng<br>stadium"
+		},{
+		"character" : "體育館",
+		"charTip" : "tǐyùguǎn<br>gymnasium"
+		},{
+		"character" : "替",
+		"charTip" : "tì<br>take the place of; replace; for; on behalf of"
+		},{
+		"character" : "天真",
+		"charTip" : "tiānzhen<br>naïve; innocent"
+		},{
+		"character" : "添",
+		"charTip" : "tiān<br>add"
+		},{
+		"character" : "填",
+		"charTip" : "tián<br>fill"
+		},{
+		"character" : "田",
+		"charTip" : "tián<br>farmland"
+		},{
+		"character" : "田野",
+		"charTip" : "tiányě<br>field; open country"
+		},{
+		"character" : "甜",
+		"charTip" : "tián<br>sweet"
+		},{
+		"character" : "挑",
+		"charTip" : "tiāo<br>choose; pick"
+		},{
+		"character" : "條約",
+		"charTip" : "tiáoyuē<br>treaty; pact"
+		},{
+		"character" : "調整",
+		"charTip" : "tiáozhěng<br>adjust; regulate; revise"
+		},{
+		"character" : "貼",
+		"charTip" : "tiē<br>glue; stick"
+		},{
+		"character" : "鐵",
+		"charTip" : "tiě<br>iron"
+		},{
+		"character" : "鐵路",
+		"charTip" : "tiělù<br>railway; railroad"
+		},{
+		"character" : "聽講",
+		"charTip" : "tīng jiǎng<br>listen to (teacher); attend a lecture"
+		},{
+		"character" : "停止",
+		"charTip" : "tīngzhǐ<br>stop"
+		},{
+		"character" : "通訊",
+		"charTip" : "tōngxùn<br>communication"
+		},{
+		"character" : "同",
+		"charTip" : "tóng<br>same"
+		},{
+		"character" : "同",
+		"charTip" : "tóng<br>with; and"
+		},{
+		"character" : "同情",
+		"charTip" : "tóngqíng<br>sympathize"
+		},{
+		"character" : "同屋",
+		"charTip" : "tóngwū<br>be as a roommate; roommate"
+		},{
+		"character" : "同樣",
+		"charTip" : "tóngyàng<br>similar; same; equal; similarly"
+		},{
+		"character" : "銅",
+		"charTip" : "tóng<br>copper"
+		},{
+		"character" : "桶",
+		"charTip" : "tǒng<br>tub; bucket"
+		},{
+		"character" : "統一",
+		"charTip" : "tǒngyī<br>unify; unite; unified"
+		},{
+		"character" : "統治",
+		"charTip" : "tǒngzhì<br>rule; dominate"
+		},{
+		"character" : "痛",
+		"charTip" : "tòng<br>feel painful; agonize; ache"
+		},{
+		"character" : "痛苦",
+		"charTip" : "tòngkǔ<br>painful; suffering"
+		},{
+		"character" : "偷",
+		"charTip" : "tōu<br>steal"
+		},{
+		"character" : "偷偷",
+		"charTip" : "tōutōu<br>covertly; secretly; stealthily"
+		},{
+		"character" : "投",
+		"charTip" : "tóu<br>throw; cast"
+		},{
+		"character" : "投入",
+		"charTip" : "tóurù<br>put into; throw into; invest; investment"
+		},{
+		"character" : "頭",
+		"charTip" : "tóu<br>first; leading"
+		},{
+		"character" : "頭髮",
+		"charTip" : "tóufa<br>hair"
+		},{
+		"character" : "透",
+		"charTip" : "tòu<br>penetrate; transparent; thorough"
+		},{
+		"character" : "突出",
+		"charTip" : "tūchū<br>outstanding; stand out"
+		},{
+		"character" : "突擊",
+		"charTip" : "tūjī<br>make a sudden attack; assault"
+		},{
+		"character" : "圖",
+		"charTip" : "tú<br>graph; map"
+		},{
+		"character" : "塗",
+		"charTip" : "tú<br>paint; smear"
+		},{
+		"character" : "土",
+		"charTip" : "tǔ<br>earth; soil"
+		},{
+		"character" : "土地",
+		"charTip" : "tǔdì<br>land; soil; territory"
+		},{
+		"character" : "土豆",
+		"charTip" : "tǔdòu<br>potato"
+		},{
+		"character" : "吐",
+		"charTip" : "tǔ<br>spit"
+		},{
+		"character" : "吐",
+		"charTip" : "tù<br>vomit"
+		},{
+		"character" : "兔子",
+		"charTip" : "tùzi<br>hare; rabbit"
+		},{
+		"character" : "團",
+		"charTip" : "tuán<br>group; ball; measure word for ball-like things"
+		},{
+		"character" : "推動",
+		"charTip" : "tuīdòng<br>push forward; promote"
+		},{
+		"character" : "推廣",
+		"charTip" : "tuīguǎng<br>popularize; spread"
+		},{
+		"character" : "拖",
+		"charTip" : "tuō<br>tug; drag; pull"
+		},{
+		"character" : "托",
+		"charTip" : "tuō<br>hold in the palm"
+		},{
+		"character" : "脫離",
+		"charTip" : "tuōlí<br>break away from"
+		},{
+		"character" : "挖",
+		"charTip" : "wā<br>dig"
+		},{
+		"character" : "哇",
+		"charTip" : "wa<br>used to denote sigh or certainty"
+		},{
+		"character" : "歪",
+		"charTip" : "wāi<br>askewed; crooked; awry"
+		},{
+		"character" : "外地",
+		"charTip" : "wàidì<br>places other than the local place"
+		},{
+		"character" : "外交",
+		"charTip" : "wàijiāo<br>diplomacy; foreign affairs"
+		},{
+		"character" : "外面",
+		"charTip" : "wàimian<br>outside"
+		},{
+		"character" : "彎",
+		"charTip" : "wān<br>curve"
+		},{
+		"character" : "完整",
+		"charTip" : "wánzhěng<br>complete; intact"
+		},{
+		"character" : "網球",
+		"charTip" : "wǎngqiú<br>tennis ball; tennis"
+		},{
+		"character" : "往往",
+		"charTip" : "wǎngwǎng<br>often; more often than not"
+		},{
+		"character" : "望",
+		"charTip" : "wàng<br>watch; look"
+		},{
+		"character" : "忘記",
+		"charTip" : "wàngjì<br>forget"
+		},{
+		"character" : "微笑",
+		"charTip" : "wēixiào<br>smile"
+		},{
+		"character" : "危害",
+		"charTip" : "wēihài<br>endanger; jeopardize; harm"
+		},{
+		"character" : "危機",
+		"charTip" : "wēijī<br>crisis"
+		},{
+		"character" : "違反",
+		"charTip" : "wéifǎn<br>violate; run counter to"
+		},{
+		"character" : "圍",
+		"charTip" : "wéi<br>beleaguer; enclose; surround"
+		},{
+		"character" : "圍繞",
+		"charTip" : "wéirào<br>round; surround; revolve around"
+		},{
+		"character" : "維護",
+		"charTip" : "wéihù<br>safeguard; defend"
+		},{
+		"character" : "委員",
+		"charTip" : "wěiyuán<br>committee member"
+		},{
+		"character" : "尾巴",
+		"charTip" : "wěiba<br>tail; tail-like part"
+		},{
+		"character" : "未",
+		"charTip" : "wèi<br>not yet"
+		},{
+		"character" : "未來",
+		"charTip" : "wèilái<br>future"
+		},{
+		"character" : "味道",
+		"charTip" : "wèidao<br>taste; flavor"
+		},{
+		"character" : "胃",
+		"charTip" : "wèi<br>stomach"
+		},{
+		"character" : "喂",
+		"charTip" : "wèi<br>feed; breed"
+		},{
+		"character" : "位置",
+		"charTip" : "wèizhi<br>place; position"
+		},{
+		"character" : "衛生",
+		"charTip" : "wèishēng<br>hygiene; health; sanitary; hygienical"
+		},{
+		"character" : "衛星",
+		"charTip" : "wèixīng<br>satellite"
+		},{
+		"character" : "溫度",
+		"charTip" : "wēndù<br>temperature"
+		},{
+		"character" : "溫暖",
+		"charTip" : "wēnnuǎn<br>warm"
+		},{
+		"character" : "文件",
+		"charTip" : "wénjiàn<br>document"
+		},{
+		"character" : "文明",
+		"charTip" : "wénmíng<br>civilization; civilized"
+		},{
+		"character" : "文物",
+		"charTip" : "wénwù<br>culture relic"
+		},{
+		"character" : "文字",
+		"charTip" : "wénzì<br>character"
+		},{
+		"character" : "聞",
+		"charTip" : "wén<br>smell"
+		},{
+		"character" : "穩",
+		"charTip" : "wěn<br>stable"
+		},{
+		"character" : "穩定",
+		"charTip" : "wěndìng<br>stable; steady"
+		},{
+		"character" : "問候",
+		"charTip" : "wènhòu<br>send one's regards to"
+		},{
+		"character" : "握",
+		"charTip" : "wò<br>hold; grasp"
+		},{
+		"character" : "污染",
+		"charTip" : "wūrǎn<br>pollute; contaminate"
+		},{
+		"character" : "屋",
+		"charTip" : "wū<br>room"
+		},{
+		"character" : "無",
+		"charTip" : "wú<br>not have; there is not; not"
+		},{
+		"character" : "無論",
+		"charTip" : "wúlùn<br>no matter what"
+		},{
+		"character" : "無數",
+		"charTip" : "wúshù<br>innumerable; countless"
+		},{
+		"character" : "無限",
+		"charTip" : "wúxiàn<br>infinite; limitless; boundless"
+		},{
+		"character" : "武器",
+		"charTip" : "wǔqì<br>weapon; arms"
+		},{
+		"character" : "武術",
+		"charTip" : "wǔshù<br>martial arts"
+		},{
+		"character" : "霧",
+		"charTip" : "wù<br>fog"
+		},{
+		"character" : "物價",
+		"charTip" : "wùjià<br>price"
+		},{
+		"character" : "物質",
+		"charTip" : "wùzhì<br>matter; substance; material"
+		},{
+		"character" : "誤會",
+		"charTip" : "wùhuì<br>misunderstand; mistake; misunderstanding"
+		},{
+		"character" : "西北",
+		"charTip" : "xīběi<br>northwest"
+		},{
+		"character" : "西部",
+		"charTip" : "xībù<br>west"
+		},{
+		"character" : "西餐",
+		"charTip" : "xīcān<br>Western-style food"
+		},{
+		"character" : "西方",
+		"charTip" : "xīfāng<br>the West"
+		},{
+		"character" : "西瓜",
+		"charTip" : "xīguā<br>watermelon"
+		},{
+		"character" : "西紅柿",
+		"charTip" : "xīhóngshì<br>tomato"
+		},{
+		"character" : "西南",
+		"charTip" : "xīnán<br>southwest"
+		},{
+		"character" : "西面",
+		"charTip" : "xīmiàn<br>west"
+		},{
+		"character" : "吸",
+		"charTip" : "xī<br>inhale; breathe in; suck up; absorb"
+		},{
+		"character" : "吸收",
+		"charTip" : "xīshōu<br>absorb; suck up; admit; incorporate"
+		},{
+		"character" : "吸煙(抽煙)",
+		"charTip" : "xī yān (chōu yān)<br>smoke"
+		},{
+		"character" : "吸引",
+		"charTip" : "xīyǐn<br>attract; draw"
+		},{
+		"character" : "犧牲",
+		"charTip" : "xīshēng<br>die a martyr's death; sacrifice"
+		},{
+		"character" : "洗衣機",
+		"charTip" : "xǐyījī<br>washing machine"
+		},{
+		"character" : "系統",
+		"charTip" : "xìtǒng<br>system"
+		},{
+		"character" : "戲",
+		"charTip" : "xì<br>play; opera"
+		},{
+		"character" : "細菌",
+		"charTip" : "xìjūn<br>germ; bacterium"
+		},{
+		"character" : "細心",
+		"charTip" : "xìxīn<br>careful; attentive"
+		},{
+		"character" : "下班",
+		"charTip" : "xià bān<br>get off work"
+		},{
+		"character" : "下面",
+		"charTip" : "xiàmian<br>lower part"
+		},{
+		"character" : "嚇",
+		"charTip" : "xià<br>frighten"
+		},{
+		"character" : "掀",
+		"charTip" : "xiān<br>lift; take off"
+		},{
+		"character" : "先後",
+		"charTip" : "xiānhòu<br>order; early or late; in sequence"
+		},{
+		"character" : "先進",
+		"charTip" : "xiánjìn<br>advanced"
+		},{
+		"character" : "鮮",
+		"charTip" : "xiān<br>fresh"
+		},{
+		"character" : "鮮花",
+		"charTip" : "xiānhuā<br>fresh flower"
+		},{
+		"character" : "纖維",
+		"charTip" : "xiānwéi<br>fiber"
+		},{
+		"character" : "閑",
+		"charTip" : "xián<br>free; idle; not busy"
+		},{
+		"character" : "顯得",
+		"charTip" : "xiǎnde<br>look; seem; appear"
+		},{
+		"character" : "顯然",
+		"charTip" : "xiǎnrán<br>obviously"
+		},{
+		"character" : "顯著",
+		"charTip" : "xiǎnzhù<br>notable; marked; remarkable"
+		},{
+		"character" : "現代化",
+		"charTip" : "xiàndàihuà<br>modernize; modernization"
+		},{
+		"character" : "現實",
+		"charTip" : "xiànshí<br>reality; actuality"
+		},{
+		"character" : "現象",
+		"charTip" : "xiànxiàng<br>appearance; phenomenon"
+		},{
+		"character" : "獻",
+		"charTip" : "xiàn<br>contribute"
+		},{
+		"character" : "縣",
+		"charTip" : "xiàn<br>county"
+		},{
+		"character" : "羡慕",
+		"charTip" : "xiànmù<br>admire; envy"
+		},{
+		"character" : "限制",
+		"charTip" : "xiànzhì<br>confine; restrict; limit; restriction"
+		},{
+		"character" : "線",
+		"charTip" : "xiàn<br>thread; string; wire"
+		},{
+		"character" : "相",
+		"charTip" : "xiāng<br>each other; mutually"
+		},{
+		"character" : "相當",
+		"charTip" : "xiāngdāng<br>rather; be equal to"
+		},{
+		"character" : "相反",
+		"charTip" : "xiāngfǎn<br>opposite; contrary"
+		},{
+		"character" : "相互",
+		"charTip" : "xiānghù<br>mutual; reciprocal; each other"
+		},{
+		"character" : "相似",
+		"charTip" : "xiāngsì<br>similar; alike"
+		},{
+		"character" : "相同",
+		"charTip" : "xiāngtóng<br>identical; same; alike"
+		},{
+		"character" : "香腸",
+		"charTip" : "xiāngcháng<br>sausage"
+		},{
+		"character" : "香皂",
+		"charTip" : "xiāngzào<br>perfumed soap; toilet soap"
+		},{
+		"character" : "箱子",
+		"charTip" : "xiāngzi<br>box; case; chest"
+		},{
+		"character" : "鄉",
+		"charTip" : "xiāng<br>village"
+		},{
+		"character" : "鄉下",
+		"charTip" : "xiāngxia<br>village; country side"
+		},{
+		"character" : "詳細",
+		"charTip" : "xiángxì<br>detailed"
+		},{
+		"character" : "想法",
+		"charTip" : "xiǎngfa<br>idea; opinion"
+		},{
+		"character" : "想念",
+		"charTip" : "xiǎngniàn<br>remember with longing; miss"
+		},{
+		"character" : "想象",
+		"charTip" : "xiǎngxiàng<br>imagine; fancy; visualize"
+		},{
+		"character" : "響應",
+		"charTip" : "xǐngyìng<br>respond; answer"
+		},{
+		"character" : "享受",
+		"charTip" : "xiǎngshòu<br>enjoy; enjoyment"
+		},{
+		"character" : "項",
+		"charTip" : "xiàng<br>item"
+		},{
+		"character" : "項目",
+		"charTip" : "xiàngmù<br>item; project"
+		},{
+		"character" : "象",
+		"charTip" : "xiàng<br>elephant"
+		},{
+		"character" : "消費",
+		"charTip" : "xiāofèi<br>consume"
+		},{
+		"character" : "消化",
+		"charTip" : "xiāohuà<br>digest"
+		},{
+		"character" : "消滅",
+		"charTip" : "xiāomiè<br>eliminate; perish; wipe out"
+		},{
+		"character" : "消失",
+		"charTip" : "xiāoshī<br>disappear; vanish"
+		},{
+		"character" : "曉得",
+		"charTip" : "xiǎode<br>know"
+		},{
+		"character" : "小伙子",
+		"charTip" : "xiǎohuǒzi<br>young fellow; lad"
+		},{
+		"character" : "小麥",
+		"charTip" : "xiǎomài<br>wheat"
+		},{
+		"character" : "小朋友",
+		"charTip" : "xiǎopéngyǒu<br>child"
+		},{
+		"character" : "小說",
+		"charTip" : "xiǎoshuō<br>novel; fiction"
+		},{
+		"character" : "小心",
+		"charTip" : "xiǎoxīn<br>careful; be careful"
+		},{
+		"character" : "小學",
+		"charTip" : "xiǎoxué<br>primary school"
+		},{
+		"character" : "校長",
+		"charTip" : "xiàozhǎng<br>headmaster; schoolmaster"
+		},{
+		"character" : "笑話",
+		"charTip" : "xiàohua<br>joke; jest; laugh at; mock"
+		},{
+		"character" : "效果",
+		"charTip" : "xiàoguǒ<br>effect; result"
+		},{
+		"character" : "效率",
+		"charTip" : "xiàolǜ<br>efficiency"
+		},{
+		"character" : "歇",
+		"charTip" : "xiē<br>rest"
+		},{
+		"character" : "斜",
+		"charTip" : "xié<br>tilted; slanting"
+		},{
+		"character" : "血",
+		"charTip" : "xiě/xuè<br>blood"
+		},{
+		"character" : "新鮮",
+		"charTip" : "xīnxiān<br>fresh; new; strange"
+		},{
+		"character" : "心得",
+		"charTip" : "xīndé<br>something personal acquired from study"
+		},{
+		"character" : "心情",
+		"charTip" : "xīnqíng<br>mood; state of mind"
+		},{
+		"character" : "心臟",
+		"charTip" : "xīnzàng<br>heart"
+		},{
+		"character" : "信",
+		"charTip" : "xìn<br>trust; believe"
+		},{
+		"character" : "信心",
+		"charTip" : "xìnxīn<br>confidence"
+		},{
+		"character" : "星星",
+		"charTip" : "xīngxing<br>star"
+		},{
+		"character" : "興奮",
+		"charTip" : "xīngfèn<br>excited"
+		},{
+		"character" : "形成",
+		"charTip" : "xíngchéng<br>take shape; form"
+		},{
+		"character" : "形容",
+		"charTip" : "xíngróng<br>describe"
+		},{
+		"character" : "形式",
+		"charTip" : "xíngshì<br>form; format; shape"
+		},{
+		"character" : "形勢",
+		"charTip" : "xíngshì<br>situation; circumstances"
+		},{
+		"character" : "形象",
+		"charTip" : "xíngxiàng<br>appearance; image; vivid; expressive; graphic"
+		},{
+		"character" : "形狀",
+		"charTip" : "xíngzhuàng<br>shape; figure; form"
+		},{
+		"character" : "行",
+		"charTip" : "xíng<br>walk; travel"
+		},{
+		"character" : "行動",
+		"charTip" : "xíngdòng<br>move; act; action"
+		},{
+		"character" : "行李",
+		"charTip" : "xíngli<br>luggage; baggage"
+		},{
+		"character" : "醒",
+		"charTip" : "xǐng<br>wake"
+		},{
+		"character" : "興趣",
+		"charTip" : "xìngqù<br>interest"
+		},{
+		"character" : "性(積極性)",
+		"charTip" : "xìng(jījíxìng)<br>quality (the quality of being active)"
+		},{
+		"character" : "性格",
+		"charTip" : "xìnggé<br>nature; disposition; temperament"
+		},{
+		"character" : "性質",
+		"charTip" : "xìngzhì<br>quality; nature; character"
+		},{
+		"character" : "姓名",
+		"charTip" : "xìngmíng<br>surname and given name; full name"
+		},{
+		"character" : "兄弟",
+		"charTip" : "xiōngdì<br>brothers"
+		},{
+		"character" : "胸",
+		"charTip" : "xiōng<br>chest"
+		},{
+		"character" : "雄",
+		"charTip" : "xióng<br>male"
+		},{
+		"character" : "雄偉",
+		"charTip" : "xióngwěi<br>grand; magnificent"
+		},{
+		"character" : "熊貓",
+		"charTip" : "xióngmāo<br>panda"
+		},{
+		"character" : "修",
+		"charTip" : "xiū<br>fix; mend"
+		},{
+		"character" : "修改",
+		"charTip" : "xiūgǎi<br>revise; modify; revision; modification"
+		},{
+		"character" : "修理",
+		"charTip" : "xiūlǐ<br>repair; mend; fix"
+		},{
+		"character" : "虛心",
+		"charTip" : "xūxīn<br>modest; open-minded"
+		},{
+		"character" : "許",
+		"charTip" : "xǔ<br>allow; permit; perhaps; maybe"
+		},{
+		"character" : "宣布",
+		"charTip" : "xuānbù<br>declare; announce"
+		},{
+		"character" : "宣傳",
+		"charTip" : "xuānchuán<br>propagate; propaganda"
+		},{
+		"character" : "選",
+		"charTip" : "xuǎn<br>choose; select; choose"
+		},{
+		"character" : "選舉",
+		"charTip" : "xuǎnjǔ<br>elect; election"
+		},{
+		"character" : "選擇",
+		"charTip" : "xuǎnzé<br>select; choose; opt"
+		},{
+		"character" : "學(社會學)",
+		"charTip" : "xué(shèhuìxué)<br>-ology (sociology)"
+		},{
+		"character" : "學費",
+		"charTip" : "xuéfèi<br>tuition; tuition fee"
+		},{
+		"character" : "學期",
+		"charTip" : "xuéqī<br>school term; semester"
+		},{
+		"character" : "學術",
+		"charTip" : "xuéshù<br>systematic learning; science"
+		},{
+		"character" : "學問",
+		"charTip" : "xuéwen<br>learning; knowledge; scholarship"
+		},{
+		"character" : "血液",
+		"charTip" : "xuèyè<br>blood"
+		},{
+		"character" : "尋找",
+		"charTip" : "xúnzhǎo<br>look for; seek"
+		},{
+		"character" : "訓練",
+		"charTip" : "xùnliàn<br>train; drill"
+		},{
+		"character" : "迅速",
+		"charTip" : "xùnsù<br>rapid; speedy; quick"
+		},{
+		"character" : "壓",
+		"charTip" : "yā<br>press"
+		},{
+		"character" : "壓迫",
+		"charTip" : "yāpò<br>oppress; repress"
+		},{
+		"character" : "牙",
+		"charTip" : "yá<br>tooth"
+		},{
+		"character" : "牙刷",
+		"charTip" : "yáshuā<br>toothbrush"
+		},{
+		"character" : "鹽",
+		"charTip" : "yán<br>salt"
+		},{
+		"character" : "嚴格",
+		"charTip" : "yángé<br>strict; rigorous; rigid"
+		},{
+		"character" : "嚴肅",
+		"charTip" : "yánsù<br>serious; solemn; earnest; enforce"
+		},{
+		"character" : "嚴重",
+		"charTip" : "yánzhòng<br>grave; critical; serious"
+		},{
+		"character" : "研究所",
+		"charTip" : "yánjiūsuǒ<br>research institute"
+		},{
+		"character" : "延長",
+		"charTip" : "yáncháng<br>lengthen; prolong; extend"
+		},{
+		"character" : "沿",
+		"charTip" : "yán<br>by; along"
+		},{
+		"character" : "眼",
+		"charTip" : "yǎn<br>eye"
+		},{
+		"character" : "眼鏡",
+		"charTip" : "yǎnjìng<br>eyeglasses; spectacles"
+		},{
+		"character" : "眼淚",
+		"charTip" : "yǎnlèi<br>tear"
+		},{
+		"character" : "眼前",
+		"charTip" : "yǎnqián<br>before one's eyes; at present"
+		},{
+		"character" : "演",
+		"charTip" : "yǎn<br>act; perform"
+		},{
+		"character" : "演員",
+		"charTip" : "yǎnyuán<br>actor; performer"
+		},{
+		"character" : "咽",
+		"charTip" : "yàn<br>swallow"
+		},{
+		"character" : "陽光",
+		"charTip" : "yángguāng<br>sunlight; sunshine"
+		},{
+		"character" : "仰",
+		"charTip" : "yǎng<br>face upward"
+		},{
+		"character" : "養",
+		"charTip" : "yǎng<br>provide for; raise; give birth to; rest"
+		},{
+		"character" : "樣",
+		"charTip" : "yàng<br>kind; type"
+		},{
+		"character" : "邀請",
+		"charTip" : "yāoqǐng<br>invite; invitation"
+		},{
+		"character" : "腰",
+		"charTip" : "yāo<br>waist"
+		},{
+		"character" : "搖",
+		"charTip" : "yáo<br>sway; shake"
+		},{
+		"character" : "咬",
+		"charTip" : "yǎo<br>bite"
+		},{
+		"character" : "要緊",
+		"charTip" : "yàojǐn<br>important; essential"
+		},{
+		"character" : "爺爺",
+		"charTip" : "yéye<br>grandfather"
+		},{
+		"character" : "業務",
+		"charTip" : "yèwù<br>business; professional work"
+		},{
+		"character" : "業餘",
+		"charTip" : "yèyú<br>amateur; not professional"
+		},{
+		"character" : "葉子",
+		"charTip" : "yèzi<br>leaf"
+		},{
+		"character" : "夜裡",
+		"charTip" : "yèli<br>at night"
+		},{
+		"character" : "夜晚",
+		"charTip" : "yèwǎn<br>night"
+		},{
+		"character" : "一",
+		"charTip" : "yī<br>once; as soon as"
+		},{
+		"character" : "一半",
+		"charTip" : "yíbàn<br>one half"
+		},{
+		"character" : "一邊",
+		"charTip" : "yìbiān<br>one side"
+		},{
+		"character" : "一道",
+		"charTip" : "yídào<br>together"
+		},{
+		"character" : "一方面…一方面…",
+		"charTip" : "yī fāngmiàn … yī fāngmiàn …<br>on one hand … on the other hand …"
+		},{
+		"character" : "一齊",
+		"charTip" : "yìqí<br>at the same time; in unison"
+		},{
+		"character" : "一生",
+		"charTip" : "yìshēng<br>lifetime; all one's life"
+		},{
+		"character" : "一時",
+		"charTip" : "yīshí<br>a short period of time; moment"
+		},{
+		"character" : "一同",
+		"charTip" : "yìtóng<br>together; at the same time and place"
+		},{
+		"character" : "一下子",
+		"charTip" : "yíxiàzi<br>all at once; in an instant"
+		},{
+		"character" : "一致",
+		"charTip" : "yízhì<br>identical; unanimous; consistent"
+		},{
+		"character" : "一…也",
+		"charTip" : "yī … yě …<br>as soon as … then …"
+		},{
+		"character" : "醫務室",
+		"charTip" : "yīwùshì<br>clinic"
+		},{
+		"character" : "醫學",
+		"charTip" : "yīxué<br>medicine; medical science"
+		},{
+		"character" : "依靠",
+		"charTip" : "yīkào<br>rely on; depend on; backing; support"
+		},{
+		"character" : "移到",
+		"charTip" : "yídào<br>move; shift"
+		},{
+		"character" : "移動",
+		"charTip" : "yídòng<br>move; remove; shift"
+		},{
+		"character" : "儀器",
+		"charTip" : "yíqì<br>instrument; apparatus"
+		},{
+		"character" : "疑問",
+		"charTip" : "yíwèn<br>doubt; query; question"
+		},{
+		"character" : "已",
+		"charTip" : "yǐ<br>already"
+		},{
+		"character" : "以",
+		"charTip" : "yǐ<br>with; because of; so as to; in order to"
+		},{
+		"character" : "以及",
+		"charTip" : "yǐjí<br>as well as; along with; and"
+		},{
+		"character" : "以來",
+		"charTip" : "yǐlái<br>since"
+		},{
+		"character" : "以內",
+		"charTip" : "yǐnèi<br>within; less than"
+		},{
+		"character" : "以上",
+		"charTip" : "yǐshàng<br>more than; above; the foregoing"
+		},{
+		"character" : "以外",
+		"charTip" : "yǐwài<br>beyond; outside"
+		},{
+		"character" : "以下",
+		"charTip" : "yǐxià<br>below; under; the following"
+		},{
+		"character" : "意外",
+		"charTip" : "yìwài<br>accidental; unexpected; accident"
+		},{
+		"character" : "意志",
+		"charTip" : "yìzhì<br>will; volition"
+		},{
+		"character" : "議論",
+		"charTip" : "yìlùn<br>discuss; comment on"
+		},{
+		"character" : "異常",
+		"charTip" : "yìcháng<br>unusual; abnormal"
+		},{
+		"character" : "因此",
+		"charTip" : "yīncǐ<br>therefore; thus; consequently"
+		},{
+		"character" : "因而",
+		"charTip" : "yīn'ér<br>thus; as a result"
+		},{
+		"character" : "因素",
+		"charTip" : "yīnsù<br>factor; element"
+		},{
+		"character" : "銀",
+		"charTip" : "yín<br>silver"
+		},{
+		"character" : "引起",
+		"charTip" : "yǐnqǐ<br>give rise to; lead to; cause"
+		},{
+		"character" : "印",
+		"charTip" : "yìn<br>print; engrave"
+		},{
+		"character" : "印刷",
+		"charTip" : "yìnshuā<br>print"
+		},{
+		"character" : "印象",
+		"charTip" : "yìnxiàng<br>impression"
+		},{
+		"character" : "英雄",
+		"charTip" : "yīngxióng<br>hero"
+		},{
+		"character" : "英勇",
+		"charTip" : "yīngyǒng<br>heroic; valiant; brave; gallant"
+		},{
+		"character" : "應",
+		"charTip" : "yīng<br>should; ought to"
+		},{
+		"character" : "應當",
+		"charTip" : "yīngdāng<br>should; ought to; must"
+		},{
+		"character" : "營養",
+		"charTip" : "yíngyǎng<br>nutrition; nourishment"
+		},{
+		"character" : "營業",
+		"charTip" : "yíngyè<br>be open for business"
+		},{
+		"character" : "迎接",
+		"charTip" : "yíngjiē<br>welcome; greet; receive"
+		},{
+		"character" : "影子",
+		"charTip" : "yǐngzi<br>shadow"
+		},{
+		"character" : "應用",
+		"charTip" : "yìngyòng<br>apply; use"
+		},{
+		"character" : "硬",
+		"charTip" : "yìng<br>hard; rigid; tough"
+		},{
+		"character" : "擁抱",
+		"charTip" : "yōngbào<br>embrace; hug"
+		},{
+		"character" : "擁護",
+		"charTip" : "yōnghù<br>support; uphold"
+		},{
+		"character" : "勇敢",
+		"charTip" : "yǒnggǎn<br>brave; courageous"
+		},{
+		"character" : "勇氣",
+		"charTip" : "yǒngqì<br>courage"
+		},{
+		"character" : "用不著",
+		"charTip" : "yòng bu zháo<br>have no use for"
+		},{
+		"character" : "用處",
+		"charTip" : "yòngchu<br>use"
+		},{
+		"character" : "用功",
+		"charTip" : "yòng gōng<br>hardworking; diligent"
+		},{
+		"character" : "用力",
+		"charTip" : "yòng lì<br>exert one's strength"
+		},{
+		"character" : "優點",
+		"charTip" : "yōudiǎn<br>merit; advantage; strong point"
+		},{
+		"character" : "優良",
+		"charTip" : "yōuliáng<br>fine; good"
+		},{
+		"character" : "優美",
+		"charTip" : "yōuměi<br>fine; graceful"
+		},{
+		"character" : "優秀",
+		"charTip" : "yōuxiù<br>excellent; fine; outstanding"
+		},{
+		"character" : "悠久",
+		"charTip" : "yōujiǔ<br>long; age-old; longstanding"
+		},{
+		"character" : "由",
+		"charTip" : "yóu<br>by; from"
+		},{
+		"character" : "由於",
+		"charTip" : "yóuyú<br>owing to; due to; because of"
+		},{
+		"character" : "油",
+		"charTip" : "yóu<br>oil"
+		},{
+		"character" : "游覽",
+		"charTip" : "yóulǎn<br>visit; tour; go sightseeing"
+		},{
+		"character" : "游泳池",
+		"charTip" : "yóuyǒngchí<br>swimming pool"
+		},{
+		"character" : "有的是",
+		"charTip" : "yǒudeshì<br>there's no lack of"
+		},{
+		"character" : "有(一)點兒",
+		"charTip" : "yǒu(yì)diǎnr<br>a little bit"
+		},{
+		"character" : "有關",
+		"charTip" : "yǒuguān<br>concern; relate to"
+		},{
+		"character" : "有利",
+		"charTip" : "yǒulì<br>advantageous; beneficial"
+		},{
+		"character" : "有力",
+		"charTip" : "yǒulì<br>strong; powerful"
+		},{
+		"character" : "有趣",
+		"charTip" : "yǒuqù<br>interesting"
+		},{
+		"character" : "有時",
+		"charTip" : "yǒushí<br>sometimes; at times"
+		},{
+		"character" : "有效",
+		"charTip" : "yǒuxiào<br>effective; efficacious"
+		},{
+		"character" : "有用",
+		"charTip" : "yǒu yòng<br>useful"
+		},{
+		"character" : "右邊",
+		"charTip" : "yòubian<br>the right side; the right"
+		},{
+		"character" : "於",
+		"charTip" : "yú<br>at; on"
+		},{
+		"character" : "於是",
+		"charTip" : "yúshì<br>as a result; thereupon"
+		},{
+		"character" : "雨衣",
+		"charTip" : "yǔyī<br>raincoat"
+		},{
+		"character" : "與",
+		"charTip" : "yǔ<br>with; and; together with"
+		},{
+		"character" : "語調",
+		"charTip" : "yǔdiào<br>intonation"
+		},{
+		"character" : "語氣",
+		"charTip" : "yǔqì<br>tone; manner of speaking; mood"
+		},{
+		"character" : "語音",
+		"charTip" : "yǔyīn<br>pronunciation"
+		},{
+		"character" : "羽毛球",
+		"charTip" : "yǔmáoqiú<br>badminton"
+		},{
+		"character" : "玉米",
+		"charTip" : "yùmǐ<br>maize; corn"
+		},{
+		"character" : "遇",
+		"charTip" : "yù<br>meet"
+		},{
+		"character" : "遇見",
+		"charTip" : "yù jiàn<br>meet; come across"
+		},{
+		"character" : "預備",
+		"charTip" : "yùbèi<br>get ready; prepare; reserve"
+		},{
+		"character" : "員(服務員)",
+		"charTip" : "yuán(fúwùyuán)<br>-er; -or; etc. (waiter, waitress)"
+		},{
+		"character" : "原料",
+		"charTip" : "yuánliào<br>raw material"
+		},{
+		"character" : "原因",
+		"charTip" : "yuányīn<br>cause; reason"
+		},{
+		"character" : "原則",
+		"charTip" : "yuánzé<br>principle"
+		},{
+		"character" : "圓珠筆",
+		"charTip" : "yuánzhūbǐ<br>ball pen"
+		},{
+		"character" : "願望",
+		"charTip" : "yuànwàng<br>desire; wish; aspiration"
+		},{
+		"character" : "院",
+		"charTip" : "yuàn<br>courtyard; yard"
+		},{
+		"character" : "院長",
+		"charTip" : "yuànzhǎng<br>the head of a college, institute, hospital, etc."
+		},{
+		"character" : "院子",
+		"charTip" : "yuànzi<br>courtyard; yard"
+		},{
+		"character" : "約",
+		"charTip" : "yuē<br>make an appointment; about; around"
+		},{
+		"character" : "約會",
+		"charTip" : "yuēhuì<br>appointment; date; engagement"
+		},{
+		"character" : "越…越…",
+		"charTip" : "yuè … yuè …<br>more … more …"
+		},{
+		"character" : "越來越…",
+		"charTip" : "yuèláiyuè<br>more and more"
+		},{
+		"character" : "閱讀",
+		"charTip" : "yuèdú<br>read"
+		},{
+		"character" : "閱覽室",
+		"charTip" : "yuèlǎnshì<br>reading-room"
+		},{
+		"character" : "允許",
+		"charTip" : "yǔnxǔ<br>permit; allow"
+		},{
+		"character" : "運",
+		"charTip" : "yùn<br>transport; carry"
+		},{
+		"character" : "運動會",
+		"charTip" : "yùndònghuì<br>sport meet; games"
+		},{
+		"character" : "運動員",
+		"charTip" : "yùndòngyuán<br>athlete; player"
+		},{
+		"character" : "運輸",
+		"charTip" : "yùnshū<br>carry; transport; conveyance"
+		},{
+		"character" : "運用",
+		"charTip" : "yùnyòng<br>utilize; apply"
+		},{
+		"character" : "雜",
+		"charTip" : "zá<br>mixed; miscellaneous; mix; mingle"
+		},{
+		"character" : "雜技",
+		"charTip" : "zájì<br>acrobatics"
+		},{
+		"character" : "災",
+		"charTip" : "zāi<br>disaster; calamity"
+		},{
+		"character" : "災害",
+		"charTip" : "zāihài<br>calamity; disaster"
+		},{
+		"character" : "暫時",
+		"charTip" : "zànshí<br>temporary; transient"
+		},{
+		"character" : "贊成",
+		"charTip" : "zànchéng<br>agree with; approve of; favor"
+		},{
+		"character" : "遭到",
+		"charTip" : "zāodào<br>suffer; encounter; meet with"
+		},{
+		"character" : "遭受",
+		"charTip" : "zāoshòu<br>suffer; be subjected to"
+		},{
+		"character" : "糟糕",
+		"charTip" : "zāogāo<br>terrible; bad"
+		},{
+		"character" : "造",
+		"charTip" : "zào<br>make; build; create; invent"
+		},{
+		"character" : "造句",
+		"charTip" : "zào jù<br>make a sentence"
+		},{
+		"character" : "責任",
+		"charTip" : "zérèn<br>duty; responsibility"
+		},{
+		"character" : "則",
+		"charTip" : "zé<br>then; in that case"
+		},{
+		"character" : "增長",
+		"charTip" : "zēngzhǎng<br>enrich; enhance; grow"
+		},{
+		"character" : "扎",
+		"charTip" : "zhā<br>prick; push a needle into"
+		},{
+		"character" : "摘",
+		"charTip" : "zhāi<br>cull; pick; pluck; take off"
+		},{
+		"character" : "窄",
+		"charTip" : "zhǎi<br>narrow; petty"
+		},{
+		"character" : "粘",
+		"charTip" : "zhān<br>glue; paste"
+		},{
+		"character" : "展出",
+		"charTip" : "zhǎnchū<br>put on display; exhibit"
+		},{
+		"character" : "展開",
+		"charTip" : "zhǎn kāi<br>spread out; unfold; open up"
+		},{
+		"character" : "展覽會",
+		"charTip" : "zhǎnlǎnhuì<br>exhibition"
+		},{
+		"character" : "戰鬥",
+		"charTip" : "zhàndòu<br>fight; battle; combat; action"
+		},{
+		"character" : "戰勝",
+		"charTip" : "zhànshèng<br>defeat; triumph over; overcome"
+		},{
+		"character" : "戰士",
+		"charTip" : "zhànshì<br>soldier; fighter"
+		},{
+		"character" : "戰爭",
+		"charTip" : "zhànzhēng<br>warfare; war"
+		},{
+		"character" : "章",
+		"charTip" : "zhāng<br>chapter; section"
+		},{
+		"character" : "漲",
+		"charTip" : "zhǎng<br>go up; rise"
+		},{
+		"character" : "丈",
+		"charTip" : "zhàng<br>1 zhàng = 3.33 meters"
+		},{
+		"character" : "丈夫",
+		"charTip" : "zhàngfu<br>man; husband"
+		},{
+		"character" : "招待",
+		"charTip" : "zháodài<br>receive; entertain"
+		},{
+		"character" : "招待會",
+		"charTip" : "zhāodàihuì<br>reception"
+		},{
+		"character" : "招呼",
+		"charTip" : "zhāohu<br>call; greet; say hello to"
+		},{
+		"character" : "著",
+		"charTip" : "zháo<br>burn;touch; be affected by"
+		},{
+		"character" : "照",
+		"charTip" : "zhào<br>shine; illuminate; according to"
+		},{
+		"character" : "照常",
+		"charTip" : "zhàocháng<br>as usual"
+		},{
+		"character" : "照片(相片)",
+		"charTip" : "zhàopiàn(xiàngpiàn)<br>photo; photograph"
+		},{
+		"character" : "召開",
+		"charTip" : "zhàokāi<br>convene; convoke"
+		},{
+		"character" : "折",
+		"charTip" : "zhé<br>break; fold; convert into"
+		},{
+		"character" : "哲學",
+		"charTip" : "zhéxué<br>philosophy"
+		},{
+		"character" : "這邊",
+		"charTip" : "zhèbiān<br>here; this side"
+		},{
+		"character" : "真理",
+		"charTip" : "zhēnlǐ<br>truth"
+		},{
+		"character" : "真實",
+		"charTip" : "zhēnshí<br>true; real; authentic"
+		},{
+		"character" : "針",
+		"charTip" : "zhēn<br>needle; stitch; injection"
+		},{
+		"character" : "針對",
+		"charTip" : "zhēnduì<br>be aimed at; be directed against"
+		},{
+		"character" : "陣",
+		"charTip" : "zhèn<br>period; measure word for wind"
+		},{
+		"character" : "睜",
+		"charTip" : "zhēng<br>open (the eyes)"
+		},{
+		"character" : "徵求",
+		"charTip" : "zhēngqiú<br>ask for; seek; solicit"
+		},{
+		"character" : "爭",
+		"charTip" : "zhēng<br>vie; contend; strive; argue; dispute"
+		},{
+		"character" : "爭論",
+		"charTip" : "zhēnglùn<br>dispute; debate; controvert"
+		},{
+		"character" : "爭取",
+		"charTip" : "zhēngqǔ<br>strive for; fight for; win over"
+		},{
+		"character" : "整個",
+		"charTip" : "zhěnggè<br>whole; entire"
+		},{
+		"character" : "整理",
+		"charTip" : "zhěnglǐ<br>put in order; straighten out; sort out"
+		},{
+		"character" : "正",
+		"charTip" : "zhèng<br>straight; main; upright; honest; right"
+		},{
+		"character" : "正常",
+		"charTip" : "zhèngcháng<br>normal; regular"
+		},{
+		"character" : "正好",
+		"charTip" : "zhènghǎo<br>just in time; just right; just enough"
+		},{
+		"character" : "正式",
+		"charTip" : "zhèngshì<br>formal; official; regular"
+		},{
+		"character" : "政策",
+		"charTip" : "zhèngcè<br>policy"
+		},{
+		"character" : "證明",
+		"charTip" : "zhèngmíng<br>prove; testify; proof; certificate"
+		},{
+		"character" : "支持",
+		"charTip" : "zhīchí<br>support; back; espouse"
+		},{
+		"character" : "支援",
+		"charTip" : "zhīyuán<br>support; aid; assist; assistance; help"
+		},{
+		"character" : "…之後",
+		"charTip" : "zhī hòu<br>after"
+		},{
+		"character" : "…之前",
+		"charTip" : "zhī qián<br>before"
+		},{
+		"character" : "…之上",
+		"charTip" : "zhī shàng<br>on; above"
+		},{
+		"character" : "…之下",
+		"charTip" : "zhī xià<br>under; below"
+		},{
+		"character" : "…之一",
+		"charTip" : "zhī yī<br>one of"
+		},{
+		"character" : "…之中",
+		"charTip" : "zhī zhōng<br>among; in; in the process of"
+		},{
+		"character" : "織",
+		"charTip" : "zhī<br>weave; knit"
+		},{
+		"character" : "職工",
+		"charTip" : "zhígōng<br>staff; worker; employee"
+		},{
+		"character" : "職業",
+		"charTip" : "zhíyè<br>occupation; profession"
+		},{
+		"character" : "直",
+		"charTip" : "zhí<br>straighten; straight"
+		},{
+		"character" : "直",
+		"charTip" : "zhí<br>direct; straight; continuously"
+		},{
+		"character" : "直到",
+		"charTip" : "zhídào<br>until; up to"
+		},{
+		"character" : "直接",
+		"charTip" : "zhíjiē<br>direct; immediate"
+		},{
+		"character" : "植物",
+		"charTip" : "zhíwù<br>plant"
+		},{
+		"character" : "執行",
+		"charTip" : "zhíxíng<br>carry out; execute"
+		},{
+		"character" : "值得",
+		"charTip" : "zhíde<br>be worth; deserve"
+		},{
+		"character" : "指出",
+		"charTip" : "zhǐchū<br>point out"
+		},{
+		"character" : "指導",
+		"charTip" : "zhǐdǎo<br>direct; guide"
+		},{
+		"character" : "指揮",
+		"charTip" : "zhǐhuī<br>command; direct; conductor"
+		},{
+		"character" : "指示",
+		"charTip" : "zhǐshì<br>instruction; order; indicate; point out"
+		},{
+		"character" : "止",
+		"charTip" : "zhǐ<br>stop"
+		},{
+		"character" : "只是",
+		"charTip" : "zhǐshì<br>only; merely; simply; but"
+		},{
+		"character" : "只要",
+		"charTip" : "zhǐyào<br>so long as; provided"
+		},{
+		"character" : "只有",
+		"charTip" : "zhǐyǒu<br>alone; only"
+		},{
+		"character" : "至",
+		"charTip" : "zhì<br>till; to; until"
+		},{
+		"character" : "至今",
+		"charTip" : "zhì jīn<br>up to now; to this day; so far"
+		},{
+		"character" : "至少",
+		"charTip" : "zhìshǎo<br>at least"
+		},{
+		"character" : "制定",
+		"charTip" : "zhìdìng<br>establish; lay down; stipulate"
+		},{
+		"character" : "制訂",
+		"charTip" : "zhìdìng<br>draw up; work out; formulate"
+		},{
+		"character" : "制度",
+		"charTip" : "zhìdù<br>system; institution"
+		},{
+		"character" : "製造",
+		"charTip" : "zhìzào<br>make; manufacture; fabricate"
+		},{
+		"character" : "秩序",
+		"charTip" : "zhìxù<br>order; orderly state"
+		},{
+		"character" : "質量",
+		"charTip" : "zhìliàng<br>quality"
+		},{
+		"character" : "治",
+		"charTip" : "zhì<br>treat; manage; control; govern"
+		},{
+		"character" : "中餐",
+		"charTip" : "zhōngcān<br>Chinese food; Chinese meal"
+		},{
+		"character" : "中心",
+		"charTip" : "zhōngxīn<br>center; heart"
+		},{
+		"character" : "中央",
+		"charTip" : "zhōngyāng<br>center; central authorities"
+		},{
+		"character" : "中藥",
+		"charTip" : "zhōngyào<br>Chinese medicine"
+		},{
+		"character" : "終於",
+		"charTip" : "zhōngyú<br>at last; finally; in the end"
+		},{
+		"character" : "種子",
+		"charTip" : "zhǒngzi<br>seed"
+		},{
+		"character" : "種",
+		"charTip" : "zhòng<br>grow; plant; cultivate"
+		},{
+		"character" : "重大",
+		"charTip" : "zhòngdà<br>great; important; major; significant"
+		},{
+		"character" : "重點",
+		"charTip" : "zhòngdiǎn<br>focal point; stress; emphasized"
+		},{
+		"character" : "重量",
+		"charTip" : "zhòngliàng<br>weight"
+		},{
+		"character" : "重視",
+		"charTip" : "zhòngshì<br>attach importance to; pay attention to"
+		},{
+		"character" : "周到",
+		"charTip" : "zhōudào<br>thoughtful; considerate"
+		},{
+		"character" : "株",
+		"charTip" : "zhū<br>measure word for individual plants"
+		},{
+		"character" : "逐步",
+		"charTip" : "zhúbù<br>step by step; gradually"
+		},{
+		"character" : "逐漸",
+		"charTip" : "zhújiàn<br>gradually; by degrees"
+		},{
+		"character" : "竹子",
+		"charTip" : "zhúzi<br>bamboo"
+		},{
+		"character" : "煮",
+		"charTip" : "zhǔ<br>cook; boil"
+		},{
+		"character" : "主動",
+		"charTip" : "zhǔdòng<br>active; initiatory"
+		},{
+		"character" : "主觀",
+		"charTip" : "zhǔguān<br>subject; subjective thinking; subjective"
+		},{
+		"character" : "主人",
+		"charTip" : "zhǔrén<br>master; host; owner"
+		},{
+		"character" : "主任",
+		"charTip" : "zhǔrèn<br>director; head; chief"
+		},{
+		"character" : "主席",
+		"charTip" : "zhǔxí<br>chairman"
+		},{
+		"character" : "主張",
+		"charTip" : "zhǔzhāng<br>advocate; idea; view; proposition"
+		},{
+		"character" : "著名",
+		"charTip" : "zhùmíng<br>famous; well-known"
+		},{
+		"character" : "著作",
+		"charTip" : "zhùzuǒ<br>work; book; writing"
+		},{
+		"character" : "住院",
+		"charTip" : "zhù yuàn<br>be in hospital"
+		},{
+		"character" : "祝賀",
+		"charTip" : "zhùhè<br>congratulate; congratulation"
+		},{
+		"character" : "抓",
+		"charTip" : "zhuā<br>seize; grab; catch; scratch; stress"
+		},{
+		"character" : "抓緊",
+		"charTip" : "zhuā jǐn<br>firmly grasp; pay close attention to"
+		},{
+		"character" : "專家",
+		"charTip" : "zhuānjiā<br>expert; specialist"
+		},{
+		"character" : "專門",
+		"charTip" : "zhuānmén<br>special; specialized"
+		},{
+		"character" : "專心",
+		"charTip" : "zhuānxīn<br>be absorbed; attentive; concentrating"
+		},{
+		"character" : "專業",
+		"charTip" : "zhuānyè<br>specialty; specialized field"
+		},{
+		"character" : "轉",
+		"charTip" : "zhuǎn<br>change; pass on; transfer"
+		},{
+		"character" : "轉變",
+		"charTip" : "zhuǎnbiàn<br>change; transform"
+		},{
+		"character" : "轉告",
+		"charTip" : "zhuǎngào<br>pass on"
+		},{
+		"character" : "轉",
+		"charTip" : "zhuàn<br>turn; rotate; revolve"
+		},{
+		"character" : "莊稼",
+		"charTip" : "zhuāngjia<br>crops"
+		},{
+		"character" : "莊嚴",
+		"charTip" : "zhuāngyán<br>solemn; dignified"
+		},{
+		"character" : "裝",
+		"charTip" : "zhuāng<br>pretend; play the part (role) of"
+		},{
+		"character" : "撞",
+		"charTip" : "zhuàng<br>collide; bump against; run into"
+		},{
+		"character" : "狀況",
+		"charTip" : "zhuàngkuàng<br>state of affairs; condition"
+		},{
+		"character" : "狀態",
+		"charTip" : "zhuàngtài<br>state; condition"
+		},{
+		"character" : "追",
+		"charTip" : "zhuī<br>run after; pursue; trace; go after"
+		},{
+		"character" : "準/准",
+		"charTip" : "zhǔn<br>(準) accurate; exact; (准) allow; permit"
+		},{
+		"character" : "準確",
+		"charTip" : "zhǔnquè<br>precise; accurate; exact"
+		},{
+		"character" : "準時",
+		"charTip" : "zhǔnshí<br>on time; punctual"
+		},{
+		"character" : "捉",
+		"charTip" : "zhuō<br>catch; capture"
+		},{
+		"character" : "資料",
+		"charTip" : "zīliào<br>data; material; means"
+		},{
+		"character" : "資源",
+		"charTip" : "zīyuán<br>resources; natural resources"
+		},{
+		"character" : "紫",
+		"charTip" : "zǐ<br>purple"
+		},{
+		"character" : "仔細",
+		"charTip" : "zǐxì<br>careful; attentive"
+		},{
+		"character" : "自",
+		"charTip" : "zì<br>from; since"
+		},{
+		"character" : "自從",
+		"charTip" : "zìcóng<br>since"
+		},{
+		"character" : "自動",
+		"charTip" : "zìdòng<br>automatic"
+		},{
+		"character" : "自費",
+		"charTip" : "zìfèi<br>at one's own expense"
+		},{
+		"character" : "自覺",
+		"charTip" : "zìjué<br>be aware of; conscious; conscientious"
+		},{
+		"character" : "自然",
+		"charTip" : "zǐrán<br>nature; natural; spontaneous"
+		},{
+		"character" : "自我",
+		"charTip" : "zìwǒ<br>self; oneself"
+		},{
+		"character" : "自學",
+		"charTip" : "zìxué<br>self-study; self-taught; study independently"
+		},{
+		"character" : "自由",
+		"charTip" : "zìyóu<br>freedom; liberty; free; unrestrained"
+		},{
+		"character" : "綜合",
+		"charTip" : "zōnghé<br>synthesize; colligate; integrate"
+		},{
+		"character" : "總結",
+		"charTip" : "zǒngjié<br>summarize; sum up; summary"
+		},{
+		"character" : "總理",
+		"charTip" : "zǒnglǐ<br>premier; prime minister"
+		},{
+		"character" : "總統",
+		"charTip" : "zǒngtǒng<br>president (of a republic)"
+		},{
+		"character" : "走道",
+		"charTip" : "zǒu dào<br>walk"
+		},{
+		"character" : "組",
+		"charTip" : "zǔ<br>team up; group; team"
+		},{
+		"character" : "鑽",
+		"charTip" : "zuān<br>drill; bore; get into; dig into; study"
+		},{
+		"character" : "鑽研",
+		"charTip" : "zuānyán<br>study in depth; dig into"
+		},{
+		"character" : "醉",
+		"charTip" : "zuì<br>become drunk; be tipsy"
+		},{
+		"character" : "最好",
+		"charTip" : "zuìhǎo<br>had better; it would be best"
+		},{
+		"character" : "尊敬",
+		"charTip" : "zūnjìng<br>respect; esteem"
+		},{
+		"character" : "遵守",
+		"charTip" : "zūnshǒu<br>observe; abide by"
+		},{
+		"character" : "左邊",
+		"charTip" : "zuǒbian<br>the left side; the left"
+		},{
+		"character" : "左右",
+		"charTip" : "zuǒyòu<br>about; approximate; influence; control"
+		},{
+		"character" : "做法",
+		"charTip" : "zuòfǎ<br>method of work; practice"
+		},{
+		"character" : "做客",
+		"charTip" : "zuò kè<br>be a guest"
+		},{
+		"character" : "做夢",
+		"charTip" : "zuò mèng<br>dream; have a dream"
+		},{
+		"character" : "作家",
+		"charTip" : "zuòjiā<br>writer"
+		},{
+		"character" : "作品",
+		"charTip" : "zuòpǐn<br>works (of literature and art)"
+		},{
+		"character" : "作為",
+		"charTip" : "zuòwéi<br>regard as; take for; as"
+		},{
+		"character" : "作文",
+		"charTip" : "zuò wén<br>write a composition; composition"
+		},{
+		"character" : "作用",
+		"charTip" : "zuòyòng<br>action; function; act on; affect"
+		},{
+		"character" : "作者",
+		"charTip" : "zuòzhě<br>author; writer"
+		},{
+		"character" : "坐班",
+		"charTip" : "zuò bān<br>work in the office in office hours"
+		},{
+		"character" : "座談",
+		"charTip" : "zuòtán<br>have an informal discussion"
+		},{
+		"character" : "座位",
+		"charTip" : "zuòwèi<br>seat; place"
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"name": {
+		"libName": "Frases españolas",
+		"tip": "Spanish Phrases"
+	},
+	"characters": [
+	{
+		"character" : "﻿Bienvenido",
+		"charTip" : "Welcome<br>Bienvenidos<br>"
+		},{
+		"character" : "¡Hola!",
+		"charTip" : "Hello<br>"
+		},{
+		"character" : "¡Diga!",
+		"charTip" : "Hello on phone<br> ¡Dígame! ¿Sí? ¿Bueno? ¡Hola! ¿Aló?<br>"
+		},{
+		"character" : "¿Cómo está usted?",
+		"charTip" : "How are you?<br>"
+		},{
+		"character" : "¿Cómo estás?",
+		"charTip" : "How are you?<br>"
+		},{
+		"character" : "Bien gracias, ¿y usted?",
+		"charTip" : "I'm fine, thanks. And you?<br>"
+		},{
+		"character" : "Bien gracias, ¿y tú?",
+		"charTip" : "I'm fine, thanks. And you?<br>"
+		},{
+		"character" : "¡Cuánto tiempo!",
+		"charTip" : "Long time no see<br>"
+		},{
+		"character" : "¡Tanto tiempo sin verte!",
+		"charTip" : "Long time no see<br>"
+		},{
+		"character" : "¿Cómo te llamas?",
+		"charTip" : "What's your name?<br>"
+		},{
+		"character" : "¿Cómo se llama Usted?",
+		"charTip" : "What's your name?<br>"
+		},{
+		"character" : "Me llamo ...",
+		"charTip" : "My name is ...  <br>"
+		},{
+		"character" : "Mi nombre es ...",
+		"charTip" : "My name is ...  <br>"
+		},{
+		"character" : "¿De dónde eres?",
+		"charTip" : "Where are you from?<br>"
+		},{
+		"character" : "¿De dónde es usted?",
+		"charTip" : "Where are you from?<br>"
+		},{
+		"character" : "Soy de ...",
+		"charTip" : "I'm from ...  <br>"
+		},{
+		"character" : "Mucho gusto Encantado",
+		"charTip" : "Pleased to meet you<br>"
+		},{
+		"character" : "Buenos días",
+		"charTip" : "Good morning<br>"
+		},{
+		"character" : "Buenas tardes",
+		"charTip" : "Good afternoon/evening<br>"
+		},{
+		"character" : "Buenas noches",
+		"charTip" : "Good night/evening<br>"
+		},{
+		"character" : "Adiós",
+		"charTip" : "Goodbye<br>Hasta luego<br>Hasta la vista<br>Hasta mañana<br>"
+		},{
+		"character" : "¡Buena suerte!",
+		"charTip" : "Good luck<br>"
+		},{
+		"character" : "¡Salud!",
+		"charTip" : "Cheers/Good health!<br>"
+		},{
+		"character" : "¡Que pase un buen día!",
+		"charTip" : "Have a nice day<br>"
+		},{
+		"character" : "¡Buen provecho!",
+		"charTip" : "Bon appetit<br>¡Buen apetito!<br>¡Que aproveche!<br>"
+		},{
+		"character" : "¡Buen viaje!",
+		"charTip" : "Bon voyage<br>"
+		},{
+		"character" : "No entiendo",
+		"charTip" : "I don't understand<br>No comprendo<br>"
+		},{
+		"character" : "Por favor hable más despacio",
+		"charTip" : "Please speak more slowly<br>"
+		},{
+		"character" : "¿Puede escribirlo, por favor?",
+		"charTip" : "Please write it down<br>"
+		},{
+		"character" : "¿Habla Usted inglés?",
+		"charTip" : "Do you speak English?<br>¿Hablas (tú) inglés?<br>"
+		},{
+		"character" : "¿Habla usted español?",
+		"charTip" : "Do you speak Spanish?<br>¿Hablas español?<br>"
+		},{
+		"character" : "Sí, hablo un poquito de español",
+		"charTip" : "Yes, a little<br>Sí, un poco<br>"
+		},{
+		"character" : "¿Cómo se dice ... en español?",
+		"charTip" : "How do you say ... in Spanish?<br>"
+		},{
+		"character" : "¡Perdón!",
+		"charTip" : "Excuse me<br>¡Perdone!<br>¡Discúlpe!<br>"
+		},{
+		"character" : "¿Cuánto cuesta?",
+		"charTip" : "How much is this?<br>¿Cuánto cuesta esto?<br>"
+		},{
+		"character" : "¡Perdón!",
+		"charTip" : "Sorry<br>¡Perdone!<br>¡Lo siento!<br>"
+		},{
+		"character" : "Gracias",
+		"charTip" : "Thank you<br>Muchas gracias<br>"
+		},{
+		"character" : "De nada",
+		"charTip" : "Response to thank you<br>No hay de qué<br>"
+		},{
+		"character" : "¿Dónde están los aseos?",
+		"charTip" : "Where's the toilet?<br>¿Dónde están los sanitarios?<br>¿Dónde está el baño?<br>¿Dónde está el cuarto de baño?<br>"
+		},{
+		"character" : "Este hombre/caballero pagará por todo",
+		"charTip" : "This gentleman will pay for everything<br>"
+		},{
+		"character" : "Esta mujer/dame pagará por todo",
+		"charTip" : "This lady will pay for everything<br>"
+		},{
+		"character" : "¿Querrías bailar conmigo?",
+		"charTip" : "Would you like to dance with me?<br>¿Quisiera bailar conmigo?<br>¿Quisieras bailar conmigo?<br>¿Querría bailar conmigo?<br>"
+		},{
+		"character" : "Te amo",
+		"charTip" : "I love you<br>Te quiero<br>"
+		},{
+		"character" : "Que te mejores",
+		"charTip" : "Get well soon<br>Que te mejores pronto<br>¡Recupérate pronto!<br>Pronta recuperación<br>"
+		},{
+		"character" : "¡Déjeme en paz!",
+		"charTip" : "Leave me alone!<br>"
+		},{
+		"character" : "¡Ayúdame!",
+		"charTip" : "Help!<br>¡Socorro!<br>¡Auxilio!<br>"
+		},{
+		"character" : "¡Fuego!",
+		"charTip" : "Fire!<br>"
+		},{
+		"character" : "¡Alto!",
+		"charTip" : "Stop!<br>"
+		},{
+		"character" : "¡Llame a la policía!",
+		"charTip" : "Call the police!<br>"
+		},{
+		"character" : "¡Feliz Navidad y próspero año nuevo!",
+		"charTip" : "Merry Christmas and Happy New Year<br>¡Feliz Año Nuevo!<br>"
+		},{
+		"character" : "¡Felices Pascuas!",
+		"charTip" : "Happy Easter<br>"
+		},{
+		"character" : "¡Feliz cumpleaños!",
+		"charTip" : "Happy Birthday<br>"
+		},{
+		"character" : "Un idioma nunca es suficiente",
+		"charTip" : "One language is never enough<br>Un solo idioma nunca es suficiente<br>"
+		},{
+		"character" : "Mi aerodeslizador está lleno de anguilas",
+		"charTip" : "My hovercraft is full of eels<br>"
+		}
+	]
+}

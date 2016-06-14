@@ -1,0 +1,344 @@
+{
+    "name": {
+        "libName": "Chinese Phrases",
+        "tip": "Chinese Phrases"
+    },
+    "characters": [
+        {
+            "character": "﻿歡迎光臨",
+            "charTip": "huānyíng guānglín<br>Welcome 欢迎光临"
+        },
+        {
+            "character": "你好",
+            "charTip": "nǐ hǎo - inf<br>Hello"
+        },
+        {
+            "character": "您好",
+            "charTip": "nín hǎo - frm <br>Hello"
+        },
+        {
+            "character": "喂",
+            "charTip": "wéi<br>Hello - on phone"
+        },
+        {
+            "character": "你好嗎?",
+            "charTip": "nǐ hǎo ma<br>How are you? 你好吗"
+        },
+        {
+            "character": "我很好，你呢？",
+            "charTip": "wǒ hěn hǎo, nǐ ne<br>I'm fine, thanks. And you?"
+        },
+        {
+            "character": "好久不見",
+            "charTip": "hǎojǐu bújiàn<br>Long time no see 好久不见"
+        },
+        {
+            "character": "您貴姓大名？",
+            "charTip": "nín guìxìng dàmíng - frm<br>What's your name? 您贵姓大名？"
+        },
+        {
+            "character": "你叫什麼名字？",
+            "charTip": "nǐ jiào shénme míngzi<br>What's your name? 你叫什么名字"
+        },
+        {
+            "character": "我姓 ...",
+            "charTip": "wǒ xìng ...<br>My Name is..."
+        },
+        {
+            "character": "我叫 ...",
+            "charTip": "wǒ jiào ...<br>My Name is..."
+        },
+        {
+            "character": "你是從那裡來的",
+            "charTip": "nǐ shì cóng nǎli/nǎr lái de<br>Where are you from? 你是从哪儿来的"
+        },
+        {
+            "character": "你是哪國人？",
+            "charTip": "nǐ shì nǎguórén<br>Where are you from ... 你是哪国人？"
+        },
+        {
+            "character": "我是從 ... 來的",
+            "charTip": "wǒ shì cóng ... lái de<br>I'm from..."
+        },
+        {
+            "character": "我是 ... 人",
+            "charTip": "wǒ shì ... rén<br>I'm from...(country)"
+        },
+        {
+            "character": "很高興認識你",
+            "charTip": "hěn gāoxìng rènshi nǐ<br>Pleased to meet you 很高兴认识你"
+        },
+        {
+            "character": "我很高興跟你見面",
+            "charTip": "wǒ hěn gāoxìng gěn nǐ jiànmiàn<br>Pleased to meet you 我很高兴跟你见面"
+        },
+        {
+            "character": " 幸會",
+            "charTip": "xìnghuì<br>Pleased to meet you 幸会"
+        },
+        {
+            "character": "早安",
+            "charTip": "zǎoān<br>Good morning"
+        },
+        {
+            "character": "早上好",
+            "charTip": "zǎoshànghǎo<br>Good morning"
+        },
+        {
+            "character": "早晨好",
+            "charTip": "zǎochénhǎo<br>Good morning"
+        },
+        {
+            "character": "你早",
+            "charTip": "nǐzǎo<br>Good morning"
+        },
+        {
+            "character": "午安",
+            "charTip": "wǔān<br>Good afternoon"
+        },
+        {
+            "character": "晚安",
+            "charTip": "wǎnān<br>Good evening"
+        },
+        {
+            "character": "晚上好",
+            "charTip": "wǎnshànghǎo<br>Good evening"
+        },
+        {
+            "character": "晚安",
+            "charTip": "wǎnān<br>Good night"
+        },
+        {
+            "character": "再見",
+            "charTip": "zàijiàn<br>Good night 再见"
+        },
+        {
+            "character": "拜拜",
+            "charTip": "bàibài<br>Good night"
+        },
+        {
+            "character": "祝你好運",
+            "charTip": "zhù nǐ háoyùn<br>Good luck"
+        },
+        {
+            "character": "乾杯!",
+            "charTip": "gān bēi<br>Cheers/Good health! - lit. 'dry glass' 干杯!"
+        },
+        {
+            "character": "慢慢吃！",
+            "charTip": "mànmàn chī!<br>Bon appetit - eat slowly"
+        },
+        {
+            "character": "請慢用",
+            "charTip": "qǐng màn yòng<br>Bon appetit - please eat slowly 请慢用"
+        },
+        {
+            "character": "請入席",
+            "charTip": "qǐng rù xí<br>Bon appetit - please be seated - frm 请入席"
+        },
+        {
+            "character": "一路順風",
+            "charTip": "yīlùshùnfēng<br>Bon voyage 一路顺风"
+        },
+        {
+            "character": "一路平安",
+            "charTip": "yīlùpíngān<br>Bon voyage 一路平安"
+        },
+        {
+            "character": "一帆風順",
+            "charTip": "yīfānfēngshùn<br>Bon voyage 一帆风顺"
+        },
+        {
+            "character": "我聽不懂",
+            "charTip": "wǒ tīngbùdǒng<br>I don't understand 我听不懂"
+        },
+        {
+            "character": "我不懂",
+            "charTip": "wǒ bùdǒng<br>I don't understand"
+        },
+        {
+            "character": "我不明白",
+            "charTip": "wǒ bù míngbai<br>I don't understand"
+        },
+        {
+            "character": "麻煩你再説一邊",
+            "charTip": "máfán nǐ zài shuō yībiān<br>Please say that again 麻烦你再说一边"
+        },
+        {
+            "character": "請你再説一次好嗎？",
+            "charTip": "qǐng nǐ zài shuō yīcì hǎo ma?<br>Please say that again 请你再说一次好吗？"
+        },
+        {
+            "character": "麻煩你講慢一點",
+            "charTip": "máfan nĭ jiǎng màn yīdiǎn<br>Please speak more slowly 麻烦你讲慢一点"
+        },
+        {
+            "character": "麻煩你寫一下,好不好？",
+            "charTip": "Máfan nǐ xiě yīxià, hǎo bù hǎo?<br>Please write it down 麻烦你写一下，好不好？"
+        },
+        {
+            "character": "你會說英語嗎？",
+            "charTip": "nǐ huì shuō yīngyǔ ma?<br>Do you speak English? 你会说英语吗？"
+        },
+        {
+            "character": "你會講英語嗎？",
+            "charTip": "nǐ huì jiǎng yīngyǔ ma?<br>Do you speak Mandarin? 你会讲英语吗？"
+        },
+        {
+            "character": "你會不會講國語／ 華語？",
+            "charTip": "nǐ huìbúhuì jiǎng guóyŭ/huáyŭ/pŭtōnghuà?<br>Yes, a little 你会不会讲普通话？"
+        },
+        {
+            "character": "會，一點點",
+            "charTip": "huì, yīdiǎndiǎn/yīdiǎnr<br>Yes, a little 会，一点儿"
+        },
+        {
+            "character": "... 中文怎麼說？",
+            "charTip": "... zhōngwén zěnme shuō<br>How do you say ... in Mandarin? ... ... 中文怎么说？"
+        },
+        {
+            "character": "請問",
+            "charTip": "qǐngwén<br>Excuse me - to attract attention (lit. may I ask) 请问"
+        },
+        {
+            "character": "對不起",
+            "charTip": "duìbùqǐ Excuse me - asking people to move<br>对不起"
+        },
+        {
+            "character": "這個多少錢？",
+            "charTip": "Zhège duōshǎo qián?<br>How much is this? 这个多少钱?"
+        },
+        {
+            "character": "對不起",
+            "charTip": "duìbùqǐ<br>Sorry 对不起"
+        },
+        {
+            "character": "抱歉",
+            "charTip": "bàoqiàn<br>Sorry"
+        },
+        {
+            "character": "謝謝",
+            "charTip": "xièxie<br>Thank you 谢谢"
+        },
+        {
+            "character": "感謝你",
+            "charTip": "gǎnxiè nǐ<br>Thank you 感谢你"
+        },
+        {
+            "character": "非常感謝(你)",
+            "charTip": "fēicháng gǎnxiè (nǐ)<br>Thank you"
+        },
+        {
+            "character": "不客氣",
+            "charTip": "bú kèqi<br>不客气"
+        },
+        {
+            "character": "不用謝",
+            "charTip": "bú yòng xiè<br>不用谢"
+        },
+        {
+            "character": "沒關係",
+            "charTip": "méi guānxi<br>没关系"
+        },
+        {
+            "character": "沒問題",
+            "charTip": "méi wèntí<br>没问题"
+        },
+        {
+            "character": "廁所在哪裡？",
+            "charTip": "cèsuǒ zài nǎli?<br>Where's the toilet? 厕所在哪里？"
+        },
+        {
+            "character": "洗手間哪裡？",
+            "charTip": "xǐshǒujiān zài nǎli?<br>Where's the toilet? 洗手间在哪里？"
+        },
+        {
+            "character": "這位先生會清單",
+            "charTip": "zhèiwèi xiānsheng huì qīngdān/máidān<br>This gentleman/lady will pay for everything - gentleman 这位先生会清单/埋单"
+        },
+        {
+            "character": "這位女士會清單",
+            "charTip": "zhèiwèi nǔshì huì qīngdān/máidān<br>This gentleman/lady will pay for everything - lady 这位女士会清单/埋单"
+        },
+        {
+            "character": "你要不要跟我跳舞？",
+            "charTip": "nǐ yào bú yào gēn wǒ tiàowǔ<br>Would you like to dance with me?"
+        },
+        {
+            "character": "我愛你",
+            "charTip": "wǒ ài nǐ<br>I love you 我爱你"
+        },
+        {
+            "character": "快點好啦",
+            "charTip": "kuài diǎn hào la<br>Get well soon 快点好啦"
+        },
+        {
+            "character": "祝您早日康復",
+            "charTip": "zhù nín zǎorì kāngfù<br>Get well soon"
+        },
+        {
+            "character": "不要打擾我!",
+            "charTip": "búyào dǎrǎo wǒ<br>Leave me alone! 不要打扰我!"
+        },
+        {
+            "character": "别管我!",
+            "charTip": "bié guǎn wǒ<br>Leave me alone!"
+        },
+        {
+            "character": "救命啊!",
+            "charTip": "jìumìng ā!<br>Help!"
+        },
+        {
+            "character": "火啊!",
+            "charTip": "huǒ a!<br>Fire!"
+        },
+        {
+            "character": "停!",
+            "charTip": "tíng!<br>Stop!"
+        },
+        {
+            "character": "停下!",
+            "charTip": "tíngxià!<br>Stop!"
+        },
+        {
+            "character": "停車!",
+            "charTip": "tíng chē<br>Stop! - when in vehicle 停车"
+        },
+        {
+            "character": "站住!",
+            "charTip": "zhànzhù<br>Stop! - to someone on foot"
+        },
+        {
+            "character": "立正",
+            "charTip": "lìzhèng<br>Halt! - used by the military"
+        },
+        {
+            "character": "叫警察!",
+            "charTip": "jiào jǐngchá<br>Call the police!"
+        },
+        {
+            "character": "聖誕快樂 新年快樂",
+            "charTip": "shèngdàn kuàilè xīnnián kuàilè<br>Merry Christmas and Happy New Year 圣诞快乐 新年快乐"
+        },
+        {
+            "character": "恭喜發財",
+            "charTip": "gōngxǐ fācái<br>Happy New Year - used at Chinese New Year 恭喜发财"
+        },
+        {
+            "character": "復活節快樂",
+            "charTip": "fùhuójié kuàilè<br>Happy Easter 复活节快乐"
+        },
+        {
+            "character": "生日快樂",
+            "charTip": "shēngrì kuàilè<br>Happy Birthday 生日快乐"
+        },
+        {
+            "character": "我的氣墊船裝滿了鱔魚",
+            "charTip": "Wǒ de qìdiànchuán zhuāngmǎn le shànyú<br>My hovercraft is full of eels What!? 我的气垫船装满了鳝鱼"
+        },
+        {
+            "character": "一種語言永遠不夠",
+            "charTip": "yīzhǒng yǔyán yǒngyuǎn bùgòu<br>One language is never enough 一种语言永远不够"
+        }
+    ]
+}

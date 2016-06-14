@@ -1,0 +1,156 @@
+{
+	"name" : {
+			"libName" : "ㄅㄆㄇㄈ",
+			"tip" : "Bopomofo"
+		},
+	"characters" : [
+		{
+			"character" : "ㄅ",
+			"charTip" : "B"
+		},
+		{
+			"character" : "ㄆ",
+			"charTip" : "P"
+		},
+		{
+			"character" : "ㄇ",
+			"charTip" : "M"
+		},
+		{
+			"character" : "ㄈ",
+			"charTip" : "F"
+		},
+		{
+			"character" : "ㄉ",
+			"charTip" : "D"
+		},
+		{
+			"character" : "ㄊ",
+			"charTip" : "T"
+		},
+		{
+			"character" : "ㄋ",
+			"charTip" : "N"
+		},
+		{
+			"character" : "ㄌ",
+			"charTip" : "L"
+		},
+		{
+			"character" : "ㄍ",
+			"charTip" : "G"
+		},
+		{
+			"character" : "ㄎ",
+			"charTip" : "K"
+		},
+		{
+			"character" : "ㄏ",
+			"charTip" : "H"
+		},
+		{
+			"character" : "ㄐ",
+			"charTip" : "J"
+		},
+		{
+			"character" : "ㄑ",
+			"charTip" : "Q"
+		},
+		{
+			"character" : "ㄒ",
+			"charTip" : "X"
+		},
+		{
+			"character" : "ㄓ",
+			"charTip" : "ZH"
+		},
+		{
+			"character" : "ㄔ",
+			"charTip" : "CH"
+		},
+		{
+			"character" : "ㄕ",
+			"charTip" : "SH"
+		},
+		{
+			"character" : "ㄖ",
+			"charTip" : "R"
+		},
+		{
+			"character" : "ㄗ",
+			"charTip" : "Z"
+		},
+		{
+			"character" : "ㄘ",
+			"charTip" : "C"
+		},
+		{
+			"character" : "ㄙ",
+			"charTip" : "S"
+		},
+		{
+			"character" : "ㄚ",
+			"charTip" : "A"
+		},
+		{
+			"character" : "ㄛ",
+			"charTip" : "O"
+		},
+		{
+			"character" : "ㄜ",
+			"charTip" : "E"
+		},
+		{
+			"character" : "ㄝ",
+			"charTip" : "ê"
+		},
+		{
+			"character" : "ㄞ",
+			"charTip" : "AI"
+		},
+		{
+			"character" : "ㄟ",
+			"charTip" : "EI"
+		},
+		{
+			"character" : "ㄠ",
+			"charTip" : "AO"
+		},
+		{
+			"character" : "ㄡ",
+			"charTip" : "OU"
+		},
+		{
+			"character" : "ㄢ",
+			"charTip" : "AN"
+		},
+		{
+			"character" : "ㄣ",
+			"charTip" : "EN"
+		},
+		{
+			"character" : "ㄤ",
+			"charTip" : "ANG"
+		},
+		{
+			"character" : "ㄥ",
+			"charTip" : "ENG"
+		},
+		{
+			"character" : "ㄦ",
+			"charTip" : "ER"
+		},
+		{
+			"character" : "ㄧ",
+			"charTip" : "I/Y"
+		},
+		{
+			"character" : "ㄨ",
+			"charTip" : "U/W"
+		},
+		{
+			"character" : "ㄩ",
+			"charTip" : "ü/yu"
+		}
+	]
+}

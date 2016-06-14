@@ -1,0 +1,5514 @@
+{
+	"name" : {
+		"libName" : "日本語能力試験二級の語彙",
+		"tip" : "JLPT N2 Vocab"
+	},
+	"characters" : [
+		{
+		"character" : "﻿あいかわらず",
+		"charTip" : "あいかわらず<br>as ever,as usual,the same"
+		},{
+		"character" : "アイデア/アイディア",
+		"charTip" : "アイデア/アイディア<br>idea"
+		},{
+		"character" : "あいまい",
+		"charTip" : "あいまい<br>vague,ambiguous"
+		},{
+		"character" : "遭う",
+		"charTip" : "あう<br>to meet,to encounter (undesirable nuance)"
+		},{
+		"character" : "扇ぐ",
+		"charTip" : "あおぐ<br>to fan,to flap"
+		},{
+		"character" : "青白い",
+		"charTip" : "あおじろい<br>pale,pallid"
+		},{
+		"character" : "あかんぼう",
+		"charTip" : "あかんぼう<br>baby"
+		},{
+		"character" : "明き",
+		"charTip" : "あき<br>room,time to spare,emptiness"
+		},{
+		"character" : "あきれる",
+		"charTip" : "あきれる<br>to be amazed,to be shocked"
+		},{
+		"character" : "アクセント",
+		"charTip" : "アクセント<br>accent"
+		},{
+		"character" : "あくび",
+		"charTip" : "あくび<br>yawn"
+		},{
+		"character" : "飽くまで",
+		"charTip" : "あくまで<br>to the end,to the last,stubbornly"
+		},{
+		"character" : "明け方",
+		"charTip" : "あけがた<br>dawn"
+		},{
+		"character" : "揚げる",
+		"charTip" : "あげる<br>to lift,to fry"
+		},{
+		"character" : "挙げる",
+		"charTip" : "あげる<br>to raise,to fly"
+		},{
+		"character" : "あげる (=やる)",
+		"charTip" : "あげる (=やる)<br>to do for"
+		},{
+		"character" : "憧れる",
+		"charTip" : "あこがれる<br>to long for,to yearn after,to admire"
+		},{
+		"character" : "足跡",
+		"charTip" : "あしあと<br>footprints"
+		},{
+		"character" : "味わう",
+		"charTip" : "あじわう<br>to taste,to savor,to relish"
+		},{
+		"character" : "預かる",
+		"charTip" : "あずかる<br>to keep in custody,to receive on deposit,to take charge of"
+		},{
+		"character" : "暖まる",
+		"charTip" : "あたたまる<br>to warm up,to get warm"
+		},{
+		"character" : "暖める",
+		"charTip" : "あたためる<br>to warm,to heat"
+		},{
+		"character" : "あたりまえ",
+		"charTip" : "あたりまえ<br>usual,common,ordinary"
+		},{
+		"character" : "あひら",
+		"charTip" : "あひら<br>"
+		},{
+		"character" : "あちらこちら",
+		"charTip" : "あちらこちら<br>here and there"
+		},{
+		"character" : "厚かましい",
+		"charTip" : "あつかましい<br>impudent,shameless,brazen"
+		},{
+		"character" : "圧縮",
+		"charTip" : "あっしゅく<br>compression,condensation,pressure"
+		},{
+		"character" : "宛名",
+		"charTip" : "あてな<br>address,direction"
+		},{
+		"character" : "あてはまる",
+		"charTip" : "あてはまる<br>to be applicable,to come under (a category),to fulfill"
+		},{
+		"character" : "あてはめる",
+		"charTip" : "あてはめる<br>to apply,to adapt"
+		},{
+		"character" : "暴れる",
+		"charTip" : "あばれる<br>to act violently,to rage,to struggle,to be riotous"
+		},{
+		"character" : "脂",
+		"charTip" : "あぶら<br>fat,tallow,lard"
+		},{
+		"character" : "あぶる",
+		"charTip" : "あぶる<br>to scorch"
+		},{
+		"character" : "あふれる",
+		"charTip" : "あふれる<br>to flood,to overflow,to brim over"
+		},{
+		"character" : "雨戸",
+		"charTip" : "あまど<br>sliding storm door"
+		},{
+		"character" : "甘やかす",
+		"charTip" : "あまやかす<br>to pamper,to spoil"
+		},{
+		"character" : "余る",
+		"charTip" : "あまる<br>to remain,to be left over,to be in excess,to be too many"
+		},{
+		"character" : "編物",
+		"charTip" : "あみもの<br>knitting,web"
+		},{
+		"character" : "編む",
+		"charTip" : "あむ<br>to knit"
+		},{
+		"character" : "危うい",
+		"charTip" : "あやうい<br>dangerous,critical,grave"
+		},{
+		"character" : "怪しい",
+		"charTip" : "あやしい<br>suspicious,dubious,doubtful"
+		},{
+		"character" : "荒い",
+		"charTip" : "あらい<br>rough,rude,wild"
+		},{
+		"character" : "粗い",
+		"charTip" : "あらい<br>coarse,rough"
+		},{
+		"character" : "あらすじ",
+		"charTip" : "あらすじ<br>outline,summary"
+		},{
+		"character" : "争う",
+		"charTip" : "あらそう<br>to dispute,to argue,to be at variance,to compete"
+		},{
+		"character" : "改めて",
+		"charTip" : "あらためて<br>another time,again,over again,anew,formally"
+		},{
+		"character" : "改める",
+		"charTip" : "あらためる<br>to change,to alter,to reform,to revise"
+		},{
+		"character" : "著す",
+		"charTip" : "あらわす<br>to write,to publish"
+		},{
+		"character" : "有難い",
+		"charTip" : "ありがたい<br>grateful,thankful,welcome,appreciated,evoking gratitude"
+		},{
+		"character" : "在る",
+		"charTip" : "ある<br>to live,to be"
+		},{
+		"character" : "あれこれ",
+		"charTip" : "あれこれ<br>one thing or another,this and that,this or that"
+		},{
+		"character" : "あわただしい",
+		"charTip" : "あわただしい<br>busy,hurried,confused,flurried"
+		},{
+		"character" : "あわてる",
+		"charTip" : "あわてる<br>to become confused"
+		},{
+		"character" : "安易",
+		"charTip" : "あんい<br>easy-going"
+		},{
+		"character" : "案外",
+		"charTip" : "あんがい<br>unexpectedly"
+		},{
+		"character" : "アンテナ",
+		"charTip" : "アンテナ<br>antenna"
+		},{
+		"character" : "言い出す",
+		"charTip" : "いいだす<br>to start talking,to speak,to tell,to propose,to suggest,to break the ice"
+		},{
+		"character" : "言い付ける",
+		"charTip" : "いいつける<br>to tell,to tell on (someone),to order"
+		},{
+		"character" : "意義",
+		"charTip" : "いぎ<br>meaning,significance"
+		},{
+		"character" : "生き生き",
+		"charTip" : "いきいき<br>vividly,lively"
+		},{
+		"character" : "いきなり",
+		"charTip" : "いきなり<br>(uk) abruptly,suddenly,all of a sudden,without warning"
+		},{
+		"character" : "育児",
+		"charTip" : "いくじ<br>childcare,nursing,upbringing"
+		},{
+		"character" : "幾分",
+		"charTip" : "いくぶん<br>somewhat"
+		},{
+		"character" : "生け花",
+		"charTip" : "いけばな<br>(1) flower arrangement"
+		},{
+		"character" : "以後",
+		"charTip" : "いご<br>after this,from now on,hereafter,thereafter"
+		},{
+		"character" : "以降",
+		"charTip" : "いこう<br>on and after,hereafter,thereafter"
+		},{
+		"character" : "イコール",
+		"charTip" : "イコール<br>equal"
+		},{
+		"character" : "勇ましい",
+		"charTip" : "いさましい<br>brave,valiant,gallant,courageous"
+		},{
+		"character" : "衣食住",
+		"charTip" : "いしょくじゅう<br>necessities of life (food, clothing, etc.)"
+		},{
+		"character" : "意地悪",
+		"charTip" : "いじわる<br>malicious,ill-tempered,unkind"
+		},{
+		"character" : "いちいち",
+		"charTip" : "いちいち<br>one by one,separately"
+		},{
+		"character" : "一応",
+		"charTip" : "いちおう<br>once,tentatively,in outline,for the time being"
+		},{
+		"character" : "一段と",
+		"charTip" : "いちだんと<br>greater,more,further,still more"
+		},{
+		"character" : "一流",
+		"charTip" : "いちりゅう<br>first class,top grade,foremost,top-notch"
+		},{
+		"character" : "佚",
+		"charTip" : "いつ<br>be lost,peace,hide,mistake,beautiful,in turn"
+		},{
+		"character" : "一昨日",
+		"charTip" : "いっさくじつ<br>day before yesterday"
+		},{
+		"character" : "一昨年",
+		"charTip" : "いっさくねん<br>year before last"
+		},{
+		"character" : "一斉",
+		"charTip" : "いっせい<br>simultaneous,all at once"
+		},{
+		"character" : "一旦",
+		"charTip" : "いったん<br>once,for a moment,one morning,temporarily"
+		},{
+		"character" : "一定",
+		"charTip" : "いってい<br>fixed,settled,definite"
+		},{
+		"character" : "いっていらっしゃい",
+		"charTip" : "いっていらっしゃい<br>"
+		},{
+		"character" : "いってらっしゃい",
+		"charTip" : "いってらっしゃい<br>"
+		},{
+		"character" : "いってまいります",
+		"charTip" : "いってまいります<br>"
+		},{
+		"character" : "いつのまにか",
+		"charTip" : "いつのまにか<br>before one knows,unnoticed,unawares"
+		},{
+		"character" : "移転",
+		"charTip" : "いてん<br>moving,transfer,demise"
+		},{
+		"character" : "井戸",
+		"charTip" : "いど<br>water well"
+		},{
+		"character" : "緯度",
+		"charTip" : "いど<br>latitude (nav.)"
+		},{
+		"character" : "従姉妹",
+		"charTip" : "いとこ<br>cousin (female)"
+		},{
+		"character" : "威張る",
+		"charTip" : "いばる<br>to be proud,to swagger"
+		},{
+		"character" : "嫌がる",
+		"charTip" : "いやがる<br>to hate,to dislike"
+		},{
+		"character" : "いよいよ",
+		"charTip" : "いよいよ<br>more and more,all the more,increasingly,at last,beyond doubt"
+		},{
+		"character" : "煎る",
+		"charTip" : "いる<br>to parch,to fry"
+		},{
+		"character" : "炒る",
+		"charTip" : "いる<br>"
+		},{
+		"character" : "入れ物",
+		"charTip" : "いれもの<br>container,case,receptacle"
+		},{
+		"character" : "インキ",
+		"charTip" : "インキ<br>ink"
+		},{
+		"character" : "インタビュー",
+		"charTip" : "インタビュー<br>interview"
+		},{
+		"character" : "引力",
+		"charTip" : "いんりょく<br>gravity"
+		},{
+		"character" : "ウーマン",
+		"charTip" : "ウーマン<br>woman"
+		},{
+		"character" : "ウール",
+		"charTip" : "ウール<br>wool"
+		},{
+		"character" : "ウエートレス",
+		"charTip" : "ウエートレス<br>waitress"
+		},{
+		"character" : "植木",
+		"charTip" : "うえき<br>garden shrubs,trees,potted plant"
+		},{
+		"character" : "飢える",
+		"charTip" : "うえる<br>to starve"
+		},{
+		"character" : "浮ぶ",
+		"charTip" : "うかぶ<br>to float,to rise to surface,to come to mind"
+		},{
+		"character" : "浮かべる",
+		"charTip" : "うかべる<br>to float,to express,to look (sad, glad)"
+		},{
+		"character" : "浮く",
+		"charTip" : "うく<br>to float,to become merry,to become loose"
+		},{
+		"character" : "承る",
+		"charTip" : "うけたまわる<br>(hum) to hear,to be told,to know"
+		},{
+		"character" : "受取",
+		"charTip" : "うけとり<br>receipt"
+		},{
+		"character" : "受け持つ",
+		"charTip" : "うけもつ<br>to take (be in) charge of"
+		},{
+		"character" : "薄暗い",
+		"charTip" : "うすぐらい<br>dim,gloomy"
+		},{
+		"character" : "薄める",
+		"charTip" : "うすめる<br>to dilute,to water down"
+		},{
+		"character" : "打合せ",
+		"charTip" : "うちあわせ<br>business meeting,previous arrangement,appointment"
+		},{
+		"character" : "打ち消す",
+		"charTip" : "うちけす<br>to deny,to negate,to contradict"
+		},{
+		"character" : "討つ",
+		"charTip" : "うつ<br>to attack,to avenge"
+		},{
+		"character" : "うっかり",
+		"charTip" : "うっかり<br>carelessly,thoughtlessly,inadvertently"
+		},{
+		"character" : "映す",
+		"charTip" : "うつす<br>to project,to reflect,to cast (shadow)"
+		},{
+		"character" : "写る",
+		"charTip" : "うつる<br>to be photographed,to be projected"
+		},{
+		"character" : "映る",
+		"charTip" : "うつる<br>to be reflected,to harmonize with,to come out (photo)"
+		},{
+		"character" : "うどん",
+		"charTip" : "うどん<br>noodles (Japanese)"
+		},{
+		"character" : "有無",
+		"charTip" : "うむ<br>yes or no,existence,flag indicator (comp),presence or absence marker"
+		},{
+		"character" : "埋める",
+		"charTip" : "うめる<br>to bury,to fill up,to fill (a seat, a vacant position)"
+		},{
+		"character" : "敬う",
+		"charTip" : "うやまう<br>to show respect,to honour"
+		},{
+		"character" : "裏返す",
+		"charTip" : "うらがえす<br>to turn inside out,to turn (something) over"
+		},{
+		"character" : "裏口",
+		"charTip" : "うらぐち<br>backdoor,rear entrance"
+		},{
+		"character" : "占う",
+		"charTip" : "うらなう<br>to forecast,to predict"
+		},{
+		"character" : "恨み",
+		"charTip" : "うらみ<br>resentment"
+		},{
+		"character" : "恨む",
+		"charTip" : "うらむ<br>to curse,to feel bitter"
+		},{
+		"character" : "羨ましい",
+		"charTip" : "うらやましい<br>envious,enviable"
+		},{
+		"character" : "羨む",
+		"charTip" : "うらやむ<br>to envy"
+		},{
+		"character" : "売上",
+		"charTip" : "うりあげ<br>amount sold,proceeds"
+		},{
+		"character" : "売り切れ",
+		"charTip" : "うりきれ<br>sold-out"
+		},{
+		"character" : "売り切れる",
+		"charTip" : "うりきれる<br>to be sold out"
+		},{
+		"character" : "売行き",
+		"charTip" : "うれゆき<br>sales"
+		},{
+		"character" : "うろうろ",
+		"charTip" : "うろうろ<br>loiteringly,aimless wandering"
+		},{
+		"character" : "運河",
+		"charTip" : "うんが<br>canal,waterway"
+		},{
+		"character" : "うんと",
+		"charTip" : "うんと<br>a great deal,very much"
+		},{
+		"character" : "英文",
+		"charTip" : "えいぶん<br>sentence in English"
+		},{
+		"character" : "英和",
+		"charTip" : "えいわ<br>English-Japanese (e.g. dictionary)"
+		},{
+		"character" : "ええと",
+		"charTip" : "ええと<br>let me see,well,er...."
+		},{
+		"character" : "液体",
+		"charTip" : "えきたい<br>liquid,fluid"
+		},{
+		"character" : "エチケット",
+		"charTip" : "エチケット<br>etiquette"
+		},{
+		"character" : "絵の具",
+		"charTip" : "えのぐ<br>colors,paints"
+		},{
+		"character" : "エプロン",
+		"charTip" : "エプロン<br>apron"
+		},{
+		"character" : "偉い",
+		"charTip" : "えらい<br>great,celebrated,eminent,terrible,awful,famous,remarkable,excellent"
+		},{
+		"character" : "宴会",
+		"charTip" : "えんかい<br>party,banquet"
+		},{
+		"character" : "園芸",
+		"charTip" : "えんげい<br>horticulture,gardening"
+		},{
+		"character" : "演劇",
+		"charTip" : "えんげき<br>play (theatrical)"
+		},{
+		"character" : "円周",
+		"charTip" : "えんしゅう<br>circumference"
+		},{
+		"character" : "遠足",
+		"charTip" : "えんそく<br>trip,hike,picnic"
+		},{
+		"character" : "延長",
+		"charTip" : "えんちょう<br>extension,elongation,prolongation,lengthening"
+		},{
+		"character" : "煙突",
+		"charTip" : "えんとつ<br>chimney"
+		},{
+		"character" : "追い掛ける",
+		"charTip" : "おいかける<br>to chase or run after someone,to run down,to pursue"
+		},{
+		"character" : "追い越す",
+		"charTip" : "おいこす<br>to pass (e.g. car),to outdistance,to outstrip"
+		},{
+		"character" : "オイル",
+		"charTip" : "オイル<br>oil,engine oil,kerosene"
+		},{
+		"character" : "応援",
+		"charTip" : "おうえん<br>aid,assistance,help,reinforcement"
+		},{
+		"character" : "王女",
+		"charTip" : "おうじょ<br>princess"
+		},{
+		"character" : "応ずる",
+		"charTip" : "おうずる<br>to answer,to respond,to meet,to satisfy,to accept"
+		},{
+		"character" : "応接",
+		"charTip" : "おうせつ<br>reception"
+		},{
+		"character" : "応対",
+		"charTip" : "おうたい<br>receiving,dealing with"
+		},{
+		"character" : "往復",
+		"charTip" : "おうふく<br>(col) round trip,coming and going,return ticket"
+		},{
+		"character" : "欧米",
+		"charTip" : "おうべい<br>Europe and America,the West"
+		},{
+		"character" : "応用",
+		"charTip" : "おうよう<br>application,put to practical use"
+		},{
+		"character" : "オーケストラ",
+		"charTip" : "オーケストラ<br>orchestra"
+		},{
+		"character" : "おおざっぱ",
+		"charTip" : "おおざっぱ<br>rough (not precise),broad,sketchy"
+		},{
+		"character" : "大通り",
+		"charTip" : "おおどおり<br>main street"
+		},{
+		"character" : "オートメーション",
+		"charTip" : "オートメーション<br>automation"
+		},{
+		"character" : "オーバーコート",
+		"charTip" : "オーバーコート<br>"
+		},{
+		"character" : "大凡",
+		"charTip" : "おおよそ<br>about,roughly,as a rule,approximately"
+		},{
+		"character" : "お帰り",
+		"charTip" : "おかえり<br>return,welcome"
+		},{
+		"character" : "おかけください",
+		"charTip" : "おかけください<br>"
+		},{
+		"character" : "おかげさまで",
+		"charTip" : "おかげさまで<br>Thanks to god,thanks to you"
+		},{
+		"character" : "おかず",
+		"charTip" : "おかず<br>side dish,accompaniment for rice dishes"
+		},{
+		"character" : "拝む",
+		"charTip" : "おがむ<br>to worship,to beg,to make a supplication"
+		},{
+		"character" : "お代わり",
+		"charTip" : "おかわり<br>second helping,another cup"
+		},{
+		"character" : "補う",
+		"charTip" : "おぎなう<br>to compensate for"
+		},{
+		"character" : "おきのどくに",
+		"charTip" : "おきのどくに<br>"
+		},{
+		"character" : "屋外",
+		"charTip" : "おくがい<br>outdoors"
+		},{
+		"character" : "おくさん",
+		"charTip" : "おくさん<br>(hon) wife,your wife,madam"
+		},{
+		"character" : "送り仮名",
+		"charTip" : "おくりがな<br>part of word written in kana"
+		},{
+		"character" : "おげんきで",
+		"charTip" : "おげんきで<br>"
+		},{
+		"character" : "怠る",
+		"charTip" : "おこたる<br>to neglect,to be off guard,to be feeling better"
+		},{
+		"character" : "押える",
+		"charTip" : "おさえる<br>to stop,to restrain,to seize,to repress,to suppress,to press down"
+		},{
+		"character" : "おさきに",
+		"charTip" : "おさきに<br>before,ahead,previously"
+		},{
+		"character" : "納める",
+		"charTip" : "おさめる<br>to obtain,to reap,to pay,to supply,to accept"
+		},{
+		"character" : "治める",
+		"charTip" : "おさめる<br>(1) to govern,to manage,(2) to subdue"
+		},{
+		"character" : "惜しい",
+		"charTip" : "おしい<br>regrettable,disappointing,precious"
+		},{
+		"character" : "御辞儀",
+		"charTip" : "おじぎ<br>bow"
+		},{
+		"character" : "伯父さん",
+		"charTip" : "おじさん<br>middle-aged gentleman,uncle"
+		},{
+		"character" : "小父さん",
+		"charTip" : "おじさん<br>middle-aged gentleman,uncle"
+		},{
+		"character" : "叔父さん",
+		"charTip" : "おじさん<br>middle-aged gentleman,uncle"
+		},{
+		"character" : "おしゃれ",
+		"charTip" : "おしゃれ<br>smartly dressed,someone smartly dressed,fashion-conscious"
+		},{
+		"character" : "おじゃまします",
+		"charTip" : "おじゃまします<br>Excuse me for disturbing you"
+		},{
+		"character" : "教わる",
+		"charTip" : "おそわる<br>to be taught"
+		},{
+		"character" : "おだいじに",
+		"charTip" : "おだいじに<br>Take care of yourself"
+		},{
+		"character" : "落着く",
+		"charTip" : "おちつく<br>to calm down,to settle down"
+		},{
+		"character" : "御手洗",
+		"charTip" : "おてあらい<br>font of purifying water placed at entrance of shrine"
+		},{
+		"character" : "お出掛け",
+		"charTip" : "おでかけ<br>"
+		},{
+		"character" : "お手伝いさん",
+		"charTip" : "おてつだいさん<br>maid"
+		},{
+		"character" : "おどかす",
+		"charTip" : "おどかす<br>to threaten,to coerce"
+		},{
+		"character" : "落し物",
+		"charTip" : "おとしもの<br>lost property"
+		},{
+		"character" : "おととい",
+		"charTip" : "おととい<br>day before yesterday"
+		},{
+		"character" : "おととし",
+		"charTip" : "おととし<br>year before last"
+		},{
+		"character" : "おとなしい",
+		"charTip" : "おとなしい<br>obedient,docile,quiet"
+		},{
+		"character" : "驚かす",
+		"charTip" : "おどろかす<br>to surprise,to frighten,to create a stir"
+		},{
+		"character" : "おねがいします",
+		"charTip" : "おねがいします<br>please"
+		},{
+		"character" : "各々",
+		"charTip" : "おのおの<br>each,every,either,respectively,severally"
+		},{
+		"character" : "伯母さん",
+		"charTip" : "おばさん<br>(hon) aunt"
+		},{
+		"character" : "叔母さん",
+		"charTip" : "おばさん<br>(1) aunt,(2) middle-aged lady"
+		},{
+		"character" : "おはよう",
+		"charTip" : "おはよう<br>(abbr) Good morning"
+		},{
+		"character" : "お参り",
+		"charTip" : "おまいり<br>worship,shrine visit"
+		},{
+		"character" : "おまたせしました",
+		"charTip" : "おまたせしました<br>Sorry to have kept you waiting"
+		},{
+		"character" : "おまちください",
+		"charTip" : "おまちください<br>Please wait a moment"
+		},{
+		"character" : "おまちどおさま",
+		"charTip" : "おまちどおさま<br>Sorry to have kept you waiting"
+		},{
+		"character" : "おめでたい",
+		"charTip" : "おめでたい<br>happy event,matter for congratulation,auspicious event,pregnancy"
+		},{
+		"character" : "思い掛けない",
+		"charTip" : "おもいがけない<br>unexpected,casual"
+		},{
+		"character" : "思い込む",
+		"charTip" : "おもいこむ<br>to be under impression that,to be convinced that"
+		},{
+		"character" : "思いっ切り",
+		"charTip" : "おもいっきり<br>"
+		},{
+		"character" : "思い付く",
+		"charTip" : "おもいつく<br>to think of,to hit upon"
+		},{
+		"character" : "重たい",
+		"charTip" : "おもたい<br>heavy,massive,serious"
+		},{
+		"character" : "おやすみ",
+		"charTip" : "おやすみ<br>(1) holiday,absence,rest,(2) (exp) Good night"
+		},{
+		"character" : "おやつ",
+		"charTip" : "おやつ<br>(1) between meal snack,afternoon refreshment"
+		},{
+		"character" : "親指",
+		"charTip" : "おやゆび<br>thumb"
+		},{
+		"character" : "オルガン",
+		"charTip" : "オルガン<br>organ"
+		},{
+		"character" : "卸す",
+		"charTip" : "おろす<br>to sell wholesale,grated (vegetables)"
+		},{
+		"character" : "恩恵",
+		"charTip" : "おんけい<br>grace,favor,blessing,benefit"
+		},{
+		"character" : "温室",
+		"charTip" : "おんしつ<br>greenhouse"
+		},{
+		"character" : "温泉",
+		"charTip" : "おんせん<br>spa,hot spring,onsen"
+		},{
+		"character" : "温帯",
+		"charTip" : "おんたい<br>temperate zone"
+		},{
+		"character" : "御中",
+		"charTip" : "おんちゅう<br>and Company,Messrs."
+		},{
+		"character" : "女の人",
+		"charTip" : "おんなのひと<br>woman"
+		},{
+		"character" : "蚊",
+		"charTip" : "か<br>mosquito"
+		},{
+		"character" : "カーブ",
+		"charTip" : "カーブ<br>(1) curve,(2) curve ball (baseball)"
+		},{
+		"character" : "貝",
+		"charTip" : "かい<br>shell,shellfish"
+		},{
+		"character" : "開会",
+		"charTip" : "かいかい<br>opening of a meeting"
+		},{
+		"character" : "会館",
+		"charTip" : "かいかん<br>meeting hall,assembly hall"
+		},{
+		"character" : "改札",
+		"charTip" : "かいさつ<br>examination of tickets"
+		},{
+		"character" : "解散",
+		"charTip" : "かいさん<br>breakup,dissolution"
+		},{
+		"character" : "海水浴",
+		"charTip" : "かいすいよく<br>sea bathing,seawater bath"
+		},{
+		"character" : "回数",
+		"charTip" : "かいすう<br>number of times,frequency"
+		},{
+		"character" : "回数券",
+		"charTip" : "かいすうけん<br>book of tickets"
+		},{
+		"character" : "改正",
+		"charTip" : "かいせい<br>revision,amendment,alteration"
+		},{
+		"character" : "快晴",
+		"charTip" : "かいせい<br>good weather"
+		},{
+		"character" : "解説",
+		"charTip" : "かいせつ<br>explanation,commentary"
+		},{
+		"character" : "改造",
+		"charTip" : "かいぞう<br>(1) remodeling,(2) modding (comp)"
+		},{
+		"character" : "開通",
+		"charTip" : "かいつう<br>opening,open"
+		},{
+		"character" : "回転",
+		"charTip" : "かいてん<br>rotation,revolution,turning"
+		},{
+		"character" : "解答",
+		"charTip" : "かいとう<br>answer,solution"
+		},{
+		"character" : "回答",
+		"charTip" : "かいとう<br>reply,answer"
+		},{
+		"character" : "外部",
+		"charTip" : "がいぶ<br>the outside,external"
+		},{
+		"character" : "解放",
+		"charTip" : "かいほう<br>release,liberation,emancipation"
+		},{
+		"character" : "開放",
+		"charTip" : "かいほう<br>open,throw open,liberalization"
+		},{
+		"character" : "海洋",
+		"charTip" : "かいよう<br>ocean"
+		},{
+		"character" : "概論",
+		"charTip" : "がいろん<br>intro,outline,general remarks"
+		},{
+		"character" : "帰す",
+		"charTip" : "かえす<br>to send back"
+		},{
+		"character" : "却って",
+		"charTip" : "かえって<br>on the contrary,rather,all the more,instead"
+		},{
+		"character" : "代える",
+		"charTip" : "かえる<br>to exchange,to interchange,to substitute,to replace"
+		},{
+		"character" : "反る",
+		"charTip" : "かえる<br>to warp,to be warped,to curve"
+		},{
+		"character" : "家屋",
+		"charTip" : "かおく<br>house,building"
+		},{
+		"character" : "係わる",
+		"charTip" : "かかわる<br>to concern oneself in,to have to do with,to affect,to influence,to stick to (opinions)"
+		},{
+		"character" : "書留",
+		"charTip" : "かきとめ<br>writing down,putting on record,recording,making a note of,registration (of mail)"
+		},{
+		"character" : "書取",
+		"charTip" : "かきとり<br>dictation"
+		},{
+		"character" : "垣根",
+		"charTip" : "かきね<br>hedge"
+		},{
+		"character" : "掻く",
+		"charTip" : "かく<br>to scratch,to perspire"
+		},{
+		"character" : "嗅ぐ",
+		"charTip" : "かぐ<br>to sniff,to smell"
+		},{
+		"character" : "架空",
+		"charTip" : "かくう<br>aerial,overhead,fiction,fanciful"
+		},{
+		"character" : "各自",
+		"charTip" : "かくじ<br>individual,each"
+		},{
+		"character" : "拡充",
+		"charTip" : "かくじゅう<br>expansion"
+		},{
+		"character" : "学術",
+		"charTip" : "がくじゅつ<br>science,learning,scholarship"
+		},{
+		"character" : "各地",
+		"charTip" : "かくち<br>every place,various places"
+		},{
+		"character" : "拡張",
+		"charTip" : "かくちょう<br>expansion,extension,enlargement,escape (ESC)"
+		},{
+		"character" : "角度",
+		"charTip" : "かくど<br>angle"
+		},{
+		"character" : "学年",
+		"charTip" : "がくねん<br>year in school,grade in school"
+		},{
+		"character" : "学部",
+		"charTip" : "がくぶ<br>department of a university,undergraduate"
+		},{
+		"character" : "格別",
+		"charTip" : "かくべつ<br>exceptional"
+		},{
+		"character" : "確率",
+		"charTip" : "かくりつ<br>probability"
+		},{
+		"character" : "学力",
+		"charTip" : "がくりょく<br>scholarship,knowledge,literary ability"
+		},{
+		"character" : "掛け算",
+		"charTip" : "かけざん<br>multiplication"
+		},{
+		"character" : "可決",
+		"charTip" : "かけつ<br>approval,adoption (e.g. motion, bill),passage"
+		},{
+		"character" : "火口",
+		"charTip" : "かこう<br>a burner,origin of a fire"
+		},{
+		"character" : "下降",
+		"charTip" : "かこう<br>downward,descent,fall,drop,subsidence"
+		},{
+		"character" : "重なる",
+		"charTip" : "かさなる<br>to be piled up,lie on top of one another,overlap each other"
+		},{
+		"character" : "重ねる",
+		"charTip" : "かさねる<br>to pile up,to put something on another,to heap up,to add,to repeat"
+		},{
+		"character" : "飾り",
+		"charTip" : "かざり<br>decoration"
+		},{
+		"character" : "火山",
+		"charTip" : "かざん<br>volcano"
+		},{
+		"character" : "かしこまりました",
+		"charTip" : "かしこまりました<br>certainly!"
+		},{
+		"character" : "貸し出し",
+		"charTip" : "かしだし<br>lending,loaning"
+		},{
+		"character" : "過失",
+		"charTip" : "かしつ<br>error,blunder,accident"
+		},{
+		"character" : "果実",
+		"charTip" : "かじつ<br>fruit,nut,berry."
+		},{
+		"character" : "貸間",
+		"charTip" : "かしま<br>room to let"
+		},{
+		"character" : "貸家",
+		"charTip" : "かしや<br>house for rent"
+		},{
+		"character" : "個所",
+		"charTip" : "かしょ<br>passage,place,point,part"
+		},{
+		"character" : "過剰",
+		"charTip" : "かじょう<br>excess,over-"
+		},{
+		"character" : "かじる",
+		"charTip" : "かじる<br>to chew,to bite (at),to gnaw,to nibble"
+		},{
+		"character" : "課税",
+		"charTip" : "かぜい<br>taxation"
+		},{
+		"character" : "下線",
+		"charTip" : "かせん<br>underline,underscore"
+		},{
+		"character" : "カセット",
+		"charTip" : "カセット<br>cassette (tape)"
+		},{
+		"character" : "加速",
+		"charTip" : "かそく<br>acceleration"
+		},{
+		"character" : "加速度",
+		"charTip" : "かそくど<br>acceleration"
+		},{
+		"character" : "固い",
+		"charTip" : "かたい<br>stubborn,firm (not viscous or easily moved)"
+		},{
+		"character" : "堅い",
+		"charTip" : "かたい<br>hard (esp. wood),steadfast,honorable,stuffy writing"
+		},{
+		"character" : "片仮名",
+		"charTip" : "かたかな<br>katakana"
+		},{
+		"character" : "片付く",
+		"charTip" : "かたづく<br>to put in order,to dispose of,to solve"
+		},{
+		"character" : "塊",
+		"charTip" : "かたまり<br>lump,mass,clod,cluster"
+		},{
+		"character" : "固まる",
+		"charTip" : "かたまる<br>to harden,to solidify,to become firm,to become certain"
+		},{
+		"character" : "片道",
+		"charTip" : "かたみち<br>one-way (trip)"
+		},{
+		"character" : "傾く",
+		"charTip" : "かたむく<br>to incline toward,to slant,to lurch"
+		},{
+		"character" : "片寄る",
+		"charTip" : "かたよる<br>to be one-sided,to incline,to be partial"
+		},{
+		"character" : "学科",
+		"charTip" : "がっか<br>study subject,course of study"
+		},{
+		"character" : "学会",
+		"charTip" : "がっかい<br>scientific society,academic meeting"
+		},{
+		"character" : "楽器",
+		"charTip" : "がっき<br>musical instrument"
+		},{
+		"character" : "学級",
+		"charTip" : "がっきゅう<br>grade in school"
+		},{
+		"character" : "担ぐ",
+		"charTip" : "かつぐ<br>to shoulder,to carry on shoulder"
+		},{
+		"character" : "括弧",
+		"charTip" : "かっこ<br>parenthesis,brackets"
+		},{
+		"character" : "活字",
+		"charTip" : "かつじ<br>printing type"
+		},{
+		"character" : "活躍",
+		"charTip" : "かつやく<br>activity"
+		},{
+		"character" : "活力",
+		"charTip" : "かつりょく<br>vitality,energy"
+		},{
+		"character" : "仮定",
+		"charTip" : "かてい<br>assumption,supposition,hypothesis"
+		},{
+		"character" : "過程",
+		"charTip" : "かてい<br>process"
+		},{
+		"character" : "課程",
+		"charTip" : "かてい<br>course,curriculum"
+		},{
+		"character" : "仮名",
+		"charTip" : "かな<br>(n) alias,pseudonym,pen name"
+		},{
+		"character" : "仮名遣い",
+		"charTip" : "かなづかい<br>kana orthography,syllabary spelling"
+		},{
+		"character" : "鐘",
+		"charTip" : "かね<br>bell,chime"
+		},{
+		"character" : "加熱",
+		"charTip" : "かねつ<br>heating"
+		},{
+		"character" : "兼ねる",
+		"charTip" : "かねる<br>to hold (position),to serve,to be unable"
+		},{
+		"character" : "カバー",
+		"charTip" : "カバー<br>cover (ex. book)"
+		},{
+		"character" : "過半数",
+		"charTip" : "かはんすう<br>majority"
+		},{
+		"character" : "被せる",
+		"charTip" : "かぶせる<br>to cover (with something)"
+		},{
+		"character" : "釜",
+		"charTip" : "かま<br>iron pot,kettle"
+		},{
+		"character" : "紙屑",
+		"charTip" : "かみくず<br>wastepaper"
+		},{
+		"character" : "神様",
+		"charTip" : "かみさま<br>god"
+		},{
+		"character" : "剃刀",
+		"charTip" : "かみそり<br>razor"
+		},{
+		"character" : "ガム",
+		"charTip" : "ガム<br>chewing gum"
+		},{
+		"character" : "貨物",
+		"charTip" : "かもつ<br>cargo,freight"
+		},{
+		"character" : "かゆい",
+		"charTip" : "かゆい<br>itchy,itching"
+		},{
+		"character" : "歌謡",
+		"charTip" : "かよう<br>song,ballad"
+		},{
+		"character" : "殻",
+		"charTip" : "から<br>shell,husk,hull,chaff"
+		},{
+		"character" : "カラー",
+		"charTip" : "カラー<br>collar,color,colour"
+		},{
+		"character" : "からかう",
+		"charTip" : "からかう<br>to ridicule,to tease,to banter with,to make fun of"
+		},{
+		"character" : "空っぽ",
+		"charTip" : "からっぽ<br>empty,vacant,hollow"
+		},{
+		"character" : "かるた",
+		"charTip" : "かるた<br>(n) playing cards (pt: carta)"
+		},{
+		"character" : "枯れる",
+		"charTip" : "かれる<br>to wither,to die (plant),to be blasted (plant)"
+		},{
+		"character" : "カロリー",
+		"charTip" : "カロリー<br>calorie"
+		},{
+		"character" : "かわいがる",
+		"charTip" : "かわいがる<br>to love,to be affectionate"
+		},{
+		"character" : "乾かす",
+		"charTip" : "かわかす<br>to dry (clothes, etc.),to desiccate"
+		},{
+		"character" : "渇く",
+		"charTip" : "かわく<br>to be thirsty"
+		},{
+		"character" : "為替",
+		"charTip" : "かわせ<br>money order,exchange"
+		},{
+		"character" : "瓦",
+		"charTip" : "かわら<br>roof tile"
+		},{
+		"character" : "代る",
+		"charTip" : "かわる<br>(v5r,vi) to take the place of,to relieve,to be substituted for"
+		},{
+		"character" : "間隔",
+		"charTip" : "かんかく<br>space,interval,SPC"
+		},{
+		"character" : "換気",
+		"charTip" : "かんき<br>ventilation"
+		},{
+		"character" : "感激",
+		"charTip" : "かんげき<br>deep emotion,impression,inspiration"
+		},{
+		"character" : "関西",
+		"charTip" : "かんさい<br>"
+		},{
+		"character" : "鑑賞",
+		"charTip" : "かんしょう<br>appreciation"
+		},{
+		"character" : "感ずる",
+		"charTip" : "かんずる<br>to feel,to sense"
+		},{
+		"character" : "間接",
+		"charTip" : "かんせつ<br>indirection,indirectness"
+		},{
+		"character" : "乾燥",
+		"charTip" : "かんそう<br>dry,arid,insipid,dehydrated"
+		},{
+		"character" : "感想",
+		"charTip" : "かんそう<br>impressions,thoughts"
+		},{
+		"character" : "観測",
+		"charTip" : "かんそく<br>observation"
+		},{
+		"character" : "寒帯",
+		"charTip" : "かんたい<br>frigid zone"
+		},{
+		"character" : "官庁",
+		"charTip" : "かんちょう<br>government office,authorities"
+		},{
+		"character" : "勘違い",
+		"charTip" : "かんちがい<br>misunderstanding,wrong guess"
+		},{
+		"character" : "缶詰",
+		"charTip" : "かんづめ<br>packing (in cans),canning,canned goods,tin can"
+		},{
+		"character" : "乾電池",
+		"charTip" : "かんでんち<br>dry cell,battery"
+		},{
+		"character" : "関東",
+		"charTip" : "かんとう<br>eastern half of Japan, including Tokyo"
+		},{
+		"character" : "観念",
+		"charTip" : "かんねん<br>(1) idea,notion,conception,(2) sense (e.g. of duty)"
+		},{
+		"character" : "乾杯",
+		"charTip" : "かんぱい<br>toast (drink)"
+		},{
+		"character" : "看板",
+		"charTip" : "かんばん<br>sign,signboard,doorplate,poster"
+		},{
+		"character" : "看病",
+		"charTip" : "かんびょう<br>nursing (a patient)"
+		},{
+		"character" : "冠",
+		"charTip" : "かんむり<br>crown,diadem,first,best"
+		},{
+		"character" : "漢和",
+		"charTip" : "かんわ<br>Chinese Character-Japanese (e.g. dictionary)"
+		},{
+		"character" : "気圧",
+		"charTip" : "きあつ<br>atmospheric pressure"
+		},{
+		"character" : "器械",
+		"charTip" : "きかい<br>instrument"
+		},{
+		"character" : "着替え",
+		"charTip" : "きがえ<br>changing clothes,change of clothes"
+		},{
+		"character" : "機関車",
+		"charTip" : "きかんしゃ<br>locomotive,engine"
+		},{
+		"character" : "飢饉",
+		"charTip" : "ききん<br>famine"
+		},{
+		"character" : "器具",
+		"charTip" : "きぐ<br>utensil"
+		},{
+		"character" : "期限",
+		"charTip" : "きげん<br>term,period"
+		},{
+		"character" : "記号",
+		"charTip" : "きごう<br>symbol,code"
+		},{
+		"character" : "刻む",
+		"charTip" : "きざむ<br>to mince,to carve,to engrave"
+		},{
+		"character" : "儀式",
+		"charTip" : "ぎしき<br>ceremony,rite,ritual,service"
+		},{
+		"character" : "基準",
+		"charTip" : "きじゅん<br>standard,basis,criteria,norm"
+		},{
+		"character" : "規準",
+		"charTip" : "きじゅん<br>standard,basis,criteria,norm"
+		},{
+		"character" : "起床",
+		"charTip" : "きしょう<br>rising,getting out of bed"
+		},{
+		"character" : "着せる",
+		"charTip" : "きせる<br>to put on clothes"
+		},{
+		"character" : "基礎",
+		"charTip" : "きそ<br>foundation,basis"
+		},{
+		"character" : "気体",
+		"charTip" : "きたい<br>vapour,gas"
+		},{
+		"character" : "基地",
+		"charTip" : "きち<br>base"
+		},{
+		"character" : "きっかけ",
+		"charTip" : "きっかけ<br>chance,start,cue,excuse"
+		},{
+		"character" : "ぎっしり",
+		"charTip" : "ぎっしり<br>tightly,fully"
+		},{
+		"character" : "基盤",
+		"charTip" : "きばん<br>foundation,basis"
+		},{
+		"character" : "客席",
+		"charTip" : "きゃくせき<br>guest seating"
+		},{
+		"character" : "客間",
+		"charTip" : "きゃくま<br>parlor,guest room"
+		},{
+		"character" : "ギャング",
+		"charTip" : "ギャング<br>gang"
+		},{
+		"character" : "キャンパス",
+		"charTip" : "キャンパス<br>campus"
+		},{
+		"character" : "休業",
+		"charTip" : "きゅうぎょう<br>closed (e.g. store),business suspended,shutdown,holiday"
+		},{
+		"character" : "休講",
+		"charTip" : "きゅうこう<br>lecture cancelled"
+		},{
+		"character" : "休息",
+		"charTip" : "きゅうそく<br>rest,relief,relaxation"
+		},{
+		"character" : "給与",
+		"charTip" : "きゅうよ<br>allowance,grant,supply"
+		},{
+		"character" : "休養",
+		"charTip" : "きゅうよう<br>rest,break,recreation"
+		},{
+		"character" : "清い",
+		"charTip" : "きよい<br>clear,pure,noble"
+		},{
+		"character" : "強化",
+		"charTip" : "きょうか<br>strengthen,intensify,reinforce,solidify"
+		},{
+		"character" : "境界",
+		"charTip" : "きょうかい<br>boundary"
+		},{
+		"character" : "行事",
+		"charTip" : "ぎょうじ<br>event,function"
+		},{
+		"character" : "恐縮",
+		"charTip" : "きょうしゅく<br>shame,very kind of you,sorry to trouble"
+		},{
+		"character" : "教養",
+		"charTip" : "きょうよう<br>culture,education,refinement,cultivation"
+		},{
+		"character" : "行列",
+		"charTip" : "ぎょうれつ<br>(1) line,procession,(2) matrix (math)"
+		},{
+		"character" : "漁業",
+		"charTip" : "ぎょぎょう<br>fishing (industry)"
+		},{
+		"character" : "曲線",
+		"charTip" : "きょくせん<br>curve"
+		},{
+		"character" : "規律",
+		"charTip" : "きりつ<br>order,rules,law"
+		},{
+		"character" : "斬る",
+		"charTip" : "きる<br>(v5r) to behead,to murder"
+		},{
+		"character" : "気を付ける",
+		"charTip" : "きをつける<br>to be careful,to pay attention,to take care"
+		},{
+		"character" : "金魚",
+		"charTip" : "きんぎょ<br>goldfish"
+		},{
+		"character" : "区域",
+		"charTip" : "くいき<br>limits,boundary,domain,zone,sphere,territory"
+		},{
+		"character" : "偶数",
+		"charTip" : "ぐうすう<br>even number"
+		},{
+		"character" : "空想",
+		"charTip" : "くうそう<br>daydream,fantasy,fancy,vision"
+		},{
+		"character" : "空中",
+		"charTip" : "くうちゅう<br>sky,air"
+		},{
+		"character" : "クーラー",
+		"charTip" : "クーラー<br>cooler,air conditioner"
+		},{
+		"character" : "釘",
+		"charTip" : "くぎ<br>nail"
+		},{
+		"character" : "区切る",
+		"charTip" : "くぎる<br>to punctuate,to cut off,to mark off,to stop,to put an end to"
+		},{
+		"character" : "櫛",
+		"charTip" : "くし<br>comb"
+		},{
+		"character" : "くしゃみ",
+		"charTip" : "くしゃみ<br>sneeze"
+		},{
+		"character" : "苦情",
+		"charTip" : "くじょう<br>complaint,troubles,objection"
+		},{
+		"character" : "苦心",
+		"charTip" : "くしん<br>pain,trouble"
+		},{
+		"character" : "屑",
+		"charTip" : "くず<br>waste,scrap"
+		},{
+		"character" : "崩す",
+		"charTip" : "くずす<br>to destroy,to pull down,to make change (money)"
+		},{
+		"character" : "薬指",
+		"charTip" : "くすりゆび<br>ring finger"
+		},{
+		"character" : "崩れる",
+		"charTip" : "くずれる<br>to collapse,to crumble"
+		},{
+		"character" : "砕く",
+		"charTip" : "くだく<br>to break,to smash"
+		},{
+		"character" : "砕ける",
+		"charTip" : "くだける<br>to break,to be broken"
+		},{
+		"character" : "くたびれる",
+		"charTip" : "くたびれる<br>to get tired,to wear out"
+		},{
+		"character" : "くだらない",
+		"charTip" : "くだらない<br>good-for-nothing,stupid,trivial,worthless"
+		},{
+		"character" : "下る",
+		"charTip" : "くだる<br>to get down,to descend"
+		},{
+		"character" : "唇",
+		"charTip" : "くちびる<br>lips"
+		},{
+		"character" : "口紅",
+		"charTip" : "くちべに<br>lipstick"
+		},{
+		"character" : "くっつく",
+		"charTip" : "くっつく<br>to adhere to,to keep close to"
+		},{
+		"character" : "くっつける",
+		"charTip" : "くっつける<br>to attach"
+		},{
+		"character" : "くどい",
+		"charTip" : "くどい<br>verbose,importunate,heavy (taste)"
+		},{
+		"character" : "句読点",
+		"charTip" : "くとうてん<br>punctuation marks"
+		},{
+		"character" : "配る",
+		"charTip" : "くばる<br>to distribute,to deliver"
+		},{
+		"character" : "工夫",
+		"charTip" : "くふう<br>labourer,worker"
+		},{
+		"character" : "区分",
+		"charTip" : "くぶん<br>division,section,classification"
+		},{
+		"character" : "組合せ",
+		"charTip" : "くみあわせ<br>combination"
+		},{
+		"character" : "組み立てる",
+		"charTip" : "くみたてる<br>to assemble,to set up,to construct"
+		},{
+		"character" : "汲む",
+		"charTip" : "くむ<br>(1) to draw (water),to dip,to scoop,to pump"
+		},{
+		"character" : "酌む",
+		"charTip" : "くむ<br>to serve sake"
+		},{
+		"character" : "悔しい",
+		"charTip" : "くやしい<br>regrettable,mortifying,vexing"
+		},{
+		"character" : "悔やむ",
+		"charTip" : "くやむ<br>to mourn"
+		},{
+		"character" : "クリーニング",
+		"charTip" : "クリーニング<br>cleaning,dry cleaning,laundry service"
+		},{
+		"character" : "くるむ",
+		"charTip" : "くるむ<br>to be engulfed in,to be enveloped by,to wrap up"
+		},{
+		"character" : "くれぐれも",
+		"charTip" : "くれぐれも<br>repeatedly,sincerely,earnestly"
+		},{
+		"character" : "咥える",
+		"charTip" : "くわえる<br>"
+		},{
+		"character" : "郡",
+		"charTip" : "ぐん<br>country,district"
+		},{
+		"character" : "稽古",
+		"charTip" : "けいこ<br>practice,training,study"
+		},{
+		"character" : "敬語",
+		"charTip" : "けいご<br>honorific,term of respect"
+		},{
+		"character" : "蛍光灯",
+		"charTip" : "けいこうとう<br>fluorescent lamp,person who is slow to react"
+		},{
+		"character" : "形式",
+		"charTip" : "けいしき<br>form,formality,format,math expression"
+		},{
+		"character" : "継続",
+		"charTip" : "けいぞく<br>continuation"
+		},{
+		"character" : "毛糸",
+		"charTip" : "けいと<br>knitting wool"
+		},{
+		"character" : "経度",
+		"charTip" : "けいど<br>longitude"
+		},{
+		"character" : "系統",
+		"charTip" : "けいとう<br>system,family line,geological formation"
+		},{
+		"character" : "芸能",
+		"charTip" : "げいのう<br>public entertainment,accomplishments,attainments"
+		},{
+		"character" : "競馬",
+		"charTip" : "けいば<br>horse racing"
+		},{
+		"character" : "警備",
+		"charTip" : "けいび<br>defense,guard,policing,security"
+		},{
+		"character" : "形容詞",
+		"charTip" : "けいようし<br>true adjective"
+		},{
+		"character" : "形容動詞",
+		"charTip" : "けいようどうし<br>adjectival noun,quasi-adjective"
+		},{
+		"character" : "外科",
+		"charTip" : "げか<br>surgical department"
+		},{
+		"character" : "毛皮",
+		"charTip" : "けがわ<br>fur,skin,pelt"
+		},{
+		"character" : "激増",
+		"charTip" : "げきぞう<br>sudden increase"
+		},{
+		"character" : "下車",
+		"charTip" : "げしゃ<br>alighting,getting off"
+		},{
+		"character" : "下旬",
+		"charTip" : "げじゅん<br>month (last third of)"
+		},{
+		"character" : "下水",
+		"charTip" : "げすい<br>drainage,sewage,ditch,gutter,sewerage"
+		},{
+		"character" : "削る",
+		"charTip" : "けずる<br>to cut down little by little,to take a percentage"
+		},{
+		"character" : "桁",
+		"charTip" : "けた<br>column,beam,digit"
+		},{
+		"character" : "下駄",
+		"charTip" : "げた<br>geta (Japanese footwear),wooden clogs"
+		},{
+		"character" : "血圧",
+		"charTip" : "けつあつ<br>blood pressure"
+		},{
+		"character" : "血液",
+		"charTip" : "けつえき<br>blood"
+		},{
+		"character" : "月給",
+		"charTip" : "げっきゅう<br>monthly salary"
+		},{
+		"character" : "傑作",
+		"charTip" : "けっさく<br>masterpiece,best work,boner,blunder"
+		},{
+		"character" : "月末",
+		"charTip" : "げつまつ<br>end of the month"
+		},{
+		"character" : "気配",
+		"charTip" : "けはい<br>indication,market trend,worry"
+		},{
+		"character" : "下品",
+		"charTip" : "げひん<br>vulgarity,meanness,indecency,coarseness"
+		},{
+		"character" : "煙い",
+		"charTip" : "けむい<br>smoky"
+		},{
+		"character" : "蹴る",
+		"charTip" : "ける<br>to kick"
+		},{
+		"character" : "けれど/けれども",
+		"charTip" : "<br>but,however"
+		},{
+		"character" : "険しい",
+		"charTip" : "けわしい<br>inaccessible place,sharp eyes"
+		},{
+		"character" : "見学",
+		"charTip" : "けんがく<br>inspection,study by observation,field trip"
+		},{
+		"character" : "謙虚",
+		"charTip" : "けんきょ<br>modesty,humility"
+		},{
+		"character" : "原稿",
+		"charTip" : "げんこう<br>manuscript,copy"
+		},{
+		"character" : "原産",
+		"charTip" : "げんさん<br>place of origin,habitat"
+		},{
+		"character" : "原始",
+		"charTip" : "げんし<br>origin,primeval"
+		},{
+		"character" : "研修",
+		"charTip" : "けんしゅう<br>training"
+		},{
+		"character" : "厳重",
+		"charTip" : "げんじゅう<br>strict,rigour,severe,firm"
+		},{
+		"character" : "謙遜",
+		"charTip" : "けんそん<br>humble,humility,modesty"
+		},{
+		"character" : "県庁",
+		"charTip" : "けんちょう<br>prefectural office"
+		},{
+		"character" : "限度",
+		"charTip" : "げんど<br>limit,bounds"
+		},{
+		"character" : "現に",
+		"charTip" : "げんに<br>actually,really"
+		},{
+		"character" : "顕微鏡",
+		"charTip" : "けんびきょう<br>microscope"
+		},{
+		"character" : "原理",
+		"charTip" : "げんり<br>principle,theory,fundamental truth"
+		},{
+		"character" : "原料",
+		"charTip" : "げんりょう<br>raw materials"
+		},{
+		"character" : "碁",
+		"charTip" : "ご<br>Go (board game of capturing territory)"
+		},{
+		"character" : "恋しい",
+		"charTip" : "こいしい<br>(1) dear,beloved,darling,(2) yearned for"
+		},{
+		"character" : "請う",
+		"charTip" : "こう<br>to ask,to request"
+		},{
+		"character" : "工員",
+		"charTip" : "こういん<br>factory worker"
+		},{
+		"character" : "強引",
+		"charTip" : "ごういん<br>overbearing,coercive,pushy,forcible,high-handed"
+		},{
+		"character" : "公害",
+		"charTip" : "こうがい<br>public nuisance,pollution"
+		},{
+		"character" : "高級",
+		"charTip" : "こうきゅう<br>high class,high grade"
+		},{
+		"character" : "公共",
+		"charTip" : "こうきょう<br>public,community,public service,society,communal"
+		},{
+		"character" : "工芸",
+		"charTip" : "こうげい<br>industrial arts"
+		},{
+		"character" : "孝行",
+		"charTip" : "こうこう<br>filial piety"
+		},{
+		"character" : "交差",
+		"charTip" : "こうさ<br>cross"
+		},{
+		"character" : "講師",
+		"charTip" : "こうし<br>lecturer"
+		},{
+		"character" : "工事",
+		"charTip" : "こうじ<br>construction work"
+		},{
+		"character" : "公式",
+		"charTip" : "こうしき<br>formula,formality,official"
+		},{
+		"character" : "口実",
+		"charTip" : "こうじつ<br>excuse"
+		},{
+		"character" : "こうして",
+		"charTip" : "こうして<br>thus"
+		},{
+		"character" : "校舎",
+		"charTip" : "こうしゃ<br>school building"
+		},{
+		"character" : "公衆",
+		"charTip" : "こうしゅう<br>the public"
+		},{
+		"character" : "香水",
+		"charTip" : "こうすい<br>perfume"
+		},{
+		"character" : "公正",
+		"charTip" : "こうせい<br>justice,fairness,impartiality"
+		},{
+		"character" : "功績",
+		"charTip" : "こうせき<br>achievements,merit,meritorious service,meritorious deed"
+		},{
+		"character" : "光線",
+		"charTip" : "こうせん<br>beam,light ray"
+		},{
+		"character" : "高層",
+		"charTip" : "こうそう<br>upper"
+		},{
+		"character" : "構造",
+		"charTip" : "こうぞう<br>structure,construction"
+		},{
+		"character" : "交替",
+		"charTip" : "こうたい<br>alternation,change,relief,relay,shift"
+		},{
+		"character" : "耕地",
+		"charTip" : "こうち<br>arable land"
+		},{
+		"character" : "交通機関",
+		"charTip" : "こうつうきかん<br>transportation facilities"
+		},{
+		"character" : "校庭",
+		"charTip" : "こうてい<br>campus"
+		},{
+		"character" : "肯定",
+		"charTip" : "こうてい<br>positive,affirmation"
+		},{
+		"character" : "高度",
+		"charTip" : "こうど<br>altitude,height,advanced"
+		},{
+		"character" : "高等",
+		"charTip" : "こうとう<br>high class,high grade"
+		},{
+		"character" : "合同",
+		"charTip" : "ごうどう<br>combination,incorporation,union,amalgamation"
+		},{
+		"character" : "後輩",
+		"charTip" : "こうはい<br>junior (at work or school)"
+		},{
+		"character" : "公表",
+		"charTip" : "こうひょう<br>official announcement,proclamation"
+		},{
+		"character" : "鉱物",
+		"charTip" : "こうぶつ<br>mineral"
+		},{
+		"character" : "公務",
+		"charTip" : "こうむ<br>official business,public business"
+		},{
+		"character" : "項目",
+		"charTip" : "こうもく<br>item"
+		},{
+		"character" : "紅葉",
+		"charTip" : "こうよう<br>(1) (Japanese) maple"
+		},{
+		"character" : "合理",
+		"charTip" : "ごうり<br>rational"
+		},{
+		"character" : "交流",
+		"charTip" : "こうりゅう<br>alternating current,intercourse,(cultural) exchange,intermingling"
+		},{
+		"character" : "合流",
+		"charTip" : "ごうりゅう<br>confluence,union,linking up,merge"
+		},{
+		"character" : "効力",
+		"charTip" : "こうりょく<br>effect,efficacy,validity,potency"
+		},{
+		"character" : "超える",
+		"charTip" : "こえる<br>to exceed,to cross over,to cross"
+		},{
+		"character" : "コース",
+		"charTip" : "コース<br>course"
+		},{
+		"character" : "コーラス",
+		"charTip" : "コーラス<br>chorus"
+		},{
+		"character" : "焦がす",
+		"charTip" : "こがす<br>to burn,to scorch,to singe,to char"
+		},{
+		"character" : "国王",
+		"charTip" : "こくおう<br>king"
+		},{
+		"character" : "国籍",
+		"charTip" : "こくせき<br>nationality"
+		},{
+		"character" : "国立",
+		"charTip" : "こくりつ<br>national"
+		},{
+		"character" : "ごくろうさま",
+		"charTip" : "ごくろうさま<br>Thank you very much for your...."
+		},{
+		"character" : "焦げる",
+		"charTip" : "こげる<br>to burn,to be burned"
+		},{
+		"character" : "凍える",
+		"charTip" : "こごえる<br>to freeze,to be chilled,to be frozen"
+		},{
+		"character" : "心当たり",
+		"charTip" : "こころあたり<br>having some knowledge of,happening to know"
+		},{
+		"character" : "心得る",
+		"charTip" : "こころえる<br>to be informed,to have thorough knowledge"
+		},{
+		"character" : "腰掛け",
+		"charTip" : "こしかけ<br>seat,bench"
+		},{
+		"character" : "腰掛ける",
+		"charTip" : "こしかける<br>to sit (down)"
+		},{
+		"character" : "五十音",
+		"charTip" : "ごじゅうおん<br>the Japanese syllabary"
+		},{
+		"character" : "胡椒",
+		"charTip" : "こしょう<br>pepper"
+		},{
+		"character" : "こしらえる",
+		"charTip" : "こしらえる<br>to make,to manufacture"
+		},{
+		"character" : "超す",
+		"charTip" : "こす<br>to cross,to pass,to tide over"
+		},{
+		"character" : "擦る",
+		"charTip" : "こする<br>to rub,to chafe,to file,to frost (glass),to strike (match)"
+		},{
+		"character" : "ごぞんじですか",
+		"charTip" : "ごぞんじですか<br>"
+		},{
+		"character" : "個体",
+		"charTip" : "こたい<br>an individual"
+		},{
+		"character" : "御馳走",
+		"charTip" : "ごちそう<br>feast,treating (someone)"
+		},{
+		"character" : "ごちそうさま",
+		"charTip" : "ごちそうさま<br>feast"
+		},{
+		"character" : "こちらこそ",
+		"charTip" : "こちらこそ<br>it is I who should say so"
+		},{
+		"character" : "小遣い",
+		"charTip" : "こづかい<br>personal expenses,pocket money,spending money,incidental expenses,allowance"
+		},{
+		"character" : "コック",
+		"charTip" : "コック<br>(1) cook (nl:),(2) tap,spigot,faucet,cock"
+		},{
+		"character" : "こっそり",
+		"charTip" : "こっそり<br>stealthily,secretly"
+		},{
+		"character" : "古典",
+		"charTip" : "こてん<br>old book,classics,classic"
+		},{
+		"character" : "琴",
+		"charTip" : "こと<br>Koto (Japanese harp)"
+		},{
+		"character" : "言付ける",
+		"charTip" : "ことづける<br>to send word,to send a message"
+		},{
+		"character" : "言葉遣い",
+		"charTip" : "ことばづかい<br>speech,expression,wording"
+		},{
+		"character" : "こないだ",
+		"charTip" : "こないだ<br>the other day,lately,recently"
+		},{
+		"character" : "御無沙汰",
+		"charTip" : "ごぶさた<br>not writing or contacting for a while"
+		},{
+		"character" : "こぼす",
+		"charTip" : "こぼす<br>to spill"
+		},{
+		"character" : "こぼれる",
+		"charTip" : "こぼれる<br>to overflow,to spill"
+		},{
+		"character" : "塵芥",
+		"charTip" : "ごみ<br>trash,rubbish"
+		},{
+		"character" : "ゴム",
+		"charTip" : "ゴム<br>gum,rubber,eraser"
+		},{
+		"character" : "御免",
+		"charTip" : "ごめん<br>your pardon,declining (something),dismissal,permission"
+		},{
+		"character" : "ごめんください",
+		"charTip" : "ごめんください<br>May I come in?"
+		},{
+		"character" : "小指",
+		"charTip" : "こゆび<br>little finger"
+		},{
+		"character" : "こらえる",
+		"charTip" : "こらえる<br>to bear,to stand,to endure,to put up with"
+		},{
+		"character" : "娯楽",
+		"charTip" : "ごらく<br>pleasure,amusement"
+		},{
+		"character" : "御覧",
+		"charTip" : "ごらん<br>(hon) look,inspection,try"
+		},{
+		"character" : "コレクション",
+		"charTip" : "コレクション<br>(1) collection,(2) correction"
+		},{
+		"character" : "転がす",
+		"charTip" : "ころがす<br>to roll"
+		},{
+		"character" : "転がる",
+		"charTip" : "ころがる<br>to roll,to tumble"
+		},{
+		"character" : "紺",
+		"charTip" : "こん<br>navy blue,deep blue"
+		},{
+		"character" : "コンクール",
+		"charTip" : "コンクール<br>contest (fr: concours)"
+		},{
+		"character" : "コンクリート",
+		"charTip" : "コンクリート<br>concrete"
+		},{
+		"character" : "混合",
+		"charTip" : "こんごう<br>mixing,mixture"
+		},{
+		"character" : "コンセント",
+		"charTip" : "コンセント<br>(1) consent,(2) concentric"
+		},{
+		"character" : "献立",
+		"charTip" : "こんだて<br>menu,program,schedule"
+		},{
+		"character" : "こんばんは",
+		"charTip" : "こんばんは<br>good evening"
+		},{
+		"character" : "サークル",
+		"charTip" : "サークル<br>circle,sports club (i.e. at a company)"
+		},{
+		"character" : "在学",
+		"charTip" : "ざいがく<br>(enrolled) in school"
+		},{
+		"character" : "再三",
+		"charTip" : "さいさん<br>again and again,repeatedly"
+		},{
+		"character" : "祭日",
+		"charTip" : "さいじつ<br>national holiday,festival day"
+		},{
+		"character" : "催促",
+		"charTip" : "さいそく<br>request,demand,claim,urge (action),press for"
+		},{
+		"character" : "採点",
+		"charTip" : "さいてん<br>marking,grading,looking over"
+		},{
+		"character" : "災難",
+		"charTip" : "さいなん<br>calamity,misfortune"
+		},{
+		"character" : "裁縫",
+		"charTip" : "さいほう<br>sewing"
+		},{
+		"character" : "材木",
+		"charTip" : "ざいもく<br>lumber,timber"
+		},{
+		"character" : "サイレン",
+		"charTip" : "サイレン<br>siren"
+		},{
+		"character" : "逆さ",
+		"charTip" : "さかさ<br>reverse,inversion,upside down"
+		},{
+		"character" : "逆様",
+		"charTip" : "さかさま<br>inversion,upside down"
+		},{
+		"character" : "捜す",
+		"charTip" : "さがす<br>to search,to seek,to look for"
+		},{
+		"character" : "遡る",
+		"charTip" : "さかのぼる<br>to go back,to go upstream,to make retroactive"
+		},{
+		"character" : "酒場",
+		"charTip" : "さかば<br>bar,bar-room"
+		},{
+		"character" : "さきおととい",
+		"charTip" : "さきおととい<br>two days before yesterday"
+		},{
+		"character" : "先程",
+		"charTip" : "さきほど<br>some time ago"
+		},{
+		"character" : "裂く",
+		"charTip" : "さく<br>to tear,to split"
+		},{
+		"character" : "索引",
+		"charTip" : "さくいん<br>index,indices"
+		},{
+		"character" : "作者",
+		"charTip" : "さくしゃ<br>author,authoress"
+		},{
+		"character" : "削除",
+		"charTip" : "さくじょ<br>elimination,cancellation,deletion,erasure"
+		},{
+		"character" : "作成",
+		"charTip" : "さくせい<br>frame,draw up,make,producing"
+		},{
+		"character" : "作製",
+		"charTip" : "さくせい<br>manufacture"
+		},{
+		"character" : "探る",
+		"charTip" : "さぐる<br>to search,to look for,to sound out"
+		},{
+		"character" : "囁く",
+		"charTip" : "ささやく<br>to whisper,to murmur"
+		},{
+		"character" : "刺さる",
+		"charTip" : "ささる<br>to stick,to be stuck"
+		},{
+		"character" : "匙",
+		"charTip" : "さじ<br>spoon"
+		},{
+		"character" : "座敷",
+		"charTip" : "ざしき<br>tatami room"
+		},{
+		"character" : "差し支え",
+		"charTip" : "さしつかえ<br>hindrance,impediment"
+		},{
+		"character" : "差し引き",
+		"charTip" : "さしひき<br>deduction,subtraction,balance,ebb and flow,rise and fall"
+		},{
+		"character" : "刺身",
+		"charTip" : "さしみ<br>sliced raw fish"
+		},{
+		"character" : "刺す",
+		"charTip" : "さす<br>to pierce,to stab,to prick,to thrust"
+		},{
+		"character" : "挿す",
+		"charTip" : "さす<br>to insert,to put in,to graft,to wear in belt"
+		},{
+		"character" : "注す",
+		"charTip" : "さす<br>to pour (drink),to serve (drinks)"
+		},{
+		"character" : "射す",
+		"charTip" : "さす<br>to shine,to strike"
+		},{
+		"character" : "流石",
+		"charTip" : "さすが<br>clever,adept,good,expectations,as one would expect"
+		},{
+		"character" : "撮影",
+		"charTip" : "さつえい<br>photographing"
+		},{
+		"character" : "雑音",
+		"charTip" : "ざつおん<br>noise (jarring, grating)"
+		},{
+		"character" : "さっさと",
+		"charTip" : "さっさと<br>quickly"
+		},{
+		"character" : "早速",
+		"charTip" : "さっそく<br>at once,immediately,without delay,promptly"
+		},{
+		"character" : "錆",
+		"charTip" : "さび<br>rust (colour)"
+		},{
+		"character" : "錆びる",
+		"charTip" : "さびる<br>to rust,to become rusty"
+		},{
+		"character" : "座布団",
+		"charTip" : "ざぶとん<br>cushion (Japanese)"
+		},{
+		"character" : "冷ます",
+		"charTip" : "さます<br>to cool,to dampen,to let cool"
+		},{
+		"character" : "妨げる",
+		"charTip" : "さまたげる<br>to disturb,to prevent"
+		},{
+		"character" : "冷める",
+		"charTip" : "さめる<br>to become cool,to wear off,to abate,to subside"
+		},{
+		"character" : "さようなら",
+		"charTip" : "さようなら<br>good-bye"
+		},{
+		"character" : "再来月",
+		"charTip" : "さらいげつ<br>month after next"
+		},{
+		"character" : "再来週",
+		"charTip" : "さらいしゅう<br>week after next"
+		},{
+		"character" : "再来年",
+		"charTip" : "さらいねん<br>year after next"
+		},{
+		"character" : "サラリーマン",
+		"charTip" : "サラリーマン<br>salary man,company employee"
+		},{
+		"character" : "騒がしい",
+		"charTip" : "さわがしい<br>noisy"
+		},{
+		"character" : "さわやか",
+		"charTip" : "さわやか<br>fresh,refreshing,invigorating"
+		},{
+		"character" : "三角",
+		"charTip" : "さんかく<br>triangle,triangular"
+		},{
+		"character" : "算数",
+		"charTip" : "さんすう<br>arithmetic"
+		},{
+		"character" : "酸性",
+		"charTip" : "さんせい<br>acidity"
+		},{
+		"character" : "産地",
+		"charTip" : "さんち<br>producing area"
+		},{
+		"character" : "サンプル",
+		"charTip" : "サンプル<br>sample"
+		},{
+		"character" : "山林",
+		"charTip" : "さんりん<br>mountain forest,mountains and forest"
+		},{
+		"character" : "仕上がる",
+		"charTip" : "しあがる<br>to be finished"
+		},{
+		"character" : "しあさって",
+		"charTip" : "しあさって<br>two days after tomorrow"
+		},{
+		"character" : "シーズン",
+		"charTip" : "シーズン<br>season (sporting)"
+		},{
+		"character" : "シーツ",
+		"charTip" : "シーツ<br>sheet"
+		},{
+		"character" : "寺院",
+		"charTip" : "じいん<br>temple"
+		},{
+		"character" : "しいんと",
+		"charTip" : "（する）<br>silent (as the grave),(deathly) quiet"
+		},{
+		"character" : "自衛",
+		"charTip" : "じえい<br>self-defense"
+		},{
+		"character" : "塩辛い",
+		"charTip" : "しおからい<br>salty (taste)"
+		},{
+		"character" : "司会",
+		"charTip" : "しかい<br>chairmanship"
+		},{
+		"character" : "四角",
+		"charTip" : "しかく<br>square"
+		},{
+		"character" : "四角い",
+		"charTip" : "しかくい<br>square"
+		},{
+		"character" : "時間割",
+		"charTip" : "じかんわり<br>timetable,schedule"
+		},{
+		"character" : "四季",
+		"charTip" : "しき<br>four seasons"
+		},{
+		"character" : "敷地",
+		"charTip" : "しきち<br>site"
+		},{
+		"character" : "至急",
+		"charTip" : "しきゅう<br>urgent,pressing"
+		},{
+		"character" : "敷く",
+		"charTip" : "しく<br>to spread out,to lay out"
+		},{
+		"character" : "茂る",
+		"charTip" : "しげる<br>to grow thick,to luxuriate,to be luxurious"
+		},{
+		"character" : "持参",
+		"charTip" : "じさん<br>bringing,taking,carrying"
+		},{
+		"character" : "磁石",
+		"charTip" : "じしゃく<br>magnet"
+		},{
+		"character" : "四捨五入",
+		"charTip" : "ししゃごにゅう<br>rounding up (fractions)"
+		},{
+		"character" : "始終",
+		"charTip" : "しじゅう<br>continuously,from beginning to end"
+		},{
+		"character" : "自習",
+		"charTip" : "じしゅう<br>self-study"
+		},{
+		"character" : "静まる",
+		"charTip" : "しずまる<br>to quieten down,to calm down,to subside"
+		},{
+		"character" : "姿勢",
+		"charTip" : "しせい<br>attitude,posture"
+		},{
+		"character" : "自然科学",
+		"charTip" : "しぜんかがく<br>natural science"
+		},{
+		"character" : "時速",
+		"charTip" : "じそく<br>speed (per hour)"
+		},{
+		"character" : "子孫",
+		"charTip" : "しそん<br>descendants,posterity,offspring"
+		},{
+		"character" : "死体",
+		"charTip" : "したい<br>corpse"
+		},{
+		"character" : "下書き",
+		"charTip" : "したがき<br>rough copy,draft"
+		},{
+		"character" : "下町",
+		"charTip" : "したまち<br>Shitamachi,lower parts of town"
+		},{
+		"character" : "自治",
+		"charTip" : "じち<br>self-government,autonomy"
+		},{
+		"character" : "実感",
+		"charTip" : "じっかん<br>feelings (actual, true)"
+		},{
+		"character" : "湿気",
+		"charTip" : "しっけ<br>moisture,humidity,dampness"
+		},{
+		"character" : "湿気",
+		"charTip" : "しっき<br>moisture,humidity,dampness"
+		},{
+		"character" : "しつこい",
+		"charTip" : "しつこい<br>insistent,obstinate"
+		},{
+		"character" : "実習",
+		"charTip" : "じっしゅう<br>practice,training"
+		},{
+		"character" : "実績",
+		"charTip" : "じっせき<br>achievements,actual results"
+		},{
+		"character" : "湿度",
+		"charTip" : "しつど<br>level of humidity"
+		},{
+		"character" : "執筆",
+		"charTip" : "しっぴつ<br>writing"
+		},{
+		"character" : "実物",
+		"charTip" : "じつぶつ<br>real thing,original"
+		},{
+		"character" : "しっぽ",
+		"charTip" : "しっぽ<br>tail (animal)"
+		},{
+		"character" : "実用",
+		"charTip" : "じつよう<br>practical use,utility"
+		},{
+		"character" : "実力",
+		"charTip" : "じつりょく<br>merit,efficiency,arms,force"
+		},{
+		"character" : "実例",
+		"charTip" : "じつれい<br>example,illustration"
+		},{
+		"character" : "失恋",
+		"charTip" : "しつれん<br>disappointed love,broken heart,unrequited love,be lovelorn"
+		},{
+		"character" : "指定",
+		"charTip" : "してい<br>designation,specification,assignment,pointing at"
+		},{
+		"character" : "私鉄",
+		"charTip" : "してつ<br>private railway"
+		},{
+		"character" : "児童",
+		"charTip" : "じどう<br>children,juvenile"
+		},{
+		"character" : "縛る",
+		"charTip" : "しばる<br>to tie,to bind"
+		},{
+		"character" : "地盤",
+		"charTip" : "じばん<br>(the) ground"
+		},{
+		"character" : "しびれる",
+		"charTip" : "しびれる<br>to become numb,to go to sleep (i.e., a limb)"
+		},{
+		"character" : "紙幣",
+		"charTip" : "しへい<br>paper money,notes,bills"
+		},{
+		"character" : "しぼむ",
+		"charTip" : "しぼむ<br>to wither,to fade (away),to shrivel,to wilt"
+		},{
+		"character" : "絞る",
+		"charTip" : "しぼる<br>to press,to wring,to squeeze"
+		},{
+		"character" : "縞",
+		"charTip" : "しま<br>stripe"
+		},{
+		"character" : "地味",
+		"charTip" : "じみ<br>plain,simple"
+		},{
+		"character" : "しみじみ",
+		"charTip" : "しみじみ<br>keenly,deeply,heartily"
+		},{
+		"character" : "氏名",
+		"charTip" : "しめい<br>full name,identity"
+		},{
+		"character" : "締切",
+		"charTip" : "しめきり<br>closing,cut-off,end,deadline,Closed,No Entrance"
+		},{
+		"character" : "締め切る",
+		"charTip" : "しめきる<br>to shut up"
+		},{
+		"character" : "湿る",
+		"charTip" : "しめる<br>to be wet,to become wet,to be damp"
+		},{
+		"character" : "ジャーナリスト",
+		"charTip" : "ジャーナリスト<br>journalist"
+		},{
+		"character" : "社会科学",
+		"charTip" : "しゃかいかがく<br>social science"
+		},{
+		"character" : "しゃがむ",
+		"charTip" : "しゃがむ<br>to squat"
+		},{
+		"character" : "蛇口",
+		"charTip" : "じゃぐち<br>faucet,tap"
+		},{
+		"character" : "弱点",
+		"charTip" : "じゃくてん<br>weak point,weakness"
+		},{
+		"character" : "車庫",
+		"charTip" : "しゃこ<br>garage,car shed"
+		},{
+		"character" : "車掌",
+		"charTip" : "しゃしょう<br>(train) conductor"
+		},{
+		"character" : "写生",
+		"charTip" : "しゃせい<br>sketching,drawing from nature"
+		},{
+		"character" : "社説",
+		"charTip" : "しゃせつ<br>editorial,leading article"
+		},{
+		"character" : "しゃっくり",
+		"charTip" : "しゃっくり<br>hiccough,hiccup"
+		},{
+		"character" : "シャッター",
+		"charTip" : "シャッター<br>shutter"
+		},{
+		"character" : "しゃぶる",
+		"charTip" : "しゃぶる<br>to suck,to chew"
+		},{
+		"character" : "車輪",
+		"charTip" : "しゃりん<br>(car) wheel"
+		},{
+		"character" : "洒落",
+		"charTip" : "しゃれ<br>joke,pun,witticism"
+		},{
+		"character" : "じゃんけん",
+		"charTip" : "じゃんけん<br>(n) rock-scissors-paper game"
+		},{
+		"character" : "集会",
+		"charTip" : "しゅうかい<br>meeting,assembly"
+		},{
+		"character" : "住居",
+		"charTip" : "じゅうきょ<br>dwelling,house,residence,address"
+		},{
+		"character" : "集金",
+		"charTip" : "しゅうきん<br>money collection"
+		},{
+		"character" : "集合",
+		"charTip" : "しゅうごう<br>gathering,assembly,meeting,set (math)"
+		},{
+		"character" : "習字",
+		"charTip" : "しゅうじ<br>penmanship"
+		},{
+		"character" : "修繕",
+		"charTip" : "しゅうぜん<br>repair,mending"
+		},{
+		"character" : "重体",
+		"charTip" : "じゅうたい<br>seriously ill,serious condition,critical state"
+		},{
+		"character" : "じゅうたん",
+		"charTip" : "（カーペット）<br>carpet"
+		},{
+		"character" : "終点",
+		"charTip" : "しゅうてん<br>terminus,last stop (e.g train)"
+		},{
+		"character" : "重点",
+		"charTip" : "じゅうてん<br>important point,lay stress on,colon,emphasis"
+		},{
+		"character" : "就任",
+		"charTip" : "しゅうにん<br>inauguration,assumption of office"
+		},{
+		"character" : "周辺",
+		"charTip" : "しゅうへん<br>circumference,outskirts,environs,(computer) peripheral"
+		},{
+		"character" : "重役",
+		"charTip" : "じゅうやく<br>director,high executive"
+		},{
+		"character" : "終了",
+		"charTip" : "しゅうりょう<br>end,close,termination"
+		},{
+		"character" : "重量",
+		"charTip" : "じゅうりょう<br>(1) weight,(2) heavyweight boxer"
+		},{
+		"character" : "重力",
+		"charTip" : "じゅうりょく<br>gravity"
+		},{
+		"character" : "熟語",
+		"charTip" : "じゅくご<br>idiom,idiomatic phrase,kanji compound"
+		},{
+		"character" : "祝日",
+		"charTip" : "しゅくじつ<br>national holiday"
+		},{
+		"character" : "縮小",
+		"charTip" : "しゅくしょう<br>reduction,curtailment"
+		},{
+		"character" : "受験",
+		"charTip" : "じゅけん<br>taking an examination"
+		},{
+		"character" : "主語",
+		"charTip" : "しゅご<br>(gram) subject"
+		},{
+		"character" : "出勤",
+		"charTip" : "しゅっきん<br>going to work,at work"
+		},{
+		"character" : "述語",
+		"charTip" : "じゅつご<br>predicate"
+		},{
+		"character" : "出張",
+		"charTip" : "しゅっちょう<br>official tour,business trip"
+		},{
+		"character" : "寿命",
+		"charTip" : "じゅみょう<br>life span"
+		},{
+		"character" : "主役",
+		"charTip" : "しゅやく<br>leading part,leading actor (actress)"
+		},{
+		"character" : "受話器",
+		"charTip" : "じゅわき<br>(telephone) receiver"
+		},{
+		"character" : "循環",
+		"charTip" : "じゅんかん<br>circulation,rotation,cycle"
+		},{
+		"character" : "巡査",
+		"charTip" : "じゅんさ<br>police,policeman"
+		},{
+		"character" : "順々",
+		"charTip" : "じゅんじゅん<br>in order,in turn"
+		},{
+		"character" : "順序",
+		"charTip" : "じゅんじょ<br>order,sequence,procedure"
+		},{
+		"character" : "純情",
+		"charTip" : "じゅんじょう<br>pure heart,naivete,self-sacrificing devotion"
+		},{
+		"character" : "純粋",
+		"charTip" : "じゅんすい<br>pure,true,genuine,unmixed"
+		},{
+		"character" : "消化",
+		"charTip" : "しょうか<br>digestion"
+		},{
+		"character" : "小学生",
+		"charTip" : "しょうがくせい<br>grade school student"
+		},{
+		"character" : "しょうがない",
+		"charTip" : "しょうがない<br>"
+		},{
+		"character" : "将棋",
+		"charTip" : "しょうぎ<br>Japanese chess"
+		},{
+		"character" : "蒸気",
+		"charTip" : "じょうき<br>steam,vapour"
+		},{
+		"character" : "定規",
+		"charTip" : "じょうぎ<br>(measuring) ruler"
+		},{
+		"character" : "上級",
+		"charTip" : "じょうきゅう<br>advanced level,high grade,senior"
+		},{
+		"character" : "商業",
+		"charTip" : "しょうぎょう<br>commerce,trade,business"
+		},{
+		"character" : "消極的",
+		"charTip" : "しょうきょくてき<br>passive"
+		},{
+		"character" : "賞金",
+		"charTip" : "しょうきん<br>prize,monetary award"
+		},{
+		"character" : "上下",
+		"charTip" : "じょうげ<br>high and low,up and down,unloading and loading,praising and blaming"
+		},{
+		"character" : "障子",
+		"charTip" : "しょうじ<br>paper sliding door"
+		},{
+		"character" : "商社",
+		"charTip" : "しょうしゃ<br>trading company,firm"
+		},{
+		"character" : "乗車",
+		"charTip" : "じょうしゃ<br>taking a train,entraining"
+		},{
+		"character" : "上旬",
+		"charTip" : "じょうじゅん<br>first 10 days of month"
+		},{
+		"character" : "生ずる",
+		"charTip" : "しょうずる<br>to cause,to arise,to be generated"
+		},{
+		"character" : "小数",
+		"charTip" : "しょうすう<br>fraction (part of),decimal"
+		},{
+		"character" : "商店",
+		"charTip" : "しょうてん<br>shop,business firm"
+		},{
+		"character" : "焦点",
+		"charTip" : "しょうてん<br>focus,point"
+		},{
+		"character" : "消毒",
+		"charTip" : "しょうどく<br>disinfection,sterilization"
+		},{
+		"character" : "勝敗",
+		"charTip" : "しょうはい<br>victory or defeat,issue (of battle)"
+		},{
+		"character" : "蒸発",
+		"charTip" : "じょうはつ<br>evaporation,unexplained disappearance"
+		},{
+		"character" : "賞品",
+		"charTip" : "しょうひん<br>prize,trophy"
+		},{
+		"character" : "勝負",
+		"charTip" : "しょうぶ<br>victory or defeat,match,contest,game,bout"
+		},{
+		"character" : "小便",
+		"charTip" : "しょうべん<br>(col) urine,piss"
+		},{
+		"character" : "消防署",
+		"charTip" : "しょうぼうしょ<br>fire station"
+		},{
+		"character" : "正味",
+		"charTip" : "しょうみ<br>net (weight)"
+		},{
+		"character" : "正面",
+		"charTip" : "しょうめん<br>the front,honesty"
+		},{
+		"character" : "消耗",
+		"charTip" : "しょうもう<br>exhaustion,consumption"
+		},{
+		"character" : "醤油",
+		"charTip" : "しょうゆ<br>soy sauce"
+		},{
+		"character" : "省略",
+		"charTip" : "しょうりゃく<br>omission,abbreviation,abridgment"
+		},{
+		"character" : "初級",
+		"charTip" : "しょきゅう<br>elementary level"
+		},{
+		"character" : "助教授",
+		"charTip" : "じょきょうじゅ<br>assistant professor"
+		},{
+		"character" : "食塩",
+		"charTip" : "しょくえん<br>table salt"
+		},{
+		"character" : "職人",
+		"charTip" : "しょくにん<br>worker,mechanic,artisan,craftsman"
+		},{
+		"character" : "初旬",
+		"charTip" : "しょじゅん<br>first 10 days of the month"
+		},{
+		"character" : "書籍",
+		"charTip" : "しょせき<br>book,publication"
+		},{
+		"character" : "食器",
+		"charTip" : "しょっき<br>tableware"
+		},{
+		"character" : "ショップ",
+		"charTip" : "ショップ<br>a shop"
+		},{
+		"character" : "書店",
+		"charTip" : "しょてん<br>bookshop"
+		},{
+		"character" : "書道",
+		"charTip" : "しょどう<br>calligraphy"
+		},{
+		"character" : "白髪",
+		"charTip" : "しらが<br>white or grey hair,trendy hair bleaching"
+		},{
+		"character" : "知合い",
+		"charTip" : "しりあい<br>acquaintance"
+		},{
+		"character" : "シリーズ",
+		"charTip" : "シリーズ<br>series"
+		},{
+		"character" : "私立",
+		"charTip" : "しりつ<br>private (establishment)"
+		},{
+		"character" : "資料",
+		"charTip" : "しりょう<br>materials,data"
+		},{
+		"character" : "汁",
+		"charTip" : "しる<br>juice,sap,soup,broth"
+		},{
+		"character" : "素人",
+		"charTip" : "しろうと<br>amateur,novice"
+		},{
+		"character" : "芯",
+		"charTip" : "しん<br>core,heart,wick,marrow"
+		},{
+		"character" : "新幹線",
+		"charTip" : "しんかんせん<br>bullet train (very high speed),shinkansen"
+		},{
+		"character" : "真空",
+		"charTip" : "しんくう<br>vacuum,hollow,empty"
+		},{
+		"character" : "信ずる",
+		"charTip" : "しんずる<br>to believe,to believe in,to place trust in"
+		},{
+		"character" : "心身",
+		"charTip" : "しんしん<br>mind and body"
+		},{
+		"character" : "申請",
+		"charTip" : "しんせい<br>application,request,petition"
+		},{
+		"character" : "人造",
+		"charTip" : "じんぞう<br>man-made,synthetic,artificial"
+		},{
+		"character" : "寝台",
+		"charTip" : "しんだい<br>bed,couch"
+		},{
+		"character" : "診断",
+		"charTip" : "しんだん<br>diagnosis"
+		},{
+		"character" : "侵入",
+		"charTip" : "しんにゅう<br>penetration,invasion,raid,aggression,trespass"
+		},{
+		"character" : "人文科学",
+		"charTip" : "じんぶんかがく<br>social sciences,humanities"
+		},{
+		"character" : "人命",
+		"charTip" : "じんめい<br>(human) life"
+		},{
+		"character" : "深夜",
+		"charTip" : "しんや<br>late at night"
+		},{
+		"character" : "森林",
+		"charTip" : "しんりん<br>forest,woods"
+		},{
+		"character" : "親類",
+		"charTip" : "しんるい<br>relation,kin"
+		},{
+		"character" : "針路",
+		"charTip" : "しんろ<br>course,direction,compass bearing"
+		},{
+		"character" : "神話",
+		"charTip" : "しんわ<br>myth,legend"
+		},{
+		"character" : "酢",
+		"charTip" : "す<br>vinegar"
+		},{
+		"character" : "水産",
+		"charTip" : "すいさん<br>marine products,fisheries"
+		},{
+		"character" : "炊事",
+		"charTip" : "すいじ<br>cooking,culinary arts"
+		},{
+		"character" : "水蒸気",
+		"charTip" : "すいじょうき<br>water vapour,steam"
+		},{
+		"character" : "水素",
+		"charTip" : "すいそ<br>hydrogen"
+		},{
+		"character" : "垂直",
+		"charTip" : "すいちょく<br>vertical,perpendicular"
+		},{
+		"character" : "推定",
+		"charTip" : "すいてい<br>presumption,assumption,estimation"
+		},{
+		"character" : "水滴",
+		"charTip" : "すいてき<br>drop of water"
+		},{
+		"character" : "水筒",
+		"charTip" : "すいとう<br>canteen,flask,water bottle"
+		},{
+		"character" : "随筆",
+		"charTip" : "ずいひつ<br>essays,miscellaneous writings"
+		},{
+		"character" : "水分",
+		"charTip" : "すいぶん<br>moisture"
+		},{
+		"character" : "水平",
+		"charTip" : "すいへい<br>water level,horizon"
+		},{
+		"character" : "水平線",
+		"charTip" : "すいへいせん<br>horizon"
+		},{
+		"character" : "水曜",
+		"charTip" : "すいよう<br>Wednesday"
+		},{
+		"character" : "ずうずうしい",
+		"charTip" : "ずうずうしい<br>impudent,shameless"
+		},{
+		"character" : "ずうっと",
+		"charTip" : "ずうっと<br>"
+		},{
+		"character" : "末っ子",
+		"charTip" : "すえっこ<br>youngest child"
+		},{
+		"character" : "スカーフ",
+		"charTip" : "スカーフ<br>scarf"
+		},{
+		"character" : "図鑑",
+		"charTip" : "ずかん<br>picture book"
+		},{
+		"character" : "杉",
+		"charTip" : "すぎ<br>Japanese cedar"
+		},{
+		"character" : "好き嫌い",
+		"charTip" : "すききらい<br>likes and dislikes,taste"
+		},{
+		"character" : "好き好き",
+		"charTip" : "すきずき<br>matter of taste"
+		},{
+		"character" : "透き通る",
+		"charTip" : "すきとおる<br>to be(come) transparent"
+		},{
+		"character" : "隙間",
+		"charTip" : "すきま<br>crevice,crack,gap,opening"
+		},{
+		"character" : "スクール",
+		"charTip" : "スクール<br>school"
+		},{
+		"character" : "すくなくとも",
+		"charTip" : "すくなくとも<br>at least"
+		},{
+		"character" : "図形",
+		"charTip" : "ずけい<br>figure"
+		},{
+		"character" : "スケジュール",
+		"charTip" : "スケジュール<br>schedule"
+		},{
+		"character" : "鈴",
+		"charTip" : "すず<br>bell"
+		},{
+		"character" : "涼む",
+		"charTip" : "すずむ<br>to cool oneself,to cool off,to enjoy evening cool"
+		},{
+		"character" : "スタート",
+		"charTip" : "スタート<br>start"
+		},{
+		"character" : "スチュワーデス",
+		"charTip" : "スチュワーデス<br>stewardess"
+		},{
+		"character" : "すっきり",
+		"charTip" : "すっきり<br>shapely,clear,neat"
+		},{
+		"character" : "すっぱい",
+		"charTip" : "すっぱい<br>sour,acid"
+		},{
+		"character" : "ステージ",
+		"charTip" : "ステージ<br>(1) stage,(2) performance"
+		},{
+		"character" : "棄てる",
+		"charTip" : "すてる<br>"
+		},{
+		"character" : "ストッキング",
+		"charTip" : "ストッキング<br>stockings"
+		},{
+		"character" : "ストップ",
+		"charTip" : "ストップ<br>stop"
+		},{
+		"character" : "素直",
+		"charTip" : "すなお<br>obedient,meek,docile,unaffected"
+		},{
+		"character" : "頭脳",
+		"charTip" : "ずのう<br>head,brains,intellect"
+		},{
+		"character" : "スピーカー",
+		"charTip" : "スピーカー<br>speaker"
+		},{
+		"character" : "図表",
+		"charTip" : "ずひょう<br>chart,diagram,graph"
+		},{
+		"character" : "スマート",
+		"charTip" : "スマート<br>smart,stylish,slim"
+		},{
+		"character" : "住まい",
+		"charTip" : "すまい<br>dwelling,house,residence,address"
+		},{
+		"character" : "すまない",
+		"charTip" : "すまない<br>sorry (phrase)"
+		},{
+		"character" : "墨",
+		"charTip" : "すみ<br>ink"
+		},{
+		"character" : "澄む",
+		"charTip" : "すむ<br>to clear (e.g. weather),to become transparent"
+		},{
+		"character" : "清む",
+		"charTip" : "すむ<br>"
+		},{
+		"character" : "相撲",
+		"charTip" : "すもう<br>sumo wrestling"
+		},{
+		"character" : "スライド",
+		"charTip" : "スライド<br>slide"
+		},{
+		"character" : "ずらす",
+		"charTip" : "ずらす<br>to put off,to delay"
+		},{
+		"character" : "ずらり",
+		"charTip" : "ずらり<br>"
+		},{
+		"character" : "掏摸",
+		"charTip" : "すり<br>pickpocket"
+		},{
+		"character" : "刷る",
+		"charTip" : "する<br>to print"
+		},{
+		"character" : "狡い",
+		"charTip" : "ずるい<br>sly,cunning"
+		},{
+		"character" : "すれちがう",
+		"charTip" : "すれちがう<br>to pass by one another,to disagree"
+		},{
+		"character" : "滑れる",
+		"charTip" : "ずれる<br>"
+		},{
+		"character" : "寸法",
+		"charTip" : "すんぽう<br>measurement,size,dimension"
+		},{
+		"character" : "姓",
+		"charTip" : "せい<br>surname,family name"
+		},{
+		"character" : "税関",
+		"charTip" : "ぜいかん<br>customs house"
+		},{
+		"character" : "製作",
+		"charTip" : "せいさく<br>manufacture,production"
+		},{
+		"character" : "制作",
+		"charTip" : "せいさく<br>work (film, book)"
+		},{
+		"character" : "性質",
+		"charTip" : "せいしつ<br>nature,property,disposition"
+		},{
+		"character" : "清書",
+		"charTip" : "せいしょ<br>clean copy"
+		},{
+		"character" : "青少年",
+		"charTip" : "せいしょうねん<br>youth,young person"
+		},{
+		"character" : "整数",
+		"charTip" : "せいすう<br>integer"
+		},{
+		"character" : "清掃",
+		"charTip" : "せいそう<br>cleaning"
+		},{
+		"character" : "生存",
+		"charTip" : "せいぞん<br>existence,being,survival"
+		},{
+		"character" : "生長",
+		"charTip" : "せいちょう<br>growth,increment"
+		},{
+		"character" : "政党",
+		"charTip" : "せいとう<br>(member of) political party"
+		},{
+		"character" : "生年月日",
+		"charTip" : "せいねんがっぴ<br>birth date"
+		},{
+		"character" : "性能",
+		"charTip" : "せいのう<br>ability,efficiency"
+		},{
+		"character" : "整備",
+		"charTip" : "せいび<br>adjustment,completion,consolidation"
+		},{
+		"character" : "成分",
+		"charTip" : "せいぶん<br>ingredient,component,composition"
+		},{
+		"character" : "性別",
+		"charTip" : "せいべつ<br>distinction by sex,sex,gender"
+		},{
+		"character" : "正方形",
+		"charTip" : "せいほうけい<br>square"
+		},{
+		"character" : "正門",
+		"charTip" : "せいもん<br>main gate,main entrance"
+		},{
+		"character" : "成立",
+		"charTip" : "せいりつ<br>coming into existence,arrangements,establishment,completion"
+		},{
+		"character" : "西暦",
+		"charTip" : "せいれき<br>Christian Era,anno domini (A.D.)"
+		},{
+		"character" : "背負う",
+		"charTip" : "せおう<br>to be burdened with,to carry on back or shoulder"
+		},{
+		"character" : "赤道",
+		"charTip" : "せきどう<br>equator"
+		},{
+		"character" : "折角",
+		"charTip" : "せっかく<br>with trouble,at great pains,long-awaited"
+		},{
+		"character" : "接近",
+		"charTip" : "せっきん<br>getting closer,drawing nearer,approaching"
+		},{
+		"character" : "石鹸",
+		"charTip" : "せっけん<br>soap"
+		},{
+		"character" : "接する",
+		"charTip" : "せっする<br>to come in contact with,to connect,to attend,to receive"
+		},{
+		"character" : "せっせと",
+		"charTip" : "せっせと<br>"
+		},{
+		"character" : "接続",
+		"charTip" : "せつぞく<br>(1) connection,union,join,link,(2) changing trains"
+		},{
+		"character" : "瀬戸物",
+		"charTip" : "せともの<br>earthenware,crockery,china"
+		},{
+		"character" : "ぜひとも",
+		"charTip" : "ぜひとも<br>by all means (with sense of not taking no for an answer)"
+		},{
+		"character" : "迫る",
+		"charTip" : "せまる<br>to draw near,to press"
+		},{
+		"character" : "ゼミ",
+		"charTip" : "ゼミ<br>(n) seminar"
+		},{
+		"character" : "せめて",
+		"charTip" : "せめて<br>offense,method of attack"
+		},{
+		"character" : "攻める",
+		"charTip" : "せめる<br>to attack,to assault"
+		},{
+		"character" : "セメント",
+		"charTip" : "セメント<br>cement"
+		},{
+		"character" : "栓",
+		"charTip" : "せん<br>stopper,cork,stopcock"
+		},{
+		"character" : "前後",
+		"charTip" : "ぜんご<br>around,throughout,front and back,before and behind,before and after"
+		},{
+		"character" : "洗剤",
+		"charTip" : "せんざい<br>detergent,washing material"
+		},{
+		"character" : "全集",
+		"charTip" : "ぜんしゅう<br>complete works"
+		},{
+		"character" : "全身",
+		"charTip" : "ぜんしん<br>the whole body,full-length (portrait)"
+		},{
+		"character" : "扇子",
+		"charTip" : "せんす<br>folding fan"
+		},{
+		"character" : "専制",
+		"charTip" : "せんせい<br>despotism,autocracy"
+		},{
+		"character" : "先々月",
+		"charTip" : "せんせんげつ<br>month before last"
+		},{
+		"character" : "先々週",
+		"charTip" : "せんせんしゅう<br>"
+		},{
+		"character" : "先祖",
+		"charTip" : "せんぞ<br>ancestor"
+		},{
+		"character" : "先端",
+		"charTip" : "せんたん<br>pointed end,tip,fine point"
+		},{
+		"character" : "センチ",
+		"charTip" : "センチ<br>centimeter,centi-,10^-2"
+		},{
+		"character" : "宣伝",
+		"charTip" : "せんでん<br>propaganda,publicity"
+		},{
+		"character" : "先頭",
+		"charTip" : "せんとう<br>head,lead,vanguard,first"
+		},{
+		"character" : "全般",
+		"charTip" : "ぜんぱん<br>(the) whole,universal,wholly,general"
+		},{
+		"character" : "扇風機",
+		"charTip" : "せんぷうき<br>electric fan"
+		},{
+		"character" : "線路",
+		"charTip" : "せんろ<br>line,track,roadbed"
+		},{
+		"character" : "相違",
+		"charTip" : "そうい<br>difference,discrepancy,variation"
+		},{
+		"character" : "そういえば",
+		"charTip" : "そういえば<br>which reminds me .."
+		},{
+		"character" : "雑巾",
+		"charTip" : "ぞうきん<br>house-cloth,dust cloth"
+		},{
+		"character" : "増減",
+		"charTip" : "ぞうげん<br>increase and decrease,fluctuation"
+		},{
+		"character" : "倉庫",
+		"charTip" : "そうこ<br>storehouse,warehouse,godown"
+		},{
+		"character" : "相互",
+		"charTip" : "そうご<br>mutual,reciprocal"
+		},{
+		"character" : "創作",
+		"charTip" : "そうさく<br>production,literary creation,work"
+		},{
+		"character" : "葬式",
+		"charTip" : "そうしき<br>funeral"
+		},{
+		"character" : "そうして",
+		"charTip" : "そうして<br>and,like that"
+		},{
+		"character" : "造船",
+		"charTip" : "ぞうせん<br>shipbuilding"
+		},{
+		"character" : "騒々しい",
+		"charTip" : "そうぞうしい<br>noisy,boisterous"
+		},{
+		"character" : "増大",
+		"charTip" : "ぞうだい<br>enlargement"
+		},{
+		"character" : "そうっと",
+		"charTip" : "そうっと<br>"
+		},{
+		"character" : "送別",
+		"charTip" : "そうべつ<br>farewell,send-off"
+		},{
+		"character" : "草履",
+		"charTip" : "ぞうり<br>zoori (Japanese footwear),sandals"
+		},{
+		"character" : "総理大臣",
+		"charTip" : "そうりだいじん<br>Prime Minister"
+		},{
+		"character" : "送料",
+		"charTip" : "そうりょう<br>postage,carriage"
+		},{
+		"character" : "属する",
+		"charTip" : "ぞくする<br>to belong to,to come under,to be affiliated with,to be subject to"
+		},{
+		"character" : "続々",
+		"charTip" : "ぞくぞく<br>successively,one after another"
+		},{
+		"character" : "速達",
+		"charTip" : "そくたつ<br>express,special delivery"
+		},{
+		"character" : "測定",
+		"charTip" : "そくてい<br>measurement"
+		},{
+		"character" : "測量",
+		"charTip" : "そくりょう<br>measurement,surveying"
+		},{
+		"character" : "速力",
+		"charTip" : "そくりょく<br>speed"
+		},{
+		"character" : "素質",
+		"charTip" : "そしつ<br>character,qualities,genius"
+		},{
+		"character" : "祖先",
+		"charTip" : "そせん<br>ancestor"
+		},{
+		"character" : "そそっかしい",
+		"charTip" : "そそっかしい<br>careless,thoughtless"
+		},{
+		"character" : "卒直",
+		"charTip" : "そっちょく<br>frankness,candour,openheartedness"
+		},{
+		"character" : "具える",
+		"charTip" : "そなえる<br>to be furnished with"
+		},{
+		"character" : "そのうえ",
+		"charTip" : "そのうえ<br>in addition,furthermore"
+		},{
+		"character" : "そのころ",
+		"charTip" : "そのころ<br>"
+		},{
+		"character" : "そのため",
+		"charTip" : "そのため<br>hence,for that reason"
+		},{
+		"character" : "そのほか",
+		"charTip" : "そのほか<br>otherwise"
+		},{
+		"character" : "蕎麦",
+		"charTip" : "そば<br>soba (buckwheat noodles)"
+		},{
+		"character" : "剃る",
+		"charTip" : "そる<br>to shave"
+		},{
+		"character" : "それなのに",
+		"charTip" : "それなのに<br>"
+		},{
+		"character" : "逸れる",
+		"charTip" : "それる<br>to stray (turn) from subject,to get lost,to go astray"
+		},{
+		"character" : "揃う",
+		"charTip" : "そろう<br>to become complete,to be equal,to be all present,to gather"
+		},{
+		"character" : "揃える",
+		"charTip" : "そろえる<br>to put things in order,to arrange,to make uniform,to get something ready"
+		},{
+		"character" : "算盤",
+		"charTip" : "そろばん<br>abacus"
+		},{
+		"character" : "存じる",
+		"charTip" : "ぞんじる<br>(hum) to know"
+		},{
+		"character" : "存ずる",
+		"charTip" : "ぞんずる<br>"
+		},{
+		"character" : "損得",
+		"charTip" : "そんとく<br>loss and gain,advantage and disadvantage"
+		},{
+		"character" : "田ぼ",
+		"charTip" : "たんぼ<br>paddy field,farm"
+		},{
+		"character" : "だいいち",
+		"charTip" : "（副）<br>first,foremost,# 1"
+		},{
+		"character" : "退院",
+		"charTip" : "たいいん<br>leaving hospital"
+		},{
+		"character" : "大学院",
+		"charTip" : "だいがくいん<br>graduate school"
+		},{
+		"character" : "大工",
+		"charTip" : "だいく<br>carpenter"
+		},{
+		"character" : "体系",
+		"charTip" : "たいけい<br>system,organization"
+		},{
+		"character" : "太鼓",
+		"charTip" : "たいこ<br>drum,tambourine"
+		},{
+		"character" : "対策",
+		"charTip" : "たいさく<br>counter-plan,counter-measure"
+		},{
+		"character" : "大して",
+		"charTip" : "たいして<br>(not so) much,(not) very"
+		},{
+		"character" : "対照",
+		"charTip" : "たいしょう<br>contrast,antithesis,comparison"
+		},{
+		"character" : "大小",
+		"charTip" : "だいしょう<br>size"
+		},{
+		"character" : "体制",
+		"charTip" : "たいせい<br>order,system,structure,set-up,organization"
+		},{
+		"character" : "体積",
+		"charTip" : "たいせき<br>capacity,volume"
+		},{
+		"character" : "大層",
+		"charTip" : "たいそう<br>very much,exaggerated,very fine"
+		},{
+		"character" : "体操",
+		"charTip" : "たいそう<br>gymnastics,physical exercises,calisthenics"
+		},{
+		"character" : "大分",
+		"charTip" : "だいぶん<br>considerably,greatly,a lot"
+		},{
+		"character" : "大木",
+		"charTip" : "たいぼく<br>large tree"
+		},{
+		"character" : "題名",
+		"charTip" : "だいめい<br>title"
+		},{
+		"character" : "代名詞",
+		"charTip" : "だいめいし<br>pronoun"
+		},{
+		"character" : "タイア",
+		"charTip" : "タイア<br>tire,tyre"
+		},{
+		"character" : "ダイヤグラム",
+		"charTip" : "ダイヤグラム<br>diagram"
+		},{
+		"character" : "ダイヤモンド",
+		"charTip" : "ダイヤモンド<br>diamond"
+		},{
+		"character" : "ダイヤル",
+		"charTip" : "ダイヤル<br>dial"
+		},{
+		"character" : "Ͼ立",
+		"charTip" : "たいりつ<br>confrontation,opposition,antagonism"
+		},{
+		"character" : "田植え",
+		"charTip" : "たうえ<br>rice planting"
+		},{
+		"character" : "絶えず",
+		"charTip" : "たえず<br>constantly"
+		},{
+		"character" : "楕円",
+		"charTip" : "だえん<br>ellipse"
+		},{
+		"character" : "高める",
+		"charTip" : "たかめる<br>to raise,to lift,to boost"
+		},{
+		"character" : "耕す",
+		"charTip" : "たがやす<br>to till,to plow,to cultivate"
+		},{
+		"character" : "滝",
+		"charTip" : "たき<br>waterfall"
+		},{
+		"character" : "炊く",
+		"charTip" : "たく<br>to boil,to cook"
+		},{
+		"character" : "焚く",
+		"charTip" : "たく<br>to burn,to kindle,to build a fire"
+		},{
+		"character" : "蓄える",
+		"charTip" : "たくわえる<br>to store,to lay in stock"
+		},{
+		"character" : "竹",
+		"charTip" : "たけ<br>bamboo,middle (of a three-tier ranking system)"
+		},{
+		"character" : "助かる",
+		"charTip" : "たすかる<br>to be saved,to be rescued,to survive,to be helpful"
+		},{
+		"character" : "只",
+		"charTip" : "ただ<br>free of charge,mere,sole,only,usual,common"
+		},{
+		"character" : "但し",
+		"charTip" : "ただし<br>but,however,provided that"
+		},{
+		"character" : "畳む",
+		"charTip" : "たたむ<br>to fold (clothes)"
+		},{
+		"character" : "立ち止まる",
+		"charTip" : "たちどまる<br>to stop,to halt,to stand still"
+		},{
+		"character" : "たちまち",
+		"charTip" : "たちまち<br>at once,in a moment,suddenly,all at once"
+		},{
+		"character" : "建つ",
+		"charTip" : "たつ<br>to erect,to be erected,to be built"
+		},{
+		"character" : "発つ",
+		"charTip" : "たつ<br>to depart (on a plane, train, etc.)"
+		},{
+		"character" : "脱線",
+		"charTip" : "だっせん<br>derailment,digression"
+		},{
+		"character" : "妥当",
+		"charTip" : "だとう<br>valid,proper,right,appropriate"
+		},{
+		"character" : "例える",
+		"charTip" : "たとえる<br>to compare,to liken,to speak figuratively,to illustrate,to use a simile"
+		},{
+		"character" : "頼もしい",
+		"charTip" : "たのもしい<br>reliable,trustworthy,hopeful,promising"
+		},{
+		"character" : "足袋",
+		"charTip" : "たび<br>tabi,Japanese socks (with split toe)"
+		},{
+		"character" : "ダブル",
+		"charTip" : "ダブル<br>double"
+		},{
+		"character" : "だます",
+		"charTip" : "だます<br>to trick,to cheat,to deceive"
+		},{
+		"character" : "溜まる",
+		"charTip" : "たまる<br>to collect,to gather,to save"
+		},{
+		"character" : "ダム",
+		"charTip" : "ダム<br>dumb"
+		},{
+		"character" : "溜息",
+		"charTip" : "ためいき<br>a sigh"
+		},{
+		"character" : "ためらう",
+		"charTip" : "ためらう<br>to hesitate"
+		},{
+		"character" : "溜める",
+		"charTip" : "ためる<br>to amass,to accumulate"
+		},{
+		"character" : "だらしない",
+		"charTip" : "だらしない<br>slovenly,loose,a slut"
+		},{
+		"character" : "足る",
+		"charTip" : "たる<br>to be sufficient,to be enough"
+		},{
+		"character" : "段階",
+		"charTip" : "だんかい<br>gradation,grade,stage"
+		},{
+		"character" : "短期",
+		"charTip" : "たんき<br>short term"
+		},{
+		"character" : "炭鉱",
+		"charTip" : "たんこう<br>coal mine,coal pit"
+		},{
+		"character" : "短所",
+		"charTip" : "たんしょ<br>(1) defect,demerit,weak point,(2) disadvantage"
+		},{
+		"character" : "たんす",
+		"charTip" : "たんす<br>chest of drawers"
+		},{
+		"character" : "淡水",
+		"charTip" : "たんすい<br>fresh water"
+		},{
+		"character" : "断水",
+		"charTip" : "だんすい<br>water outage"
+		},{
+		"character" : "単数",
+		"charTip" : "たんすう<br>singular (number)"
+		},{
+		"character" : "団地",
+		"charTip" : "だんち<br>multi-unit apartments"
+		},{
+		"character" : "断定",
+		"charTip" : "だんてい<br>conclusion,decision"
+		},{
+		"character" : "短編",
+		"charTip" : "たんぺん<br>short (e.g. story, film)"
+		},{
+		"character" : "誓う",
+		"charTip" : "ちかう<br>to swear,to vow,to take an oath,to pledge"
+		},{
+		"character" : "地下水",
+		"charTip" : "ちかすい<br>underground water"
+		},{
+		"character" : "近々",
+		"charTip" : "ちかぢか<br>nearness,before long"
+		},{
+		"character" : "近付ける",
+		"charTip" : "ちかづける<br>to bring near,to put close,to let come near,to associate with"
+		},{
+		"character" : "近寄る",
+		"charTip" : "ちかよる<br>to approach,to draw near"
+		},{
+		"character" : "力強い",
+		"charTip" : "ちからづよい<br>reassuring,emboldened"
+		},{
+		"character" : "ちぎる",
+		"charTip" : "ちぎる<br>to cut up fine,to pick (fruit)"
+		},{
+		"character" : "地質",
+		"charTip" : "ちしつ<br>geological features"
+		},{
+		"character" : "知人",
+		"charTip" : "ちじん<br>friend,acquaintance"
+		},{
+		"character" : "地帯",
+		"charTip" : "ちたい<br>area,zone"
+		},{
+		"character" : "縮む",
+		"charTip" : "ちぢむ<br>to shrink,to be contracted"
+		},{
+		"character" : "縮める",
+		"charTip" : "ちぢめる<br>to shorten,to reduce,to boil down,to shrink"
+		},{
+		"character" : "縮れる",
+		"charTip" : "ちぢれる<br>to be wavy,to be curled"
+		},{
+		"character" : "チップ",
+		"charTip" : "チップ<br>(1) gratuity,tip,(2) chip"
+		},{
+		"character" : "地点",
+		"charTip" : "ちてん<br>site,point on a map"
+		},{
+		"character" : "地名",
+		"charTip" : "ちめい<br>place name"
+		},{
+		"character" : "茶色い",
+		"charTip" : "ちゃいろい<br>"
+		},{
+		"character" : "着々",
+		"charTip" : "ちゃくちゃく<br>steadily"
+		},{
+		"character" : "茶碗",
+		"charTip" : "ちゃわん<br>rice bowl,tea cup,teacup"
+		},{
+		"character" : "中間",
+		"charTip" : "ちゅうかん<br>middle,midway,interim"
+		},{
+		"character" : "中旬",
+		"charTip" : "ちゅうじゅん<br>second third of a month"
+		},{
+		"character" : "抽象",
+		"charTip" : "ちゅうしょう<br>abstract"
+		},{
+		"character" : "中世",
+		"charTip" : "ちゅうせい<br>Middle Ages,mediaeval times"
+		},{
+		"character" : "中性",
+		"charTip" : "ちゅうせい<br>neuter gender,neutral (chem.),indifference,sterility"
+		},{
+		"character" : "中途",
+		"charTip" : "ちゅうと<br>in the middle,half-way"
+		},{
+		"character" : "中年",
+		"charTip" : "ちゅうねん<br>middle-aged"
+		},{
+		"character" : "超過",
+		"charTip" : "ちょうか<br>excess,being more than"
+		},{
+		"character" : "彫刻",
+		"charTip" : "ちょうこく<br>carving,engraving,sculpture"
+		},{
+		"character" : "長所",
+		"charTip" : "ちょうしょ<br>(1) strong point,merit,(2) advantage"
+		},{
+		"character" : "長女",
+		"charTip" : "ちょうじょ<br>eldest daughter"
+		},{
+		"character" : "調整",
+		"charTip" : "ちょうせい<br>regulation,adjustment,tuning"
+		},{
+		"character" : "調節",
+		"charTip" : "ちょうせつ<br>regulation,adjustment,control"
+		},{
+		"character" : "長短",
+		"charTip" : "ちょうたん<br>length,long and short,+-"
+		},{
+		"character" : "頂点",
+		"charTip" : "ちょうてん<br>top,summit"
+		},{
+		"character" : "長男",
+		"charTip" : "ちょうなん<br>eldest son"
+		},{
+		"character" : "長方形",
+		"charTip" : "ちょうほうけい<br>rectangle,oblong"
+		},{
+		"character" : "調味料",
+		"charTip" : "ちょうみりょう<br>condiment,seasoning"
+		},{
+		"character" : "チョーク",
+		"charTip" : "チョーク<br>chock,chalk"
+		},{
+		"character" : "直後",
+		"charTip" : "ちょくご<br>immediately following"
+		},{
+		"character" : "直線",
+		"charTip" : "ちょくせん<br>straight line"
+		},{
+		"character" : "直前",
+		"charTip" : "ちょくぜん<br>just before"
+		},{
+		"character" : "直通",
+		"charTip" : "ちょくつう<br>direct communication"
+		},{
+		"character" : "直流",
+		"charTip" : "ちょくりゅう<br>direct current"
+		},{
+		"character" : "貯蔵",
+		"charTip" : "ちょぞう<br>storage,preservation"
+		},{
+		"character" : "直角",
+		"charTip" : "ちょっかく<br>right angle"
+		},{
+		"character" : "直径",
+		"charTip" : "ちょっけい<br>diameter"
+		},{
+		"character" : "散らかす",
+		"charTip" : "ちらかす<br>to scatter around,to leave untidy"
+		},{
+		"character" : "散らかる",
+		"charTip" : "ちらかる<br>to be in disorder,to lie scattered around"
+		},{
+		"character" : "散らす",
+		"charTip" : "ちらす<br>to scatter,to disperse,to distribute"
+		},{
+		"character" : "塵紙",
+		"charTip" : "ちりがみ<br>tissue paper,toilet paper"
+		},{
+		"character" : "散る",
+		"charTip" : "ちる<br>to fall,to scatter (e.g. blossoms)"
+		},{
+		"character" : "追加",
+		"charTip" : "ついか<br>addition,supplement,appendix"
+		},{
+		"character" : "ついで",
+		"charTip" : "ついで<br>opportunity,occasion"
+		},{
+		"character" : "通貨",
+		"charTip" : "つうか<br>currency"
+		},{
+		"character" : "通勤",
+		"charTip" : "つうきん<br>commuting to work"
+		},{
+		"character" : "通ずる",
+		"charTip" : "つうずる<br>"
+		},{
+		"character" : "通知",
+		"charTip" : "つうち<br>notice,notification"
+		},{
+		"character" : "通帳",
+		"charTip" : "つうちょう<br>passbook"
+		},{
+		"character" : "通訳",
+		"charTip" : "つうやく<br>interpretation"
+		},{
+		"character" : "通用",
+		"charTip" : "つうよう<br>popular use,circulation"
+		},{
+		"character" : "通路",
+		"charTip" : "つうろ<br>passage,pathway"
+		},{
+		"character" : "付合う",
+		"charTip" : "つきあう<br>to associate with,to keep company with,to get on with"
+		},{
+		"character" : "突き当たり",
+		"charTip" : "つきあたり<br>end (e.g. of street)"
+		},{
+		"character" : "突き当たる",
+		"charTip" : "つきあたる<br>to run into,to collide with"
+		},{
+		"character" : "月日",
+		"charTip" : "つきひ<br>time,years,days"
+		},{
+		"character" : "点く",
+		"charTip" : "つく<br>to catch fire,(electricity) comes on"
+		},{
+		"character" : "突く",
+		"charTip" : "つく<br>(1) to thrust,to strike,(2) to poke"
+		},{
+		"character" : "次ぐ",
+		"charTip" : "つぐ<br>to rank next to,to come after"
+		},{
+		"character" : "作る/造る",
+		"charTip" : "つくる<br>to make,to create"
+		},{
+		"character" : "着ける",
+		"charTip" : "つける<br>(1) to attach,to join,to add,to append"
+		},{
+		"character" : "点ける",
+		"charTip" : "つける<br>to turn on,to switch on,to light up"
+		},{
+		"character" : "浸ける",
+		"charTip" : "つける<br>to dip in,to soak"
+		},{
+		"character" : "伝わる",
+		"charTip" : "つたわる<br>to be handed down,to be introduced,to be transmitted"
+		},{
+		"character" : "突っ込む",
+		"charTip" : "つっこむ<br>to plunge into,to go into deeply"
+		},{
+		"character" : "務める",
+		"charTip" : "つとめる<br>(1) to serve,to fill a post,to serve under,to work (for)"
+		},{
+		"character" : "努める",
+		"charTip" : "つとめる<br>(1) to serve,to fill a post,to serve under,to work (for)"
+		},{
+		"character" : "綱",
+		"charTip" : "つな<br>rope"
+		},{
+		"character" : "繋がり",
+		"charTip" : "つながり<br>connection,link,relationship"
+		},{
+		"character" : "繋がる",
+		"charTip" : "つながる<br>to be tied together,to be connected to,to be related to"
+		},{
+		"character" : "繋げる",
+		"charTip" : "つなげる<br>to connect"
+		},{
+		"character" : "粒",
+		"charTip" : "つぶ<br>grain"
+		},{
+		"character" : "潰す",
+		"charTip" : "つぶす<br>to smash,to waste"
+		},{
+		"character" : "潰れる",
+		"charTip" : "つぶれる<br>to be smashed,to go bankrupt"
+		},{
+		"character" : "つまずく",
+		"charTip" : "つまずく<br>to stumble,to trip"
+		},{
+		"character" : "詰まる",
+		"charTip" : "つまる<br>to be blocked,to be packed"
+		},{
+		"character" : "積む",
+		"charTip" : "つむ<br>to pile up,to stack"
+		},{
+		"character" : "爪",
+		"charTip" : "つめ<br>fingernail or toenail,claw,talon,hoof"
+		},{
+		"character" : "艶",
+		"charTip" : "つや<br>gloss,glaze"
+		},{
+		"character" : "強気",
+		"charTip" : "つよき<br>firm,strong"
+		},{
+		"character" : "釣り合う",
+		"charTip" : "つりあう<br>to balance,to be in harmony,to suit"
+		},{
+		"character" : "吊る",
+		"charTip" : "つる<br>to hang"
+		},{
+		"character" : "吊す",
+		"charTip" : "つるす<br>to hang"
+		},{
+		"character" : "出合い",
+		"charTip" : "であい<br>an encounter"
+		},{
+		"character" : "手洗い",
+		"charTip" : "てあらい<br>restroom,lavatory,hand-washing"
+		},{
+		"character" : "定員",
+		"charTip" : "ていいん<br>fixed number of regular personnel,capacity (of boat, etc.)"
+		},{
+		"character" : "定価",
+		"charTip" : "ていか<br>established price"
+		},{
+		"character" : "低下",
+		"charTip" : "ていか<br>fall,decline,lowering,deterioration"
+		},{
+		"character" : "定期券",
+		"charTip" : "ていきけん<br>commuter pass,season ticket"
+		},{
+		"character" : "定休日",
+		"charTip" : "ていきゅうび<br>regular holiday"
+		},{
+		"character" : "停止",
+		"charTip" : "ていし<br>suspension,interruption,stoppage,ban"
+		},{
+		"character" : "停車",
+		"charTip" : "ていしゃ<br>stopping (e.g. train)"
+		},{
+		"character" : "停電",
+		"charTip" : "ていでん<br>failure of electricity"
+		},{
+		"character" : "出入り",
+		"charTip" : "でいり<br>in and out,coming and going,free association,income and expenditure,debits and credit"
+		},{
+		"character" : "出入口",
+		"charTip" : "でいりぐち<br>exit and entrance"
+		},{
+		"character" : "手入れ",
+		"charTip" : "ていれ<br>repairs,maintenance"
+		},{
+		"character" : "テーマ",
+		"charTip" : "テーマ<br>(n) theme,project,topic (de: Thema)"
+		},{
+		"character" : "出掛ける",
+		"charTip" : "でかける<br>to depart,to set out,to start,to be going out"
+		},{
+		"character" : "出来上がり",
+		"charTip" : "できあがり<br>be finished,ready,made for,cut out"
+		},{
+		"character" : "出来上がる",
+		"charTip" : "できあがる<br>(1) to be finished,to be ready,by definition,(2) to be very drunk"
+		},{
+		"character" : "的確",
+		"charTip" : "てきかく<br>precise,accurate"
+		},{
+		"character" : "適確",
+		"charTip" : "てきかく<br>precise,accurate"
+		},{
+		"character" : "手首",
+		"charTip" : "てくび<br>wrist"
+		},{
+		"character" : "凸凹",
+		"charTip" : "でこぼこ<br>unevenness,roughness,ruggedness"
+		},{
+		"character" : "手頃",
+		"charTip" : "てごろ<br>moderate,handy"
+		},{
+		"character" : "でたらめ",
+		"charTip" : "でたらめ<br>(1) irresponsible utterance,nonsense,nonsensical,(2) random"
+		},{
+		"character" : "手帳",
+		"charTip" : "てちょう<br>notebook"
+		},{
+		"character" : "鉄橋",
+		"charTip" : "てっきょう<br>railway bridge,iron bridge"
+		},{
+		"character" : "手続き",
+		"charTip" : "てつづき<br>procedure,(legal) process,formalities"
+		},{
+		"character" : "鉄砲",
+		"charTip" : "てっぽう<br>gun"
+		},{
+		"character" : "テニスコート",
+		"charTip" : "テニスコート<br>tennis court"
+		},{
+		"character" : "手拭い",
+		"charTip" : "てぬぐい<br>(hand) towel"
+		},{
+		"character" : "手前",
+		"charTip" : "てまえ<br>before,this side,we,you"
+		},{
+		"character" : "出迎え",
+		"charTip" : "でむかえ<br>meeting,reception"
+		},{
+		"character" : "出迎える",
+		"charTip" : "でむかえる<br>to meet,to greet"
+		},{
+		"character" : "照らす",
+		"charTip" : "てらす<br>to shine on,to illuminate"
+		},{
+		"character" : "照る",
+		"charTip" : "てる<br>to shine"
+		},{
+		"character" : "展開",
+		"charTip" : "てんかい<br>develop,expansion (opposite of compression)"
+		},{
+		"character" : "伝記",
+		"charTip" : "でんき<br>biography,life story"
+		},{
+		"character" : "電球",
+		"charTip" : "でんきゅう<br>light bulb"
+		},{
+		"character" : "点数",
+		"charTip" : "てんすう<br>marks,points,score,runs"
+		},{
+		"character" : "伝染",
+		"charTip" : "でんせん<br>contagion"
+		},{
+		"character" : "電池",
+		"charTip" : "でんち<br>battery"
+		},{
+		"character" : "点々",
+		"charTip" : "てんてん<br>here and there,little by little"
+		},{
+		"character" : "転々",
+		"charTip" : "てんてん<br>"
+		},{
+		"character" : "電柱",
+		"charTip" : "でんちゅう<br>telephone pole,telegraph pole,lightpole"
+		},{
+		"character" : "天皇",
+		"charTip" : "てんのう<br>Emperor of Japan"
+		},{
+		"character" : "電波",
+		"charTip" : "でんぱ<br>electro-magnetic wave"
+		},{
+		"character" : "テンポ",
+		"charTip" : "テンポ<br>tempo"
+		},{
+		"character" : "電流",
+		"charTip" : "でんりゅう<br>electric current"
+		},{
+		"character" : "電力",
+		"charTip" : "でんりょく<br>electric power"
+		},{
+		"character" : "問い合わせ",
+		"charTip" : "といあわせ<br>enquiry,ENQ"
+		},{
+		"character" : "銅",
+		"charTip" : "どう<br>copper"
+		},{
+		"character" : "統一",
+		"charTip" : "とういつ<br>unity,consolidation,uniformity"
+		},{
+		"character" : "同格",
+		"charTip" : "どうかく<br>the same rank,equality,apposition"
+		},{
+		"character" : "峠",
+		"charTip" : "とうげ<br>ridge,(mountain) pass,difficult part"
+		},{
+		"character" : "統計",
+		"charTip" : "とうけい<br>scattering,a scatter,dispersion"
+		},{
+		"character" : "動作",
+		"charTip" : "どうさ<br>action,movements,motions,bearing,behaviour,manners"
+		},{
+		"character" : "東西",
+		"charTip" : "とうざい<br>East and West,whole country"
+		},{
+		"character" : "当日",
+		"charTip" : "とうじつ<br>appointed day,very day"
+		},{
+		"character" : "投書",
+		"charTip" : "とうしょ<br>letter to the editor,letter from a reader,contribution"
+		},{
+		"character" : "登場",
+		"charTip" : "とうじょう<br>entry (on stage)"
+		},{
+		"character" : "どうせ",
+		"charTip" : "どうせ<br>anyhow,in any case,at any rate"
+		},{
+		"character" : "どうぞよろしく",
+		"charTip" : "どうぞよろしく<br>pleased to meet you"
+		},{
+		"character" : "灯台",
+		"charTip" : "とうだい<br>lighthouse"
+		},{
+		"character" : "盗難",
+		"charTip" : "とうなん<br>theft,robbery"
+		},{
+		"character" : "当番",
+		"charTip" : "とうばん<br>being on duty"
+		},{
+		"character" : "等分",
+		"charTip" : "とうぶん<br>division into equal parts"
+		},{
+		"character" : "透明",
+		"charTip" : "とうめい<br>transparency,cleanness"
+		},{
+		"character" : "灯油",
+		"charTip" : "とうゆ<br>lamp oil,kerosene"
+		},{
+		"character" : "東洋",
+		"charTip" : "とうよう<br>Orient"
+		},{
+		"character" : "童話",
+		"charTip" : "どうわ<br>fairy tale"
+		},{
+		"character" : "通り掛かる",
+		"charTip" : "とおりかかる<br>to happen to pass by"
+		},{
+		"character" : "溶かす",
+		"charTip" : "とかす<br>to melt,to dissolve"
+		},{
+		"character" : "尖る",
+		"charTip" : "とがる<br>to taper to a point,to become sharp,to be sour,to look displeased"
+		},{
+		"character" : "どきどき",
+		"charTip" : "どきどき<br>throb,beat (fast)"
+		},{
+		"character" : "溶く",
+		"charTip" : "とく<br>to dissolve (paint)"
+		},{
+		"character" : "退く",
+		"charTip" : "どく<br>(1) to retreat,to recede,to withdraw"
+		},{
+		"character" : "特殊",
+		"charTip" : "とくしゅ<br>special,unique"
+		},{
+		"character" : "特色",
+		"charTip" : "とくしょく<br>characteristic,feature"
+		},{
+		"character" : "特長",
+		"charTip" : "とくちょう<br>forte,merit"
+		},{
+		"character" : "特定",
+		"charTip" : "とくてい<br>specific,special,particular"
+		},{
+		"character" : "特売",
+		"charTip" : "とくばい<br>special sale"
+		},{
+		"character" : "溶け込む",
+		"charTip" : "とけこむ<br>to melt into"
+		},{
+		"character" : "溶ける",
+		"charTip" : "とける<br>to melt,to thaw,to fuse,to dissolve"
+		},{
+		"character" : "退ける",
+		"charTip" : "どける<br>to remove,to take away,to dislodge,to put something out of the way"
+		},{
+		"character" : "床の間",
+		"charTip" : "とこのま<br>alcove"
+		},{
+		"character" : "床屋",
+		"charTip" : "とこや<br>barber"
+		},{
+		"character" : "所々",
+		"charTip" : "ところどころ<br>here and there,some parts (of something)"
+		},{
+		"character" : "都心",
+		"charTip" : "としん<br>heart (of city)"
+		},{
+		"character" : "戸棚",
+		"charTip" : "とだな<br>cupboard,locker,closet,wardrobe"
+		},{
+		"character" : "とっくに",
+		"charTip" : "とっくに<br>long ago,already,a long time ago"
+		},{
+		"character" : "どっと",
+		"charTip" : "どっと<br>suddenly"
+		},{
+		"character" : "整う",
+		"charTip" : "ととのう<br>to be prepared,to be in order,to be put in order,to be arranged"
+		},{
+		"character" : "留まる",
+		"charTip" : "とどまる<br>(1) to be fixed,(2) to abide,to stay (in the one place)"
+		},{
+		"character" : "どなる",
+		"charTip" : "どなる<br>to shout,to yell"
+		},{
+		"character" : "飛び込む",
+		"charTip" : "とびこむ<br>to jump in,to leap in,to plunge into,to dive"
+		},{
+		"character" : "跳ぶ",
+		"charTip" : "とぶ<br>to jump,to fly,to leap"
+		},{
+		"character" : "留まる",
+		"charTip" : "とまる<br>(1) to be fixed,(2) to abide,to stay (in the one place)"
+		},{
+		"character" : "泊める",
+		"charTip" : "とめる<br>to give shelter to,to lodge"
+		},{
+		"character" : "ともかく",
+		"charTip" : "ともかく<br>anyhow,anyway,somehow or other,generally speaking,in any case"
+		},{
+		"character" : "捕える",
+		"charTip" : "とらえる<br>to seize,to grasp,to capture,to arrest"
+		},{
+		"character" : "取り入れる",
+		"charTip" : "とりいれる<br>to harvest,to take in,to adopt"
+		},{
+		"character" : "取り消す",
+		"charTip" : "とりけす<br>to cancel"
+		},{
+		"character" : "取り出す",
+		"charTip" : "とりだす<br>to take out,to produce,to pick out"
+		},{
+		"character" : "採る",
+		"charTip" : "とる<br>(1) to adopt (measure, proposal),(2) to pick (fruit)"
+		},{
+		"character" : "捕る",
+		"charTip" : "とる<br>to take,to catch (fish),to capture"
+		},{
+		"character" : "トレーニング",
+		"charTip" : "トレーニング<br>training"
+		},{
+		"character" : "丼",
+		"charTip" : "どんぶり<br>porcelain bowl,bowl of rice with food on top"
+		},{
+		"character" : "内科",
+		"charTip" : "ないか<br>internist clinic,internal medicine"
+		},{
+		"character" : "内線",
+		"charTip" : "ないせん<br>phone extension,indoor wiring,inner line"
+		},{
+		"character" : "ナイロン",
+		"charTip" : "ナイロン<br>nylon"
+		},{
+		"character" : "治す",
+		"charTip" : "なおす<br>to cure,to heal,to fix,to correct,to repair"
+		},{
+		"character" : "永い",
+		"charTip" : "ながい<br>long,lengthy"
+		},{
+		"character" : "仲直り",
+		"charTip" : "なかなおり<br>reconciliation,make peace with"
+		},{
+		"character" : "長引く",
+		"charTip" : "ながびく<br>to be prolonged,to drag on"
+		},{
+		"character" : "中身",
+		"charTip" : "なかみ<br>contents,interior,substance,filling,(sword) blade"
+		},{
+		"character" : "中味",
+		"charTip" : "なかみ<br>contents,interior,substance,filling,(sword) blade"
+		},{
+		"character" : "中指",
+		"charTip" : "なかゆび<br>middle finger"
+		},{
+		"character" : "仲良し",
+		"charTip" : "なかよし<br>intimate friend,bosom buddy,chum"
+		},{
+		"character" : "慰める",
+		"charTip" : "なぐさめる<br>to comfort,to console"
+		},{
+		"character" : "亡くす",
+		"charTip" : "なくす<br>to lose someone, wife, child, etc"
+		},{
+		"character" : "なぐる",
+		"charTip" : "なぐる<br>to strike,to hit"
+		},{
+		"character" : "為す",
+		"charTip" : "なす<br>to accomplish,to do"
+		},{
+		"character" : "謎謎",
+		"charTip" : "なぞなぞ<br>riddle,puzzle,enigma"
+		},{
+		"character" : "傾らか",
+		"charTip" : "なだらか<br>"
+		},{
+		"character" : "懐かしい",
+		"charTip" : "なつかしい<br>dear,desired,missed"
+		},{
+		"character" : "撫でる",
+		"charTip" : "なでる<br>to brush gently,to stroke"
+		},{
+		"character" : "斜め",
+		"charTip" : "ななめ<br>obliqueness"
+		},{
+		"character" : "なにしろ",
+		"charTip" : "なにしろ<br>at any rate,anyhow,anyway,in any case"
+		},{
+		"character" : "何々",
+		"charTip" : "なになに<br>such and such,What?"
+		},{
+		"character" : "何分",
+		"charTip" : "なにぶん<br>what minute?,how many minutes?"
+		},{
+		"character" : "生意気",
+		"charTip" : "なまいき<br>impertinent,saucy,cheeky,conceit,audacious,brazen"
+		},{
+		"character" : "並木",
+		"charTip" : "なみき<br>roadside tree,row of trees"
+		},{
+		"character" : "倣う",
+		"charTip" : "ならう<br>to imitate,to follow,to emulate"
+		},{
+		"character" : "鳴らす",
+		"charTip" : "ならす<br>to ring,to sound,to chime,to beat,to snort (nose)"
+		},{
+		"character" : "生る",
+		"charTip" : "なる<br>to bear fruit"
+		},{
+		"character" : "馴れる",
+		"charTip" : "なれる<br>to become domesticated,to become tame"
+		},{
+		"character" : "南極",
+		"charTip" : "なんきょく<br>south pole,Antarctic"
+		},{
+		"character" : "なんとなく",
+		"charTip" : "なんとなく<br>somehow or other,for some reason or another"
+		},{
+		"character" : "なんとも",
+		"charTip" : "なんとも<br>nothing (with neg. verb),quite,not a bit"
+		},{
+		"character" : "ナンバー",
+		"charTip" : "ナンバー<br>number"
+		},{
+		"character" : "南米",
+		"charTip" : "なんべい<br>South America"
+		},{
+		"character" : "南北",
+		"charTip" : "なんぼく<br>south and north"
+		},{
+		"character" : "煮える",
+		"charTip" : "にえる<br>to boil,to cook,to be cooked"
+		},{
+		"character" : "匂う",
+		"charTip" : "におう<br>to be fragrant,to smell,to stink"
+		},{
+		"character" : "逃がす",
+		"charTip" : "にがす<br>to let loose,to set free,to let escape"
+		},{
+		"character" : "憎い",
+		"charTip" : "にくい<br>hateful,abominable,poor-looking,detestable"
+		},{
+		"character" : "憎む",
+		"charTip" : "にくむ<br>to hate,to detest"
+		},{
+		"character" : "憎らしい",
+		"charTip" : "にくらしい<br>odious,hateful"
+		},{
+		"character" : "にこにこ",
+		"charTip" : "にこにこ<br>"
+		},{
+		"character" : "濁る",
+		"charTip" : "にごる<br>to become muddy,to get impure"
+		},{
+		"character" : "虹",
+		"charTip" : "にじ<br>rainbow"
+		},{
+		"character" : "日時",
+		"charTip" : "にちじ<br>date and time"
+		},{
+		"character" : "日用品",
+		"charTip" : "にちようひん<br>daily necessities"
+		},{
+		"character" : "日課",
+		"charTip" : "にっか<br>daily lesson,daily work,daily routine"
+		},{
+		"character" : "日程",
+		"charTip" : "にってい<br>agenda"
+		},{
+		"character" : "鈍い",
+		"charTip" : "にぶい<br>dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid"
+		},{
+		"character" : "入社",
+		"charTip" : "にゅうしゃ<br>entry to a company"
+		},{
+		"character" : "女房",
+		"charTip" : "にょうぼう<br>wife"
+		},{
+		"character" : "睨む",
+		"charTip" : "にらむ<br>to glare at,to scowl at,to keep an eye on"
+		},{
+		"character" : "煮る",
+		"charTip" : "にる<br>to boil,to cook"
+		},{
+		"character" : "俄",
+		"charTip" : "にわか<br>sudden,abrupt,unexpected,improvised,offhand"
+		},{
+		"character" : "縫う",
+		"charTip" : "ぬう<br>to sew"
+		},{
+		"character" : "濡らす",
+		"charTip" : "ぬらす<br>to wet,to soak,to dip"
+		},{
+		"character" : "ねじ",
+		"charTip" : "ねじ<br>(a) screw"
+		},{
+		"character" : "捩る",
+		"charTip" : "ねじる<br>to twist"
+		},{
+		"character" : "ネックレス",
+		"charTip" : "ネックレス<br>necklace"
+		},{
+		"character" : "熱する",
+		"charTip" : "ねっする<br>to heat"
+		},{
+		"character" : "寝間着",
+		"charTip" : "ねまき<br>sleep-wear,nightclothes,pyjamas,nightgown,nightdress"
+		},{
+		"character" : "寝巻",
+		"charTip" : "ねまき<br>sleep-wear,nightclothes,pyjamas,nightgown,nightdress"
+		},{
+		"character" : "狙い",
+		"charTip" : "ねらい<br>aim"
+		},{
+		"character" : "狙う",
+		"charTip" : "ねらう<br>to aim at"
+		},{
+		"character" : "年度",
+		"charTip" : "ねんど<br>year,fiscal year,school year,term"
+		},{
+		"character" : "農産物",
+		"charTip" : "のうさんぶつ<br>agricultural produce"
+		},{
+		"character" : "農村",
+		"charTip" : "のうそん<br>agricultural community,farm village,rural"
+		},{
+		"character" : "濃度",
+		"charTip" : "のうど<br>concentration,brightness"
+		},{
+		"character" : "農薬",
+		"charTip" : "のうやく<br>agricultural chemicals"
+		},{
+		"character" : "能率",
+		"charTip" : "のうりつ<br>efficiency"
+		},{
+		"character" : "のこぎり",
+		"charTip" : "のこぎり<br>saw"
+		},{
+		"character" : "残らず",
+		"charTip" : "のこらず<br>all,entirely,completely,without exception"
+		},{
+		"character" : "載せる",
+		"charTip" : "のせる<br>to place on (something),to take on board,to give a ride"
+		},{
+		"character" : "覗く",
+		"charTip" : "のぞく<br>to peep in,to look in,to peek in,to stick out"
+		},{
+		"character" : "延ばす",
+		"charTip" : "のばす<br>to lengthen,to stretch,to reach out,to grow (beard)"
+		},{
+		"character" : "延びる",
+		"charTip" : "のびる<br>to be prolonged"
+		},{
+		"character" : "上り",
+		"charTip" : "のぼり<br>up-train (going to Tokyo),ascent"
+		},{
+		"character" : "上る",
+		"charTip" : "のぼる<br>to ascend,to go up,to climb"
+		},{
+		"character" : "糊",
+		"charTip" : "のり<br>paste,starch"
+		},{
+		"character" : "乗換",
+		"charTip" : "のりかえ<br>(n) transfer (trains, buses, etc.)"
+		},{
+		"character" : "載る",
+		"charTip" : "のる<br>to appear (in print),to be recorded"
+		},{
+		"character" : "鈍い",
+		"charTip" : "のろい<br>dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid"
+		},{
+		"character" : "のろのろ",
+		"charTip" : "のろのろ<br>slowly,sluggishly"
+		},{
+		"character" : "呑気",
+		"charTip" : "のんき<br>carefree,optimistic,careless,reckless,heedless"
+		},{
+		"character" : "灰色",
+		"charTip" : "はいいろ<br>grey,gray,ashen"
+		},{
+		"character" : "俳句",
+		"charTip" : "はいく<br>haiku poetry"
+		},{
+		"character" : "拝見",
+		"charTip" : "はいけん<br>(hum) (pol) seeing,look at"
+		},{
+		"character" : "売店",
+		"charTip" : "ばいてん<br>shop,stand"
+		},{
+		"character" : "バイバイ",
+		"charTip" : "バイバイ<br>"
+		},{
+		"character" : "売買",
+		"charTip" : "ばいばい<br>trade,buying and selling"
+		},{
+		"character" : "這う",
+		"charTip" : "はう<br>to creep,to crawl"
+		},{
+		"character" : "生える",
+		"charTip" : "はえる<br>(1) to grow,to spring up,(2) to cut (teeth)"
+		},{
+		"character" : "剥す",
+		"charTip" : "はがす<br>(v5s) to tear off,to peel off,to rip off"
+		},{
+		"character" : "ばからしい",
+		"charTip" : "ばからしい<br>absurd"
+		},{
+		"character" : "秤",
+		"charTip" : "はかり<br>scales,weighing machine"
+		},{
+		"character" : "量る",
+		"charTip" : "はかる<br>to measure,to weigh,to survey"
+		},{
+		"character" : "測る",
+		"charTip" : "はかる<br>to measure,to weigh,to survey"
+		},{
+		"character" : "吐き気",
+		"charTip" : "はきけ<br>nausea,sickness in the stomach"
+		},{
+		"character" : "はきはき",
+		"charTip" : "はきはき<br>lucidly"
+		},{
+		"character" : "掃く",
+		"charTip" : "はく<br>to sweep,to brush,to gather up"
+		},{
+		"character" : "歯車",
+		"charTip" : "はぐるま<br>gear,cog-wheel"
+		},{
+		"character" : "バケツ",
+		"charTip" : "バケツ<br>bucket,pail"
+		},{
+		"character" : "挟まる",
+		"charTip" : "はさまる<br>to get between,to be caught in"
+		},{
+		"character" : "挟む",
+		"charTip" : "はさむ<br>to interpose,to hold between,to insert"
+		},{
+		"character" : "箸",
+		"charTip" : "はし<br>chopsticks"
+		},{
+		"character" : "梯子",
+		"charTip" : "はしご<br>ladder,stairs"
+		},{
+		"character" : "始めに",
+		"charTip" : "はじめに<br>to begin with,first of all"
+		},{
+		"character" : "初めに",
+		"charTip" : "はじめに<br>"
+		},{
+		"character" : "はじめまして",
+		"charTip" : "はじめまして<br>How do you do?,I am glad to meet you"
+		},{
+		"character" : "斜",
+		"charTip" : "はす<br>"
+		},{
+		"character" : "外れる",
+		"charTip" : "はずれる<br>to be disconnected,to get out of place,to be off,to be out (e.g. of gear)"
+		},{
+		"character" : "パターン",
+		"charTip" : "パターン<br>pattern"
+		},{
+		"character" : "肌着",
+		"charTip" : "はだぎ<br>underwear"
+		},{
+		"character" : "果して",
+		"charTip" : "はたして<br>as was expected,really"
+		},{
+		"character" : "鉢",
+		"charTip" : "はち<br>a bowl,a pot"
+		},{
+		"character" : "×",
+		"charTip" : "ばつ<br>"
+		},{
+		"character" : "発揮",
+		"charTip" : "はっき<br>exhibition,demonstration,utilization,display"
+		},{
+		"character" : "バック",
+		"charTip" : "バック<br>back"
+		},{
+		"character" : "発射",
+		"charTip" : "はっしゃ<br>firing,shooting,discharge,catapult"
+		},{
+		"character" : "発想",
+		"charTip" : "はっそう<br>expression (music),conceptualization"
+		},{
+		"character" : "発電",
+		"charTip" : "はつでん<br>generation (e.g. power)"
+		},{
+		"character" : "発売",
+		"charTip" : "はつばい<br>sale"
+		},{
+		"character" : "派手",
+		"charTip" : "はで<br>showy,loud,gay,flashy,gaudy"
+		},{
+		"character" : "話合い",
+		"charTip" : "はなしあい<br>discussion,conference"
+		},{
+		"character" : "話し掛ける",
+		"charTip" : "はなしかける<br>to accost a person,to talk (to someone)"
+		},{
+		"character" : "話中",
+		"charTip" : "はなしちゅう<br>while talking,the line is busy"
+		},{
+		"character" : "甚だしい",
+		"charTip" : "はなはだしい<br>extreme,excessive,terrible"
+		},{
+		"character" : "花火",
+		"charTip" : "はなび<br>fireworks"
+		},{
+		"character" : "花嫁",
+		"charTip" : "はなよめ<br>bride"
+		},{
+		"character" : "放れる",
+		"charTip" : "はなれる<br>to leave,to get free,to cut oneself off"
+		},{
+		"character" : "羽根",
+		"charTip" : "はね<br>shuttlecock"
+		},{
+		"character" : "ばね",
+		"charTip" : "ばね<br>spring (e.g. coil, leaf)"
+		},{
+		"character" : "跳ねる",
+		"charTip" : "はねる<br>to jump,to leap"
+		},{
+		"character" : "破片",
+		"charTip" : "はへん<br>fragment,splinter,broken piece"
+		},{
+		"character" : "歯磨き",
+		"charTip" : "はみがき<br>dentifrice,toothpaste"
+		},{
+		"character" : "はめる",
+		"charTip" : "はめる<br>(col) to get in,to insert,to put on,to make love"
+		},{
+		"character" : "早口",
+		"charTip" : "はやくち<br>fast-talking"
+		},{
+		"character" : "流行る",
+		"charTip" : "はやる<br>to flourish,to thrive,to be popular,to come into fashion"
+		},{
+		"character" : "払い込む",
+		"charTip" : "はらいこむ<br>to deposit,to pay in"
+		},{
+		"character" : "払い戻す",
+		"charTip" : "はらいもどす<br>to repay,to pay back"
+		},{
+		"character" : "バランス",
+		"charTip" : "バランス<br>balance"
+		},{
+		"character" : "針金",
+		"charTip" : "はりがね<br>wire"
+		},{
+		"character" : "張り切る",
+		"charTip" : "はりきる<br>to be in high spirits,to be full of vigor"
+		},{
+		"character" : "反映",
+		"charTip" : "はんえい<br>reflection,influence"
+		},{
+		"character" : "半径",
+		"charTip" : "はんけい<br>radius"
+		},{
+		"character" : "判子",
+		"charTip" : "はんこ<br>seal (used for signature)"
+		},{
+		"character" : "万歳",
+		"charTip" : "ばんざい<br>hurrah, cheers"
+		},{
+		"character" : "判事",
+		"charTip" : "はんじ<br>judge,judiciary"
+		},{
+		"character" : "反省",
+		"charTip" : "はんせい<br>reflection,reconsideration,introspection,meditation,contemplation"
+		},{
+		"character" : "番地",
+		"charTip" : "ばんち<br>house number,address"
+		},{
+		"character" : "パンツ",
+		"charTip" : "パンツ<br>underpants"
+		},{
+		"character" : "バンド",
+		"charTip" : "バンド<br>band"
+		},{
+		"character" : "半島",
+		"charTip" : "はんとう<br>peninsula"
+		},{
+		"character" : "ハンドル",
+		"charTip" : "ハンドル<br>handle,steering wheel"
+		},{
+		"character" : "日当たり",
+		"charTip" : "ひあたり<br>exposure to the sun,sunny place"
+		},{
+		"character" : "日帰り",
+		"charTip" : "ひがえり<br>day trip"
+		},{
+		"character" : "比較的",
+		"charTip" : "ひかくてき<br>comparatively,relatively"
+		},{
+		"character" : "日陰",
+		"charTip" : "ひかげ<br>shadow"
+		},{
+		"character" : "ぴかぴか",
+		"charTip" : "ぴかぴか<br>glitter,sparkle"
+		},{
+		"character" : "引受る",
+		"charTip" : "ひきうける<br>to undertake,to take up,to take over"
+		},{
+		"character" : "引返す",
+		"charTip" : "ひきかえす<br>to repeat,to send back,to bring back"
+		},{
+		"character" : "引算",
+		"charTip" : "ひきざん<br>subtraction"
+		},{
+		"character" : "引出す",
+		"charTip" : "ひきだす<br>to pull out,to take out,to draw out,to withdraw"
+		},{
+		"character" : "引き止める",
+		"charTip" : "ひきとめる<br>to detain,to check,to restrain"
+		},{
+		"character" : "卑怯",
+		"charTip" : "ひきょう<br>cowardice,meanness,unfairness"
+		},{
+		"character" : "引分け",
+		"charTip" : "ひきわけ<br>a draw (in competition),tie game"
+		},{
+		"character" : "髭",
+		"charTip" : "ひげ<br>moustache,beard,whiskers"
+		},{
+		"character" : "陽射",
+		"charTip" : "ひざし<br>sunlight,rays of the sun"
+		},{
+		"character" : "肘",
+		"charTip" : "ひじ<br>elbow"
+		},{
+		"character" : "ピストル",
+		"charTip" : "ピストル<br>pistol"
+		},{
+		"character" : "ビタミン",
+		"charTip" : "ビタミン<br>vitamin"
+		},{
+		"character" : "ぴたり",
+		"charTip" : "ぴたり<br>"
+		},{
+		"character" : "引っ掛かる",
+		"charTip" : "ひっかかる<br>to be caught in,to be stuck in,to be cheated"
+		},{
+		"character" : "筆記",
+		"charTip" : "ひっき<br>(taking) notes,copying"
+		},{
+		"character" : "引っ繰り返す",
+		"charTip" : "ひっくりかえす<br>to turn over,to overturn,to knock over,to upset,to turn inside out"
+		},{
+		"character" : "引っ繰り返る",
+		"charTip" : "ひっくりかえる<br>to be overturned,to be upset,to topple over,to be reversed"
+		},{
+		"character" : "引越し",
+		"charTip" : "ひっこし<br>moving (dwelling etc.),changing residence"
+		},{
+		"character" : "引っ込む",
+		"charTip" : "ひっこむ<br>to draw back,to sink,to cave in"
+		},{
+		"character" : "筆者",
+		"charTip" : "ひっしゃ<br>writer,author"
+		},{
+		"character" : "必需品",
+		"charTip" : "ひつじゅひん<br>necessities,necessary article,requisite,essential"
+		},{
+		"character" : "人差指",
+		"charTip" : "ひとさしゆび<br>index finger"
+		},{
+		"character" : "一通り",
+		"charTip" : "ひととおり<br>ordinary,usual,in general,briefly"
+		},{
+		"character" : "人通り",
+		"charTip" : "ひとどおり<br>pedestrian traffic"
+		},{
+		"character" : "ひとまず",
+		"charTip" : "ひとまず<br>for the present,once,in outline"
+		},{
+		"character" : "瞳",
+		"charTip" : "ひとみ<br>pupil (of eye)"
+		},{
+		"character" : "一休み",
+		"charTip" : "ひとやすみ<br>a rest"
+		},{
+		"character" : "独り言",
+		"charTip" : "ひとりごと<br>a soliloquy,a monologue,speaking to oneself"
+		},{
+		"character" : "ひとりでに",
+		"charTip" : "ひとりでに<br>by itself,automatically,naturally"
+		},{
+		"character" : "ビニール",
+		"charTip" : "ビニール<br>vinyl"
+		},{
+		"character" : "皮肉",
+		"charTip" : "ひにく<br>cynicism,sarcasm"
+		},{
+		"character" : "日日",
+		"charTip" : "ひにち<br>every day,daily,day after day"
+		},{
+		"character" : "捻る",
+		"charTip" : "ひねる<br>to turn (a switch) on or off,to twist,to puzzle over"
+		},{
+		"character" : "日の入り",
+		"charTip" : "ひのいり<br>sunset"
+		},{
+		"character" : "日の出",
+		"charTip" : "ひので<br>sunrise"
+		},{
+		"character" : "響き",
+		"charTip" : "ひびき<br>echo,sound,reverberation,noise"
+		},{
+		"character" : "響く",
+		"charTip" : "ひびく<br>to resound"
+		},{
+		"character" : "皮膚",
+		"charTip" : "ひふ<br>skin"
+		},{
+		"character" : "冷やす",
+		"charTip" : "ひやす<br>to cool,to refrigerate"
+		},{
+		"character" : "ひゃっかじてん",
+		"charTip" : "ひゃっかじてん<br>encyclopedia"
+		},{
+		"character" : "美容",
+		"charTip" : "びよう<br>beauty of figure or form"
+		},{
+		"character" : "表紙",
+		"charTip" : "ひょうし<br>front cover,binding"
+		},{
+		"character" : "標識",
+		"charTip" : "ひょうしき<br>sign,mark"
+		},{
+		"character" : "標準",
+		"charTip" : "ひょうじゅん<br>standard,level"
+		},{
+		"character" : "標本",
+		"charTip" : "ひょうほん<br>example,specimen"
+		},{
+		"character" : "評論",
+		"charTip" : "ひょうろん<br>criticism,critique"
+		},{
+		"character" : "平仮名",
+		"charTip" : "ひらがな<br>hiragana,47 syllables,the cursive syllabary"
+		},{
+		"character" : "ビルディング",
+		"charTip" : "ビルディング<br>building"
+		},{
+		"character" : "昼寝",
+		"charTip" : "ひるね<br>nap (at home),siesta"
+		},{
+		"character" : "広げる",
+		"charTip" : "ひろげる<br>to spread,to extend,to expand,to enlarge"
+		},{
+		"character" : "広さ",
+		"charTip" : "ひろさ<br>extent"
+		},{
+		"character" : "広場",
+		"charTip" : "ひろば<br>plaza"
+		},{
+		"character" : "広々",
+		"charTip" : "ひろびろ<br>extensive,spacious"
+		},{
+		"character" : "広める",
+		"charTip" : "ひろめる<br>to broaden,to propagate"
+		},{
+		"character" : "ピンク",
+		"charTip" : "ピンク<br>pink"
+		},{
+		"character" : "便箋",
+		"charTip" : "びんせん<br>writing paper,stationery"
+		},{
+		"character" : "瓶詰",
+		"charTip" : "びんづめ<br>bottling,bottled"
+		},{
+		"character" : "ファスナー",
+		"charTip" : "ファスナー<br>fastener,zipper"
+		},{
+		"character" : "風船",
+		"charTip" : "ふうせん<br>balloon"
+		},{
+		"character" : "不運",
+		"charTip" : "ふうん<br>unlucky,misfortune,bad luck,fate"
+		},{
+		"character" : "殖える",
+		"charTip" : "ふえる<br>to increase,to multiply"
+		},{
+		"character" : "深まる",
+		"charTip" : "ふかまる<br>to deepen,to heighten,to intensify"
+		},{
+		"character" : "不規則",
+		"charTip" : "ふきそく<br>irregularity,unsteadiness,disorderly"
+		},{
+		"character" : "普及",
+		"charTip" : "ふきゅう<br>diffusion,spread"
+		},{
+		"character" : "付近",
+		"charTip" : "ふきん<br>neighbourhood,vicinity,environs"
+		},{
+		"character" : "拭く",
+		"charTip" : "ふく<br>to wipe,to dry"
+		},{
+		"character" : "副詞",
+		"charTip" : "ふくし<br>adverb"
+		},{
+		"character" : "複写",
+		"charTip" : "ふくしゃ<br>copy,duplicate"
+		},{
+		"character" : "複数",
+		"charTip" : "ふくすう<br>plural,multiple"
+		},{
+		"character" : "含める",
+		"charTip" : "ふくめる<br>to include,to instruct,to make one understand"
+		},{
+		"character" : "膨らます",
+		"charTip" : "ふくらます<br>to swell,to expand,to inflate,to bulge"
+		},{
+		"character" : "膨らむ",
+		"charTip" : "ふくらむ<br>to expand,to swell (out),to get big,to become inflated"
+		},{
+		"character" : "不潔",
+		"charTip" : "ふけつ<br>unclean,dirty,filthy,impure"
+		},{
+		"character" : "更ける",
+		"charTip" : "ふける<br>to get late,to advance,to wear on"
+		},{
+		"character" : "符号",
+		"charTip" : "ふごう<br>sign,mark,symbol"
+		},{
+		"character" : "夫妻",
+		"charTip" : "ふさい<br>man and wife,married couple"
+		},{
+		"character" : "塞がる",
+		"charTip" : "ふさがる<br>to be plugged up,to be shut up"
+		},{
+		"character" : "塞ぐ",
+		"charTip" : "ふさぐ<br>to stop up,to close up,to block (up)"
+		},{
+		"character" : "ふざける",
+		"charTip" : "ふざける<br>to romp,to gambol,to frolic,to joke"
+		},{
+		"character" : "無沙汰",
+		"charTip" : "ぶさた<br>neglecting to stay in contact"
+		},{
+		"character" : "武士",
+		"charTip" : "ぶし<br>warrior,samurai"
+		},{
+		"character" : "部首",
+		"charTip" : "ぶしゅ<br>radical (of a kanji character)"
+		},{
+		"character" : "襖",
+		"charTip" : "ふすま<br>sliding screen"
+		},{
+		"character" : "附属",
+		"charTip" : "ふぞく<br>attached,belonging,affiliated"
+		},{
+		"character" : "蓋",
+		"charTip" : "ふた<br>cover,lid,cap"
+		},{
+		"character" : "不通",
+		"charTip" : "ふつう<br>suspension,interruption,stoppage,tie-up,cessation"
+		},{
+		"character" : "ぶつかる",
+		"charTip" : "ぶつかる<br>to strike,to collide with"
+		},{
+		"character" : "ぶつける",
+		"charTip" : "ぶつける<br>to knock,to run into,to nail on,to strike hard,to hit and attack"
+		},{
+		"character" : "物騒",
+		"charTip" : "ぶっそう<br>dangerous,disturbed,insecure"
+		},{
+		"character" : "ぶつぶつ",
+		"charTip" : "ぶつぶつ<br>grumbling,complaining in a small voice"
+		},{
+		"character" : "船便",
+		"charTip" : "ふなびん<br>surface mail (ship)"
+		},{
+		"character" : "部品",
+		"charTip" : "ぶひん<br>parts,accessories"
+		},{
+		"character" : "吹雪",
+		"charTip" : "ふぶき<br>snow storm"
+		},{
+		"character" : "父母",
+		"charTip" : "ふぼ<br>father and mother,parents"
+		},{
+		"character" : "踏切",
+		"charTip" : "ふみきり<br>railway crossing,level crossing,starting line,scratch,crossover"
+		},{
+		"character" : "麓",
+		"charTip" : "ふもと<br>the foot,the bottom,the base (of a mountain)"
+		},{
+		"character" : "増やす",
+		"charTip" : "ふやす<br>to increase,to add to,to augment"
+		},{
+		"character" : "殖やす",
+		"charTip" : "ふやす<br>to increase,to add to,to augment"
+		},{
+		"character" : "フライパン",
+		"charTip" : "フライパン<br>fry pan,frying pan"
+		},{
+		"character" : "ブラウス",
+		"charTip" : "ブラウス<br>blouse"
+		},{
+		"character" : "ぶらさげる",
+		"charTip" : "ぶらさげる<br>to hang,to suspend,to dangle,to swing"
+		},{
+		"character" : "ブラシ",
+		"charTip" : "ブラシ<br>brushy,brush"
+		},{
+		"character" : "プラスチック",
+		"charTip" : "プラスチック<br>plastic"
+		},{
+		"character" : "プラットホーム",
+		"charTip" : "プラットホーム<br>platform"
+		},{
+		"character" : "フリー",
+		"charTip" : "フリー<br>free"
+		},{
+		"character" : "振り仮名",
+		"charTip" : "ふりがな<br>,pronunciation key"
+		},{
+		"character" : "プリント",
+		"charTip" : "プリント<br>print,handout"
+		},{
+		"character" : "振舞う",
+		"charTip" : "ふるまう<br>to behave,to conduct oneself,to entertain (vt)"
+		},{
+		"character" : "ブローチ",
+		"charTip" : "ブローチ<br>brooch"
+		},{
+		"character" : "プログラム",
+		"charTip" : "プログラム<br>program"
+		},{
+		"character" : "風呂敷",
+		"charTip" : "ふろしき<br>wrapping cloth,cloth wrapper"
+		},{
+		"character" : "ふわふわ",
+		"charTip" : "ふわふわ<br>light,soft"
+		},{
+		"character" : "噴火",
+		"charTip" : "ふんか<br>eruption"
+		},{
+		"character" : "分解",
+		"charTip" : "ぶんかい<br>analysis,disassembly"
+		},{
+		"character" : "文芸",
+		"charTip" : "ぶんげい<br>literature,art and literature,belles-lettres"
+		},{
+		"character" : "文献",
+		"charTip" : "ぶんけん<br>literature,books (reference)"
+		},{
+		"character" : "噴水",
+		"charTip" : "ふんすい<br>water fountain"
+		},{
+		"character" : "分数",
+		"charTip" : "ぶんすう<br>fraction (in math)"
+		},{
+		"character" : "文体",
+		"charTip" : "ぶんたい<br>literary style"
+		},{
+		"character" : "分布",
+		"charTip" : "ぶんぷ<br>distribution"
+		},{
+		"character" : "文房具",
+		"charTip" : "ぶんぼうぐ<br>stationery"
+		},{
+		"character" : "文脈",
+		"charTip" : "ぶんみゃく<br>context"
+		},{
+		"character" : "分量",
+		"charTip" : "ぶんりょう<br>amount,quantity"
+		},{
+		"character" : "分類",
+		"charTip" : "ぶんるい<br>classification"
+		},{
+		"character" : "閉会",
+		"charTip" : "へいかい<br>closure"
+		},{
+		"character" : "平気",
+		"charTip" : "へいき<br>coolness,calmness,composure,unconcern"
+		},{
+		"character" : "並行",
+		"charTip" : "へいこう<br>(going) side by side,concurrent,abreast,at the same time"
+		},{
+		"character" : "平日",
+		"charTip" : "へいじつ<br>weekday,ordinary days"
+		},{
+		"character" : "兵隊",
+		"charTip" : "へいたい<br>soldier,sailor"
+		},{
+		"character" : "平凡",
+		"charTip" : "へいぼん<br>common,commonplace,ordinary,mediocre"
+		},{
+		"character" : "平野",
+		"charTip" : "へいや<br>plain,open field"
+		},{
+		"character" : "凹む",
+		"charTip" : "へこむ<br>to be dented,to be indented,to yield to,to give,to sink,to collapse,to cave in,to be snubbed"
+		},{
+		"character" : "へそ",
+		"charTip" : "へそ<br>navel,belly-button"
+		},{
+		"character" : "隔てる",
+		"charTip" : "へだてる<br>to be shut out"
+		},{
+		"character" : "別荘",
+		"charTip" : "べっそう<br>holiday house,villa"
+		},{
+		"character" : "別々",
+		"charTip" : "べつべつ<br>separately,individually"
+		},{
+		"character" : "ベテラン",
+		"charTip" : "ベテラン<br>veteran"
+		},{
+		"character" : "ヘリコプター",
+		"charTip" : "ヘリコプター<br>helicopter"
+		},{
+		"character" : "へる",
+		"charTip" : "へる<br>to decrease (in size or number),to diminish,to abate"
+		},{
+		"character" : "ぺん",
+		"charTip" : "ぺん<br>pen"
+		},{
+		"character" : "編集",
+		"charTip" : "へんしゅう<br>editing,compilation,editorial (e.g. committee)"
+		},{
+		"character" : "便所",
+		"charTip" : "べんじょ<br>toilet,lavatory,rest room,latrine,comfort station"
+		},{
+		"character" : "ペンチ",
+		"charTip" : "ペンチ<br>(abbr) pliers (lit: pinchers)"
+		},{
+		"character" : "望遠鏡",
+		"charTip" : "ぼうえんきょう<br>telescope"
+		},{
+		"character" : "方角",
+		"charTip" : "ほうがく<br>direction,way,compass point"
+		},{
+		"character" : "箒",
+		"charTip" : "ほうき<br>(n) broom"
+		},{
+		"character" : "方言",
+		"charTip" : "ほうげん<br>dialect"
+		},{
+		"character" : "坊さん",
+		"charTip" : "ぼうさん<br>Buddhist priest,monk"
+		},{
+		"character" : "防止",
+		"charTip" : "ぼうし<br>prevention,check"
+		},{
+		"character" : "方針",
+		"charTip" : "ほうしん<br>objective,plan,policy"
+		},{
+		"character" : "包装",
+		"charTip" : "ほうそう<br>packing,wrapping"
+		},{
+		"character" : "法則",
+		"charTip" : "ほうそく<br>law,rule"
+		},{
+		"character" : "包帯",
+		"charTip" : "ほうたい<br>bandage,dressing"
+		},{
+		"character" : "膨大",
+		"charTip" : "ぼうだい<br>huge,bulky,enormous,extensive,swelling,expansion"
+		},{
+		"character" : "庖丁",
+		"charTip" : "ほうちょう<br>kitchen knife,carving knife"
+		},{
+		"character" : "方程式",
+		"charTip" : "ほうていしき<br>equation"
+		},{
+		"character" : "防犯",
+		"charTip" : "ぼうはん<br>prevention of crime"
+		},{
+		"character" : "方面",
+		"charTip" : "ほうめん<br>direction,district,field (e.g., of study)"
+		},{
+		"character" : "坊や",
+		"charTip" : "ぼうや<br>boy"
+		},{
+		"character" : "放る",
+		"charTip" : "ほうる<br>to let go"
+		},{
+		"character" : "ボーナス",
+		"charTip" : "ボーナス<br>bonus"
+		},{
+		"character" : "朗らか",
+		"charTip" : "ほがらか<br>brightness,cheerfulness,melodious"
+		},{
+		"character" : "牧場",
+		"charTip" : "ぼくじょう<br>(1) farm (livestock),(2) pasture land,meadow,grazing land"
+		},{
+		"character" : "牧畜",
+		"charTip" : "ぼくちく<br>stock-farming"
+		},{
+		"character" : "保健",
+		"charTip" : "ほけん<br>health preservation,hygiene,sanitation"
+		},{
+		"character" : "募集",
+		"charTip" : "ぼしゅう<br>recruiting,taking applications"
+		},{
+		"character" : "干す",
+		"charTip" : "ほす<br>to air,to dry,to desiccate,to drain (off),to drink up"
+		},{
+		"character" : "ポスター",
+		"charTip" : "ポスター<br>poster"
+		},{
+		"character" : "北極",
+		"charTip" : "ほっきょく<br>North Pole"
+		},{
+		"character" : "坊っちゃん",
+		"charTip" : "ぼっちゃん<br>son (of others)"
+		},{
+		"character" : "ほどく",
+		"charTip" : "ほどく<br>to unfasten"
+		},{
+		"character" : "堀",
+		"charTip" : "ほり<br>moat,canal"
+		},{
+		"character" : "掘る",
+		"charTip" : "ほる<br>to dig,to excavate"
+		},{
+		"character" : "彫る",
+		"charTip" : "ほる<br>to carve,to engrave,to sculpture,to chisel"
+		},{
+		"character" : "ぼろ",
+		"charTip" : "ぼろ<br>rag,scrap,tattered clothes,fault (esp. in a pretense)"
+		},{
+		"character" : "盆",
+		"charTip" : "ぼん<br>Lantern Festival,Festival of the Dead,tray"
+		},{
+		"character" : "盆地",
+		"charTip" : "ぼんち<br>basin (e.g. between mountains)"
+		},{
+		"character" : "本部",
+		"charTip" : "ほんぶ<br>headquarters"
+		},{
+		"character" : "本来",
+		"charTip" : "ほんらい<br>essentially,naturally,by nature"
+		},{
+		"character" : "まあまあ",
+		"charTip" : "まあまあ<br>so-so"
+		},{
+		"character" : "枚数",
+		"charTip" : "まいすう<br>the number of flat things"
+		},{
+		"character" : "毎度",
+		"charTip" : "まいど<br>each time,common service-sector greeting"
+		},{
+		"character" : "マイナス",
+		"charTip" : "マイナス<br>minus"
+		},{
+		"character" : "巻く",
+		"charTip" : "まく<br>to wind,to coil,to roll"
+		},{
+		"character" : "蒔く",
+		"charTip" : "まく<br>to sow (seeds)"
+		},{
+		"character" : "撒く",
+		"charTip" : "まく<br>to scatter,to sprinkle,to sow"
+		},{
+		"character" : "枕",
+		"charTip" : "まくら<br>pillow,bolster"
+		},{
+		"character" : "曲げる",
+		"charTip" : "まげる<br>to bend,to crook,to lean"
+		},{
+		"character" : "まごまご",
+		"charTip" : "まごまご<br>confused"
+		},{
+		"character" : "摩擦",
+		"charTip" : "まさつ<br>friction,rubbing,rubdown,chafe"
+		},{
+		"character" : "混ざる",
+		"charTip" : "まざる<br>to be mixed,to be blended with,to associate with,to mingle with,to join"
+		},{
+		"character" : "交ざる",
+		"charTip" : "まざる<br>to be mixed,to be blended with,to associate with,to mingle with,to join"
+		},{
+		"character" : "混じる",
+		"charTip" : "まじる<br>to be mixed,to be blended with,to associate with"
+		},{
+		"character" : "交じる",
+		"charTip" : "まじる<br>to be mixed,to be blended with,to associate with"
+		},{
+		"character" : "マスク",
+		"charTip" : "マスク<br>mask"
+		},{
+		"character" : "混ぜる",
+		"charTip" : "まぜる<br>to mix,to stir"
+		},{
+		"character" : "交ぜる",
+		"charTip" : "まぜる<br>to be mixed,to be blended with"
+		},{
+		"character" : "またぐ",
+		"charTip" : "またぐ<br>to straddle"
+		},{
+		"character" : "又は",
+		"charTip" : "または<br>or,otherwise"
+		},{
+		"character" : "待合室",
+		"charTip" : "まちあいしつ<br>waiting room"
+		},{
+		"character" : "待ち合わせる",
+		"charTip" : "まちあわせる<br>to rendezvous,to meet at a prearranged place and time"
+		},{
+		"character" : "街角",
+		"charTip" : "まちかど<br>street corner"
+		},{
+		"character" : "真っ暗",
+		"charTip" : "まっくら<br>total darkness,shortsightedness,pitch dark"
+		},{
+		"character" : "真っ黒",
+		"charTip" : "まっくろ<br>pitch black"
+		},{
+		"character" : "真っ青",
+		"charTip" : "まっさお<br>deep blue,ghastly pale"
+		},{
+		"character" : "真っ先",
+		"charTip" : "まっさき<br>the head,the foremost,beginning"
+		},{
+		"character" : "真っ白",
+		"charTip" : "まっしろ<br>pure white"
+		},{
+		"character" : "祭る",
+		"charTip" : "まつる<br>to deify,to enshrine"
+		},{
+		"character" : "窓口",
+		"charTip" : "まどぐち<br>ticket window"
+		},{
+		"character" : "纏まる",
+		"charTip" : "まとまる<br>to be collected,to be settled,to be in order"
+		},{
+		"character" : "纏める",
+		"charTip" : "まとめる<br>to put in order,to collect,to bring to a conclusion"
+		},{
+		"character" : "真似る",
+		"charTip" : "まねる<br>to mimic,to imitate"
+		},{
+		"character" : "まぶしい",
+		"charTip" : "まぶしい<br>dazzling,radiant"
+		},{
+		"character" : "まぶた",
+		"charTip" : "まぶた<br>eyelids"
+		},{
+		"character" : "マフラー",
+		"charTip" : "マフラー<br>muffler,scarf"
+		},{
+		"character" : "間も無く",
+		"charTip" : "まもなく<br>soon,before long,in a short time"
+		},{
+		"character" : "マラソン",
+		"charTip" : "マラソン<br>marathon"
+		},{
+		"character" : "円い",
+		"charTip" : "まるい<br>round,circular,spherical"
+		},{
+		"character" : "稀",
+		"charTip" : "まれ<br>rare,seldom"
+		},{
+		"character" : "回り道",
+		"charTip" : "まわりみち<br>detour"
+		},{
+		"character" : "満員",
+		"charTip" : "まんいん<br>full house,no vacancy,sold out"
+		},{
+		"character" : "マンション",
+		"charTip" : "マンション<br>large apartment,apartment house"
+		},{
+		"character" : "満点",
+		"charTip" : "まんてん<br>perfect score"
+		},{
+		"character" : "見送る",
+		"charTip" : "みおくる<br>(1) to see off,to farewell,(2) to escort,(3) to let pass"
+		},{
+		"character" : "見下ろす",
+		"charTip" : "みおろす<br>to overlook,to command a view of,to look down on something"
+		},{
+		"character" : "見掛け",
+		"charTip" : "みかけ<br>outward appearance"
+		},{
+		"character" : "三日月",
+		"charTip" : "みかづき<br>new moon,crescent moon"
+		},{
+		"character" : "岬",
+		"charTip" : "みさき<br>cape (on coast)"
+		},{
+		"character" : "みじめ",
+		"charTip" : "みじめ<br>(arch) sad,pitiful,wretched"
+		},{
+		"character" : "ミシン",
+		"charTip" : "ミシン<br>sewing machine"
+		},{
+		"character" : "店屋",
+		"charTip" : "みせや<br>store,shop"
+		},{
+		"character" : "見出し",
+		"charTip" : "みだし<br>heading,caption,subtitle,index"
+		},{
+		"character" : "道順",
+		"charTip" : "みちじゅん<br>itinerary,route"
+		},{
+		"character" : "見付かる",
+		"charTip" : "みつかる<br>to be found,to be discovered"
+		},{
+		"character" : "見付ける",
+		"charTip" : "みつける<br>to be familiar,to discover,to detect"
+		},{
+		"character" : "みっともない",
+		"charTip" : "みっともない<br>shameful,indecent"
+		},{
+		"character" : "見直す",
+		"charTip" : "みなおす<br>to look again,to get a better opinion of"
+		},{
+		"character" : "見慣れる",
+		"charTip" : "みなれる<br>to become used to seeing,to be familiar with"
+		},{
+		"character" : "醜い",
+		"charTip" : "みにくい<br>ugly"
+		},{
+		"character" : "実る",
+		"charTip" : "みのる<br>to bear fruit,to ripen"
+		},{
+		"character" : "身分",
+		"charTip" : "みぶん<br>social position,social status"
+		},{
+		"character" : "見本",
+		"charTip" : "みほん<br>sample"
+		},{
+		"character" : "見舞う",
+		"charTip" : "みまう<br>to ask after (health),to visit"
+		},{
+		"character" : "未満",
+		"charTip" : "みまん<br>less than,insufficient"
+		},{
+		"character" : "名字",
+		"charTip" : "みょうじ<br>surname,family name"
+		},{
+		"character" : "ミリ",
+		"charTip" : "（メートル）<br>milli-,10^-3"
+		},{
+		"character" : "診る",
+		"charTip" : "みる<br>to examine (medical)"
+		},{
+		"character" : "民間",
+		"charTip" : "みんかん<br>private,civilian,civil,popular,folk,unofficial"
+		},{
+		"character" : "民謡",
+		"charTip" : "みんよう<br>folk song,popular song"
+		},{
+		"character" : "向う",
+		"charTip" : "むかう<br>(v5u) to face,to go towards"
+		},{
+		"character" : "剥く",
+		"charTip" : "むく<br>to peel,to skin,to pare,to hull"
+		},{
+		"character" : "無限",
+		"charTip" : "むげん<br>infinite"
+		},{
+		"character" : "無地",
+		"charTip" : "むじ<br>plain,unfigured"
+		},{
+		"character" : "蒸し暑い",
+		"charTip" : "むしあつい<br>humid,sultry"
+		},{
+		"character" : "矛盾",
+		"charTip" : "むじゅん<br>contradiction,inconsistency"
+		},{
+		"character" : "蒸す",
+		"charTip" : "むす<br>to steam,to poultice,to be sultry"
+		},{
+		"character" : "無数",
+		"charTip" : "むすう<br>countless number,infinite number"
+		},{
+		"character" : "紫",
+		"charTip" : "むらさき<br>purple colour,violet"
+		},{
+		"character" : "群れ",
+		"charTip" : "むれ<br>group,crowd,flock,herd"
+		},{
+		"character" : "姪",
+		"charTip" : "めい<br>niece"
+		},{
+		"character" : "名作",
+		"charTip" : "めいさく<br>masterpiece"
+		},{
+		"character" : "名刺",
+		"charTip" : "めいし<br>business card"
+		},{
+		"character" : "名詞",
+		"charTip" : "めいし<br>noun"
+		},{
+		"character" : "名所",
+		"charTip" : "めいしょ<br>famous place"
+		},{
+		"character" : "命ずる",
+		"charTip" : "めいずる<br>to command,to appoint"
+		},{
+		"character" : "迷信",
+		"charTip" : "めいしん<br>superstition"
+		},{
+		"character" : "名物",
+		"charTip" : "めいぶつ<br>famous product,special product,speciality"
+		},{
+		"character" : "銘々",
+		"charTip" : "めいめい<br>each,individual"
+		},{
+		"character" : "目上",
+		"charTip" : "めうえ<br>superior(s),senior"
+		},{
+		"character" : "メーター",
+		"charTip" : "メーター<br>meter (clock)"
+		},{
+		"character" : "恵まれる",
+		"charTip" : "めぐまれる<br>to be blessed with,to be rich in"
+		},{
+		"character" : "巡る",
+		"charTip" : "めぐる<br>to go around"
+		},{
+		"character" : "目指す",
+		"charTip" : "めざす<br>to aim at,to have an eye on"
+		},{
+		"character" : "目覚し",
+		"charTip" : "めざまし<br>(abbr) alarm-clock"
+		},{
+		"character" : "目下",
+		"charTip" : "めした<br>at present,now"
+		},{
+		"character" : "目印",
+		"charTip" : "めじるし<br>mark,sign,landmark"
+		},{
+		"character" : "目立つ",
+		"charTip" : "めだつ<br>to be conspicuous,to stand out"
+		},{
+		"character" : "めちゃくちゃ",
+		"charTip" : "めちゃくちゃ<br>absurd,unreasonable,excessive,messed up,spoiled,wreaked"
+		},{
+		"character" : "めっきり",
+		"charTip" : "めっきり<br>remarkably"
+		},{
+		"character" : "めでたい",
+		"charTip" : "めでたい<br>happy,simple soul,propitious,joyous"
+		},{
+		"character" : "メニュー",
+		"charTip" : "メニュー<br>menu"
+		},{
+		"character" : "めまい",
+		"charTip" : "めまい<br>dizziness,giddiness"
+		},{
+		"character" : "目安",
+		"charTip" : "めやす<br>criterion,aim"
+		},{
+		"character" : "免税",
+		"charTip" : "めんぜい<br>tax exemption,duty exemption"
+		},{
+		"character" : "面積",
+		"charTip" : "めんせき<br>area"
+		},{
+		"character" : "面接",
+		"charTip" : "めんせつ<br>interview"
+		},{
+		"character" : "面倒臭い",
+		"charTip" : "めんどうくさい<br>bother to do,tiresome"
+		},{
+		"character" : "儲かる",
+		"charTip" : "もうかる<br>to be profitable,to yield a profit"
+		},{
+		"character" : "儲ける",
+		"charTip" : "もうける<br>to get,to earn,to gain,to have (bear, beget) a child"
+		},{
+		"character" : "申し訳ない",
+		"charTip" : "もうしわけない<br>inexcusable"
+		},{
+		"character" : "モーター",
+		"charTip" : "モーター<br>motor"
+		},{
+		"character" : "木材",
+		"charTip" : "もくざい<br>lumber,timber,wood"
+		},{
+		"character" : "目次",
+		"charTip" : "もくじ<br>table of contents"
+		},{
+		"character" : "潜る",
+		"charTip" : "もぐる<br>(1) to drive,to pass through,(2) to evade,to hide,(3) to dive (into or under water),to go undergroun"
+		},{
+		"character" : "もしかしたら",
+		"charTip" : "もしかしたら<br>perhaps,maybe,by some chance"
+		},{
+		"character" : "もしかすると",
+		"charTip" : "もしかすると<br>perhaps,maybe,by some chance"
+		},{
+		"character" : "もたれる",
+		"charTip" : "もたれる<br>to lean against,to lean on,to recline on,to lie heavy (on the stomach)"
+		},{
+		"character" : "モダン",
+		"charTip" : "モダン<br>modern"
+		},{
+		"character" : "餅",
+		"charTip" : "もち<br>sticky rice cake"
+		},{
+		"character" : "もったいない",
+		"charTip" : "もったいない<br>too good,more than one deserves,wasteful,sacrilegious,unworthy of"
+		},{
+		"character" : "モデル",
+		"charTip" : "モデル<br>model"
+		},{
+		"character" : "元々",
+		"charTip" : "もともと<br>originally,by nature,from the start"
+		},{
+		"character" : "物置",
+		"charTip" : "ものおき<br>storage room"
+		},{
+		"character" : "物語る",
+		"charTip" : "ものがたる<br>to tell,to indicate"
+		},{
+		"character" : "物差し",
+		"charTip" : "ものさし<br>ruler,measure"
+		},{
+		"character" : "物凄い",
+		"charTip" : "ものすごい<br>earth-shattering,staggering,to a very great extent"
+		},{
+		"character" : "モノレール",
+		"charTip" : "モノレール<br>monorail"
+		},{
+		"character" : "紅葉",
+		"charTip" : "もみじ<br>(1) (Japanese) maple"
+		},{
+		"character" : "揉む",
+		"charTip" : "もむ<br>to rub,to crumple (up),to wrinkle"
+		},{
+		"character" : "燃やす",
+		"charTip" : "もやす<br>to burn"
+		},{
+		"character" : "催し",
+		"charTip" : "もよおし<br>event,festivities,function"
+		},{
+		"character" : "盛る",
+		"charTip" : "もる<br>(1) to serve (food, etc.),(2) to fill up,(3) to prescribe"
+		},{
+		"character" : "問答",
+		"charTip" : "もんどう<br>questions and answers,dialogue"
+		},{
+		"character" : "やかましい",
+		"charTip" : "やかましい<br>(1) noisy,(2) strict,fussy"
+		},{
+		"character" : "夜間",
+		"charTip" : "やかん<br>at night,nighttime"
+		},{
+		"character" : "薬缶",
+		"charTip" : "やかん<br>kettle"
+		},{
+		"character" : "役者",
+		"charTip" : "やくしゃ<br>actor,actress"
+		},{
+		"character" : "役所",
+		"charTip" : "やくしょ<br>government office,public office"
+		},{
+		"character" : "訳す",
+		"charTip" : "やくす<br>to translate"
+		},{
+		"character" : "役人",
+		"charTip" : "やくにん<br>government official"
+		},{
+		"character" : "薬品",
+		"charTip" : "やくひん<br>medicine(s),chemical(s)"
+		},{
+		"character" : "役目",
+		"charTip" : "やくめ<br>duty,business"
+		},{
+		"character" : "火傷",
+		"charTip" : "やけど<br>burn,scald"
+		},{
+		"character" : "夜行",
+		"charTip" : "やこう<br>walking around at night,night train,night travel"
+		},{
+		"character" : "矢印",
+		"charTip" : "やじるし<br>directing arrow"
+		},{
+		"character" : "やたらに",
+		"charTip" : "やたらに<br>randomly,recklessly,blindly"
+		},{
+		"character" : "薬局",
+		"charTip" : "やっきょく<br>pharmacy,drugstore"
+		},{
+		"character" : "やっつける",
+		"charTip" : "やっつける<br>to attack (an enemy),to beat,to do away with,to finish off"
+		},{
+		"character" : "家主",
+		"charTip" : "やぬし<br>landlord"
+		},{
+		"character" : "やっぱり",
+		"charTip" : "やっぱり<br>also,as I thought,still,in spite of,absolutely,of course"
+		},{
+		"character" : "破く",
+		"charTip" : "やぶく<br>"
+		},{
+		"character" : "破れる",
+		"charTip" : "やぶれる<br>to get torn,to wear out"
+		},{
+		"character" : "やむをえない",
+		"charTip" : "やむをえない<br>cannot be helped,unavoidable"
+		},{
+		"character" : "軟らかい",
+		"charTip" : "やわらかい<br>soft,tender,limp"
+		},{
+		"character" : "遊園地",
+		"charTip" : "ゆうえんち<br>amusement park"
+		},{
+		"character" : "夕刊",
+		"charTip" : "ゆうかん<br>evening paper"
+		},{
+		"character" : "友好",
+		"charTip" : "ゆうこう<br>friendship"
+		},{
+		"character" : "郵送",
+		"charTip" : "ゆうそう<br>mailing"
+		},{
+		"character" : "夕立",
+		"charTip" : "ゆうだち<br>(sudden) evening shower (rain)"
+		},{
+		"character" : "夕日",
+		"charTip" : "ゆうひ<br>(in) the evening sun,setting sun"
+		},{
+		"character" : "悠々",
+		"charTip" : "ゆうゆう<br>quiet,calm,leisurely"
+		},{
+		"character" : "有料",
+		"charTip" : "ゆうりょう<br>admission-paid,toll"
+		},{
+		"character" : "浴衣",
+		"charTip" : "ゆかた<br>bathrobe,informal summer kimono,yukata"
+		},{
+		"character" : "湯気",
+		"charTip" : "ゆげ<br>steam,vapour"
+		},{
+		"character" : "輸血",
+		"charTip" : "ゆけつ<br>blood transfusion"
+		},{
+		"character" : "輸送",
+		"charTip" : "ゆそう<br>transport,transportation"
+		},{
+		"character" : "油断",
+		"charTip" : "ゆだん<br>negligence,unpreparedness"
+		},{
+		"character" : "ゆでる",
+		"charTip" : "ゆでる<br>to boil"
+		},{
+		"character" : "湯飲み",
+		"charTip" : "ゆのみ<br>teacup"
+		},{
+		"character" : "緩い",
+		"charTip" : "ゆるい<br>loose,lenient,slow"
+		},{
+		"character" : "溶岩",
+		"charTip" : "ようがん<br>lava"
+		},{
+		"character" : "容器",
+		"charTip" : "ようき<br>container,vessel"
+		},{
+		"character" : "用語",
+		"charTip" : "ようご<br>term,terminology"
+		},{
+		"character" : "要旨",
+		"charTip" : "ようし<br>gist,essentials,summary,fundamentals"
+		},{
+		"character" : "幼児",
+		"charTip" : "ようじ<br>infant,baby,child"
+		},{
+		"character" : "容積",
+		"charTip" : "ようせき<br>capacity,volume"
+		},{
+		"character" : "幼稚",
+		"charTip" : "ようち<br>infancy,childish,infantile"
+		},{
+		"character" : "幼稚園",
+		"charTip" : "ようちえん<br>kindergarten"
+		},{
+		"character" : "用途",
+		"charTip" : "ようと<br>use,usefulness"
+		},{
+		"character" : "洋品店",
+		"charTip" : "ようひんてん<br>shop which handles Western-style apparel and accessories"
+		},{
+		"character" : "養分",
+		"charTip" : "ようぶん<br>nourishment,nutrient"
+		},{
+		"character" : "羊毛",
+		"charTip" : "ようもう<br>wool"
+		},{
+		"character" : "漸く",
+		"charTip" : "ようやく<br>gradually,finally,hardly"
+		},{
+		"character" : "要領",
+		"charTip" : "ようりょう<br>point,gist,essentials,outline"
+		},{
+		"character" : "欲張り",
+		"charTip" : "よくばり<br>avarice,covetousness,greed"
+		},{
+		"character" : "余計",
+		"charTip" : "よけい<br>too much,unnecessary,abundance,surplus,excess,superfluity"
+		},{
+		"character" : "よこす",
+		"charTip" : "よこす<br>(1) to send,to forward,(2) to hand over (e.g. money)"
+		},{
+		"character" : "汚す",
+		"charTip" : "よごす<br>(1) to disgrace,to dishonour,(2) to pollute,to contaminate,to soil,to make dirty,to stain"
+		},{
+		"character" : "寄せる",
+		"charTip" : "よせる<br>to collect,to gather,to add,to put aside"
+		},{
+		"character" : "余所",
+		"charTip" : "よそ<br>another place,somewhere else,strange parts"
+		},{
+		"character" : "四つ角",
+		"charTip" : "よつかど<br>four corners,crossroads"
+		},{
+		"character" : "酔っ払い",
+		"charTip" : "よっぱらい<br>drunkard"
+		},{
+		"character" : "予備",
+		"charTip" : "よび<br>preparation,preliminaries,reserve,spare"
+		},{
+		"character" : "呼び掛ける",
+		"charTip" : "よびかける<br>to call out to,to accost,to address (crowd),to appeal"
+		},{
+		"character" : "呼び出す",
+		"charTip" : "よびだす<br>to summon,to call (e.g. phone)"
+		},{
+		"character" : "蘇る",
+		"charTip" : "よみがえる<br>to be resurrected,to be revived,to be resuscitated,to be rehabilitated"
+		},{
+		"character" : "因る",
+		"charTip" : "よる<br>to come from"
+		},{
+		"character" : "慶び",
+		"charTip" : "よろこび<br>(n) (a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations"
+		},{
+		"character" : "慶ぶ",
+		"charTip" : "よろこぶ<br>"
+		},{
+		"character" : "来日",
+		"charTip" : "らいにち<br>arrival in Japan,coming to Japan,visit to Japan"
+		},{
+		"character" : "落第",
+		"charTip" : "らくだい<br>failure,dropping out of a class"
+		},{
+		"character" : "ラッシュアワー",
+		"charTip" : "ラッシュアワー<br>rush hour"
+		},{
+		"character" : "欄",
+		"charTip" : "らん<br>column of text (e.g. as in a newspaper)"
+		},{
+		"character" : "ランチ",
+		"charTip" : "ランチ<br>launch,lunch"
+		},{
+		"character" : "ランニング",
+		"charTip" : "ランニング<br>(1) running,(2) tank top"
+		},{
+		"character" : "乱暴",
+		"charTip" : "らんぼう<br>rude,violent,rough,lawless,unreasonable,reckless"
+		},{
+		"character" : "理科",
+		"charTip" : "りか<br>science"
+		},{
+		"character" : "利害",
+		"charTip" : "りがい<br>advantages and disadvantages,interest"
+		},{
+		"character" : "リズム",
+		"charTip" : "リズム<br>rhythm"
+		},{
+		"character" : "リットル",
+		"charTip" : "リットル<br>litre"
+		},{
+		"character" : "リボン",
+		"charTip" : "リボン<br>ribbon"
+		},{
+		"character" : "略す",
+		"charTip" : "りゃくす<br>to abbreviate"
+		},{
+		"character" : "流域",
+		"charTip" : "りゅういき<br>(river) basin"
+		},{
+		"character" : "寮",
+		"charTip" : "りょう<br>hostel,dormitory"
+		},{
+		"character" : "両側",
+		"charTip" : "りょうがわ<br>both sides"
+		},{
+		"character" : "漁師",
+		"charTip" : "りょうし<br>fisherman"
+		},{
+		"character" : "領事",
+		"charTip" : "りょうじ<br>consul"
+		},{
+		"character" : "領収",
+		"charTip" : "りょうしゅう<br>receipt,voucher"
+		},{
+		"character" : "臨時",
+		"charTip" : "りんじ<br>temporary,special,extraordinary"
+		},{
+		"character" : "留守番",
+		"charTip" : "るすばん<br>care-taking,caretaker,house-watching"
+		},{
+		"character" : "例外",
+		"charTip" : "れいがい<br>exception"
+		},{
+		"character" : "零点",
+		"charTip" : "れいてん<br>zero,no marks"
+		},{
+		"character" : "冷凍",
+		"charTip" : "れいとう<br>freezing,cold storage,refrigeration"
+		},{
+		"character" : "レインコート",
+		"charTip" : "レインコート<br>raincoat"
+		},{
+		"character" : "レクリェーション",
+		"charTip" : "レクリェーション<br>recreation"
+		},{
+		"character" : "レジャー",
+		"charTip" : "レジャー<br>leisure"
+		},{
+		"character" : "列島",
+		"charTip" : "れっとう<br>chain of islands"
+		},{
+		"character" : "レベル",
+		"charTip" : "レベル<br>level"
+		},{
+		"character" : "リポート",
+		"charTip" : "リポート<br>report,paper"
+		},{
+		"character" : "煉瓦",
+		"charTip" : "れんが<br>brick"
+		},{
+		"character" : "連合",
+		"charTip" : "れんごう<br>union,alliance"
+		},{
+		"character" : "レンズ",
+		"charTip" : "レンズ<br>lens"
+		},{
+		"character" : "蝋燭",
+		"charTip" : "ろうそく<br>candle"
+		},{
+		"character" : "ローマじ",
+		"charTip" : "ローマじ<br>romanization,Roman letters"
+		},{
+		"character" : "録音",
+		"charTip" : "ろくおん<br>(audio) recording"
+		},{
+		"character" : "ロッカー",
+		"charTip" : "ロッカー<br>locker"
+		},{
+		"character" : "ロビー",
+		"charTip" : "ロビー<br>lobby"
+		},{
+		"character" : "論ずる",
+		"charTip" : "ろんずる<br>to argue,to discuss,to debate"
+		},{
+		"character" : "和英",
+		"charTip" : "わえい<br>Japanese-English"
+		},{
+		"character" : "分る",
+		"charTip" : "わかる<br>to be understood"
+		},{
+		"character" : "分かれる",
+		"charTip" : "わかれる<br>to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into"
+		},{
+		"character" : "若々しい",
+		"charTip" : "わかわかしい<br>youthful,young"
+		},{
+		"character" : "湧く",
+		"charTip" : "わく<br>to boil,to grow hot,to get excited,to gush forth"
+		},{
+		"character" : "詫びる",
+		"charTip" : "わびる<br>to apologize"
+		},{
+		"character" : "和服",
+		"charTip" : "わふく<br>Japanese clothes"
+		},{
+		"character" : "わりあいに",
+		"charTip" : "わりあいに<br>comparatively"
+		},{
+		"character" : "割算",
+		"charTip" : "わりざん<br>division (math)"
+		},{
+		"character" : "割と",
+		"charTip" : "わりと<br>relatively, comparitively"
+		},{
+		"character" : "割引",
+		"charTip" : "わりびき<br>discount,reduction,rebate"
+		},{
+		"character" : "椀",
+		"charTip" : "わん<br>Japanese soup bowl,wooden bowl"
+		},{
+		"character" : "碗",
+		"charTip" : "わん<br>bowl"
+		},{
+		"character" : "ワンピース",
+		"charTip" : "ワンピース<br>one-piece dress"
+		}
+	]
+}

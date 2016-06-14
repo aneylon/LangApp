@@ -1,0 +1,195 @@
+{
+    "name": {
+        "libName": "อักษรไทย",
+        "tip": "akson thai"
+    },
+    "characters": [
+		{
+		"character" : "ก",
+		"charTip" : "k<br>k"
+		},{
+		"character" : "ข ฃ ค ฅ ฆ",
+		"charTip" : "kh<br>k"
+		},{
+		"character" : "ง",
+		"charTip" : "ng<br>ng"
+		},{
+		"character" : "จ",
+		"charTip" : "ch<br>t"
+		},{
+		"character" : "ฉ ช",
+		"charTip" : "ch<br>t"
+		},{
+		"character" : "ซ",
+		"charTip" : "s<br>t"
+		},{
+		"character" : "ฌ",
+		"charTip" : "ch<br>-"
+		},{
+		"character" : "ญ",
+		"charTip" : "y<br>n"
+		},{
+		"character" : "ฎ",
+		"charTip" : "d<br>t"
+		},{
+		"character" : "ฏ",
+		"charTip" : "t<br>t"
+		},{
+		"character" : "ฐ ฑ ฒ",
+		"charTip" : "th<br>t"
+		},{
+		"character" : "ณ",
+		"charTip" : "n<br>n"
+		},{
+		"character" : "ด",
+		"charTip" : "d<br>t"
+		},{
+		"character" : "ต",
+		"charTip" : "t<br>t"
+		},{
+		"character" : "ถ ท ธ",
+		"charTip" : "th<br>t"
+		},{
+		"character" : "น",
+		"charTip" : "n<br>n"
+		},{
+		"character" : "บ",
+		"charTip" : "b<br>p"
+		},{
+		"character" : "ป",
+		"charTip" : "p<br>p"
+		},{
+		"character" : "ผ",
+		"charTip" : "ph<br>-"
+		},{
+		"character" : "ฝ",
+		"charTip" : "f<br>-"
+		},{
+		"character" : "พ",
+		"charTip" : "ph<br>p"
+		},{
+		"character" : "ฟ",
+		"charTip" : "f<br>p"
+		},{
+		"character" : "ภ",
+		"charTip" : "ph<br>p"
+		},{
+		"character" : "ม",
+		"charTip" : "m<br>m"
+		},{
+		"character" : "ย",
+		"charTip" : "y<br>-"
+		},{
+		"character" : "ร",
+		"charTip" : "r<br>n"
+		},{
+		"character" : "ฤ",
+		"charTip" : "rue, ri, roe<br>-"
+		},{
+		"character" : "ฤๅ",
+		"charTip" : "rue<br>-"
+		},{
+		"character" : "ล",
+		"charTip" : "l<br>n"
+		},{
+		"character" : "ฦ",
+		"charTip" : "lue<br>-"
+		},{
+		"character" : "ฦๅ",
+		"charTip" : "lue<br>-"
+		},{
+		"character" : "ว",
+		"charTip" : "w<br>-"
+		},{
+		"character" : "ศ",
+		"charTip" : "s<br>t"
+		},{
+		"character" : "ษ",
+		"charTip" : "s<br>t"
+		},{
+		"character" : "ส",
+		"charTip" : "s<br>t"
+		},{
+		"character" : "ห",
+		"charTip" : "h<br>-"
+		},{
+		"character" : "ฬ",
+		"charTip" : "l<br>n"
+		},{
+		"character" : "ฮ",
+		"charTip" : "h<br>-"
+		},{
+		"character" : "–ะ, –ั, รร, –า",
+		"charTip" : "(with final)<br>a"
+		},{
+		"character" : "รร",
+		"charTip" : "(without final)<br>an"
+		},{
+		"character" : "–ำ",
+		"charTip" : "am<br>"
+		},{
+		"character" : "–ิ, –ี",
+		"charTip" : "i<br>"
+		},{
+		"character" : "–ึ, –ื",
+		"charTip" : "ue<br>"
+		},{
+		"character" : "–ุ, –ู",
+		"charTip" : "u<br>"
+		},{
+		"character" : "เ–ะ, เ–็, เ–",
+		"charTip" : "e<br>"
+		},{
+		"character" : "แ–ะ, แ–",
+		"charTip" : "ae<br>"
+		},{
+		"character" : "โ–ะ, –, โ–, เ–าะ, –อ",
+		"charTip" : "o<br>"
+		},{
+		"character" : "เ–อะ, เ–ิ, เ–อ",
+		"charTip" : "oe<br>"
+		},{
+		"character" : "เ–ียะ, เ–ีย",
+		"charTip" : "ia<br>"
+		},{
+		"character" : "เ–ือะ, เ–ือ",
+		"charTip" : "uea<br>"
+		},{
+		"character" : "–ัวะ, –ัว, –ว–",
+		"charTip" : "ua<br>"
+		},{
+		"character" : "ใ–, ไ–, –ัย, ไ–ย, –าย",
+		"charTip" : "ai<br>"
+		},{
+		"character" : "เ–า, –าว",
+		"charTip" : "ao<br>"
+		},{
+		"character" : "–ุย",
+		"charTip" : "ui<br>"
+		},{
+		"character" : "โ–ย, –อย",
+		"charTip" : "oi<br>"
+		},{
+		"character" : "เ–ย",
+		"charTip" : "oei<br>"
+		},{
+		"character" : "เ–ือย",
+		"charTip" : "ueai<br>"
+		},{
+		"character" : "–วย",
+		"charTip" : "uai<br>"
+		},{
+		"character" : "–ิว",
+		"charTip" : "io<br>"
+		},{
+		"character" : "เ–็ว, เ–ว",
+		"charTip" : "eo<br>"
+		},{
+		"character" : "แ–็ว, แ–ว",
+		"charTip" : "aeo<br>"
+		},{
+		"character" : "เ–ียว",
+		"charTip" : "iao<br>"
+		}
+	]
+}

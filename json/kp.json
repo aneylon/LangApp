@@ -1,0 +1,252 @@
+{
+    "name": {
+        "libName": "Korean Phrases",
+        "tip": "Korean Phrases"
+    },
+    "characters": [
+        {
+            "character": "﻿환영합니다",
+            "charTip": "hwangyong-hamnida<br>Welcome"
+        },
+        {
+            "character": "안녕하십니까",
+            "charTip": "annyeong-hasimnikka - frm<br>Hello"
+        },
+        {
+            "character": "안녕하세요",
+            "charTip": "annyeonghaseyo - inf<br>Hello"
+        },
+        {
+            "character": "안녕",
+            "charTip": "annyeong - inf<br>Hello"
+        },
+        {
+            "character": "여보세요",
+            "charTip": "yeoboseyo - on phone<br>Hello"
+        },
+        {
+            "character": "어떻게 지내세요?",
+            "charTip": "eotteohke jinaeseyo?<br>How are you?"
+        },
+        {
+            "character": "잘지내요",
+            "charTip": "jaljinaeyo<br>I'm fine, thanks."
+        },
+        {
+            "character": "안녕하셨습니까?",
+            "charTip": "an nyeong ha siut seum ni ka?<br>How are you?"
+        },
+        {
+            "character": "오랜만이다",
+            "charTip": "orenmanida<br>Long time no see"
+        },
+        {
+            "character": "이름은 무엇입니까?",
+            "charTip": "ireumeun mueosip nikka? inf<br>What's your name?"
+        },
+        {
+            "character": "성함이 어떻게 되십니까?",
+            "charTip": "sungham ee uttoke daesipnika? frm What's your name?<br>"
+        },
+        {
+            "character": "제 이름은 ... 입니다",
+            "charTip": "je ireum-eun ... imnida<br>My name is ..."
+        },
+        {
+            "character": "어디서 오셨어요?",
+            "charTip": "Eodiseo osyeosseoyo<br>Where are you from?"
+        },
+        {
+            "character": "저는 ... 에서 왔어요",
+            "charTip": "Jeoneun ... eseo wasseuyo<br>I'm from ..."
+        },
+        {
+            "character": "만나서 반갑습니다",
+            "charTip": "Mannaseo bangapseumnida - frm polite<br>Pleased to meet you"
+        },
+        {
+            "character": "만나서 반가워요",
+            "charTip": "Mannaseo bangawoyo - inf polite<br>Pleased to meet you"
+        },
+        {
+            "character": "안녕하십니까",
+            "charTip": "annyeong hashimnikka<br>Good morning/afternoon/evening"
+        },
+        {
+            "character": "안녕히 주무십시요",
+            "charTip": "annyeong-hi jumusipsio - frm<br>Good night"
+        },
+        {
+            "character": "잘자",
+            "charTip": "jal jja - inf<br>Good night"
+        },
+        {
+            "character": "안녕",
+            "charTip": "annyeong<br>Goodbye"
+        },
+        {
+            "character": "안녕히 계세요",
+            "charTip": "annyeonghi gyeseyo<br>Goodbye - you are leaving"
+        },
+        {
+            "character": "안녕히 가세요",
+            "charTip": "annyeonghi gaseyo<br>Goodbye - you are staying"
+        },
+        {
+            "character": "행운을 빌어요",
+            "charTip": "haeng un eul bil eo yo - frm<br>Good luck"
+        },
+        {
+            "character": "행운을 빈다",
+            "charTip": "haeng un eul bin da - inf<br>Good luck"
+        },
+        {
+            "character": "건배",
+            "charTip": "geonbae<br>Cheers/Good health! [乾杯] lit. 'dry glass'"
+        },
+        {
+            "character": "위하여",
+            "charTip": "wihayeo<br>Cheers/Good health!"
+        },
+        {
+            "character": "좋은 하루 되세요",
+            "charTip": "joeun haru dweseyo<br>Have a nice day"
+        },
+        {
+            "character": "잘 먹겠습니다",
+            "charTip": "jal meokkesseumnida<br>Bon appetit - before a meal"
+        },
+        {
+            "character": "잘 먹었습니다",
+            "charTip": "jal meogeosseumnida<br>That was a wonderful meal - after a meal"
+        },
+        {
+            "character": "맛있게 드세요",
+            "charTip": "masitkke deuseyo<br>Bon appetit"
+        },
+        {
+            "character": "잘다녀오십시오!",
+            "charTip": "jalda nyeoo sip sio!<br>Bon voyage"
+        },
+        {
+            "character": "모르겠습니다",
+            "charTip": "moreugesseumnida<br>I don't understand"
+        },
+        {
+            "character": "천천히 말씀해 주세요",
+            "charTip": "Cheoncheonhi malssuemhae juseyo<br>Please speak more slowly"
+        },
+        {
+            "character": "적어 주세요!",
+            "charTip": "Cheogeo juseyo!<br>Please write it down"
+        },
+        {
+            "character": "한국말 하실 줄 아세요?",
+            "charTip": "hangukmal hasil jul aseyo? - frm<br>Do you speak Korean?"
+        },
+        {
+            "character": "한국말 할 줄 아니?",
+            "charTip": "hangukmal hal jul ani? - inf<br>Do you speak Korean?"
+        },
+        {
+            "character": "예, 조금요",
+            "charTip": "yae, jogeumyo - frm<br>Yes, a little"
+        },
+        {
+            "character": "응, 조금",
+            "charTip": "eung, jogeum - inf<br>Yes, a little"
+        },
+        {
+            "character": "... 를 한국말로 어떻게 말해요?",
+            "charTip": "... reul hangukmal-lo eotteoh-ge maraeyo?<br>How do you say ... in Korean?"
+        },
+        {
+            "character": "실례하겠습니다!",
+            "charTip": "shillehagessumnida<br>Excuse me"
+        },
+        {
+            "character": "이게 얼마예요?",
+            "charTip": "ige eolmayeyo?<br>How much is this?"
+        },
+        {
+            "character": "미안합니다!",
+            "charTip": "mianhamnida - frm<br>Sorry"
+        },
+        {
+            "character": "죄송합니다",
+            "charTip": "joesonghamnida - vfrm<br>Sorry"
+        },
+        {
+            "character": "미안(해)",
+            "charTip": "mian(hae) - inf<br>Sorry"
+        },
+        {
+            "character": "감사합니다",
+            "charTip": "kamsahamnida - frm<br>Thank you"
+        },
+        {
+            "character": "고맙습니다",
+            "charTip": "komapsumnida - frm<br>Thank you"
+        },
+        {
+            "character": "고마워",
+            "charTip": "komawo - inf<br>Thank you"
+        },
+        {
+            "character": "아니에요",
+            "charTip": "anieyo<br>Response to 'Thank you'"
+        },
+        {
+            "character": "화장실이 어디예요?",
+            "charTip": "hwajangsiri eodiyeyo<br>Where's the toilet?"
+        },
+        {
+            "character": "사랑해",
+            "charTip": "sarang hae<br>I love you"
+        },
+        {
+            "character": "저리 가세요!",
+            "charTip": "juri gaseyo<br>Go away!"
+        },
+        {
+            "character": "혼자 내버려 두십시오!",
+            "charTip": "honja naebeoryeo dushipshio<br>Leave me alone!"
+        },
+        {
+            "character": "즐거운 성탄절 보내시고 새해 복 많이 받으세요",
+            "charTip": "jeulgeoun seongtanjeol bonaesigo saehae bok manhi bateusaeyo<br>Merry Christmas and Happy New Year"
+        },
+        {
+            "character": "행복한 부활절이 되시길",
+            "charTip": "haengpoghan puhwarcheori toesikir<br>Happy Easter"
+        },
+        {
+            "character": "생일 축하합니다",
+            "charTip": "saeng-il chukha hamnida - frm<br>Happy Birthday"
+        },
+        {
+            "character": "생일 축하드립니다",
+            "charTip": "saeng-il chukha deurimnida - frm<br>Happy Birthday"
+        },
+        {
+            "character": "생신 축하드립니다",
+            "charTip": "saengsin chukha deurimnida - frm<br>Happy Birthday"
+        },
+        {
+            "character": "생일 축하해",
+            "charTip": "saeng-il chukha hae - inf<br>Happy Birthday"
+        },
+        {
+            "character": "한 가지 언어는 충분하지 못 해",
+            "charTip": "han gaji eon-eoneun chungbunhaji mos hae<br>One language is never enough"
+        },
+        {
+            "character": "언어 하나론 부족해",
+            "charTip": "eoneo hanaron bujokhae<br>One language is never enough"
+        },
+        {
+            "character": "내 호버크라프트는 장어로 가득 차 있어요",
+            "charTip": "Nae hoebuhkeurapeuteuneun changuhro kadeuk cha isseyo<br>My hovercraft is full of eels"
+        }
+    ]
+}

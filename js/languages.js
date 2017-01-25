@@ -126,8 +126,10 @@ $(document).ready(function(){
 	});
 
 	$("#loadKoreanVocab2").click(function(){
+		console.log('getting 2')
 		setElementFontSize ( "#curChar", "60px" );
 		$.getJSON ( "json/kt.json", function ( data ) {
+			console.log(data)
 			updateCurrentLibrary( data );
 		});
 	});

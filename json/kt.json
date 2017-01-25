@@ -1,0 +1,1184 @@
+{
+	"name": {
+		"libName": "한국어 단어",
+		"tip": "Korean Vocab (Korean From Zero)"
+	},
+	"characters": [
+		{
+			"character": "형용사",
+			"charTip": "hyeong-yongsa<br>adjective"
+		},
+		{
+			"character": "날씨",
+			"charTip": "narssi<br>weather"
+		},
+		{
+			"character": "김밥",
+			"charTip": "kimpap<br>gimbab"
+		},
+		{
+			"character": "국",
+			"charTip": "kuk<br>soup"
+		},
+		{
+			"character": "영화",
+			"charTip": "yeonghwa<br>movie"
+		},
+		{
+			"character": "만화책",
+			"charTip": "manhwachek<br>comic book"
+		},
+		{
+			"character": "음식",
+			"charTip": "eumshik<br>food"
+		},
+		{
+			"character": "요거트",
+			"charTip": "yogeotteu<br>"
+		},
+		{
+			"character": "양말",
+			"charTip": "yangmal<br>socks"
+		},
+		{
+			"character": "피자",
+			"charTip": "pija<br>pizza"
+		},
+		{
+			"character": "~씨",
+			"charTip": "-sshi<br>Mr. Ms."
+		},
+		{
+			"character": "싸다",
+			"charTip": "ssada<br>cheap"
+		},
+		{
+			"character": "비싸다",
+			"charTip": "pissada<br>expensive"
+		},
+		{
+			"character": "짜다",
+			"charTip": "jada<br>salty"
+		},
+		{
+			"character": "달다",
+			"charTip": "talda<br>sweet"
+		},
+		{
+			"character": "쓰다",
+			"charTip": "sseuda<br>bitter"
+		},
+		{
+			"character": "크다",
+			"charTip": "keuda<br>big"
+		},
+		{
+			"character": "작다",
+			"charTip": "jakda<br>small"
+		},
+		{
+			"character": "좋다",
+			"charTip": "johda<br>good"
+		},
+		{
+			"character": "나쁘다",
+			"charTip": "nappeuda<br>bad"
+		},
+		{
+			"character": "재미있다",
+			"charTip": "jaemiissda<br>interesting, fun"
+		},
+		{
+			"character": "맛있다",
+			"charTip": "mashissda<br>delicious, tasty"
+		},
+		{
+			"character": "먹다",
+			"charTip": "meokda<br>to eat"
+		},
+		{
+			"character": "조용하다",
+			"charTip": "joyonghada<br>be silent"
+		},
+		{
+			"character": "멀다",
+			"charTip": "meorda<br>far"
+		},
+		{
+			"character": "하다",
+			"charTip": "hada<br>to do"
+		},
+		{
+			"character": "오다",
+			"charTip": "oda<br>to come"
+		},
+		{
+			"character": "마시다",
+			"charTip": "mashida<br>to drink"
+		},
+		{
+			"character": "주다",
+			"charTip": "juda<br>to give"
+		},
+		{
+			"character": "내다",
+			"charTip": "naeda<br>to pay"
+		},
+		{
+			"character": "슬프다",
+			"charTip": "seulpeuda<br>be sad"
+		},
+		{
+			"character": "된다??",
+			"charTip": "<br>되다"
+		},
+		{
+			"character": "사귀다",
+			"charTip": "shakuida<br>to date"
+		},
+		{
+			"character": "너무배고파!",
+			"charTip": "na mu paekopa!<br>I’m so hungry!"
+		},
+		{
+			"character": "와!맛있겠다!",
+			"charTip": "oa!masisskaessda!<br>Wow! Delicious!"
+		},
+		{
+			"character": "아파!",
+			"charTip": "apa!<br>Ouch!"
+		},
+		{
+			"character": "배불러!",
+			"charTip": "paepurreo<br>So full!"
+		},
+		{
+			"character": "기쁘다",
+			"charTip": "gippeuda<br>happy"
+		},
+		{
+			"character": "느리다",
+			"charTip": "neurida<br>slow"
+		},
+		{
+			"character": "늦다",
+			"charTip": "neujda<br>late"
+		},
+		{
+			"character": "이것",
+			"charTip": "igeot<br>this"
+		},
+		{
+			"character": "그것",
+			"charTip": "geugeot<br>that"
+		},
+		{
+			"character": "저것",
+			"charTip": "jeogeot<br>that (over there)"
+		},
+		{
+			"character": "사람",
+			"charTip": "salam<br>person"
+		},
+		{
+			"character": "나라",
+			"charTip": "nala<br>country"
+		},
+		{
+			"character": "어느",
+			"charTip": "eoneu<br>which"
+		},
+		{
+			"character": "자전거",
+			"charTip": "jajeongeo<br>bicycle"
+		},
+		{
+			"character": "특별",
+			"charTip": "teugbyeol <br>special"
+		},
+		{
+			"character": "정모",
+			"charTip": "jeongmo<br>short"
+		},
+		{
+			"character": "...아닙니다",
+			"charTip": "...anibnida<br>Is not ..."
+		},
+		{
+			"character": "아니에요",
+			"charTip": "aniaeyo<br>Is not ..."
+		},
+		{
+			"character": "대화",
+			"charTip": "daehwa<br>conversation"
+		},
+		{
+			"character": "여자",
+			"charTip": "yeoja<br>woman"
+		},
+		{
+			"character": "남자",
+			"charTip": "namja<br>man"
+		},
+		{
+			"character": "여자친구",
+			"charTip": "yeojachingu<br>girlfriend"
+		},
+		{
+			"character": "남자친구",
+			"charTip": "namjachingu<br>boyfriend"
+		},
+		{
+			"character": "학생",
+			"charTip": "haksaeng<br>student"
+		},
+		{
+			"character": "대학생",
+			"charTip": "taehaksaeng<br>college student"
+		},
+		{
+			"character": "산생님",
+			"charTip": "shansaengnim<br>teacher"
+		},
+		{
+			"character": "아버지",
+			"charTip": "apeoji<br>father"
+		},
+		{
+			"character": "어머니",
+			"charTip": "eomoeni<br>mother"
+		},
+		{
+			"character": "동생",
+			"charTip": "dongsaeng<br>younger sibling"
+		},
+		{
+			"character": "여동생",
+			"charTip": "yeodongsaeng<br>younger sister"
+		},
+		{
+			"character": "남동생",
+			"charTip": "namdongsaeng<br>younger bother"
+		},
+		{
+			"character": "누나",
+			"charTip": "nuna<br>older sister (from boy)"
+		},
+		{
+			"character": "언니",
+			"charTip": "eonni<br>older sister (from girl)"
+		},
+		{
+			"character": "형",
+			"charTip": "hyeong<br>older brother (from boy)"
+		},
+		{
+			"character": "오빠",
+			"charTip": "oppa<br>older brother (from girl)"
+		},
+		{
+			"character": "개",
+			"charTip": "kae<br>dog"
+		},
+		{
+			"character": "다",
+			"charTip": "ta<br>all, everything"
+		},
+		{
+			"character": "가구",
+			"charTip": "kagu<br>furniture"
+		},
+		{
+			"character": "나라",
+			"charTip": "nara<br>country"
+		},
+		{
+			"character": "노래",
+			"charTip": "norae<br>song"
+		},
+		{
+			"character": "누구",
+			"charTip": "nugu<br>who"
+		},
+		{
+			"character": "도마",
+			"charTip": "toma<br>cutting board"
+		},
+		{
+			"character": "모래",
+			"charTip": "morae<br>sand"
+		},
+		{
+			"character": "매나",
+			"charTip": "maena<br>manners"
+		},
+		{
+			"character": "모두",
+			"charTip": "motu<br>everyone"
+		},
+		{
+			"character": "누나",
+			"charTip": "nuna<br>older sister"
+		},
+		{
+			"character": "고구마",
+			"charTip": "koguma<br>sweet potato"
+		},
+		{
+			"character": "레벨",
+			"charTip": "raebael<br>level"
+		},
+		{
+			"character": "화이팅",
+			"charTip": "hwaiting<br>fighting"
+		},
+		{
+			"character": "아이",
+			"charTip": "ai<br>child"
+		},
+		{
+			"character": "우유",
+			"charTip": "uyu<br>milk"
+		},
+		{
+			"character": "이유",
+			"charTip": "iyu<br>reason"
+		},
+		{
+			"character": "오다",
+			"charTip": "oda<br>to come"
+		},
+		{
+			"character": "요리",
+			"charTip": "yori<br>cooking"
+		},
+		{
+			"character": "어디",
+			"charTip": "oedi<br>where"
+		},
+		{
+			"character": "아기",
+			"charTip": "agi<br>baby"
+		},
+		{
+			"character": "이",
+			"charTip": "i<br>teeth"
+		},
+		{
+			"character": "비",
+			"charTip": "pi<br>rain"
+		},
+		{
+			"character": "시",
+			"charTip": "shi<br>poem"
+		},
+		{
+			"character": "차",
+			"charTip": "cha<br>car"
+		},
+		{
+			"character": "버스",
+			"charTip": "peoseu<br>bus"
+		},
+		{
+			"character": "세대",
+			"charTip": "saedae<br>generation"
+		},
+		{
+			"character": "주스",
+			"charTip": "juseu<br>juice"
+		},
+		{
+			"character": "자유",
+			"charTip": "jayu<br>freedom, liberty"
+		},
+		{
+			"character": "개미",
+			"charTip": "kaemi<br>ant"
+		},
+		{
+			"character": "베개",
+			"charTip": "paekae<br>pillow"
+		},
+		{
+			"character": "다시",
+			"charTip": "tashi<br>again, one more time"
+		},
+		{
+			"character": "부츠",
+			"charTip": "pujeu<br>boots"
+		},
+		{
+			"character": "고기",
+			"charTip": "kogi<br>meat"
+		},
+		{
+			"character": "코",
+			"charTip": "ko<br>nose"
+		},
+		{
+			"character": "화",
+			"charTip": "hwa<br>anger"
+		},
+		{
+			"character": "타다",
+			"charTip": "tada<br>to ride"
+		},
+		{
+			"character": "피",
+			"charTip": "pi<br>blood"
+		},
+		{
+			"character": "세계",
+			"charTip": "saekyae<br>world"
+		},
+		{
+			"character": "파티",
+			"charTip": "pati<br>party"
+		},
+		{
+			"character": "피자",
+			"charTip": "pija<br>pizza"
+		},
+		{
+			"character": "노트",
+			"charTip": "noteu<br>notebook"
+		},
+		{
+			"character": "얘기",
+			"charTip": "yaegi<br>story, talk"
+		},
+		{
+			"character": "그녀",
+			"charTip": "keuneo<br>she, her"
+		},
+		{
+			"character": "야채",
+			"charTip": "yajae<br>vegetable"
+		},
+		{
+			"character": "커피",
+			"charTip": "keopi<br>coffee"
+		},
+		{
+			"character": "히터",
+			"charTip": "hiteo<br>heater"
+		},
+		{
+			"character": "귀",
+			"charTip": "gwi<br>ear"
+		},
+		{
+			"character": "또",
+			"charTip": "tto<br>again, once"
+		},
+		{
+			"character": "씨",
+			"charTip": "ssi<br>family, clan, Mr., Ms"
+		},
+		{
+			"character": "뒤",
+			"charTip": "dwi<br>back, rear"
+		},
+		{
+			"character": "뇌",
+			"charTip": "noe<br>brain"
+		},
+		{
+			"character": "뭐",
+			"charTip": "mwo<br>what, huh"
+		},
+		{
+			"character": "짜다",
+			"charTip": "jjada<br>salty"
+		},
+		{
+			"character": "외부",
+			"charTip": "oebu<br>outside"
+		},
+		{
+			"character": "빼기",
+			"charTip": "ppaegi<br>subtract"
+		},
+		{
+			"character": "꼬리",
+			"charTip": "kkoli<br>tail"
+		},
+		{
+			"character": "의미",
+			"charTip": "uimi<br>meaning"
+		},
+		{
+			"character": "위치",
+			"charTip": "wichi<br>location, position"
+		},
+		{
+			"character": "궤도",
+			"charTip": "gwedo<br>orbit"
+		},
+		{
+			"character": "돼지",
+			"charTip": "dwaeji<br>pig"
+		},
+		{
+			"character": "지뢰",
+			"charTip": "jiloe<br>land mine"
+		},
+		{
+			"character": "쓰레기",
+			"charTip": "sseulegi<br>garbage, trash"
+		},
+		{
+			"character": "받침",
+			"charTip": "badchim<br>final consonant"
+		},
+		{
+			"character": "겹받침",
+			"charTip": "gyeobbadchim<br>double final consonant"
+		},
+		{
+			"character": "한국",
+			"charTip": "hangug<br>korea"
+		},
+		{
+			"character": "지갑",
+			"charTip": "jigab<br>wallet"
+		},
+		{
+			"character": "남자",
+			"charTip": "namja<br>man"
+		},
+		{
+			"character": "남",
+			"charTip": "nam<br>south"
+		},
+		{
+			"character": "책",
+			"charTip": "chaeg<br>book"
+		},
+		{
+			"character": "택시",
+			"charTip": "taegsi<br>taxi"
+		},
+		{
+			"character": "친구",
+			"charTip": "chingu<br>friend"
+		},
+		{
+			"character": "눈",
+			"charTip": "nun<br>eye"
+		},
+		{
+			"character": "감자",
+			"charTip": "gamja<br>"
+		},
+		{
+			"character": "사람",
+			"charTip": "salam<br>person"
+		},
+		{
+			"character": "손",
+			"charTip": "son<br>hand"
+		},
+		{
+			"character": "발",
+			"charTip": "bal<br>foot"
+		},
+		{
+			"character": "돈",
+			"charTip": "don<br>money"
+		},
+		{
+			"character": "많다",
+			"charTip": "manhda<br>to be many"
+		},
+		{
+			"character": "넓다",
+			"charTip": "neolbda<br>to be wide"
+		},
+		{
+			"character": "닭갈비",
+			"charTip": "dalg-galbi<br>chicken ribs"
+		},
+		{
+			"character": "읽다",
+			"charTip": "ilgda<br>to read"
+		},
+		{
+			"character": "바쁘다",
+			"charTip": "bappeuda<br>to be busy"
+		},
+		{
+			"character": "짜다",
+			"charTip": "jjada<br>to be salty"
+		},
+		{
+			"character": "닦다",
+			"charTip": "dakkda<br>to wipe"
+		},
+		{
+			"character": "가깝다",
+			"charTip": "gakkalda<br>to be close"
+		},
+		{
+			"character": "떡",
+			"charTip": "tteog<br>rice cake, mochi"
+		},
+		{
+			"character": "있다",
+			"charTip": "issda<br>to have"
+		},
+		{
+			"character": "사과",
+			"charTip": "sagwa<br>apple"
+		},
+		{
+			"character": "의미",
+			"charTip": "uimi<br>meaning"
+		},
+		{
+			"character": "귀",
+			"charTip": "gwi<br>ear"
+		},
+		{
+			"character": "위치",
+			"charTip": "wichi<br>location"
+		},
+		{
+			"character": "안녕",
+			"charTip": "annyeong<br>Hello"
+		},
+		{
+			"character": "이야기",
+			"charTip": "iyagi<br>story"
+		},
+		{
+			"character": "우산",
+			"charTip": "usan<br>umbrella"
+		},
+		{
+			"character": "방",
+			"charTip": "bang<br>room"
+		},
+		{
+			"character": "농담",
+			"charTip": "nongdam<br>joke"
+		},
+		{
+			"character": "동물",
+			"charTip": "dongmul<br>animal"
+		},
+		{
+			"character": "아이",
+			"charTip": "ai<br>child"
+		},
+		{
+			"character": "이유",
+			"charTip": "iyu<br>reason"
+		},
+		{
+			"character": "등",
+			"charTip": "deung<br>ect"
+		},
+		{
+			"character": "요가",
+			"charTip": "yoga<br>"
+		},
+		{
+			"character": "공항",
+			"charTip": "gonghang<br>airport"
+		},
+		{
+			"character": "응급",
+			"charTip": "eung-geub<br>emergency"
+		},
+		{
+			"character": "영국",
+			"charTip": "yeong-gug<br>England"
+		},
+		{
+			"character": "양말",
+			"charTip": "yangmal<br>socks"
+		},
+		{
+			"character": "용",
+			"charTip": "yong<br>dragon"
+		},
+		{
+			"character": "고양이",
+			"charTip": "goyang-i<br>cat"
+		},
+		{
+			"character": "엉덩이",
+			"charTip": "eongdeong-i<br>hip, buttocks"
+		},
+		{
+			"character": "옹알이",
+			"charTip": "babble<br>ong-al-i"
+		},
+		{
+			"character": "앵두",
+			"charTip": "aengdu<br>cherry"
+		},
+		{
+			"character": "화요일",
+			"charTip": "hwayoil<br>Tuesday"
+		},
+		{
+			"character": "월요일",
+			"charTip": "wol-yoil<br>Monday"
+		},
+		{
+			"character": "김치",
+			"charTip": "gimchi<br>kimchi"
+		},
+		{
+			"character": "추위",
+			"charTip": "chuwi<br>cold"
+		},
+		{
+			"character": "오늘",
+			"charTip": "oneul<br>today"
+		},
+		{
+			"character": "괜찮아",
+			"charTip": "gwaenchanh-a<br>okay"
+		},
+		{
+			"character": "늦게",
+			"charTip": "neujge<br>late"
+		},
+		{
+			"character": "몇개",
+			"charTip": "myeochgae<br>how many"
+		},
+		{
+			"character": "녗개",
+			"charTip": "nyeochgae<br>hunger"
+		},
+		{
+			"character": "좋다",
+			"charTip": "johda<br>good"
+		},
+		{
+			"character": "소시지",
+			"charTip": "sosiji<br>sausage"
+		},
+		{
+			"character": "셔츠",
+			"charTip": "syeocheu<br>shirt"
+		},
+		{
+			"character": "쇼핑",
+			"charTip": "syoping<br>shopping"
+		},
+		{
+			"character": "샴푸",
+			"charTip": "syampu<br>shampoo"
+		},
+		{
+			"character": "슈퍼마켓",
+			"charTip": "syupeomaket<br>supermarket"
+		},
+		{
+			"character": "사서",
+			"charTip": "saseo<br>librarian"
+		},
+		{
+			"character": "끝이",
+			"charTip": "kkeut-i<br>end"
+		},
+		{
+			"character": "같이",
+			"charTip": "gat-i<br>together"
+		},
+		{
+			"character": "닫히다",
+			"charTip": "dadhida<br>shut"
+		},
+		{
+			"character": "공부하다",
+			"charTip": "gongbuhada<br>study"
+		},
+		{
+			"character": "말하다",
+			"charTip": "malhada<br>tell, talk, say"
+		},
+		{
+			"character": "단순하다",
+			"charTip": "dansunhada<br>simple"
+		},
+		{
+			"character": "대답하다",
+			"charTip": "daedabhada<br>answer"
+		},
+		{
+			"character": "착하다",
+			"charTip": "chaghada<br>to be kind"
+		},
+		{
+			"character": "천천히",
+			"charTip": "cheoncheonhi<br>slowly"
+		},
+		{
+			"character": "안녕하세요",
+			"charTip": "annyeonghaseyo<br>hello"
+		},
+		{
+			"character": "잘한다",
+			"charTip": "jalhanda<br>Bravo, well done"
+		},
+		{
+			"character": "천천히말해주세요.",
+			"charTip": "cheoncheonhimalhaejuseyo<br>please speak slowly"
+		},
+		{
+			"character": "다시한번말해주세요.",
+			"charTip": "dasihanbeonmalhaejuseyo<br>please say it again."
+		},
+		{
+			"character": "영어로뭐예요?",
+			"charTip": "yeong-eolomwoyeyo<br>what is it in english?"
+		},
+		{
+			"character": "한국어로뭐예요?",
+			"charTip": "hangug-eolomwoyeyo<br>what is it in korean?"
+		},
+		{
+			"character": "한국어잘못해요.",
+			"charTip": "hangug-eojalmoshaeyo<br>don’t understand korean well"
+		},
+		{
+			"character": "잘지냈어요?",
+			"charTip": "jaljinaess-eoyo<br>how are you? how have you been?"
+		},
+		{
+			"character": "오래간만이에요.",
+			"charTip": "olaeganman-ieyo<br>long time no see"
+		},
+		{
+			"character": "안녕히가세요.",
+			"charTip": "annyeonghigaseyo<br>good bye ( said by person staying )"
+		},
+		{
+			"character": "안녕히계세요.",
+			"charTip": "annyeonghigyeseyo<br>good bye ( said by leaving person )"
+		},
+		{
+			"character": "네.",
+			"charTip": "ne<br>yes"
+		},
+		{
+			"character": "아니요.",
+			"charTip": "aniyo<br>no"
+		},
+		{
+			"character": "아마도.",
+			"charTip": "amado<br>maybe, perhaps"
+		},
+		{
+			"character": "괜찮아요.",
+			"charTip": "gwaenchanh-ayo<br>It’s okay, I’m okay"
+		},
+		{
+			"character": "안돼요.",
+			"charTip": "andwaeyo<br>No, I can’t"
+		},
+		{
+			"character": "감사합니다.",
+			"charTip": "gamsahabnida<br>Thank you"
+		},
+		{
+			"character": "고마워.",
+			"charTip": "gomawo<br>Thanks"
+		},
+		{
+			"character": "천만에요.",
+			"charTip": "cheonman-eyo<br>You’re welcome"
+		},
+		{
+			"character": "이름묻기",
+			"charTip": "ileummudgi<br>Asking for names"
+		},
+		{
+			"character": "성함이어떻게되세요?",
+			"charTip": "seongham-ieotteohgedoeseyo?<br>What is your name?"
+		},
+		{
+			"character": "성함이어떻게되심니까?",
+			"charTip": "seongham-ieotteohgedoesimnikka?<br>What is your name?"
+		},
+		{
+			"character": "이름이뭐예요?",
+			"charTip": "ileum-imwoyeyo?<br>What’s your name?"
+		},
+		{
+			"character": "...이라고합니다.",
+			"charTip": "...ilagohabnida.<br>I am called…ibnida"
+		},
+		{
+			"character": "제이름은...입니다.",
+			"charTip": "jeileum-eun...ibnida.<br>My name is.."
+		},
+		{
+			"character": "첫인사.",
+			"charTip": "cheos-insa.<br>First (meeting)"
+		},
+		{
+			"character": "만나서반갑습니다.",
+			"charTip": "mannaseobangabseubnida.<br>Nice to meet you."
+		},
+		{
+			"character": "반가워요.",
+			"charTip": "bangawoyo.<br>Nice to meet you."
+		},
+		{
+			"character": "나이묻기",
+			"charTip": "naimudgi<br>Asking age"
+		},
+		{
+			"character": "나이가어떻게되세요?",
+			"charTip": "naiga-eotteohgedoeseyo?<br>How old are you?"
+		},
+		{
+			"character": "몇살이에요?",
+			"charTip": "myeochsal-ieyo?<br>How old are you?"
+		},
+		{
+			"character": "...입니다.",
+			"charTip": "...imnida.<br>I am …"
+		},
+		{
+			"character": "한국의숫자",
+			"charTip": "하나<br>둘"
+		},
+		{
+			"character": "",
+			"charTip": "한국의숫자<br>일"
+		},
+		{
+			"character": "",
+			"charTip": "<br>몸"
+		},
+		{
+			"character": "입",
+			"charTip": "ip<br>mouth"
+		},
+		{
+			"character": "눈",
+			"charTip": "nun<br>eye"
+		},
+		{
+			"character": "귀",
+			"charTip": "kwi<br>ear"
+		},
+		{
+			"character": "코",
+			"charTip": "ko<br>nose"
+		},
+		{
+			"character": "얼굴",
+			"charTip": "eolgul<br>face"
+		},
+		{
+			"character": "손",
+			"charTip": "son<br>hand"
+		},
+		{
+			"character": "발",
+			"charTip": "pal<br>foot"
+		},
+		{
+			"character": "팔",
+			"charTip": "pal<br>arm"
+		},
+		{
+			"character": "다리",
+			"charTip": "tari<br>leg"
+		},
+		{
+			"character": "손가락",
+			"charTip": "songalag<br>finger"
+		},
+		{
+			"character": "발가락",
+			"charTip": "palgalag<br>toes"
+		},
+		{
+			"character": "머리",
+			"charTip": "meori<br>head, hair"
+		},
+		{
+			"character": "이",
+			"charTip": "i<br>tooth"
+		},
+		{
+			"character": "펜",
+			"charTip": "pen<br>pen"
+		},
+		{
+			"character": "잡지",
+			"charTip": "jabji<br>magazine"
+		},
+		{
+			"character": "바나나",
+			"charTip": "banana<br>banana"
+		},
+		{
+			"character": "뭐예요?",
+			"charTip": "mwoyeyo?<br>What is it?"
+		},
+		{
+			"character": "몰라요.",
+			"charTip": "mollayo.<br>I don’t know."
+		},
+		{
+			"character": "새로운단어",
+			"charTip": "saeloundan-eo<br>new word"
+		},
+		{
+			"character": "새로운어구",
+			"charTip": "saeloun-eogu<br>new phrase"
+		},
+		{
+			"character": "한국문화",
+			"charTip": "hangugmunhwa<br>Korean culture"
+		},
+		{
+			"character": "문법",
+			"charTip": "munbeob<br>grammar"
+		},
+		{
+			"character": "이다",
+			"charTip": "ida<br>to be"
+		},
+		{
+			"character": "...입니다.",
+			"charTip": "...ibnida.<br>It is..."
+		},
+		{
+			"character": "...이에요.",
+			"charTip": "...ieyo.<br>It is…"
+		},
+		{
+			"character": "...예요.",
+			"charTip": "...yeyo.<br>It is…"
+		},
+		{
+			"character": "...입니까?",
+			"charTip": "...ibnikka?<br>Is it…?"
+		},
+		{
+			"character": "...이에요?",
+			"charTip": "...ieyo?<br>Is it…?"
+		},
+		{
+			"character": "질문과대답",
+			"charTip": "jilmungwadaedab<br>questions and answers"
+		},
+		{
+			"character": "문장",
+			"charTip": "munjang<br>sentence"
+		},
+		{
+			"character": "만들기",
+			"charTip": "mandeulgi<br>to make"
+		},
+		{
+			"character": "음식",
+			"charTip": "eumsig<br>food"
+		},
+		{
+			"character": "과일",
+			"charTip": "gwail<br>fruit"
+		},
+		{
+			"character": "야채",
+			"charTip": "yachae<br>vegetable"
+		},
+		{
+			"character": "고기",
+			"charTip": "gogi<br>meat"
+		},
+		{
+			"character": "귤",
+			"charTip": "gyul<br>tangerine"
+		},
+		{
+			"character": "오이",
+			"charTip": "oi<br>cucumber"
+		},
+		{
+			"character": "버섯",
+			"charTip": "beoseos<br>mushroom"
+		},
+		{
+			"character": "멜론",
+			"charTip": "mellon<br>melon"
+		},
+		{
+			"character": "나라",
+			"charTip": "nala<br>country"
+		},
+		{
+			"character": "미국",
+			"charTip": "migug<br>USA"
+		},
+		{
+			"character": "한국",
+			"charTip": "hangug<br>Korea"
+		},
+		{
+			"character": "영국",
+			"charTip": "yeong-gug<br>England"
+		},
+		{
+			"character": "호주",
+			"charTip": "hoju<br>Australia"
+		},
+		{
+			"character": "캐나다",
+			"charTip": "kaenada<br>Canada"
+		},
+		{
+			"character": "중국",
+			"charTip": "jung-gug<br>China"
+		},
+		{
+			"character": "태국",
+			"charTip": "taegug<br>Thailand"
+		},
+		{
+			"character": "일본",
+			"charTip": "ilbon<br>Japan"
+		},
+		{
+			"character": "독일",
+			"charTip": "dog-il<br>Germany"
+		},
+		{
+			"character": "프랑스",
+			"charTip": "peulangseu<br>France"
+		},
+		{
+			"character": "멕시코",
+			"charTip": "megsiko<br>Mexico"
+		},
+		{
+			"character": "필리핀",
+			"charTip": "pillipin<br>Philippines"
+		},
+		{
+			"character": "인도",
+			"charTip": "indo<br>India"
+		},
+		{
+			"character": "소리질러",
+			"charTip": "solijilleo<br>scream"
+		},
+		{
+			"character": "으르렁",
+			"charTip": "euleuleong<br>growl"
+		}
+	]
+}

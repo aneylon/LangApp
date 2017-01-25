@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lang App Tools</title>
+    <link rel="stylesheet" href="css/tools.css">
+</head>
+<body>
+    <a href="index.html">Back to main</a>
+    <h1>Convert Text to JSON</h1>
+    <form>
+        <input type="text" placeholder="libName" id="libName">
+        <br>
+        <input type="text" placeholder="tip" id="tip">
+        <br>
+        <textarea id="toJson" placeholder="text to convert" cols="30" rows="10"></textarea>
+        <br>
+        <input type="button" value="Make JSON" onclick="makeJson()">
+    </form>
+    <div id="madeWrapper">
+        <h2>
+            sample will appear here
+        </h2>
+        <h4>
+            copy from console for best result
+        </h4>
+        <pre id="made">
+            ...
+        </pre>
+    </div>
+
+    <script src="js/tools.js"></script>
+
+</body>
+</html>

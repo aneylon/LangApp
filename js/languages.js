@@ -125,6 +125,13 @@ $(document).ready(function(){
 		});
 	});
 
+	$("#loadKoreanVocab2").click(function(){
+		setElementFontSize ( "#curChar", "60px" );
+		$.getJSON ( "json/kt.json", function ( data ) {
+			updateCurrentLibrary( data );
+		});
+	});
+
 	$("#loadBopomofo").click(function(){
 		setElementFontSize ( "#curChar", "150px" );
 		$.getJSON ( "json/bopomofo.json", function ( data ) {
